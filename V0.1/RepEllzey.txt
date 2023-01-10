@@ -1,0 +1,648 @@
+{
+  "following": [
+    {
+      "name": "Senator John Cornyn",
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs \u003d/\u003d endorsements",
+      "id": "13218102",
+      "username": "JohnCornyn"
+    },
+    {
+      "name": "Jake Ellzey",
+      "description": "Congressman for the 6th District of Texas. Underemployed pilot. Will fly for food.",
+      "id": "2178511998",
+      "username": "JakeEllzey"
+    },
+    {
+      "name": "House Committee on Veterans\u0027 Affairs GOP",
+      "description": "U.S. House of Representatives Committee on Veterans’ Affairs, Republicans | Proudly serving America\u0027s veterans and their families | Ranking Member @RepBost",
+      "id": "282093902",
+      "username": "HouseVetAffairs"
+    },
+    {
+      "name": "Richard Hudson",
+      "description": "Christian ?, Husband \u0026 Father ?, NASCAR Fan ?, Panthers ?, Congressman??",
+      "id": "16874915",
+      "username": "RepHudsonNC"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Rep. Doug Lamborn",
+      "description": "Honored to represent Colorado\u0027s 5th District | Member of @HASCRepublicans and @NatResources | Twitter user policy: https://t.co/iJctUiREMe",
+      "id": "584012853",
+      "username": "RepDLamborn"
+    },
+    {
+      "name": "Rep. Mike Bost",
+      "description": "Proudly representing IL-12 in Congress. Lead Republican on @HouseVetAffairs \u0026 member of @TransportGOP. Find me on FB at https://t.co/KNuvZ7dbsu",
+      "id": "2964877294",
+      "username": "RepBost"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "Morgan Meyer",
+      "description": "Proud husband and father of three. Conservative. Texas State Representative, District 108. Chairman of the Ways \u0026 Means Committee.",
+      "id": "1599173083",
+      "username": "MorganMeyerTX"
+    },
+    {
+      "name": "Brian Rosgen",
+      "description": "Husband…Father…Retired Navy pilot",
+      "id": "836457819041746945",
+      "username": "teamrosgen"
+    },
+    {
+      "name": "Midlothian Mirror",
+      "description": "The official newspaper of Midlothian and Midlothian ISD. Sister paper of @WaxahachieNews.",
+      "id": "1531098253",
+      "username": "MidloMirror"
+    },
+    {
+      "name": "Fort Worth Star-Telegram",
+      "description": "Fort Worth and Tarrant County\u0027s source for breaking news, analysis and sports. Submit a news tip: https://t.co/XGY4yc0Jmz",
+      "id": "15615783",
+      "username": "startelegram"
+    },
+    {
+      "name": "Waxahachie ISD",
+      "description": "K-12 Public School District in North Texas. This profile is maintained by the Office of Public Relations | info@wisd.org or 972.923.4631",
+      "id": "70464696",
+      "username": "WaxahachieISD"
+    },
+    {
+      "name": "WaxahachieDailyLight",
+      "description": "The No. 1 news source in Waxahachie and Ellis County since 1865.",
+      "id": "474075367",
+      "username": "WaxahachieNews"
+    },
+    {
+      "name": "Steve Toth",
+      "description": "TX State Rep #Fox26 \"What’s Your Point\" #ProLife #Christian #GOP #Conservatarian #Contributor to https://t.co/bnQX9gqdLU",
+      "id": "93902984",
+      "username": "Toth_4_Texas"
+    },
+    {
+      "name": "ValoreeSwanson4Texas",
+      "description": "",
+      "id": "4243043663",
+      "username": "ValoreeforTexas"
+    },
+    {
+      "name": "David Spiller",
+      "description": "Christian, husband, father, grandfather, attorney and rural conservative Republican in the Texas House. https://t.co/EtkjeE9Qzr",
+      "id": "228185101",
+      "username": "DavidSpillerTX"
+    },
+    {
+      "name": "Reggie Smith",
+      "description": "Reggie Smith, husband \u0026 father of 3, State Rep- Dist 62 and supports lower taxes, secure borders, quality education \u0026 Texas jobs.",
+      "id": "908430709987168258",
+      "username": "Reggie4Tx"
+    },
+    {
+      "name": "Matt Schaefer",
+      "description": "Liberty loving conservative, Tx House Dist. 6    FREEDOM.Texas Style.",
+      "id": "907182024",
+      "username": "RepMattSchaefer"
+    },
+    {
+      "name": "Tan Parker",
+      "description": "Senator-Elect Texas Senate District 12. Beth\u0027s husband, dad to Lauren \u0026 Ashley. Author - Making Government Work. Always serving Texans.",
+      "id": "23484025",
+      "username": "TanParkerTX"
+    },
+    {
+      "name": "Rep. Brooks Landgraf",
+      "description": "4th-generation West Texas rancher. Constitutional conservative. I serve Andrews, Ector, Ward \u0026 Winkler counties in the Texas House of Representatives. Gig ‘em!",
+      "id": "2234825047",
+      "username": "BrooksLandgraf"
+    },
+    {
+      "name": "Stan Lambert",
+      "description": "TX State Rep #HD71; Proud father, grandfather to Grace, Savannah and Jackson; Banker, A/D, Mayor, \u0026 School Board President. 2nd most influential in my house!",
+      "id": "46680531",
+      "username": "RepStanLambert"
+    },
+    {
+      "name": "Kyle Kacal",
+      "description": "Texas State Representative, District 12. TAMU 92\u0027 TCU Ranch MGMT \u002793\u0027",
+      "id": "400320125",
+      "username": "KyleKacal"
+    },
+    {
+      "name": "Texas House of Representatives",
+      "description": "The Texas House of Representatives website provides information on the state\u0027s legislative branch and its members.",
+      "id": "23095909",
+      "username": "TexasHouse"
+    },
+    {
+      "name": "Texas DPS",
+      "description": "Official Twitter feed of the Texas Department of Public Safety. FOR EMERGENCIES, CALL 9-1-1",
+      "id": "16651871",
+      "username": "TxDPS"
+    },
+    {
+      "name": "Texas Division of Emergency Management",
+      "description": "Official Account of the Texas Division of Emergency Management (TDEM). Emergency Preparedness and Disaster Information for Texas. Publisher of @DomPrep Journal.",
+      "id": "1071205484",
+      "username": "TDEM"
+    },
+    {
+      "name": "Texas DSHS",
+      "description": "Texas Department of State Health Services. The state health department of Texas. #COVID19TX data, info and vaccines: https://t.co/9lfVeKSpNA #HealthyTexas",
+      "id": "68412042",
+      "username": "TexasDSHS"
+    },
+    {
+      "name": "TxDPS - Central Texas Region",
+      "description": "Official Twitter feed of the Texas Department of Public Safety - Central Texas Region.  \n\nFOR EMERGENCIES, CALL 9-1-1.",
+      "id": "1061042036613226496",
+      "username": "TxDPSCentral"
+    },
+    {
+      "name": "Kel Seliger",
+      "description": "Kel Seliger: Proven Conservative Results for the Panhandle, South Plains, and Permian Basin. 400+ Town Hall Meetings and Counting! #KelListens #TXSD31",
+      "id": "23442668",
+      "username": "kseliger"
+    },
+    {
+      "name": "Drew Springer",
+      "description": "State Senator for SD30 - Former House Rep for HD68 - Conservative Republican",
+      "id": "381552927",
+      "username": "DrewSpringer"
+    },
+    {
+      "name": "Sen. Charles Perry",
+      "description": "Conservative Republican proud to represent Senate District 28 in the #TxLege! Chairman of Committee on Agriculture, Water and Rural Affairs.",
+      "id": "89836466",
+      "username": "electcharles"
+    },
+    {
+      "name": "Donna Campbell",
+      "description": "Emergency room physician serving the great people of Texas Senate District 25. Family values, fiscal responsibility, limited government.",
+      "id": "68920859",
+      "username": "DonnaCampbellTX"
+    },
+    {
+      "name": "Dawn Buckingham",
+      "description": "TX Land Commissioner-Elect: Senator, Physician, Conservative, Christian, Businesswoman \u0026 Mom working to improve lives of Texans. FB: DrBuckinghamTX",
+      "id": "2354071802",
+      "username": "DrBuckinghamTX"
+    },
+    {
+      "name": "Sen. Brian Birdwell",
+      "description": "Proud husband \u0026 father. Native Texan. Decorated military veteran. Lifelong conservative Republican. Survivor of the 9/11 terrorist attack on the Pentagon. #SD22",
+      "id": "245993078",
+      "username": "SenatorBirdwell"
+    },
+    {
+      "name": "Senator Lois Kolkhorst",
+      "description": "Wife, Mother, Senator, Small Business Owner, Proven Conservative, 5th Generation Texan",
+      "id": "50442179",
+      "username": "loiskolkhorst"
+    },
+    {
+      "name": "Joan Huffman",
+      "description": "State Senator - TX Senate District 17. Chair of Finance, Chair of Jurisprudence, Vice Chair of Criminal Justice, senior member of Administration \u0026 the LBB.",
+      "id": "1694721368",
+      "username": "joanhuffman"
+    },
+    {
+      "name": "Senator Jane Nelson",
+      "description": "Serving Texas Senate District 12. Chair of Senate Finance. Businesswoman. Former teacher. Mom and grandmother. @UNTnews grad. @deltazetanatl alum.",
+      "id": "112543508",
+      "username": "SenJaneNelson"
+    },
+    {
+      "name": "Larry Taylor",
+      "description": "Texas State Senator for SD11. Small business owner, conservative Republican and proud husband/father/grandfather.",
+      "id": "432643761",
+      "username": "SenLarryTaylor"
+    },
+    {
+      "name": "Kelly Hancock",
+      "description": "Texas Senate District 9 - Chair, Veteran Affairs \u0026 Border Security Committee",
+      "id": "19614210",
+      "username": "KHancock4TX"
+    },
+    {
+      "name": "Senator Angela Paxton",
+      "description": "Texas Senator - SD8 | Keeping Our Future Free ??",
+      "id": "900091927521103877",
+      "username": "AngelaPaxtonTX"
+    },
+    {
+      "name": "Team Bettencourt",
+      "description": "Texas State Senator, District 7",
+      "id": "2864015602",
+      "username": "TeamBettencourt"
+    },
+    {
+      "name": "Charles Schwertner",
+      "description": "Texas Senator and physician. Proud husband and father. Honored to serve the people of Senate District 5.",
+      "id": "239930426",
+      "username": "DrSchwertner"
+    },
+    {
+      "name": "Senator Brandon Creighton - Texas SD4",
+      "description": "The official twitter account for Senator Brandon Creighton of Texas Senate District 4",
+      "id": "2997303528",
+      "username": "SenCreighton"
+    },
+    {
+      "name": "Sen. Robert Nichols",
+      "description": "Republican for Texas Senate District 3",
+      "id": "874629359243546624",
+      "username": "SenatorNichols"
+    },
+    {
+      "name": "Senator Bob Hall",
+      "description": "Family man, defender of Liberty and Texas State Senator from District 2",
+      "id": "434998702",
+      "username": "SenatorBobHall"
+    },
+    {
+      "name": "Senator Bryan Hughes",
+      "description": "I am honored to stand for life and liberty in the Texas Senate.",
+      "id": "20809530",
+      "username": "SenBryanHughes"
+    },
+    {
+      "name": "Valoree Swanson",
+      "description": "Texas State Representative 150",
+      "id": "526030578",
+      "username": "ValoreeSwanson"
+    },
+    {
+      "name": "Mike Schofield",
+      "description": "State Representative, Texas House District 132 (Katy, Cypress)",
+      "id": "2927086494",
+      "username": "RepSchofield"
+    },
+    {
+      "name": "Tom Oliverson, M.D.",
+      "description": "Republican State Representative, House District 130",
+      "id": "3060663253",
+      "username": "TomOliverson"
+    },
+    {
+      "name": "Dennis Paul",
+      "description": "Texas State Representative for District 129.",
+      "id": "3053769480",
+      "username": "DennisPaul129"
+    },
+    {
+      "name": "Rep. Jared Patterson",
+      "description": "Christ follower. Leslie’s husband, father of three. Texas Aggie. Campaign Account of TX State Representative HD 106. adj: smart/handsome",
+      "id": "628026559",
+      "username": "JaredLPatterson"
+    },
+    {
+      "name": "Matt Krause",
+      "description": "Christian, Husband, Father, Conservative \u0026 Republican. Constitutional Attorney. State Rep HD 93.",
+      "id": "21328762",
+      "username": "RepMattKrause"
+    },
+    {
+      "name": "Ken King",
+      "description": "Small business owner, husband, christian, father, and a Republican State Representative for HD 88. 17 Counties in the panhandle and the south plains.",
+      "id": "444464812",
+      "username": "KingForTexas"
+    },
+    {
+      "name": "Candy Noble",
+      "description": "",
+      "id": "915696818788421632",
+      "username": "CandyNobleHD89"
+    },
+    {
+      "name": "Four Price",
+      "description": "Texas State Representative for District 87",
+      "id": "1060727293",
+      "username": "FourPriceTX"
+    },
+    {
+      "name": "Phil Stephenson",
+      "description": "TX State Rep. representing HD 85. CPA with offices in Greatwood and Rosenberg. Pensions \u0026 Investments, Financial Services, Ways \u0026 Means Committees.",
+      "id": "1241822899",
+      "username": "RepStephenson"
+    },
+    {
+      "name": "Stephanie Klick",
+      "description": "State Representative Texas House District 91",
+      "id": "15876673",
+      "username": "StephanieKlick"
+    },
+    {
+      "name": "Scott Sanford",
+      "description": "Texas State Representative for District 70. Republican. Executive pastor of Cottonwood Creek Church.",
+      "id": "387707165",
+      "username": "Scott_SanfordTX"
+    },
+    {
+      "name": "John Kuempel",
+      "description": "",
+      "id": "785591122701660164",
+      "username": "repjohnkuempel"
+    },
+    {
+      "name": "Phil King",
+      "description": "Texas State Rep. District 61 - Conservative Republican - *Official account",
+      "id": "379403679",
+      "username": "PhilKingTX"
+    },
+    {
+      "name": "Shelby Slawson",
+      "description": "Bold conservative \u0026 fierce advocate for rural central Texas. Republican State Representative, Texas HD59. #txlege #txhd59 #hd59",
+      "id": "1098393024302903296",
+      "username": "ShelbySlawson"
+    },
+    {
+      "name": "Rep. Hugh D. Shine",
+      "description": "State Representative for District 55.",
+      "id": "3329147232",
+      "username": "ShineforTexas"
+    },
+    {
+      "name": "J.M. Lozano",
+      "description": "",
+      "id": "103041735",
+      "username": "votejmlozano"
+    },
+    {
+      "name": "Ed Thompson",
+      "description": "Conservative Republican representing District 29 in the Texas House of Representatives. #TXLEGE",
+      "id": "1096434308",
+      "username": "RepEdThompson"
+    },
+    {
+      "name": "MayesMiddleton",
+      "description": "Husband, Father of Four, Oil and Gas Business, Ranching and Farming Business, and nominee for Texas Senate District 11",
+      "id": "779109706543472640",
+      "username": "mayes_middleton"
+    },
+    {
+      "name": "Jacey Jetton",
+      "description": "TX State Rep proudly serving HD26. Fighting to ensure our communities are safe and economy is strong, for all Texans! #txlege",
+      "id": "616335477",
+      "username": "JaceyJetton"
+    },
+    {
+      "name": "State Rep. James White",
+      "description": "Conservative Republican - State Rep - Chairman of Committee on Homeland Security \u0026 Public Safety- US Army Veteran - Child of God",
+      "id": "155942845",
+      "username": "James_E_White"
+    },
+    {
+      "name": "Terry Wilson",
+      "description": "Terry Wilson is a State Representative representing Texas House District 20 in the Texas Legislature.",
+      "id": "4347352814",
+      "username": "TerryWilsonTX"
+    },
+    {
+      "name": "Cody Vasut",
+      "description": "Saved by God’s grace, blessed with a wonderful wife and two daughters, and State Representative for Texas House District 25.",
+      "id": "104725930",
+      "username": "cvasut"
+    },
+    {
+      "name": "State Representative Steve Allison",
+      "description": "Texas House District 121.",
+      "id": "987059309094866945",
+      "username": "stevefortx"
+    },
+    {
+      "name": "Ernest Bailes",
+      "description": "State Representative for House District 18 #HD18",
+      "id": "3600637033",
+      "username": "Bailesfortx"
+    },
+    {
+      "name": "Will Metcalf",
+      "description": "Republican. Businessman. 6th Generation Texan. Representative for Texas House District 16.",
+      "id": "2905351184",
+      "username": "willmetcalfTX"
+    },
+    {
+      "name": "John Raney",
+      "description": "Texas State Representative, District 14, Brazos County",
+      "id": "334448120",
+      "username": "RaneyForTexas"
+    },
+    {
+      "name": "Matt Shaheen",
+      "description": "Christ follower, Robyn’s husband, Dad to 3 awesome kids. Grandson of immigrants. TX State Rep District - 66 Collin County. Pol Ad Paid by Matt Shaheen Campaign",
+      "id": "57221416",
+      "username": "MattShaheen"
+    },
+    {
+      "name": "Jeff Leach",
+      "description": "Texas Forever.",
+      "id": "158715755",
+      "username": "leachfortexas"
+    },
+    {
+      "name": "Team Todd",
+      "description": "Twitter feed of Team Todd Staff. Be sure to also follow Rep. Hunter\u0027s personal twitter feed at @toddahunter",
+      "id": "67136320",
+      "username": "Dist32StateRep"
+    },
+    {
+      "name": "Lacey Hull for Texas",
+      "description": "Texas State Representative for HD 138",
+      "id": "1178800637288599553",
+      "username": "LaceyHullTx"
+    },
+    {
+      "name": "Dan Huberty",
+      "description": "Republican Texas State Representative - House District 127. Former Humble ISD Board Trustee. #FANOFDAN",
+      "id": "97581493",
+      "username": "DanHuberty"
+    },
+    {
+      "name": "Rep. Justin Holland",
+      "description": "4th Term Legislator • RE Broker @RegalRealtors • Husband • Dad • Proud American • 6th Gen Texan • Rockwall • Heath • VC of @TX_Sunset • God Bless Texas ??",
+      "id": "36524859",
+      "username": "justinaholland"
+    },
+    {
+      "name": "Sam Harless State Rep District 126",
+      "description": "Sam Harless, an effective, common sense leader, is currently the State Representative for District 126",
+      "id": "930849060701032454",
+      "username": "SamHarless126"
+    },
+    {
+      "name": "Charlie Geren",
+      "description": "State Representative for Texas House District 99. Follow me on Facebook: https://t.co/Z5ZVoDFTiz",
+      "id": "356903515",
+      "username": "charliegeren"
+    },
+    {
+      "name": "Gary Gates",
+      "description": "Republican State Representative - Texas House District 28. #txlege Pol. Ad Paid for by Gary Gates for Texas",
+      "id": "2482409413",
+      "username": "GatesforTexas"
+    },
+    {
+      "name": "John Frullo",
+      "description": "John Frullo, Texas State Representative, District 84\n#ThisIsHD84",
+      "id": "102709037",
+      "username": "FrulloForTexas"
+    },
+    {
+      "name": "James Frank",
+      "description": "Husband of amazing woman, father of 6 boys, imperfect Christ-follower, businessman \u0026 state legislator in the best state in the most amazing country on earth.",
+      "id": "1112289313",
+      "username": "RepJamesFrank"
+    },
+    {
+      "name": "Drew Darby",
+      "description": "State Representative serving House District 72 comprised of Coke, Concho, Glasscock, Howard, Irion, Reagan, Runnels, Sterling, \u0026 Tom Green counties.",
+      "id": "1546246813",
+      "username": "DrewDarbyTX"
+    },
+    {
+      "name": "John Cyrier",
+      "description": "State Representative for Dist 17 (Lee, Bastrop, Caldwell, Gonzales and Karnes Counties)",
+      "id": "861973747",
+      "username": "JCyrier"
+    },
+    {
+      "name": "Travis Clardy",
+      "description": "State Representative for Texas House District 11, small town businessman, and attorney serving Cherokee, Nacogdoches, and Rusk counties.",
+      "id": "392933208",
+      "username": "travisfortexas"
+    },
+    {
+      "name": "Giovanni Capriglione",
+      "description": "Texas State Representative HD 98 Colleyville, Grapevine, Keller, Southlake, Westlake, Trophy Club, Euless #txlege",
+      "id": "376474550",
+      "username": "VoteGiovanni"
+    },
+    {
+      "name": "Briscoe Cain",
+      "description": "“an aggressive champion for conservative causes” -@houstonchron | “conservative provocateur” -@nytimes | Personal Account | Lawyer | #Liberty #TexasFirst",
+      "id": "28639189",
+      "username": "BriscoeCain"
+    },
+    {
+      "name": "Angie Chen Button",
+      "description": "Wife, Mother, Grandmother, Business Woman, Texas State Representative District 112",
+      "id": "236534618",
+      "username": "AngieChenButton"
+    },
+    {
+      "name": "Dustin Burrows",
+      "description": "Conservative Republican representing Texas House District 83",
+      "id": "2678481522",
+      "username": "Burrows4TX"
+    },
+    {
+      "name": "DeWayne Burns",
+      "description": "State Rep. for HD58 - Johnson Co. \u0026 Bosque Co. The Constitution to guide our country, \u0026 the Bible to guide hearts. Use each day to serve \u0026 expand your ministry!",
+      "id": "2223328046",
+      "username": "BurnsForTexas"
+    },
+    {
+      "name": "Dr. Greg Bonnen",
+      "description": "Neurosurgeon, small businessman, proud husband, and father.  State Representative - Galveston County.",
+      "id": "381542027",
+      "username": "DrGregBonnen"
+    },
+    {
+      "name": "Chris D. Paddie",
+      "description": "President - Capitol Vision, LLC| Fmr. State Representative - Texas House Dist. 9| Fmr. Mayor of Marshall, TX| Vice-President Hanszen Broadcasting Inc.|Aggie \u002796",
+      "id": "17168851",
+      "username": "chrispaddie"
+    },
+    {
+      "name": "Cecil Bell Jr",
+      "description": "Proudly representing Montgomery and Waller County as State Rep House District 3. GOD BLESS TEXAS!",
+      "id": "94650130",
+      "username": "CBellJr"
+    },
+    {
+      "name": "Charles Doc Anderson",
+      "description": "God Bless Texas\r\nCharles Doc Anderson (R)\r\nTexas State Representative (District 56)",
+      "id": "151043597",
+      "username": "DocAnderson4TX"
+    },
+    {
+      "name": "Jim Murphy",
+      "description": "Texas State Representative | West Houston #txlege Want more?: https://t.co/fy2hOGen4u",
+      "id": "142770852",
+      "username": "JimMurphy133"
+    },
+    {
+      "name": "Texas House Republican Caucus",
+      "description": "The official Twitter feed of the Texas House Republican Caucus.",
+      "id": "35548003",
+      "username": "TXGOPCaucus"
+    },
+    {
+      "name": "TrentAshbyTX",
+      "description": "State Representative, House District 57.  Proudly serving Angelina, Houston, Leon, Madison, San Augustine and Trinity Counties.",
+      "id": "2314458697",
+      "username": "TrentAshbyTX"
+    },
+    {
+      "name": "Brad Buckley",
+      "description": "State Representative, District 54. Veterinarian. Aggie. Rancher. Horseman. The Lord has blessed me with amazing family and friends.",
+      "id": "901207542780411904",
+      "username": "BradBuckleyDVM"
+    },
+    {
+      "name": "Ben Leman",
+      "description": "Husband. Father. Christian. Patriot. A fourth-generation Texan who is proud to be serving as State Representative for House District 13. #txlege",
+      "id": "1061487963715092480",
+      "username": "BenLemanTX"
+    },
+    {
+      "name": "Rep. Cole Hefner",
+      "description": "Honored to represent Camp, Morris, Rains, Titus, Wood and parts of Smith County in the Texas House of Representatives. (HD-5)",
+      "id": "1006629273459970048",
+      "username": "ColeHefnerTX"
+    },
+    {
+      "name": "Glenn Hegar",
+      "description": "Husband, father and sixth generation Texan. Texas Comptroller of Public Accounts. | Follow @txcomptroller for official news from my office.",
+      "id": "83469886",
+      "username": "Glenn_Hegar"
+    },
+    {
+      "name": "Gov. Greg Abbott",
+      "description": "Official news from the Office of Texas Governor Greg Abbott. You can follow the governor\u0027s personal feed @GregAbbott_TX",
+      "id": "19291441",
+      "username": "GovAbbott"
+    },
+    {
+      "name": "Greg Abbott",
+      "description": "Texas Governor Greg Abbott\u0027s Personal Twitter Feed",
+      "id": "90651198",
+      "username": "GregAbbott_TX"
+    },
+    {
+      "name": "Dade Phelan",
+      "description": "Speaker of the Texas House, Southeast Texan, Republican, Texas House of Representatives. Sígueme: @DadePhelanTxESP.",
+      "id": "428514193",
+      "username": "DadePhelan"
+    },
+    {
+      "name": "Cody Harris",
+      "description": "Devoted Husband \u0026 Father Raising 6th Generation Texans, Believer, Conservative Texas State Representative (HD8), Aggie ‘06",
+      "id": "952361515683852288",
+      "username": "CodyforTexas"
+    }
+  ],
+  "id": "1366523868253458437",
+  "username": "RepEllzey"
+}

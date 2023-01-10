@@ -1,0 +1,870 @@
+{
+  "following": [
+    {
+      "name": "AudioEnhancement",
+      "description": "Founded in 1978 by a mom of two hard-of-hearing sons. K-12 classroom technology innovators for audio, video, communication, and safety.",
+      "id": "1209347256",
+      "username": "AudioEnhancemnt"
+    },
+    {
+      "name": "Gretchen Carlson",
+      "description": "Dedicated to making the workplace safer for all Americans @liftourvoicesUS Journalist | Speaker | Mom | Time’s 100 Most Influential People in the World",
+      "id": "1487846678",
+      "username": "GretchenCarlson"
+    },
+    {
+      "name": "Betsy DeVos",
+      "description": "Author of #HostagesNoMore. Passionate about quality education for children and an advocate of education freedom. Tweets from Betsy are signed \"-Betsy.\"",
+      "id": "599530439",
+      "username": "BetsyDeVos"
+    },
+    {
+      "name": "Intermountain",
+      "description": "Tweets about company news, innovation, patient \u0026 caregiver stories. Serving Utah, Idaho, Nevada, Colorado, Montana, and Kansas. ??????????",
+      "id": "17363477",
+      "username": "Intermountain"
+    },
+    {
+      "name": "Nephi City",
+      "description": "Official Twitter page of Nephi City, Utah. We are the crossroads of Utah, and we are welcoming you to our beautiful state and city.",
+      "id": "1132365816",
+      "username": "NephiCity"
+    },
+    {
+      "name": "ALC",
+      "description": "Early College and Career Prep,  Fast-Forward your Education",
+      "id": "716472721",
+      "username": "ALC_nebo"
+    },
+    {
+      "name": "ALA Charter School",
+      "description": "",
+      "id": "1429334928",
+      "username": "ALA_Charter"
+    },
+    {
+      "name": "American Energy Alliance",
+      "description": "AEA advocates for affordable, abundant \u0026 reliable energy for American consumers and businesses. AEA is the activist organization affiliated w/ @IERenergy.",
+      "id": "236480864",
+      "username": "AEA"
+    },
+    {
+      "name": "Utah State University",
+      "description": "Utah\u0027s land-grant research university and awesomeness hub since 1888. #USUAggies",
+      "id": "17631378",
+      "username": "USUAggies"
+    },
+    {
+      "name": "Utah State College of Ag \u0026 Applied Sciences",
+      "description": "Utah State University College of Agriculture and Applied Sciences offers over 80 degrees and is one of the premier agriculture schools in the West.@usuaggielife",
+      "id": "100049660",
+      "username": "utahstate_ag"
+    },
+    {
+      "name": "Sandy City Council",
+      "description": "Official Twitter page for the Sandy City Council. \n\nFollow for city council updates, meeting schedules, agenda items, and more!",
+      "id": "1311691387457335296",
+      "username": "SandyCouncil"
+    },
+    {
+      "name": "South Jordan City",
+      "description": "Official Twitter Page for the City of South Jordan, UT. Comments \u0026 list of followers subject to public disclosure. Account not monitored-call 911 for emergency.",
+      "id": "46198989",
+      "username": "southjordancity"
+    },
+    {
+      "name": "Taxpayers Protection Alliance",
+      "description": "The Taxpayers Protection Alliance (TPA) is a nonpartisan, nonprofit organization committed to responsible government and lower taxes. President - @tpapres",
+      "id": "269946558",
+      "username": "Protectaxpayers"
+    },
+    {
+      "name": "Salt Lake Chamber",
+      "description": "We stand as the voice of business, support our members\u0027 success and champion community prosperity. Like/Follow/RT/MT does not imply endorsement.",
+      "id": "18235003",
+      "username": "saltlakechamber"
+    },
+    {
+      "name": "Utah Honor Flight",
+      "description": "Utah Honor Flight is a non-profit organization that works to fly Utah\u0027s Veterans to Washington, D.C. to visit those memorials dedicated to honor their service.",
+      "id": "2583205550",
+      "username": "UtahHonorFlight"
+    },
+    {
+      "name": "NFIB",
+      "description": "NFIB is a member-driven organization advocating for small and independent businesses in Washington, D.C. \u0026 all 50 states. We are the voice of small business.",
+      "id": "14587949",
+      "username": "NFIB"
+    },
+    {
+      "name": "Utah Attorney General",
+      "description": "Official Twitter account of Utah Attorney General Sean D. Reyes’ Office. Tweets by AG staff. Upholding the Constitution, enforcing the law, \u0026 protecting Utahns.",
+      "id": "2857392589",
+      "username": "UtahAG"
+    },
+    {
+      "name": "Brett L. Tolman",
+      "description": "Executive Director of @RightonCrime. Former US Attorney. Gov\u0027t Reformer. Proud Cherokee. Weekend Cowboy. Married to a Queen",
+      "id": "1279522164",
+      "username": "tolmanbrett"
+    },
+    {
+      "name": "Herriman City",
+      "description": "Official Twitter page of Herriman City, the southwest valley recreation destination home to hiking and biking trails, parks, and an ice ribbon. ????",
+      "id": "39289330",
+      "username": "HerrimanCity"
+    },
+    {
+      "name": "Congresswoman Mayra Flores",
+      "description": "Proudly representing Texas\u0027s 34th District in the US House of Representatives",
+      "id": "1538990997769707523",
+      "username": "repmayraflores"
+    },
+    {
+      "name": "Rep. Mike Johnson",
+      "description": "Christian, husband, dad serving LA\u0027s 4th Congressional District since ‘17. Vice Chairman of House Republicans. Constitutional law attorney \u0026 small biz owner.",
+      "id": "827279765287559171",
+      "username": "RepMikeJohnson"
+    },
+    {
+      "name": "Congressman Greg Steube",
+      "description": "Husband, father, veteran, proudly serving Florida’s 17th District on @JudiciaryGOP and @HouseForeignGOP ?? ? ? ?",
+      "id": "1083125649609506816",
+      "username": "RepGregSteube"
+    },
+    {
+      "name": "GOP en Español",
+      "description": "Somos la Conferencia Republicana en la Cámara de Representantes de los Estados Unidos | @HouseGOP",
+      "id": "1138688364",
+      "username": "GOPEspanol"
+    },
+    {
+      "name": "President J. Stuart Adams",
+      "description": "Honored to serve as the Senate President in the great state of Utah and represent District 22.",
+      "id": "328752446",
+      "username": "JStuartAdams"
+    },
+    {
+      "name": "Elise Stefanik",
+      "description": "Sam’s Mom ?? #NY21 Congresswoman. House GOP Conference Chair ? New Ideas?New Generation of Leadership ? Real Results?Electing #GOPWomen #EPAC ???????",
+      "id": "109579534",
+      "username": "EliseStefanik"
+    },
+    {
+      "name": "KSL NewsRadio",
+      "description": "Utah\u0027s #1 radio station. Stream live at https://t.co/QIu8Qv5emF. Send story ideas to digitalcontentradio@bonneville.com. Text NEWS to 57500 for breaking news updates",
+      "id": "41628961",
+      "username": "kslnewsradio"
+    },
+    {
+      "name": "Congresswoman Julia Letlow",
+      "description": "Proudly Representing #LA05 in Congress | Mom to Jeremiah and Jacqueline | Former Educator and Lifelong Learner | Christian | Conservative",
+      "id": "1382395679700439041",
+      "username": "RepJuliaLetlow"
+    },
+    {
+      "name": "US Rep Rodney Davis",
+      "description": "Proudly representing #IL13 and marginalized Nickelback fans everywhere. Leader of @HouseAdmnGOP and member of @TransportGOP and @HouseAgGOP.",
+      "id": "993153006",
+      "username": "RodneyDavis"
+    },
+    {
+      "name": "Congressman Troy Nehls",
+      "description": "Proudly serving the people of Texas\u0027 22nd Congressional District in the United States House of Representatives. @freedomcaucus",
+      "id": "1347318288850825217",
+      "username": "RepTroyNehls"
+    },
+    {
+      "name": "Treasurer Marlo Oaks",
+      "description": "Official Twitter for Utah\u0027s 26th state treasurer. Page is mostly monitored by staff.",
+      "id": "1498717255453970433",
+      "username": "TreasurerOaks"
+    },
+    {
+      "name": "Air Force Reserve",
+      "description": "Official Twitter page of U.S. Air Force Reserve Command (Following, RTs and links ? endorsement) #AFRC #AFReserve #ReserveReady #ReserveResilient #ReserveReform",
+      "id": "35017909",
+      "username": "USAFReserve"
+    },
+    {
+      "name": "Mike Winder",
+      "description": "Millcreek City Manager \u0026 Econ Dev Director, Friends of Traditional Banking, author \u0026 historian, former mayor \u0026 legislator, dad https://t.co/21sjxSohn1",
+      "id": "92558741",
+      "username": "mike_winder"
+    },
+    {
+      "name": "Juab School District",
+      "description": "Empowering our students to discover and pursue their dreams #juablearns #wearejuab #juabpride",
+      "id": "826485232828248064",
+      "username": "JuabSD"
+    },
+    {
+      "name": "Utah FFA",
+      "description": "FFA makes a positive difference in the lives of students by developing their potential for premier leadership, personal growth and career success through agricu",
+      "id": "1694975906",
+      "username": "UtahFFA"
+    },
+    {
+      "name": "Young Kim",
+      "description": "Wife, mother, immigrant, small business owner, former CA Assemblywoman. Proud to represent #CA39 \u0026 serve on @HouseForeignGOP, @HSBCGOP \u0026 @HouseScienceGOP ??",
+      "id": "1344677401465397249",
+      "username": "RepYoungKim"
+    },
+    {
+      "name": "Utah Farm Bureau",
+      "description": "The Utah Farm Bureau strives to inspire all Utah families to connect, succeed and grow through the miracle of agriculture.",
+      "id": "65383435",
+      "username": "UtahFarmBureau"
+    },
+    {
+      "name": "Rep. Claudia Tenney",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP \u0026 @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit https://t.co/dwIltL8lOk.",
+      "id": "797201048490430465",
+      "username": "RepTenney"
+    },
+    {
+      "name": "Navajo Nation Vice President",
+      "description": "",
+      "id": "1086282853116067841",
+      "username": "NN_MyronLizer"
+    },
+    {
+      "name": "ABC4 News",
+      "description": "ABC4 News and https://t.co/GqycyVeFdf | The latest news, weather, programming information, and special offers from your local station KTVX.",
+      "id": "15771003",
+      "username": "abc4utah"
+    },
+    {
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa\u0027s Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "id": "1345807954604412929",
+      "username": "RepMMM"
+    },
+    {
+      "name": "Byron Donalds",
+      "description": "Liberty-loving. Pro-Trump. Pro-2nd Amendment. Pro-life. Husband \u0026 father to 3. Congressman, FL-19. Official Account: @RepDonaldsPress.",
+      "id": "96015533",
+      "username": "ByronDonalds"
+    },
+    {
+      "name": "Condoleezza Rice",
+      "description": "Director of the @HooverInst. 66th Secretary of State, author, professor, pianist, golfer, and football fan. Working to build a better world.",
+      "id": "388555493",
+      "username": "CondoleezzaRice"
+    },
+    {
+      "name": "Rep. David Kustoff",
+      "description": "Official news and updates from Congressman David Kustoff, Proudly serving the 8th District of Tennessee",
+      "id": "816012124505931780",
+      "username": "RepDavidKustoff"
+    },
+    {
+      "name": "Jake Sherman",
+      "description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+      "id": "21252618",
+      "username": "JakeSherman"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Rep. Carlos A. Gimenez",
+      "description": "U.S. Congressman | Firefighter and former Mayor of Miami-Dade County | Member of @TransportGOP, @HomelandGOP \u0026 @HouseScienceGOP ?? #FL26",
+      "id": "1343679195034103808",
+      "username": "RepCarlos"
+    },
+    {
+      "name": "Utah Assoc. Counties",
+      "description": "The unifying voice for county government.",
+      "id": "260949989",
+      "username": "uac29"
+    },
+    {
+      "name": "Utah Gov. Spencer J. Cox",
+      "description": "Official Twitter account of Utah Governor Spencer J. Cox. \n#LetsGo #OneUtah",
+      "id": "1343681134924742656",
+      "username": "GovCox"
+    },
+    {
+      "name": "Rep. August Pfluger",
+      "description": "US Air Force Colonel (Res.), F-22 Fighter Pilot, Husband, Father, and Congressman for the 11th District of Texas.",
+      "id": "1341120751399809026",
+      "username": "RepPfluger"
+    },
+    {
+      "name": "Brian Babin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space \u0026 Aeronautics Subcmte, Border Sec co-chair \u0026 serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "id": "2929491549",
+      "username": "RepBrianBabin"
+    },
+    {
+      "name": "House Committee on Veterans\u0027 Affairs GOP",
+      "description": "U.S. House of Representatives Committee on Veterans’ Affairs, Republicans | Proudly serving America\u0027s veterans and their families | Ranking Member @RepBost",
+      "id": "282093902",
+      "username": "HouseVetAffairs"
+    },
+    {
+      "name": "Armed Services GOP",
+      "description": "The House Armed Services Committee Republicans; Twitter feed of the latest committee news and updates. \n\nRanking Member: @RepMikeRogersAL",
+      "id": "20192403",
+      "username": "HASCRepublicans"
+    },
+    {
+      "name": "Tom Cotton",
+      "description": "U.S. Senator proudly serving the state of Arkansas.",
+      "id": "968650362",
+      "username": "SenTomCotton"
+    },
+    {
+      "name": "House Foreign Affairs GOP",
+      "description": "Official Twitter for the House Committee on Foreign Affairs | Lead Republican, @RepMcCaul",
+      "id": "75367781",
+      "username": "HouseForeignGOP"
+    },
+    {
+      "name": "Hexcel",
+      "description": "Official Twitter of Hexcel Corporation - a leading advanced composites company. We develop and manufacture lightweight, high-performance structural materials.",
+      "id": "981291432",
+      "username": "HexcelCorp"
+    },
+    {
+      "name": "Rock West Composites",
+      "description": "We love to manufacture #CarbonFiber parts and offer a full line of tubing, plate, and other products!",
+      "id": "905470326728933376",
+      "username": "RockWestComp"
+    },
+    {
+      "name": "UAMMI",
+      "description": "The Utah Advanced Materials \u0026 Mfg Initiative (UAMMI) is a non-profit group with a mission to support \u0026 grow Utah\u0027s advanced materials \u0026 manufacturing industry.",
+      "id": "868187916975173632",
+      "username": "uammi_utah"
+    },
+    {
+      "name": "Utah.gov",
+      "description": "get the latest news and information from the state of Utah",
+      "id": "14304373",
+      "username": "UtahGov"
+    },
+    {
+      "name": "Utah Fire Info",
+      "description": "Information on wildfire incidents all over Utah. To report a fire, call 9-1-1",
+      "id": "70796694",
+      "username": "UtahWildfire"
+    },
+    {
+      "name": "Rep. Chip Roy Press Office",
+      "description": "This is a staff account to provide updates to our constituents in Texas\u0027 21st District.",
+      "id": "1082790600292925440",
+      "username": "RepChipRoy"
+    },
+    {
+      "name": "Congressman Drew Ferguson",
+      "description": "Proudly serving the good folks of Georgia’s Third Congressional District. @WaysandMeansGOP \u0026 @GOPDoctors Caucus member. Chief Deputy Whip for @HouseGOP.",
+      "id": "806583915012046854",
+      "username": "RepDrewFerguson"
+    },
+    {
+      "name": "Rep. Stephanie Bice",
+      "description": "Wife, Mother x 2. Serving Oklahoma’s 5th Congressional District in the United States House of Representatives. @HASCRepublicans and @HouseScienceGOP committees.",
+      "id": "1344260196227555334",
+      "username": "RepBice"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Representative Lisa McClain",
+      "description": "Lifelong Michigander proudly representing MI10. Member of @HASCRepublicans \u0026 @EdLaborGOP. Bringing real world business experience and commonsense to Washington.",
+      "id": "1344032292432437248",
+      "username": "RepLisaMcClain"
+    },
+    {
+      "name": "Dan Bishop",
+      "description": "Proud Representative of North Carolina’s 9th congressional district fighting for America, freedom \u0026 the America First agenda. ??",
+      "id": "1912799826",
+      "username": "jdanbishop"
+    },
+    {
+      "name": "Senator Ted Cruz",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "id": "1074480192",
+      "username": "SenTedCruz"
+    },
+    {
+      "name": "Office of Rep. Nicole Malliotakis",
+      "description": "Congresswoman for #NY11, former NY State Assemblymember, proud daughter of Greek \u0026 Cuban immigrants | Member of @HouseForeignGOP @TransportGOP \u0026 @SelectGOP",
+      "id": "1344750588026900481",
+      "username": "RepMalliotakis"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "Jim Banks",
+      "description": "Father. Husband. US Navy/Afghanistan Veteran. Indiana Congressman.",
+      "id": "816131319033950208",
+      "username": "RepJimBanks"
+    },
+    {
+      "name": "House Admin. Committee GOP",
+      "description": "Committee on House Administration, Republican Office - Ranking Member @RodneyDavis (R-IL) Oversight of Federal Elections \u0026 House of Representatives Operations",
+      "id": "224391627",
+      "username": "HouseAdmnGOP"
+    },
+    {
+      "name": "Rep. Ken Buck",
+      "description": "Congressman for Colorado’s 4th District. Ranking Member, Antitrust Subcommittee. Member, House Foreign Affairs Committee.",
+      "id": "2862577383",
+      "username": "RepKenBuck"
+    },
+    {
+      "name": "Rep. Diana Harshbarger",
+      "description": "Proudly representing the great people of East Tennessee. Serving on @EdLaborGOP and @HomelandGOP.",
+      "id": "1345787285179162624",
+      "username": "RepHarshbarger"
+    },
+    {
+      "name": "Blaine Luetkemeyer",
+      "description": "Proudly serving Missouri\u0027s 3rd Congressional District. Ranking Member on @HSBCgop and @FinancialCmte Consumer Protection \u0026 Financial Institutions Subcommittee.",
+      "id": "1849261916",
+      "username": "RepBlaine"
+    },
+    {
+      "name": "Rep. Dan Bishop",
+      "description": "U.S. Congressman Proudly Representing the Eighth District of North Carolina",
+      "id": "1176522535531360257",
+      "username": "RepDanBishop"
+    },
+    {
+      "name": "Richard Hudson",
+      "description": "Proudly representing North Carolina in the U.S. House ?? | @HouseGOP Conference Secretary \u0026 Member of @HouseCommerce",
+      "id": "935033864",
+      "username": "RepRichHudson"
+    },
+    {
+      "name": "Rep. Dan Newhouse",
+      "description": "Proud to represent Washington\u0027s 4th District in the U.S. Congress",
+      "id": "2930635215",
+      "username": "RepNewhouse"
+    },
+    {
+      "name": "Julia B Letlow, Ph.D.",
+      "description": "U.S. Congresswoman for Louisiana’s 5th District. Louisianian, Christian, Conservative, Educator, Mother of Two",
+      "id": "19039789",
+      "username": "jbletlow"
+    },
+    {
+      "name": "Conservative Climate Caucus",
+      "description": "We believe the climate is changing, and decades of a global industrial era that has brought prosperity to the world has also contributed to that change.",
+      "id": "1407009577095385090",
+      "username": "climate_caucus"
+    },
+    {
+      "name": "Western Caucus",
+      "description": "Chairman @RepNewhouse | The Voice for Rural America ?",
+      "id": "144986277",
+      "username": "westerncaucus"
+    },
+    {
+      "name": "MarlonBateman",
+      "description": "Executive Advisor to @UtahAG. @StateDept, @HooverInst \u0026 @GOP alum.",
+      "id": "495601120",
+      "username": "MarlonBateman"
+    },
+    {
+      "name": "RSC",
+      "description": "The Republican Study Committee (RSC) is the largest conservative caucus in the House of Representatives. Chaired by @RepJimBanks (IN-03).",
+      "id": "22528309",
+      "username": "RepublicanStudy"
+    },
+    {
+      "name": "The U.S. Capitol Police",
+      "description": "Defending Congress, the U.S. Capitol, and democracy since 1828.",
+      "id": "16503916",
+      "username": "CapitolPolice"
+    },
+    {
+      "name": "Virginia Foxx",
+      "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina\u0027s Fifth District.",
+      "id": "16256269",
+      "username": "virginiafoxx"
+    },
+    {
+      "name": "Chuck Grassley",
+      "description": "U.S. Senator. Family farmer. Lifetime resident of New Hartford, IA. Also follow @GrassleyPress for news and information.",
+      "id": "10615232",
+      "username": "ChuckGrassley"
+    },
+    {
+      "name": "Senate Judiciary Republicans",
+      "description": "News and updates from the Senate Judiciary Committee Republicans | Ranking Member @ChuckGrassley",
+      "id": "704320143824953344",
+      "username": "SenJudiciaryGOP"
+    },
+    {
+      "name": "Malouf Foundation",
+      "description": "We work to confront child sexual exploitation, specifically sex trafficking and online abuse.",
+      "id": "792060841524727808",
+      "username": "MaloufFdn"
+    },
+    {
+      "name": "toddstarnes",
+      "description": "Host of The Todd Starnes Show - weekdays at noon. Owner of https://t.co/ky9TupPI2l - a trusted source for conservative news.",
+      "id": "15515169",
+      "username": "toddstarnes"
+    },
+    {
+      "name": "Ashley Hinson",
+      "description": "Proud mom and wife. Representing IA-01 in Congress and bringing a dose of Iowa common sense to Washington.\n\nFB: https://t.co/ovQqAUsFrY",
+      "id": "1340783304304410625",
+      "username": "RepAshleyHinson"
+    },
+    {
+      "name": "Rep. Tom Tiffany",
+      "description": "Official account of Congressman Tom Tiffany | 7th District of Wisconsin #WI07 Father, Former Dam Tender | @JudiciaryGOP and @NatResources",
+      "id": "1267841066335682562",
+      "username": "RepTiffany"
+    },
+    {
+      "name": "Congresswoman Kat Cammack",
+      "description": "Member of @HouseAgGOP, @HomelandGOP, @EconomyGOP | Youngest GOP woman in 117th Congress | Proudly representing #FL03 in the U.S. House ??",
+      "id": "1344325638983987201",
+      "username": "RepKatCammack"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Utah Veteran \u0026 Military Affairs",
+      "description": "We are the state agency that works to ensure Veterans, service members and their families have the tools to succeed and thrive in Utah.",
+      "id": "334173129",
+      "username": "Utah_DVMA"
+    },
+    {
+      "name": "Rep. María Elvira Salazar",
+      "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP \u0026 @HSBCgop | #FL27?????",
+      "id": "1325928411689349120",
+      "username": "RepMariaSalazar"
+    },
+    {
+      "name": "Rep. Michelle Steel",
+      "description": "Korean-American wife, mother \u0026 tax fighter serving #CA48 in Congress. @TransportGOP \u0026 @EdLaborGOP. Living the American dream. ??",
+      "id": "1343740146630451200",
+      "username": "RepSteel"
+    },
+    {
+      "name": "Rep. Tony Gonzales",
+      "description": "Husband to Angel, father x 6, @USNavy Master Chief (Ret.) \u0026 former cryptologist. Proudly serving Texas’ 23rd District on @HouseAppropsGOP ??",
+      "id": "1343627416120532992",
+      "username": "RepTonyGonzales"
+    },
+    {
+      "name": "Lee Lonsberry",
+      "description": "Husband | Father | @SenMikeLee Communications Director.",
+      "id": "15749510",
+      "username": "LeeLons"
+    },
+    {
+      "name": "FOX Business",
+      "description": "The official Twitter page of FOX Business. Invested in You.",
+      "id": "56413858",
+      "username": "FoxBusiness"
+    },
+    {
+      "name": "Boyd Matheson",
+      "description": "Host of Inside Sources @kslnewsradio, past Opinion Ed @Dnews, past Pres. @SutherlandInst, past Chief of Staff @SenMikeLee. Father of 5, and grandfather of 6.",
+      "id": "40705061",
+      "username": "BoydMatheson"
+    },
+    {
+      "name": "Rep. Tim Burchett",
+      "description": "Congressman representing Tennessee\u0027s 2nd District. Husband to Kelly. Father to Isabel. Serve on Transportation \u0026 Infrastructure and Foreign Affairs committees.",
+      "id": "1028854804087492613",
+      "username": "RepTimBurchett"
+    },
+    {
+      "name": "Utah Highway Patrol",
+      "description": "Official account of UHP. Part of @UtahDPS. Not monitored 24/7. Please call 911 for emergencies/public safety hazards.",
+      "id": "739485420",
+      "username": "UTHighwayPatrol"
+    },
+    {
+      "name": "State of Utah COVID-19 Response",
+      "description": "The State of Utah\u0027s official account for information on the novel coronavirus (COVID-19). Tweets en español: @EmergenciasUtah",
+      "id": "1234536299421302784",
+      "username": "UtahCoronavirus"
+    },
+    {
+      "name": "Congressman Byron Donalds",
+      "description": "Proudly representing the people of #FL19 | Serving on the @housebudgetGOP, @GOPoversight, \u0026 @HSBCgop Committees | Comms Dir. @HarrisonWFields | Official Account",
+      "id": "1343968646050283522",
+      "username": "RepDonaldsPress"
+    },
+    {
+      "name": "Heritage Foundation",
+      "description": "Devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+      "id": "10168082",
+      "username": "Heritage"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "House Ed \u0026 Labor Republicans",
+      "description": "Fostering the best opportunities for students to learn, workers to succeed, and job creators to thrive. Republican Leader Rep. @VirginiaFoxx.",
+      "id": "16424044",
+      "username": "EdLaborGOP"
+    },
+    {
+      "name": "House Judiciary GOP",
+      "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+      "id": "1131917492",
+      "username": "JudiciaryGOP"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Committee on Education \u0026 Labor",
+      "description": "Building an America where everyone can succeed. Chairman @BobbyScott.",
+      "id": "7004382",
+      "username": "EdLaborCmte"
+    },
+    {
+      "name": "Utah National Guard",
+      "description": "Official Utah National Guard account. Your friendly neighborhood Soldiers and Airmen. Est. 1894 #AlwaysReady #AlwaysThere #InThisTogether",
+      "id": "24898148",
+      "username": "UTNationalGuard"
+    },
+    {
+      "name": "National Fraternal Order of Police (FOP)",
+      "description": "We’re the #? Voice of America’s Law Enforcement Officers The Oldest and Largest #Police #Union in the #USA 364,000+ Members Strong #BackTheBlue",
+      "id": "222196210",
+      "username": "GLFOP"
+    },
+    {
+      "name": "Matt Rosendale",
+      "description": "Representing the State of Montana. Husband, Father, Sportsman.",
+      "id": "1344751420139040783",
+      "username": "RepRosendale"
+    },
+    {
+      "name": "Rep. Victoria Spartz",
+      "description": "Representing Indiana’s 5th Congressional District",
+      "id": "1344845201479663621",
+      "username": "RepSpartz"
+    },
+    {
+      "name": "Rep. Yvette Herrell",
+      "description": "U.S. Congresswoman for New Mexico\u0027s Second Congressional District. Member of @NatResources and @GOPoversight",
+      "id": "1344416719260016641",
+      "username": "RepHerrell"
+    },
+    {
+      "name": "Rep Andy Biggs",
+      "description": "Representing Arizona\u0027s Fighting Fifth.",
+      "id": "816652616625168388",
+      "username": "RepAndyBiggsAZ"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Rep. Jim Jordan",
+      "description": "Proudly serving Ohio\u0027s beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "id": "18166778",
+      "username": "Jim_Jordan"
+    },
+    {
+      "name": "Rep. Matt Gaetz",
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "id": "818948638890217473",
+      "username": "RepMattGaetz"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "Ann Wagner",
+      "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+      "id": "1051446626",
+      "username": "RepAnnWagner"
+    },
+    {
+      "name": "Rep. Madison Cawthorn",
+      "description": "Proudly representing the people of North Carolina\u0027s 11th Congressional District in the United States House of Representatives.",
+      "id": "1344007696555663360",
+      "username": "RepCawthorn"
+    },
+    {
+      "name": "Rep. Nancy Mace",
+      "description": "@WaffleHouse to #Citadel to US House. Working hard serving the Lowcountry. Ranking Member Civil Rights Committee on Oversight. #SC01 #LowcountryFirst ?????",
+      "id": "1343597700542038017",
+      "username": "RepNancyMace"
+    },
+    {
+      "name": "Mike Rogers",
+      "description": "I am proud to represent Alabama\u0027s Third Congressional District.",
+      "id": "33977070",
+      "username": "RepMikeRogersAL"
+    },
+    {
+      "name": "Rep. Steve Womack",
+      "description": "Proud to serve the folks of Arkansas\u0027s 3rd District. Member of @HouseAppropsGOP.",
+      "id": "234469322",
+      "username": "rep_stevewomack"
+    },
+    {
+      "name": "U.S. Rep. Billy Long",
+      "description": "Representing Missouri’s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+      "id": "1444015610",
+      "username": "USRepLong"
+    },
+    {
+      "name": "Tim Scott",
+      "description": "Just a South Carolinian living his mama’s American Dream.",
+      "id": "217543151",
+      "username": "SenatorTimScott"
+    },
+    {
+      "name": "Rep. Jason Smith",
+      "description": "@housebudgetGOP Leader | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08",
+      "id": "1623308912",
+      "username": "RepJasonSmith"
+    },
+    {
+      "name": "Rep. Jeff Duncan",
+      "description": "Christian, husband, father, \u0026 small business owner. Lover of football \u0026 the outdoors. Employee for the people of #SC03 ? Instagram: https://t.co/FHO3ywu4Hq",
+      "id": "240393970",
+      "username": "RepJeffDuncan"
+    },
+    {
+      "name": "Rep. Lauren Boebert",
+      "description": "Congresswoman (CO-03) • Co-Chair #2A Caucus • Member @NatResources, @HouseBudgetGOP, and @FreedomCaucus • Vice-Chair @WesternCaucus • ??",
+      "id": "1342989756611907584",
+      "username": "RepBoebert"
+    },
+    {
+      "name": "Thomas Massie",
+      "description": "U.S. Representative for KY4, co-Chair 2A Caucus, greenest member of congress, MIT 93 BS EE, MIT 96 Master of Science #sassywithmassie #politicalsciencedenier",
+      "id": "975200486",
+      "username": "RepThomasMassie"
+    },
+    {
+      "name": "Mo Brooks",
+      "description": "Thanks for following Alabama’s 5th District Congressman. Political discourse welcome. BLOCKED: Profanity, defamation, lying. PLEASE RETWEET GOOD INFO!",
+      "id": "237299871",
+      "username": "RepMoBrooks"
+    },
+    {
+      "name": "Archive: Rep. Vicky Hartzler",
+      "description": "The archived tweets of Vicky Hartzler, fmr Representative for Missouri\u0027s 4th District. This account is inactive. You can now follow Vicky at @VickyHartzlerMO.",
+      "id": "237763317",
+      "username": "RepHartzler"
+    },
+    {
+      "name": "Congressman Blake Moore",
+      "description": "Serving Utah’s First District in Congress, coaching little league, and riding around the Capitol on a scooter. ?",
+      "id": "1337452596093587462",
+      "username": "RepBlakeMoore"
+    },
+    {
+      "name": "Rep. Michelle Fischbach",
+      "description": "Proudly representing Minnesota\u0027s 7th District in the U.S. House of Representatives. Serving on @HouseAgGOP, @JudiciaryGOP \u0026 @RulesReps.",
+      "id": "1344375287484723205",
+      "username": "RepFischbach"
+    },
+    {
+      "name": "Rep Rick Crawford",
+      "description": "Representing AR-01 in the U.S. House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee. Text me: 870.292.6747",
+      "id": "233693291",
+      "username": "RepRickCrawford"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "Congresswoman Beth Van Duyne",
+      "description": "Single mother. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",
+      "id": "1339633259349745670",
+      "username": "RepBethVanDuyne"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "Senator Mitt Romney",
+      "description": "United States Senator from the great state of Utah.",
+      "id": "1078693601356509184",
+      "username": "SenatorRomney"
+    },
+    {
+      "name": "Mike Lee",
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "id": "88784440",
+      "username": "SenMikeLee"
+    },
+    {
+      "name": "Keelie Broom",
+      "description": "",
+      "id": "796794318",
+      "username": "keeliebroom"
+    },
+    {
+      "name": "Rep. John Curtis",
+      "description": "Official account for United States Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah\u0027s 3rd district.",
+      "id": "931614483050414080",
+      "username": "RepJohnCurtis"
+    },
+    {
+      "name": "Rep. Chris Stewart",
+      "description": "Utah\u0027s 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence \u0026 Appropriations Committees. \n\nhttps://t.co/GUW6weAva6",
+      "id": "1072008757",
+      "username": "RepChrisStewart"
+    },
+    {
+      "name": "Spencer Cox",
+      "description": "Father. Recovering Attorney. Bassist. 18th Governor of Utah. Happy. I do all my own stunts on Twitter. #LetsGo",
+      "id": "69663100",
+      "username": "SpencerJCox"
+    },
+    {
+      "name": "Burgess Owens",
+      "description": "Representing #UT04 in Congress\n\nSuper Bowl XV Champion",
+      "id": "779104195",
+      "username": "BurgessOwens"
+    }
+  ],
+  "id": "1344481217685692416",
+  "username": "RepBurgessOwens"
+}

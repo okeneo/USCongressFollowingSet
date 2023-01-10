@@ -1,0 +1,36 @@
+{
+  "following": [
+    {
+      "name": "Chad Pergram",
+      "description": "Chad Pergram is the Senior Congressional Correspondent for Fox News. He\u0027s won an Edward R. Murrow Award \u0026 is a two-time recipient of the Joan Barone Award.",
+      "id": "16187637",
+      "username": "ChadPergram"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    }
+  ],
+  "id": "50152441",
+  "username": "RepMcClintock"
+}

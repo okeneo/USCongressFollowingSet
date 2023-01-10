@@ -1,0 +1,4650 @@
+{
+  "following": [
+    {
+      "name": "Gayle Manchin",
+      "description": "13th Federal Co-Chair of @ARCgov. \nLifelong educator and native West Virginian.\nTweets are my own.",
+      "id": "1086766338",
+      "username": "GayleManchin"
+    },
+    {
+      "name": "Colby Hall",
+      "description": "Executive Director of @SOAR_EKY // Son of Eastern Kentucky",
+      "id": "3449645715",
+      "username": "ColbyJHall"
+    },
+    {
+      "name": "KEDC",
+      "description": "Kentucky Educational Development Corporation is your trusted partner in education. We provide service and support for teachers and administrators.",
+      "id": "930016580",
+      "username": "KEDC1"
+    },
+    {
+      "name": "Attorney General Daniel Cameron",
+      "description": "51st Attorney General of the Commonwealth of Kentucky",
+      "id": "1205238738097455104",
+      "username": "kyoag"
+    },
+    {
+      "name": "UK JAM-school",
+      "description": "Tweets about the UK School of Journalism and Media, featuring news, events and work from students, faculty and alumni.",
+      "id": "151177315",
+      "username": "UKJAMschool"
+    },
+    {
+      "name": "LD Gorman",
+      "description": "Fort Lauderdale, Fl/ Hazard, Ky",
+      "id": "1519319315547398144",
+      "username": "GormanLd"
+    },
+    {
+      "name": "KY Dept of Ag",
+      "description": "The Kentucky Department of Agriculture. Use #KyAg365 to share how agriculture has affected you today!",
+      "id": "38199691",
+      "username": "kentuckyag"
+    },
+    {
+      "name": "Conor Skelding",
+      "description": "Reporter for the New York Post\u0027s Sunday paper",
+      "id": "57491188",
+      "username": "conorskelding"
+    },
+    {
+      "name": "Mountain Top Sports",
+      "description": "Mountain Top Sports is eastern Kentucky\u0027s sports leader. Teddy Paynter, Sports Director of Mountain Top Sports. \n https://t.co/7PK5plLILd",
+      "id": "1180214708",
+      "username": "sports_MtM"
+    },
+    {
+      "name": "Naval Special Warfare",
+      "description": "This is the official Twitter Account for #NavalSpecialWarfare.  RTs, mentions \u0026 follows do not constitute an endorsement.",
+      "id": "106597684",
+      "username": "us_navyseals"
+    },
+    {
+      "name": "The Joint Staff ??",
+      "description": "Official Twitter account for #GenMilley, #AdmGrady and #SEAC4. \nFollowing, RTs, links, and likes ? @DeptofDefense endorsement.",
+      "id": "28576135",
+      "username": "thejointstaff"
+    },
+    {
+      "name": "National Guard",
+      "description": "Official tweets from National Guard Bureau. National Guard: America\u0027s First Military Responders. (Following, RTs \u0026 links ? endorsement.)",
+      "id": "31310158",
+      "username": "USNationalGuard"
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "description": "Official Twitter account for the U.S. Coast Guard. If in distress, use VHF channel 16 or dial 911.\n\n(RT, follows ? endorsements)",
+      "id": "15113565",
+      "username": "USCG"
+    },
+    {
+      "name": "American Conservative Union",
+      "description": "Official Twitter account of the American Conservative Union. For updates, livestreams, and more follow @CPAC.",
+      "id": "56401482",
+      "username": "ACUConservative"
+    },
+    {
+      "name": "ClayCoNews",
+      "description": "Serving Southeast Kentucky \u0026 the Nation with \"Real News Everyday\" since 2004.",
+      "id": "1071181008",
+      "username": "ClayCoNewsUSA"
+    },
+    {
+      "name": "The Kentucky Wildlands",
+      "description": "The Official Twitter account of the Kentucky Wildlands. A wonderful place to experience majestic outdoors and legendary Appalachian history.",
+      "id": "1182372271685619712",
+      "username": "thekywildlands"
+    },
+    {
+      "name": "Mark Bednar",
+      "description": "@GOPLeader comms. Fantasy baseball league champion \u002714, Runner Up \u002717 \u0026 \u002718. Tweets my own. @UWMadison \u0026 @JohnsHopkins alum. #GoPackGo",
+      "id": "327567853",
+      "username": "MarkBednar"
+    },
+    {
+      "name": "Michael Berk",
+      "description": "Reporter/Anchor/occasional sports guy @LEX18News",
+      "id": "729317136",
+      "username": "LEX18_Michael"
+    },
+    {
+      "name": "USDA Rural Development Kentucky",
+      "description": "The official account for USDA Rural Development Kentucky. Please note tweets, retweets, follows, etc. do not in any way represent endorsement of any kind.",
+      "id": "1017744250388217862",
+      "username": "RD_Kentucky"
+    },
+    {
+      "name": "Foundation for a Healthy KY",
+      "description": "Addressing Kentuckians’ unmet health needs through policy, access to care, reducing disparities, promoting equity. Retweets do not equate to endorsements.",
+      "id": "536328682",
+      "username": "healthyky"
+    },
+    {
+      "name": "KY League of Cities",
+      "description": "The Kentucky League of Cities serves as the united voice of cities by supporting community innovation, effective leadership and quality governance.",
+      "id": "26577188",
+      "username": "KyLeagueCities"
+    },
+    {
+      "name": "Scott Ratliff",
+      "description": "Works at WSIP radio. News, Sports, Morning Host. I’m Married with 2 children.",
+      "id": "772835754",
+      "username": "bscottratliff"
+    },
+    {
+      "name": "WSIP 98.9 FM",
+      "description": "",
+      "id": "953334740064579584",
+      "username": "WsipFm"
+    },
+    {
+      "name": "103.9 The Bulldog WXKQ",
+      "description": "The Mountains\u0027 Live and Local Home for 80\u0027s, 90\u0027s and today\u0027s lite rock music, Letcher County Central - UK Sports \u0026 the Work Day Wake Up Show with Kevin and LKD",
+      "id": "43677620",
+      "username": "1039thebulldog"
+    },
+    {
+      "name": "City of Pikeville, Kentucky",
+      "description": "Official account of the City of Pikeville Government",
+      "id": "1030247485653049344",
+      "username": "PikevilleKyGov"
+    },
+    {
+      "name": "Pikeville City Tourism",
+      "description": "Let teh mountains move you.",
+      "id": "631625496",
+      "username": "visitpikeville"
+    },
+    {
+      "name": "Mountain Top News",
+      "description": "Digital, TV and radio news, located in Pikeville, Ky. Covering Eastern Kentucky, southern West Virginia and southwestern Virginia.",
+      "id": "1293918775088230405",
+      "username": "mtntopnews1"
+    },
+    {
+      "name": "The Daily Independent",
+      "description": "The Daily Independent is the leading source for news in northeastern Kentucky.",
+      "id": "980916486280753152",
+      "username": "ashlandkydaily"
+    },
+    {
+      "name": "Carter County Times",
+      "description": "Your source for Carter County, KY news and events.",
+      "id": "1267562304817766400",
+      "username": "carter_times"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "Kamala Harris",
+      "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+      "id": "30354991",
+      "username": "KamalaHarris"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "Igor Bobic",
+      "description": "Senior politics reporter at HuffPost. California raised, Bosnia born. Former Chargers fan. igor.bobic@huffpost.com",
+      "id": "250492272",
+      "username": "igorbobic"
+    },
+    {
+      "name": "Jonathan Martin",
+      "description": "Senior political columnist @politico.  Send audio, docs, tips and provocative ideas here: https://t.co/VmkJz2os5i or DM for text/signal",
+      "id": "18678924",
+      "username": "jmart"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "Brad Parscale",
+      "description": "Former Digital Director \u0026 Campaign Manager for Trump. Building the next generation of political software @campnucleus. $AIAD",
+      "id": "17685258",
+      "username": "parscale"
+    },
+    {
+      "name": "Lt. Governor Jacqueline Coleman",
+      "description": "The official account of the 58th Lt. Governor of Kentucky. Tweets from Jacqueline are signed ^JC.",
+      "id": "1192553520416927752",
+      "username": "LtGovColeman"
+    },
+    {
+      "name": "Governor Andy Beshear",
+      "description": "The official account of the 63rd Governor of the Commonwealth of Kentucky. Tweets from Andy are signed ^AB. #TeamKentucky #TogetherKy",
+      "id": "1192549822865297409",
+      "username": "GovAndyBeshear"
+    },
+    {
+      "name": "Steven Mnuchin",
+      "description": "77th Secretary of the Treasury. Personal Account.",
+      "id": "799764016885329921",
+      "username": "stevenmnuchin1"
+    },
+    {
+      "name": "National Peace Corps Association",
+      "description": "We champion lifelong commitment to @PeaceCorps ideals — and we lead a community 250,000 strong, all across the United States and around the world.",
+      "id": "17473443",
+      "username": "pcorpsconnect"
+    },
+    {
+      "name": "Kentucky Men’s Basketball",
+      "description": "Official Twitter account for Kentucky men’s basketball. Eight-time NCAA National Champion.",
+      "id": "35583547",
+      "username": "KentuckyMBB"
+    },
+    {
+      "name": "SBA Pro-Life America | 72% ?? support 15 weeks",
+      "description": "Working to end abortion by electing leaders \u0026 passing #ProLife laws, with a special calling to promote pro-life women | Follow @MarjorieSBA @lozierinstitute??",
+      "id": "17918065",
+      "username": "sbaprolife"
+    },
+    {
+      "name": "Ari Fleischer",
+      "description": "Former WH Press Secretary. FOX News contributor. Yankees and Dolphins fan. “@AriFleischer” on Truth.",
+      "id": "35218566",
+      "username": "AriFleischer"
+    },
+    {
+      "name": "Buddy Forbes",
+      "description": "Reporter for @WYMT. Proud Appalachian. @UPIKEBears alumnus.?:Buddy.Forbes@wymt.com",
+      "id": "1108820286646956039",
+      "username": "BuddyWYMT"
+    },
+    {
+      "name": "WVLK News",
+      "description": "The Official Twitter account for NewsTalk 590 WVLK-AM \u0026 97.3FM! Lexington\u0027s News, Traffic and Weather Station. A Cumulus Media Station.",
+      "id": "28358703",
+      "username": "WVLK"
+    },
+    {
+      "name": "Larry Glover Live",
+      "description": "Host of Larry Glover Live on 590 WVLK in Lexington.   You can listen from noon to 3pm every weekday at https://t.co/mIsTBmQ8QB",
+      "id": "21769179",
+      "username": "larrygloverlive"
+    },
+    {
+      "name": "TheSentinel-Echo",
+      "description": "We are your most trusted source for news, sports and entertainment in Laurel County, Kentucky. We publish Monday, Wednesday and Friday.",
+      "id": "964591047316709376",
+      "username": "TheSentinelEcho"
+    },
+    {
+      "name": "National Air and Space Museum",
+      "description": "Celebrating #IdeasThatDefy gravity and the moments we took to the skies and did what seemed impossible. Start exploring: https://t.co/Nw4JxBZbtA",
+      "id": "14848513",
+      "username": "airandspace"
+    },
+    {
+      "name": "Smithsonian Magazine",
+      "description": "Official Twitter feed for Smithsonian magazine. @ replies may be reprinted in the magazine. Legal: https://t.co/vp9r5SaG7j",
+      "id": "17998609",
+      "username": "SmithsonianMag"
+    },
+    {
+      "name": "Stephanie Grisham 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "823638938590085124",
+      "username": "StephGrisham45"
+    },
+    {
+      "name": "Manu Raju",
+      "description": "Chief Congressional Correspondent, @CNN. Roaming the Capitol halls, covering the Hill and politics. Die-hard Chicago sports fan. Wisconsin Badger for life.",
+      "id": "39155029",
+      "username": "mkraju"
+    },
+    {
+      "name": "Leadership Kentucky",
+      "description": "Leadership Kentucky is a non-profit org. focused on leadership development \u0026 networking. Programs: Leadership Kentucky, Elevate, BRIGHT, \u0026 New Execs to KY.",
+      "id": "608102273",
+      "username": "LeadershipKY"
+    },
+    {
+      "name": "Bill Sternberg",
+      "description": "Journalist. Contributing columnist, Callaway Climate Insights and The Free Speech Center. Former Editorial Page Editor, @usatoday. Snow-loving Parrothead.",
+      "id": "360846426",
+      "username": "bsternbe"
+    },
+    {
+      "name": "Will Puckett",
+      "description": "Kentucky Colonel - Duke of Hazard - MMJ @wvlt - Formerly @WYMT - Proud @WKU_SoM Alumnus. Story Ideas? email me william.puckett@gray.tv",
+      "id": "869547637707595776",
+      "username": "WVLTWill"
+    },
+    {
+      "name": "Rep. David Trone",
+      "description": "Representing MD-06. Fighting the opioid \u0026 mental health crises. Member of @AppropsDems, @VetAffairsDems, @JECDems. Husband, Father, Grandfather, Business Owner.",
+      "id": "1080573351914061825",
+      "username": "RepDavidTrone"
+    },
+    {
+      "name": "Lacy Clay MO1st",
+      "description": "Verified Account of former Congressman Lacy Clay US Rep, Missouri 1st District. R/Ts \u0026 links are not endorsements.",
+      "id": "584912320",
+      "username": "LacyClayMO1"
+    },
+    {
+      "name": "Susan W. Brooks",
+      "description": "Former Congresswoman for Indiana’s 5th District. Instagram: @susanwbrooks",
+      "id": "1074101017",
+      "username": "SusanWBrooks"
+    },
+    {
+      "name": "Coalition To Stop Opioid Overdose",
+      "description": "CSOO brings together leading mental health, addiction, and health care professional organizations to exchange ideas \u0026 collaborate. RT ? endorsement.",
+      "id": "730852943214325761",
+      "username": "StopOpioidOD"
+    },
+    {
+      "name": "Claire Galofaro",
+      "description": "National writer for the @AP, covering politics, poverty and rural America. Based in my hometown, Louisville, Kentucky. Tell me a story at cgalofaro@ap.org.",
+      "id": "492318279",
+      "username": "clairegalofaro"
+    },
+    {
+      "name": "Ivanka Trump",
+      "description": "",
+      "id": "52544275",
+      "username": "IvankaTrump"
+    },
+    {
+      "name": "Toyota Policy",
+      "description": "Sharing news and updates from @Toyota\u0027s Public Policy team",
+      "id": "967084459966148608",
+      "username": "ToyotaPolicy"
+    },
+    {
+      "name": "Addiction Recovery Care",
+      "description": "Addiction Recovery Care provides residential and outpatient drug and alcohol addiction treatment in Eastern and Central Kentucky.",
+      "id": "1296138571",
+      "username": "arccenters"
+    },
+    {
+      "name": "U.S. Senate Updates",
+      "description": "A @GovTop Project. #US #Senate updates. Also: @SenateNews, @HouseFloor, @USHouseNews, @USSupremeCourt, @GovTop",
+      "id": "9855382",
+      "username": "SenateFloor"
+    },
+    {
+      "name": "Kellyanne Conway",
+      "description": "New York Times #1 Bestselling Author “Here’s the Deal”. Order here: https://t.co/IHv6kuN82n Mom. Patriot. Catholic. Happy Warrior. Counselor. Survivor.",
+      "id": "471672239",
+      "username": "KellyannePolls"
+    },
+    {
+      "name": "World Affairs Council of Kentucky \u0026 So. Indiana",
+      "description": "Connecting the Kentucky region with today\u0027s international issues and tomorrow\u0027s global leaders. Member of @WACAmerica, @GlobalTiesUS\n \u0026 @SisterCitiesInt.",
+      "id": "34616674",
+      "username": "WorldAffairsKY"
+    },
+    {
+      "name": "USACE HQ",
+      "description": "Welcome to the official Twitter page for the U.S. Army Corps of Engineers Headquarters. Following does not equal endorsement.",
+      "id": "161329769",
+      "username": "USACEHQ"
+    },
+    {
+      "name": "Kentucky Whitewater",
+      "description": "whitewater rafting kayaking \u0026 swiftwater rescue instruction \u0026 trips since 2003 #Kentucky #whitewater #Russellfork #rafting #kayaking #BBN",
+      "id": "1385932754",
+      "username": "KYWhitewater"
+    },
+    {
+      "name": "Destini Engle",
+      "description": "| follower of Jesus | advocate for people | lover of children | MSW, CSW | psalm 23:1-6 |",
+      "id": "66137844",
+      "username": "destinihope24"
+    },
+    {
+      "name": "KYPoliticalHistory",
+      "description": "A look back at iconic, interesting and odd lore of Kentucky political history.",
+      "id": "1000378183827550208",
+      "username": "HistoryKentucky"
+    },
+    {
+      "name": "American Metal Works",
+      "description": "",
+      "id": "956582210664099840",
+      "username": "amw_us"
+    },
+    {
+      "name": "Jessica Ditto 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "836724024688410625",
+      "username": "JessicaDitto45"
+    },
+    {
+      "name": "Sandy Hook Promise",
+      "description": "Get involved to prevent school shootings and #EndGunViolence. Text PROMISE to 79775. #ProtectOurKids RT ? endorsement. Account not monitored 24/7.",
+      "id": "1032290077",
+      "username": "sandyhook"
+    },
+    {
+      "name": "Jim Higdon",
+      "description": "co-founder @CornbreadHemp; author of “The Cornbread Mafia;” alumnus: @CentreC, @BrownUniversity, @ColumbiaJourn; married to @cagirlinkywrld.",
+      "id": "51622946",
+      "username": "jimhigdon"
+    },
+    {
+      "name": "Katherine Clark",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. Defender of women, kids \u0026 justice. She/Her",
+      "id": "2293131060",
+      "username": "RepKClark"
+    },
+    {
+      "name": "The Faulkner Focus",
+      "description": "Watch weekdays at 11am ET on Fox News Channel.",
+      "id": "912759481766957057",
+      "username": "FaulknerFocus"
+    },
+    {
+      "name": "HARRISFAULKNER",
+      "description": "Bestselling Author with NEW BOOK #faithstillmovesmountains; Network Anchor @FaulknerFocus and @OutnumberedFNC; 6-time Emmy award winning journalist",
+      "id": "18313747",
+      "username": "HARRISFAULKNER"
+    },
+    {
+      "name": "Free File Alliance",
+      "description": "Free File Alliance is a coalition of tax software companies partnered with the IRS to help Americans prepare \u0026 e-file their federal tax returns for free.",
+      "id": "223617421",
+      "username": "FreeFileTaxes"
+    },
+    {
+      "name": "NCFL",
+      "description": "NCFL works to eradicate poverty through #education solutions for #families. Follow us for resources and news in #familyliteracy #familyengagement #NCFL23",
+      "id": "14802901",
+      "username": "NCFL"
+    },
+    {
+      "name": "Kentucky PSC",
+      "description": "Kentucky Public Service Commission - Working toward safe and reliable service at fair, just and reasonable rates",
+      "id": "36769836",
+      "username": "KYPSC"
+    },
+    {
+      "name": "nhtsagov",
+      "description": "The official Twitter account of the National Highway Traffic Safety Administration. Our mission is to save lives and prevent injuries due to traffic crashes.",
+      "id": "49706919",
+      "username": "NHTSAgov"
+    },
+    {
+      "name": "Lisa Desjardins",
+      "description": "My cat\u0027s name is Rocky. That\u0027s probably why you are here.  I\u0027m a Correspondent, PBS NewsHour.  Happy, grateful nerd. Remains a faithful Chester Arthur fan.",
+      "id": "114050808",
+      "username": "LisaDNews"
+    },
+    {
+      "name": "March for Life",
+      "description": "Official March for Life account. Join us for the next annual march in Washington, DC on January 20, 2023. Led by @JeanneMFL. #whywemarch",
+      "id": "430130014",
+      "username": "March_for_Life"
+    },
+    {
+      "name": "POLITICO Magazine",
+      "description": "Hard-hitting reporting and original ideas about the stories that matter most. Sign up for our weekly email: https://t.co/Q96sj3ciSe",
+      "id": "1548489476",
+      "username": "POLITICOMag"
+    },
+    {
+      "name": "POLITICO Press",
+      "description": "Follow us for the latest on what\u0027s happening at @POLITICO. Managed by POLITICO\u0027s press team. ?press@politico.com",
+      "id": "389759292",
+      "username": "POLITICOPress"
+    },
+    {
+      "name": "POLITICO Pro",
+      "description": "The POLITICO edge for policy pros.",
+      "id": "207660339",
+      "username": "POLITICOPro"
+    },
+    {
+      "name": "POLITICO Live",
+      "description": "@POLITICOLive is a live extension of our journalism. We convene timely conversations with newsmakers on important national themes, policy \u0026 politics.",
+      "id": "479856992",
+      "username": "POLITICOLive"
+    },
+    {
+      "name": "John McArdle",
+      "description": "@cspan @BookTV and @cspanhistory Producer; Host of Washington Journal @cspanwj",
+      "id": "53127197",
+      "username": "cspanMcArdle"
+    },
+    {
+      "name": "Taylor Frost",
+      "description": "Social Media Strategist \u0026 Virtual Assistant // It’s all about telling YOUR story on digital platforms ?",
+      "id": "818911394871574532",
+      "username": "taylorfrost_VA"
+    },
+    {
+      "name": "Joe Ducey",
+      "description": "Always looking for a good story and a better cup of coffee.  I enjoy good food, good books and good people.",
+      "id": "2147812850",
+      "username": "joeduceyreports"
+    },
+    {
+      "name": "KentuckyWired",
+      "description": "A Kentucky state-run project bringing high-speed internet to every county in the Commonwealth.",
+      "id": "900734176521072642",
+      "username": "KentuckyWired"
+    },
+    {
+      "name": "TechHire Eastern Ky.",
+      "description": "East Ky. TechHire was formed in partnership with Eastern Kentucky Concentrated Employment Program (EKCEP) to bring together folks interested in tech careers.",
+      "id": "4705936581",
+      "username": "techhireeky"
+    },
+    {
+      "name": "Southeast KY Chamber",
+      "description": "We are a nonprofit, membership based, advocacy organization representing 500+ businesses primarily located in southeastern Kentucky.",
+      "id": "295704438",
+      "username": "sekchamber"
+    },
+    {
+      "name": "Jared Arnett",
+      "description": "Speaker, Entrepreneur, Pastor, and Appalachian (Rural) Optimist. Crazy about Bethany, Roz, and Harker.  Trusting Him to direct my steps.  #faithlife",
+      "id": "322115728",
+      "username": "jaredarnett210"
+    },
+    {
+      "name": "Faith \u0026 Politics",
+      "description": "The Faith \u0026 Politics Institute advances reflective leadership among members of Congress and other leaders to bridge divides that arise in a thriving democracy.",
+      "id": "107514329",
+      "username": "FaithandPolitic"
+    },
+    {
+      "name": "AppHarvest",
+      "description": "We’re on a mission to build a robust, climate-resilient food system that’s better for both people and planet. (NASDAQ: APPH)",
+      "id": "816405653862449156",
+      "username": "AppHarvest"
+    },
+    {
+      "name": "Jackie Steele",
+      "description": "Commonwealth\u0027s Attorney 27th Judicial Circuit",
+      "id": "181176354",
+      "username": "steelejke"
+    },
+    {
+      "name": "National Geographic TV",
+      "description": "TV shows and movies from National Geographic are now streaming on https://t.co/kCuHf877gs, @Hulu and @DisneyPlus!",
+      "id": "18244358",
+      "username": "NatGeoTV"
+    },
+    {
+      "name": "NASA",
+      "description": "There\u0027s space for everybody. ?",
+      "id": "11348282",
+      "username": "NASA"
+    },
+    {
+      "name": "HISTORY",
+      "description": "What you need to know about the past to help inform the present and understand the future. You can also find us on Facebook, IG, TikTok, TV and https://t.co/VVDHroIMcB.",
+      "id": "22692199",
+      "username": "HISTORY"
+    },
+    {
+      "name": "East Kentucky Power Cooperative",
+      "description": "Winchester, KY-based EKPC is a not-for-profit utility that generates and transmits wholesale energy to 16 owner-member co-ops serving 1 million Kentuckians.",
+      "id": "238204150",
+      "username": "EastKYPowerCoop"
+    },
+    {
+      "name": "Kentucky Living",
+      "description": "Kentucky Living: celebrating the life, culture and people of #Kentucky.",
+      "id": "31540690",
+      "username": "KentuckyLiving"
+    },
+    {
+      "name": "Reagan Airport",
+      "description": "Official Twitter feed for Ronald Reagan National Airport (DCA). Monitored and updated during business hours. Your Journey Begins With Us. #FlyReagan",
+      "id": "1472173832",
+      "username": "Reagan_Airport"
+    },
+    {
+      "name": "Natural Resources GOP",
+      "description": "U.S. House Committee on Natural Resources Republicans, led by Ranking Member Bruce Westerman.",
+      "id": "41445718",
+      "username": "NatResources"
+    },
+    {
+      "name": "KRG-USA",
+      "description": "Official Twitter account of the Kurdistan Regional Government Representation in the United States. Sign Up for KRG Updates: https://t.co/zalbV2gs2m",
+      "id": "314690118",
+      "username": "KRG_USA"
+    },
+    {
+      "name": "Senator Pat Roberts",
+      "description": "Senior Senator from Kansas. Chairman of @SenateAgGOP.",
+      "id": "75364211",
+      "username": "SenPatRoberts"
+    },
+    {
+      "name": "Southeast Kentucky Economic Development Corp.",
+      "description": "Southeast Kentucky Economic Development Corporation has been helping entrepreneurs and make their dreams come true for more than 36 years.",
+      "id": "3129472205",
+      "username": "skedcorp"
+    },
+    {
+      "name": "Madeleine Albright",
+      "description": "Author of the NYT bestseller Hell and Other Destinations, 64th SecState, refugee, prof, bizwoman, pin collector \u0026 occasional drummer. Grateful American.",
+      "id": "1707321486",
+      "username": "madeleine"
+    },
+    {
+      "name": "Ro Khanna",
+      "description": "A new economic patriotism. Let’s make it here. Invent it, produce it, \u0026 buy it in America. Trade surplus again. Pro worker \u0026 family. Dignity in a Digital Age ?",
+      "id": "771152516",
+      "username": "RoKhanna"
+    },
+    {
+      "name": "John Godwin",
+      "description": "I hunt for a living and fish for a hobby. God has blessed me. I have a wonderful wife and daughter and 2 good dogs. booking info: godwinthewalrus@gmail.com",
+      "id": "531529420",
+      "username": "GodwintheWalrus"
+    },
+    {
+      "name": "Community Action KY",
+      "description": "Community Action Kentucky is the state association serving 23 Community Action Agencies.",
+      "id": "203186389",
+      "username": "ComActionKY"
+    },
+    {
+      "name": "Mike Pence",
+      "description": "Husband, father, 48th Vice President of the United States ??",
+      "id": "22203756",
+      "username": "Mike_Pence"
+    },
+    {
+      "name": "NAIA",
+      "description": "The National Association of Intercollegiate Athletics are the experts in the business of small college athletics. Stay up to date with all NAIA news #PlayNAIA",
+      "id": "1861527528",
+      "username": "NAIA"
+    },
+    {
+      "name": "Campbellsville University",
+      "description": "A comprehensive, Christian institution that offers pre-professional, undergraduate and graduate programs. Download our app!",
+      "id": "45852643",
+      "username": "CampbellsvilleU"
+    },
+    {
+      "name": "#RepTheU",
+      "description": "Official Twitter account for the Union College Office of Sports Communications. Proud member of the @NAIA, @AACsports, \u0026 @MidSouthSports #PoweredByU #RepTheU",
+      "id": "21313925",
+      "username": "UnionBulldogs"
+    },
+    {
+      "name": "Dr. Tom Frieden",
+      "description": "Global health leader and epidemiologist. President and CEO of @ResolveTSL. Former @CDCgov director and @nycHealthy commissioner. Focused on saving lives.",
+      "id": "820452522494226433",
+      "username": "DrTomFrieden"
+    },
+    {
+      "name": "Addiction Policy Forum",
+      "description": "We are committed to elevating awareness around #addiction and improving national policy through a comprehensive response. Need help? Call us at 1-833-301-HELP",
+      "id": "2892616017",
+      "username": "AddictionPolicy"
+    },
+    {
+      "name": "Mitch Addison Whitaker",
+      "description": "Attorney \u0026 Letcher County GOP Chairman.",
+      "id": "23316948",
+      "username": "MitchAWhitaker"
+    },
+    {
+      "name": "KY Humanities",
+      "description": "Kentucky Humanities is Telling Kentucky\u0027s Story — the stories of our unique Kentucky culture and heritage.",
+      "id": "3804588081",
+      "username": "KYHumanities"
+    },
+    {
+      "name": "Rep. Ro Khanna",
+      "description": "Silicon Valley\u0027s CA-17. New economic patriotism \u0026 restoring American manufacturing. Pro working families. Ending endless wars. No PAC $. He/Him.",
+      "id": "816298918468259841",
+      "username": "RepRoKhanna"
+    },
+    {
+      "name": "David Cicilline",
+      "description": "Congressman for Rhode Island’s 1st District. Antitrust Subcommittee Chairman. #ForThePeople",
+      "id": "23593446",
+      "username": "davidcicilline"
+    },
+    {
+      "name": "Tom Rooney",
+      "description": "NTRA, Moon Tower Ranch, Fmr US Congressman (FL), Fmr US Army Captain, Thoroughbred enthusiast, Husband \u0026 father of 3 sons. black and yellow....",
+      "id": "23970171",
+      "username": "TomRooney"
+    },
+    {
+      "name": "Melania Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818876014390603776",
+      "username": "FLOTUS45"
+    },
+    {
+      "name": "Sam Dick",
+      "description": "Former WKYT news anchor,  current feature reporter WEKU, co-owner of CycleYOU. Married to sweetheart Noelle and fishing anytime I can.",
+      "id": "1733840706",
+      "username": "SdickSam"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Sam Dick",
+      "description": "WKYT News Anchor",
+      "id": "552998987",
+      "username": "SamdickWKYT"
+    },
+    {
+      "name": "Trump Inauguration",
+      "description": "The Official Account of the 58th Presidential Inaugural Committee (PIC).",
+      "id": "804883120193466368",
+      "username": "TrumpInaugural"
+    },
+    {
+      "name": "Marlana VanHoose",
+      "description": "Fans of Marlana VanHoose",
+      "id": "3330526726",
+      "username": "marlanavanhoose"
+    },
+    {
+      "name": "Axios",
+      "description": "Smart Brevity worthy of people\u0027s time, attention and trust. Subscribe to our newsletters: https://t.co/h9z0b25Uo1",
+      "id": "800707492346925056",
+      "username": "axios"
+    },
+    {
+      "name": "Rep. Fred Upton",
+      "description": "Call me Fred. Husband, Dad, Grandpa, and proud to represent Southwest Michigan. #MI06",
+      "id": "124224165",
+      "username": "RepFredUpton"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "JCCIC",
+      "description": "The Joint Congressional Committee on Inaugural Ceremonies is responsible for planning \u0026 execution of Swearing-In Ceremonies of the President and Vice President.",
+      "id": "760292653",
+      "username": "JCCIC"
+    },
+    {
+      "name": "Dr. Doug Lowy",
+      "description": "Official Twitter account of Douglas R. Lowy, MD, Principal Deputy Director of @theNCI. Follows, retweets are not endorsements. Privacy: https://t.co/47s9Fxil3G",
+      "id": "3182854863",
+      "username": "NCIDrDougLowy"
+    },
+    {
+      "name": "National Cancer Institute",
+      "description": "Official Twitter account of the National Cancer Institute, the U.S. government’s lead agency for cancer research. Privacy:  https://t.co/2crj1vPNCN",
+      "id": "38530021",
+      "username": "theNCI"
+    },
+    {
+      "name": "Commonwealth Journal",
+      "description": "",
+      "id": "2742551030",
+      "username": "CJSomerset"
+    },
+    {
+      "name": "Bill Bissett, Ed.D.",
+      "description": "Personal Account. Proud Marshall Grad x3 \u0026 Native Appalachian. Pens/Steelers/UFC fan. 2018 Leadership WV. 2020 MU SOJMC HoF Inductee.",
+      "id": "119766709",
+      "username": "BillBissett"
+    },
+    {
+      "name": "Congressional Inst",
+      "description": "Helping Members of Congress better serve constituents and helping  constituents better understand Congress. RTs ? endorsements",
+      "id": "1712989190",
+      "username": "conginst"
+    },
+    {
+      "name": "CDC",
+      "description": "CDC\u0027s official Twitter source for daily credible health \u0026 safety updates from Centers for Disease Control \u0026 Prevention. Privacy policy: https://t.co/9LbZmE3Wzg",
+      "id": "146569971",
+      "username": "CDCgov"
+    },
+    {
+      "name": "Kentucky Today",
+      "description": "Kentucky Today is your up-to-the-minute source for state, national and world news.",
+      "id": "3240113142",
+      "username": "KyTodayEditor"
+    },
+    {
+      "name": "Tennessee Valley Authority",
+      "description": "Our mission is to serve the 10 million people in the Tennessee Valley through Energy, Environment, and Economic Development.",
+      "id": "93688013",
+      "username": "TVAnews"
+    },
+    {
+      "name": "Mayo Clinic",
+      "description": "An integrated clinical practice, education and research institution specializing in treating patients. Account maintained by @MayoClinic.",
+      "id": "14592723",
+      "username": "MayoClinic"
+    },
+    {
+      "name": "Commissioner Ryan Quarles",
+      "description": "Official account of Kentucky\u0027s Commissioner of Agriculture. Use #KyAg365 to share how agriculture has affected you today! @kentuckyag https://t.co/k0MDLLJ1Rd",
+      "id": "4564536147",
+      "username": "KYAgCommish"
+    },
+    {
+      "name": "Cleveland Clinic",
+      "description": "Your source for health news, tips and information from one of the nation’s top hospitals. #BestHospitals",
+      "id": "24236494",
+      "username": "ClevelandClinic"
+    },
+    {
+      "name": "Farm Service Agency",
+      "description": "The Farm Service Agency (FSA) administers and manages farm commodity, credit, conservation, disaster and loan programs.",
+      "id": "18023140",
+      "username": "usdafsa"
+    },
+    {
+      "name": "Rural Development",
+      "description": "USDA Rural Development provides loans and grants to help expand economic opportunities and create jobs in rural communities. Together, America prospers.",
+      "id": "124196924",
+      "username": "usdaRD"
+    },
+    {
+      "name": "Mary Troyan",
+      "description": "You guys know I\u0027m not a reporter anymore, right?",
+      "id": "22830824",
+      "username": "maryotroyan"
+    },
+    {
+      "name": "Craig Caplan",
+      "description": "@CSPAN Capitol Hill Producer. Reads Congressional Record every day. Former @RTCACapitolHill Chair. Philly fan since birth. @AmericanU. #FlyEaglesFly",
+      "id": "317980134",
+      "username": "CraigCaplan"
+    },
+    {
+      "name": "Senate Cloakroom",
+      "description": "Operated by Senate Republican Cloakroom Staff.",
+      "id": "372837125",
+      "username": "SenateCloakroom"
+    },
+    {
+      "name": "Kentucky Press Assoc",
+      "description": "Expand, advance and promote the future of Kentucky\u0027s newspapers.",
+      "id": "159135253",
+      "username": "KY_Press"
+    },
+    {
+      "name": "Jessica Reyes",
+      "description": "Public Relations \u0026 Communications Manager @houstonzoo | @PennState Alum | Peruvian Roots ?? Texas Boots ?| Iced Coffee Enthusiast | Dog-Mom ?",
+      "id": "400932007",
+      "username": "_Jessica_Reyes"
+    },
+    {
+      "name": "Kelsey Borza",
+      "description": "KFDM News Reporter, Latrobe - PA native, Ohio University Bobcat.",
+      "id": "568311859",
+      "username": "KelseyBorza"
+    },
+    {
+      "name": "Curtis L. Tate",
+      "description": "Reporter, energy \u0026 environment, @wvpublic. @UKJAMschool grad. State champion map reader. Son \u0026 grandson of immigrants. He/him.",
+      "id": "47404357",
+      "username": "tatecurtis"
+    },
+    {
+      "name": "Interapt",
+      "description": "Award-winning software development, IT apprenticeship \u0026 workforce training that transforms clients and empowers humans through tech. https://t.co/fJstB6js3n",
+      "id": "278713631",
+      "username": "Interapt"
+    },
+    {
+      "name": "Rep. Tom Cole",
+      "description": "Proud to represent #OK04 in the U.S. House of Reps. Ranking Member of @RulesReps, Vice Ranking of @HouseAppropsGOP. Staff moderated unless signed by me. -TC",
+      "id": "23124635",
+      "username": "TomColeOK04"
+    },
+    {
+      "name": "129aDay",
+      "description": "",
+      "id": "4692804222",
+      "username": "129ADay"
+    },
+    {
+      "name": "USA TODAY Health",
+      "description": "Latest news on health, health policy, science, fitness and nutrition from @USATODAY. This account is managed by @jmportman",
+      "id": "26077026",
+      "username": "USATODAYhealth"
+    },
+    {
+      "name": "NYT Health",
+      "description": "Health and medical news from The NYT\u0027s Health \u0026 Science desk. Sign up for the Science Times email, in your inbox every Tuesday: https://t.co/kpdN2C1hDy",
+      "id": "1769551",
+      "username": "NYTHealth"
+    },
+    {
+      "name": "Energy \u0026 Commerce GOP",
+      "description": "House Energy \u0026 Commerce Committee Republicans | Republican Leader @cathymcmorris",
+      "id": "114756202",
+      "username": "HouseCommerce"
+    },
+    {
+      "name": "Office of Congressional Workplace Rights",
+      "description": "Official feed for the OCWR: the independent office that advances workplace rights, safety and health, and accessibility in the legislative branch.",
+      "id": "2307118986",
+      "username": "OCWR_LegBranch"
+    },
+    {
+      "name": "Cumberland Gap NPS",
+      "description": "The official Twitter source for Cumberland Gap National Historical Park, a service preserving history and protecting 24000 acres of mountains in KY, VA, and TN.",
+      "id": "601019840",
+      "username": "CumberlandGapNP"
+    },
+    {
+      "name": "Caleb Noe",
+      "description": "@WYMT (CBS) Cumberland Valley Bureau Chief - UPIKE/Bullitt East grad - Retired college athlete - Former Voice of Magoffin Co sports - Award-winning TV guy",
+      "id": "3097753536",
+      "username": "CalebWYMT"
+    },
+    {
+      "name": "Laura Ungar",
+      "description": "Medical/science writer @AP Past: @KHNews @courierjournal @usatoday @delawareonline @hartfordcourant Journalist striving for impact.",
+      "id": "563934127",
+      "username": "laura_ungar"
+    },
+    {
+      "name": "Ed Markey",
+      "description": "US Senator for Massachusetts. Chair of Subcommittees on Clean Air, Climate \u0026 Nuclear Safety and on East Asia \u0026 the Pacific. Fighting for a Green New Deal.",
+      "id": "21406834",
+      "username": "SenMarkey"
+    },
+    {
+      "name": "President Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215679726100480",
+      "username": "POTUS45"
+    },
+    {
+      "name": "President Obama",
+      "description": "This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "1536791610",
+      "username": "POTUS44"
+    },
+    {
+      "name": "White House Archived",
+      "description": "This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "30313925",
+      "username": "ObamaWhiteHouse"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "KBA",
+      "description": "",
+      "id": "2729754481",
+      "username": "KyBroadcasters"
+    },
+    {
+      "name": "United Nations",
+      "description": "Official account of the United Nations. \nFor peace, dignity \u0026 equality on a healthy planet.",
+      "id": "14159148",
+      "username": "UN"
+    },
+    {
+      "name": "Justice Department",
+      "description": "Official DOJ Twitter account. Please refer to DOJ’s privacy policy for DOJ use of third-party websites here: https://t.co/I4fby253pJ",
+      "id": "73181712",
+      "username": "TheJusticeDept"
+    },
+    {
+      "name": "NSA/CSS",
+      "description": "National Security Agency/Central Security Service official account, home to America\u0027s codemakers and codebreakers. Likes, retweets, and follows ? endorsement.",
+      "id": "2248872301",
+      "username": "NSAGov"
+    },
+    {
+      "name": "Department of State",
+      "description": "Welcome to the U.S. Department of State Twitter account. Follow @SecBlinken for more from the Secretary. For all Department accounts: https://t.co/kzsNMIOwF9.",
+      "id": "9624742",
+      "username": "StateDept"
+    },
+    {
+      "name": "Homeland Security",
+      "description": "With honor and integrity, we will safeguard the American people, our homeland, and our values. #WeAreDHS, led by @SecMayorkas and @DepSecTien.",
+      "id": "15647676",
+      "username": "DHSgov"
+    },
+    {
+      "name": "CIA",
+      "description": "We are the Nation\u0027s first line of defense. We accomplish what others cannot accomplish and go where others cannot go.",
+      "id": "2359926157",
+      "username": "CIA"
+    },
+    {
+      "name": "CADCA",
+      "description": "CADCA is the leading substance use and misuse prevention organization dedicated to creating and maintaining safe, healthy and drug-free communities globally.",
+      "id": "20677966",
+      "username": "CADCA"
+    },
+    {
+      "name": "FBI",
+      "description": "Official FBI Twitter. Submit tips at https://t.co/tGqFRcJykB. Public info may be used for authorized purposes: https://t.co/x6bfDUEYeJ.",
+      "id": "17629860",
+      "username": "FBI"
+    },
+    {
+      "name": "DEA HQ",
+      "description": "Official Drug Enforcement Administration Twitter account. DEA does not collect comments or messages through this account. Learn more at http://t.co/xgQ5dcc9yt",
+      "id": "180815351",
+      "username": "DEAHQ"
+    },
+    {
+      "name": "Lawrence A. Tabak",
+      "description": "Lawrence A. Tabak, D.D.S., Ph.D. is performing the duties of the NIH Director. \nNIH…Turning Discovery Into Health ®.\nPrivacy Policy: https://t.co/0FRBZ36AHr",
+      "id": "124237063",
+      "username": "NIHDirector"
+    },
+    {
+      "name": "M. Botticelli (NARA)",
+      "description": "This is an archive of an Obama Administration account and is maintained by the National Archives and Records Administration (NARA)",
+      "id": "2382297056",
+      "username": "Botticelli44"
+    },
+    {
+      "name": "Dept. of Agriculture",
+      "description": "Leadership on #food, #agriculture, natural resources, #rural development, #nutrition, \u0026 related issues based on public policy, science, \u0026 effective management.",
+      "id": "61853389",
+      "username": "USDA"
+    },
+    {
+      "name": "Dr. Vivek Murthy, U.S. Surgeon General",
+      "description": "19th \u0026 21st U.S. Surgeon General. Dad, husband, doctor, author. Dedicated to building a healthier, kinder, more connected world. https://t.co/GxSi2TfSc3",
+      "id": "455024343",
+      "username": "Surgeon_General"
+    },
+    {
+      "name": "The FCC",
+      "description": "The official Twitter page of the US Federal Communications Commission. RT \u0026 Follow does not imply endorsement.",
+      "id": "66369206",
+      "username": "FCC"
+    },
+    {
+      "name": "Tom Wheeler",
+      "description": "Former FCC Chairman. Businessman, author, proud grandfather, \u0026 alum of THE Ohio State Univ. Now available @TEWheels",
+      "id": "2260197309",
+      "username": "TomWheelerFCC"
+    },
+    {
+      "name": "Governor Matt Bevin (2015-2019)",
+      "description": "Archived Official Twitter Account for the 62nd Governor of the Commonwealth of Kentucky, Matt Bevin. For current updates, please follow: @mattbevin. #WeAreKY",
+      "id": "3141213592",
+      "username": "GovMattBevin"
+    },
+    {
+      "name": "Ankur Gopal",
+      "description": "I work, work out, and work it. ?",
+      "id": "16045814",
+      "username": "ankg"
+    },
+    {
+      "name": "KY Senate Majority",
+      "description": "Official account of the Kentucky Senate Republican Caucus. Led by @kysenatepres, @kydavidgivens, @damon_thayer, @jrajra, \u0026 @mikewilson2018",
+      "id": "1117720224",
+      "username": "KYSenateGOP"
+    },
+    {
+      "name": "KY House Republicans",
+      "description": "Led by @reposborne,@DavidMeadeKY, @kyrudy, @MilesForKY, \u0026 @jmnemes. IG: @KyHouseGOP",
+      "id": "185277740",
+      "username": "KYHouseGOP"
+    },
+    {
+      "name": "EKB News",
+      "description": "",
+      "id": "4822482977",
+      "username": "yourEKBnews"
+    },
+    {
+      "name": "Kentucky Association of Counties",
+      "description": "KACo is the voice for Kentucky\u0027s 120 counties and more than 1,500 county officials. Stronger Counties. Stronger Kentucky.",
+      "id": "2813473165",
+      "username": "KACo"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "LG Jenean Hampton",
+      "description": "57th Lt. Governor of Kentucky (2015-2019)",
+      "id": "4656309094",
+      "username": "LtGovHampton"
+    },
+    {
+      "name": "WSAZ NewsChannel 3",
+      "description": "This is WSAZ\u0027s online news feed. For Breaking News, follow @WSAZbreaking",
+      "id": "19925980",
+      "username": "WSAZnews"
+    },
+    {
+      "name": "Kellie Meyer",
+      "description": "Washington Correspondent, @newsnation",
+      "id": "1286925638",
+      "username": "KellieMeyerNews"
+    },
+    {
+      "name": "Peter Zampa",
+      "description": "Washington Multimedia Reporter - @GrayDCNews | Bay Area is home | Boston University | RTs ? Endorsements",
+      "id": "1869598704",
+      "username": "PeterZampa"
+    },
+    {
+      "name": "Gray Television Washington News Bureau",
+      "description": "Our Team: https://t.co/tgMpTuHCEU\nAbout our Bureau: https://t.co/glQZgWApDs\nAbout Gray TV: https://t.co/3itnO0B5po\n#WeAreLocal",
+      "id": "3305610617",
+      "username": "GrayDCnews"
+    },
+    {
+      "name": "audie cornish",
+      "description": "journalist | interviewer | professional listener \ninstagram @audieoffmic \n https://t.co/7xNVaBrCJP \n@AudieCornish@mas.to",
+      "id": "31448660",
+      "username": "AudieCornish"
+    },
+    {
+      "name": "Jordan Smith",
+      "description": "Provident Label Group Artist. Winner of The Voice, Season 9. Kentuckian. Musician. Traveller. Follower of Christ. Be Still \u0026 Know EP is out now!",
+      "id": "72345123",
+      "username": "JordanSmithLive"
+    },
+    {
+      "name": "Aisha Chowdhry",
+      "description": "Freelance reporter in Southern Africa chasing ?????. Previously chasing lawmakers on Capitol Hill in DC for @FCWNow \u0026 @CQRollCall. aishach@protonmail",
+      "id": "26003471",
+      "username": "aishach"
+    },
+    {
+      "name": "Kentucky State Archives",
+      "description": "Official Twitter of the Kentucky State Archives, KY Department for Libraries and Archives.",
+      "id": "821980808",
+      "username": "KYStateArchives"
+    },
+    {
+      "name": "Kentucky Historical Society",
+      "description": "Official Twitter of the Kentucky Historical Society (museum, library, archives), Old State Capitol, KY Military History Museum, @Smithsonian affiliate.",
+      "id": "106429546",
+      "username": "KyHistSoc"
+    },
+    {
+      "name": "KY Digital Library",
+      "description": "Featuring items from Kentucky collections housed in the Kentucky Digital Library at https://t.co/Wp78ZWkDh7",
+      "id": "561295797",
+      "username": "KyDigitalLib"
+    },
+    {
+      "name": "Kentucky Guard TAG",
+      "description": "",
+      "id": "108745500",
+      "username": "KYNG_TAG"
+    },
+    {
+      "name": "Lowell Reese",
+      "description": "I\u0027m editor/owner of Kentucky Roll Call, a public affairs publishing company in Frankfort. Tweet mostly about the state legislature, media and elections.",
+      "id": "1031203609",
+      "username": "Kyrollcall"
+    },
+    {
+      "name": "City of Monticello",
+      "description": "",
+      "id": "235180830",
+      "username": "MonticelloKY"
+    },
+    {
+      "name": "Mike Wynn",
+      "description": "Media - Communications - Public Relations. Helping people, organizations and brands tell their story.",
+      "id": "407905078",
+      "username": "MikeWynn_KY"
+    },
+    {
+      "name": "Nick Storm",
+      "description": "Journalist. Writer. Filmmaker. ?Kentucky Fried Politics https://t.co/ejuAClua3W ?@kyfriedpolitics RT does not equal endorsement.",
+      "id": "19574290",
+      "username": "nickstorm"
+    },
+    {
+      "name": "Thomas F. Loftus",
+      "description": "I cover Kentucky State Government for The Courier-Journal in Louisville",
+      "id": "587642703",
+      "username": "TomLoftus_CJ"
+    },
+    {
+      "name": "Kentucky Electric Cooperatives",
+      "description": "Kentucky Electric Cooperatives, the statewide association supporting Kentucky’s 24 local distribution co-ops and two “generation \u0026 transmission” co-ops.",
+      "id": "31535172",
+      "username": "KyElectricCoops"
+    },
+    {
+      "name": "Bit Source",
+      "description": "Bit Source is a software development company that designs, develops, and deploys websites, applications, games, tools, interactions, and software solutions.",
+      "id": "2912107283",
+      "username": "bitsourceky"
+    },
+    {
+      "name": "Treehouse",
+      "description": "We’ve taught over 1.2 million people how to code. Join our community! For support, email us at help@teamtreehouse.com.",
+      "id": "14843763",
+      "username": "treehouse"
+    },
+    {
+      "name": "Codecademy",
+      "description": "Codecademy, from Skillsoft, is the easiest way to learn to code.",
+      "id": "354847710",
+      "username": "Codecademy"
+    },
+    {
+      "name": "Code.org",
+      "description": "https://t.co/Eo54isB4By is a nonprofit dedicated to giving every student in every school the opportunity to learn computer science. Anybody can learn!",
+      "id": "850107536",
+      "username": "codeorg"
+    },
+    {
+      "name": "CSEdWeek",
+      "description": "Computer Science Education Week recognizes the transformative role of computing and the need to bolster computer science at all educational levels.",
+      "id": "84662571",
+      "username": "CSEdWeek"
+    },
+    {
+      "name": "Code for America",
+      "description": "Government can work for the people, by the people, in the digital age. Let’s make it work for everyone.",
+      "id": "64482503",
+      "username": "codeforamerica"
+    },
+    {
+      "name": "Kentucky YMCA",
+      "description": "Home to KY\u0027s model government, model United Nations, and character development conferences for teens. \n#KYA #KUNA #YCORPS #LTC #GFI\n#ForAll",
+      "id": "191114634",
+      "username": "KYYMCA"
+    },
+    {
+      "name": "Congressional App Challenge",
+      "description": "We are the U.S. House of Representative\u0027s official coding competition. We promote STEM by inspiring our nation’s youth coding talent.??????",
+      "id": "1225814342",
+      "username": "CongressionalAC"
+    },
+    {
+      "name": "Phil Pendleton",
+      "description": "News Reporter for WKYT/WYMT, author of 5 books. Husband and father. Lover of Christian rock and action movies. Tweets are mine. Jeremiah 29:11",
+      "id": "164289630",
+      "username": "philtvnews"
+    },
+    {
+      "name": "EDA",
+      "description": "EDA is an agency within the U.S. Department of Commerce that partners with U.S. communities to foster job creation and innovation. Led by @AsstSecCastillo.",
+      "id": "259403099",
+      "username": "US_EDA"
+    },
+    {
+      "name": "Earl F. Gohl",
+      "description": "former Federal Co Chairman Appalachian Regional Commission",
+      "id": "127863529",
+      "username": "efgohl"
+    },
+    {
+      "name": "REC Foundation",
+      "description": "Providing educators hands-on, student-led competition programs \u0026 educational resources for a diverse \u0026 inclusive STEM workforce.",
+      "id": "1068154166",
+      "username": "REC_Foundation"
+    },
+    {
+      "name": "Kentucky SHAPE",
+      "description": "Kentucky SHAPE  - “Teaching Students to Thrive for Life” via Health \u0026 PE Literacy - Pres @gavinwashington Pres-Elect @lporterPE  Past-Pres @walker1Hpe",
+      "id": "316152352",
+      "username": "KY_SHAPE"
+    },
+    {
+      "name": "PowerPost",
+      "description": "News about Washington decision-makers and home to The Daily 202 morning brief: http://t.co/e7jTt0ywUj.",
+      "id": "3086975121",
+      "username": "PowerPost"
+    },
+    {
+      "name": "Jamie Sparks",
+      "description": "National School Health Program Manager for @ETRorg; @KY_SHAPE Executive Director; 2019-20 @SHAPE_America President, forever supporting #HealthMovesMinds!",
+      "id": "288769450",
+      "username": "JamieSparksWSCC"
+    },
+    {
+      "name": "VEX Robotics",
+      "description": "Official #VEXRobotics Twitter page. Providing the tools to inspire the problem solvers of tomorrow.  #VEX123 #VEXGO #VEXIQ #VEXV5 #VEXpro #VEXcodeVR #omgrobots",
+      "id": "18910666",
+      "username": "VEXRobotics"
+    },
+    {
+      "name": "PLTW KY",
+      "description": "The Official Twitter of Kentucky Project Lead The Way",
+      "id": "2228916942",
+      "username": "PLTW_KY"
+    },
+    {
+      "name": "Rex Bolinger",
+      "description": "Head of Strategic Partnerships - Modern Classrooms Project; GFEL\u0027s 2021 Top 100 Ed Leaders; Milken National Educator; BSU Alumnus of the Year; Student Advocate",
+      "id": "557963308",
+      "username": "rex_bolinger"
+    },
+    {
+      "name": "PC Physics, Rockets",
+      "description": "High School Physics, Robots and Rockets",
+      "id": "2187313281",
+      "username": "PCPhysics"
+    },
+    {
+      "name": "Vince Bertram",
+      "description": "NYT Best Selling Author | Global Leader, Consultant \u0026 Speaker on Education, Innovation \u0026 Career Learning | Lifelong Champion for Student Success",
+      "id": "137150910",
+      "username": "vincebertram"
+    },
+    {
+      "name": "National Blue Ribbon",
+      "description": "Official recognition program of the US Department of Education, not to be confused with any non-governmental program. Tweets do not imply USDE endorsement.",
+      "id": "1227832782",
+      "username": "NatlBlueRibbon"
+    },
+    {
+      "name": "The Chronicle of Higher Education",
+      "description": "The leading news source for higher education. Get our newsletters: https://t.co/zfAnZfGsHc",
+      "id": "12413032",
+      "username": "chronicle"
+    },
+    {
+      "name": "ACTC",
+      "description": "A two-year college serving the Ashland area since 1938. Go close to home and without giant loans. #Go2ACTC",
+      "id": "22621979",
+      "username": "ACTC"
+    },
+    {
+      "name": "Mountain Parkway",
+      "description": "This account is dedicated to sharing the latest updates about the Mountain Parkway Expansion.",
+      "id": "2497013460",
+      "username": "mtnparkway"
+    },
+    {
+      "name": "Ways and Means GOP",
+      "description": "Official account of the Senior Committee, with jurisdiction over tax, trade, health care, welfare, and Social Security. ||  Republican Leader, @RepKevinBrady.",
+      "id": "12788332",
+      "username": "WaysandMeansGOP"
+    },
+    {
+      "name": "kyhealthnow",
+      "description": "advancing our state of wellness",
+      "id": "2332429850",
+      "username": "kyhealthnow"
+    },
+    {
+      "name": "Matthew Mitchell",
+      "description": "From Louisville, Miss., to Lexington, Ky. The Journey continues...don\u0027t stop believin\u0027.",
+      "id": "35811464",
+      "username": "UKCoachMitchell"
+    },
+    {
+      "name": "Mark Stoops",
+      "description": "Official Page of Kentucky Head Football Coach Mark Stoops",
+      "id": "972106194",
+      "username": "UKCoachStoops"
+    },
+    {
+      "name": "Mitch Barnhart",
+      "description": "Athletics Director at the University of Kentucky",
+      "id": "140244186",
+      "username": "UKMitchBarnhart"
+    },
+    {
+      "name": "KY Center for Statistics",
+      "description": "Informing Kentuckians through data in education, workforce, health, and more. Retweet to help spread the info!",
+      "id": "3177025900",
+      "username": "kystats"
+    },
+    {
+      "name": "Morehead State Football",
+      "description": "The official Twitter account of the Morehead State University Football Team. #SoarHigher #BuildTheNest https://t.co/QM4t4rZELS…",
+      "id": "799469587",
+      "username": "MSUEaglesFB"
+    },
+    {
+      "name": "Kentucky Athletics",
+      "description": "The official Twitter account of the University of Kentucky Athletics Department. Facebook: Kentucky Wildcats; Instagram: ukathletics; #WeAreUK #BlueGetsIn #BBN",
+      "id": "24929053",
+      "username": "UKAthletics"
+    },
+    {
+      "name": "CoachCal.com",
+      "description": "The latest news from https://t.co/AcacbmWdFa, the official website of UK basketball coach John Calipari. Instagram: coachcaldotcom",
+      "id": "355556237",
+      "username": "CoachCalDotCom"
+    },
+    {
+      "name": "UK Sports Network",
+      "description": "The official multimedia partner of @UKAthletics, a division of @JMISports.",
+      "id": "282571492",
+      "username": "UKSportsNetwork"
+    },
+    {
+      "name": "Dave Buzz Baker",
+      "description": "@WKYT Sportscaster \nand Senior Marketing Consultant\n\n NCAA PxP @UKSportsNetwork \u0026 @SECNetwork \n Hometown: Franklin, OH",
+      "id": "36747734",
+      "username": "buzzbaker"
+    },
+    {
+      "name": "Rob Bromley",
+      "description": "Sports anchor at WKY-TV, Lexington, KY for more than 40 years.  Retired Oct. 1, 2017.",
+      "id": "42650867",
+      "username": "robbromleywkyt"
+    },
+    {
+      "name": "Max Wise",
+      "description": "KY State Senator, Econ Dev Chair, Lt Gov candidate @KellyCraftKY, Security/Intel Instructor @UK_Patterson, Catholic/Christian, husband to 1, father to 4, Irish",
+      "id": "40327767",
+      "username": "maxwellwise"
+    },
+    {
+      "name": "Pikeville HS Panther Football",
+      "description": "The Official Twitter of Pikeville High School Panther Football. 2022 Class A State Champions. 26X Region Champions. 7X Class A State Champions #HailPikeville",
+      "id": "2470134325",
+      "username": "PikevilleHSFB"
+    },
+    {
+      "name": "Brian Milam",
+      "description": "WKYT Sports Director, ?? trivia buff, KY HS sports historian, proud Butler Bear, Morehead State Eagle, Whitey-Ball junkie, stretch a double to a triple! ??",
+      "id": "26245496",
+      "username": "brianwkyt"
+    },
+    {
+      "name": "Joe Arnold",
+      "description": "VP of Strategic Communications, Kentucky Electric Cooperatives. Kentucky Living magazine. Former WHAS-TV Political Editor, WHAS Radio",
+      "id": "81499633",
+      "username": "joearnoldreport"
+    },
+    {
+      "name": "Joe Arnold",
+      "description": "Political updates \u0026 reporting on life in Kentucky for Kentucky Living magazine, VP of Strategic Communications at Kentucky Association of Electric Cooperatives",
+      "id": "958338876",
+      "username": "KyLivingJoe"
+    },
+    {
+      "name": "John Boel",
+      "description": "Author, 99 Emmys, 14 Murrows, 13 Ironman Tri finishes, 1 book, 1 wonderful family, and lots of fish photos",
+      "id": "453910733",
+      "username": "JohnBoelWAVE3"
+    },
+    {
+      "name": "WRCastleFire",
+      "description": "Volunteer fire \u0026 rescue department in Johnson County, Kentucky",
+      "id": "2230335152",
+      "username": "WRCastleFire"
+    },
+    {
+      "name": "Lee K. Howard",
+      "description": "Sports Anchor/Reporter for CBS in Lexington Ky. I went pro in something other than sports, but I still get paid to talk about them! Christian.Husband.Father",
+      "id": "27059989",
+      "username": "HowardWKYT"
+    },
+    {
+      "name": "susan swain",
+      "description": "longtime @CSPAN exec, also host of C-SPAN’s Q\u0026A series, co-editor “The Presidents;” editor “First Ladies” both published by PublicAffairs",
+      "id": "552044121",
+      "username": "cspanSusan"
+    },
+    {
+      "name": "Rachael Bade",
+      "description": "Author of \"UNCHECKED\" \u0026 @Politico @PlaybookDC. @CNN Political Analyst.  WaPo alum. Ex-ballerina. Email tips: RBade@politico.com",
+      "id": "167024520",
+      "username": "rachaelmbade"
+    },
+    {
+      "name": "Daniel Newhauser",
+      "description": "Freelance reporter || https://t.co/UqVW5UpyCI\n\nAs seen in: @TheAtlantic, @TheDailyBeast, @Politico, @RollCall, @ViceNews etc.\n \nSignal: 202/573-0803",
+      "id": "13067732",
+      "username": "dnewhauser"
+    },
+    {
+      "name": "Jeremy Art",
+      "description": "@CSPAN Social Media Senior Specialist. Mark Knoller, Bruce Springsteen \u0026 Seth Rogen retweeted me once. It\u0027s all been downhill from there.",
+      "id": "183667282",
+      "username": "cspanJeremy"
+    },
+    {
+      "name": "Morehead State Athletics",
+      "description": "The official Twitter account of Morehead State Athletics. #SoarHigher",
+      "id": "54914724",
+      "username": "MSUEagles"
+    },
+    {
+      "name": "Pinnacle Roofing",
+      "description": "Husband. Father. Follower. Call 859-800-ROOF for free inspection",
+      "id": "821540450",
+      "username": "PinnacleKY"
+    },
+    {
+      "name": "KYEM",
+      "description": "KY Division of Emergency Management. This site is not monitored 24/7. In case of an emergency, dial 9-1-1.  Comment policy: https://t.co/O4F6PraDNX….",
+      "id": "19290585",
+      "username": "KentuckyEM"
+    },
+    {
+      "name": "Ellen Williams",
+      "description": "Ellen Williams, LLC, is a consulting and government relations firm specializing in all aspects of Government and politics in Kentucky.",
+      "id": "908510887",
+      "username": "EwilliamsEllen"
+    },
+    {
+      "name": "Mashable",
+      "description": "Mashable is for superfans. We\u0027re not for the casually curious. Obsess with us.",
+      "id": "972651",
+      "username": "mashable"
+    },
+    {
+      "name": "VentureBeat",
+      "description": "Obsessed with covering transformative technology.",
+      "id": "60642052",
+      "username": "VentureBeat"
+    },
+    {
+      "name": "Mashable - Startups",
+      "description": "Mashable (@mashable) Startups News and information from http://t.co/VvDMH0JtWJ",
+      "id": "182055312",
+      "username": "mashstartups"
+    },
+    {
+      "name": "Joshua Ball",
+      "description": "COO at SOAR. Doctoral Candidate at University of the Cumberlands, and Morehead State grad. Connoisseur of chicken wings. Opinions are my own. #appalachia",
+      "id": "512255077",
+      "username": "J_BallScribe"
+    },
+    {
+      "name": "Eddy Coleman",
+      "description": "",
+      "id": "73257184",
+      "username": "EddyColeman"
+    },
+    {
+      "name": "Ryan Adams",
+      "description": "Assignment Editor @WYMT",
+      "id": "2959765052",
+      "username": "RyanWYMT"
+    },
+    {
+      "name": "Young Entrepreneur®",
+      "description": "Seize the moment. Change the world. Part of the @Entrepreneur family.",
+      "id": "278691695",
+      "username": "YoungEnt"
+    },
+    {
+      "name": "Entrepreneur",
+      "description": "Inspiring, informing and celebrating entrepreneurs.",
+      "id": "19407053",
+      "username": "Entrepreneur"
+    },
+    {
+      "name": "Forbes",
+      "description": "Official account of Forbes, the world’s leading voice for entrepreneurial success and free enterprise, and home to breaking news, business, money and more.",
+      "id": "91478624",
+      "username": "Forbes"
+    },
+    {
+      "name": "Businessweek",
+      "description": "Covering the business world like no one else.\nSubscribe here: https://t.co/azBwR9LmQS \nRead The Crypto Story: https://t.co/LpYLitaNA9\nBw Daily: https://t.co/2ntK5Q4bo8",
+      "id": "67358777",
+      "username": "BW"
+    },
+    {
+      "name": "Michael T. Benson",
+      "description": "President \u0026 Professor of History @CCUChanticleers // Former President @SnowCollege @SUUtbirds @EKU // Author of \"Daniel Coit Gilman\" @JHUPress available now",
+      "id": "2171268564",
+      "username": "michaeltbenson"
+    },
+    {
+      "name": "KCTCS OPDI",
+      "description": "Office for Professional Development and Innovation",
+      "id": "1886561442",
+      "username": "KCTCSOPDI"
+    },
+    {
+      "name": "EKU Center",
+      "description": "Central Kentucky\u0027s Premier Entertainment \u0026 Arts Destination",
+      "id": "281589708",
+      "username": "EKUCenter"
+    },
+    {
+      "name": "Morehead NewsCenter",
+      "description": "Official Twitter for MSU-TV\u0027s longest running series, NewsCenter. Airs LIVE Thursdays at 5pm on Morehead State\u0027s on campus station, MSU-TV Channel 85!",
+      "id": "371406979",
+      "username": "MSU_NewsCenter"
+    },
+    {
+      "name": "Alix Casper-Peak",
+      "description": "@WYMT Bureau Chief / WKU Grad 2014 / Feel free to email me at alix.casper-peak@wymt.com",
+      "id": "2842407475",
+      "username": "alixwymt"
+    },
+    {
+      "name": "TransformEdKY",
+      "description": "Transform Education Kentucky transforms education by piloting and scaling innovations.",
+      "id": "1347259309",
+      "username": "TransformEdKY"
+    },
+    {
+      "name": "KyEdDev",
+      "description": "#KyEdDev",
+      "id": "1144067497",
+      "username": "KyEdDev"
+    },
+    {
+      "name": "Commissioner, Kentucky Department of Education",
+      "description": "Official Twitter account of Kentucky\u0027s Education Commissioner. Includes archived tweets from previous commissioners. See @KyDeptofEd for all KDE news. #KyEd",
+      "id": "58607988",
+      "username": "kycommissioner"
+    },
+    {
+      "name": "Kentucky Education and Labor Cabinet",
+      "description": "The Education and Labor cabinet provides leadership to foster opportunities for lifelong learning and training for the benefit of the commonwealth.",
+      "id": "912591582",
+      "username": "KyEdandLabor"
+    },
+    {
+      "name": "KY Dept of Education",
+      "description": "#TeamKDE provides resources + guidance to KY\u0027s public schools + districts as they implement the state\u0027s K-12 education requirements. RTs + likes ? endorsements.",
+      "id": "277068270",
+      "username": "KyDeptofEd"
+    },
+    {
+      "name": "KHEAA",
+      "description": "KEES? CAP? Work Ready KY and Dual Credit Scholarships? That\u0027s what we do! (And much more!) We\u0027re Kentucky\u0027s official financial aid resource.",
+      "id": "45903117",
+      "username": "KHEAA"
+    },
+    {
+      "name": "CPE News",
+      "description": "Kentucky Council on Postsecondary Education News. Goal: Increasing education attainment to 60% with a certificate or degree by 2030 because #KYHigherEdMatters.",
+      "id": "365055734",
+      "username": "CPENews"
+    },
+    {
+      "name": "Dr. Paul Czarapata",
+      "description": "President @KCTCS. Focusing on student success to develop a better educated workforce for KY.",
+      "id": "759578570",
+      "username": "KCTCSPresident"
+    },
+    {
+      "name": "KCTCS",
+      "description": "Kentucky Community \u0026 Technical College System (KCTCS) serves over 100,000 students at 16 colleges located on 70+ campuses across Kentucky.",
+      "id": "188304761",
+      "username": "KCTCS"
+    },
+    {
+      "name": "NWS Jackson KY",
+      "description": "Official Twitter account for the National Weather Service in Jackson, KY. Details: https://t.co/xNMZp3SSXt",
+      "id": "605603344",
+      "username": "nwsjacksonky"
+    },
+    {
+      "name": "Doug Klein",
+      "description": "",
+      "id": "734145775",
+      "username": "UKy_Klein"
+    },
+    {
+      "name": "Mark Harrell",
+      "description": "?@UofLCEHD Faculty ? Undefeated in side yard kickball 2021?@KentuckyTSA State Advisor?Can Internet?Occasional ????Rants?Tweets are mine",
+      "id": "393380629",
+      "username": "Harrell_STEM"
+    },
+    {
+      "name": "Brad Thomas",
+      "description": "?Kentucky #RuralEconomicDevelopment #MiaSanMia",
+      "id": "2786405639",
+      "username": "BradKTEC"
+    },
+    {
+      "name": "Southeast",
+      "description": "This is the official SKCTC Twitter account. Follow us for the latest info on what\u0027s going on at Southeast!",
+      "id": "377398353",
+      "username": "KctcsSoutheast"
+    },
+    {
+      "name": "Brandon Robinson",
+      "description": "AM Forecaster at @WYMT. Married to @Steph_0322. Cancer Survivor (Twice). Loves: Peanuts, Star Trek, Christmas \u0026 BT\u0027s named Linus.",
+      "id": "19655568",
+      "username": "brobwx"
+    },
+    {
+      "name": "Mardi Montgomery",
+      "description": "Retired; Tweets are mine.",
+      "id": "835470613",
+      "username": "MontgomeryMardi"
+    },
+    {
+      "name": "Van Breeding MD",
+      "description": "2017 Staff Care\u0027s Country Doctor of the Year. Engaging patients to Achieve Long Term Health. #kentuckyhealth.",
+      "id": "307081366",
+      "username": "VANBREEDINGMD"
+    },
+    {
+      "name": "KY News Network",
+      "description": "",
+      "id": "3285796651",
+      "username": "KYNewsNet"
+    },
+    {
+      "name": "Wendy Rutherford?",
+      "description": "spoiled wife, mom of 4, middle/high principal, MSU, Union \u0026 Asbury Alum, ???, H-D rider, cancer fighter, believer. Col. 3:23 #whateverittakes",
+      "id": "403856399",
+      "username": "wendyjmadden"
+    },
+    {
+      "name": "Lindsay Johnson",
+      "description": "?National Board Certified Teacher (9th and 12th grade English) ?Wife ?Momma ?MSU ALP Teacher Consultant  ??DYW committee ?Sadie Show production manager ?",
+      "id": "2753618112",
+      "username": "rcshsmrsjohnson"
+    },
+    {
+      "name": "KYTC Scholarship",
+      "description": "The Kentucky Transportation Cabinet\u0027s scholarship programs available to Kentucky residents in civil engineering and civil engineering technology.",
+      "id": "3364656465",
+      "username": "KYTCScholarship"
+    },
+    {
+      "name": "Sundy Best",
+      "description": "?",
+      "id": "218547022",
+      "username": "SundyBest"
+    },
+    {
+      "name": "Hillary Thornton Smith",
+      "description": "Wife \u0026 mom?????| @universityofky Public Relations Officer | recovering TV news reporter @WKYT @WYMT | Georgetown College Grad | Kentucky born \u0026 raised",
+      "id": "972632749",
+      "username": "HillaryUKPR"
+    },
+    {
+      "name": "Angela Reighard",
+      "description": "",
+      "id": "3229852476",
+      "username": "AngelaReighard"
+    },
+    {
+      "name": "Brandon Orr",
+      "description": "Meteorologist, News Reporter, and host of Backroads on WYMT-TV. Penn State Meteorology Grad! Virginia Beach raised.",
+      "id": "1965088213",
+      "username": "BrandonOrrWYMT"
+    },
+    {
+      "name": "HLpublicsafety",
+      "description": "We cover public safety stuff - police, fire \u0026 more - for the Lexington Herald-Leader/Kentucky.com. We made #lexingtonpolicescanner trend.",
+      "id": "15626350",
+      "username": "HLpublicsafety"
+    },
+    {
+      "name": "Rep. Doug Lamborn",
+      "description": "Honored to represent Colorado\u0027s 5th District | Member of @HASCRepublicans and @NatResources | Twitter user policy: https://t.co/iJctUiREMe",
+      "id": "584012853",
+      "username": "RepDLamborn"
+    },
+    {
+      "name": "Matt Bevin",
+      "description": "Grateful American ??",
+      "id": "1404269089",
+      "username": "MattBevin"
+    },
+    {
+      "name": "Mike Murphy",
+      "description": "Infuriated GOP Strategist. Co-director @USCPolFuture. OG Trump hater. Hollywood writer/prod. Co-Host @HacksOnTap podcast NBC Analyst. RT not endorsement",
+      "id": "20786801",
+      "username": "murphymike"
+    },
+    {
+      "name": "Ralph Davis",
+      "description": "Appalachian journalist",
+      "id": "16048731",
+      "username": "rbdavis3"
+    },
+    {
+      "name": "EKB-TV",
+      "description": "",
+      "id": "3124290910",
+      "username": "EKBTV_NEWS"
+    },
+    {
+      "name": "Scripps National Spelling Bee",
+      "description": "By inspiring the exploration of words, the Bee illuminates pathways to lifelong curiosity, celebrates academic achievement and enriches communities #spellingbee",
+      "id": "24189067",
+      "username": "ScrippsBee"
+    },
+    {
+      "name": "Jacqueline Pitts",
+      "description": "Senior Vice President of Communications and Marketing @KyChamber and Managing Editor of The Bottom Line news site.",
+      "id": "1148177071",
+      "username": "JacquelinePitts"
+    },
+    {
+      "name": "Laura Meckler",
+      "description": "National education writer at the Washington Post. Proud alum of @WSJ and @AP. Email me at laura.meckler@washpost.com",
+      "id": "21797658",
+      "username": "laurameckler"
+    },
+    {
+      "name": "US Capitol Historical Society",
+      "description": "The US Capitol Historical Society is a 501(c)3 founded in 1962 \u0026 chartered by Congress in 1978 to educate the public on the history \u0026 heritage of the US Capitol",
+      "id": "52779839",
+      "username": "CapitolHistory"
+    },
+    {
+      "name": "KY Fiscal Courts",
+      "description": "The Kentucky Magistrates \u0026 Commissioners Association, formed in 1952, proudly serves as the unified voice for all of Kentucky’s Fiscal Courts.",
+      "id": "776445836",
+      "username": "KYFiscalCourts"
+    },
+    {
+      "name": "AmeriCorps VISTA",
+      "description": "AmeriCorps brings people together to serve communities. AmeriCorps VISTA has been lifting people out of poverty since 1965.",
+      "id": "59880071",
+      "username": "AmeriCorpsVISTA"
+    },
+    {
+      "name": "AmeriCorps",
+      "description": "By bringing people together to serve communities, AmeriCorps makes service to others an indispensable part of the American experience.",
+      "id": "17967675",
+      "username": "AmeriCorps"
+    },
+    {
+      "name": "Kentucky Performing Arts",
+      "description": "Building lifelong relationships with the arts | @thebrowntheatre | @KyCtrArts | #OldForester’s @ParistownHall | #KentuckyPerformingArts | ??????",
+      "id": "15600350",
+      "username": "kyperformingart"
+    },
+    {
+      "name": "Voices for Service",
+      "description": "Coalition of national service organizations, state commissions, and personal champions committed to advocating for the power of service. #nationalservice",
+      "id": "254217041",
+      "username": "Voices4Service"
+    },
+    {
+      "name": "Serve America Together",
+      "description": "A campaign to make national service part of growing up in America. \n\nProject of @ServiceYear.\nCoalition: https://t.co/AbIB1lhZmO",
+      "id": "11379362",
+      "username": "ServeUSA2gether"
+    },
+    {
+      "name": "Franklin Graham",
+      "description": "Official Twitter account for the President of Samaritan\u0027s Purse and the Billy Graham Evangelistic Association. Opinions stated are my own.",
+      "id": "44945327",
+      "username": "Franklin_Graham"
+    },
+    {
+      "name": "Shae Hopkins",
+      "description": "",
+      "id": "45591130",
+      "username": "ShaeHop"
+    },
+    {
+      "name": "Anna Edney",
+      "description": "National health care reporter for Bloomberg News. Of course, tweets are my own, RTs are not endorsements.",
+      "id": "57124794",
+      "username": "annaedney"
+    },
+    {
+      "name": "Arian Campo-Flores",
+      "description": "Reporter for the Wall Street Journal, covering Florida, the Southeast and the Caribbean.\r\nEmail: arian.campo-flores@wsj.com",
+      "id": "214190858",
+      "username": "acampoflores"
+    },
+    {
+      "name": "CJ Arlotta",
+      "description": "B2B PR consultant. IT channel. Lodging. Occasionally, I’ll write about a cocktail or two.",
+      "id": "236756008",
+      "username": "cjarlotta"
+    },
+    {
+      "name": "IdeaFestival",
+      "description": "Stay Curious",
+      "id": "14957119",
+      "username": "ideafestival"
+    },
+    {
+      "name": "Steve West",
+      "description": "Husband to @cindywest10, Father, Cattle Farmer, Real Estate Attorney \u0026 State Senator representing KY\u0027s 27th Senatorial District.",
+      "id": "3107499705",
+      "username": "SteveWestKY"
+    },
+    {
+      "name": "KHSAA Main",
+      "description": "The official Twitter of the Kentucky High School Athletic Association, which sanctions 51 state championships in 13 sports and six sport-activities.",
+      "id": "41572605",
+      "username": "KHSAA"
+    },
+    {
+      "name": "David Colton",
+      "description": "Onward proudly from USA TODAY. Writes sometimes, frets always. Retweets are fun but reporting is better.",
+      "id": "822208873",
+      "username": "DColtonNow"
+    },
+    {
+      "name": "Donna Leinwand Leger",
+      "description": "Communicator, writer, editor. Past: chair of @NatPress, Managing editor of @USATODAY, National Press Club prez, reporter. Wine lover. Media leader #WEF18",
+      "id": "17027394",
+      "username": "DonnaLeinwand"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "APhA HQ",
+      "description": "For Every Pharmacist.\nFor All of Pharmacy.",
+      "id": "153488664",
+      "username": "pharmacists"
+    },
+    {
+      "name": "WYMT SportsOT",
+      "description": "Appalachian Wireless Sports Overtime airs on WYMT during football and basketball season. Fri @ 11:10p, Sat @ 11:20p",
+      "id": "61580292",
+      "username": "SportsOT"
+    },
+    {
+      "name": "UPIKE Athletics",
+      "description": "Official Twitter feed of the University of Pikeville Bears. We Are #BearNation ?",
+      "id": "601538810",
+      "username": "UPIKEAthletics"
+    },
+    {
+      "name": "Union College",
+      "description": "Think big about a small school. Think Union.",
+      "id": "20932925",
+      "username": "UnionCollegeKY"
+    },
+    {
+      "name": "Terry Meiners ™?",
+      "description": "talk show host @840WHAS @iHeartRadio | https://t.co/bd6YRS8xCT | pathological flyer ?? RTs ? agreement #BeLove?? #GoPackGo? | St. Stephen Martyr HOF ?",
+      "id": "31863399",
+      "username": "terrymeiners"
+    },
+    {
+      "name": "WHAS11 News",
+      "description": "@WHAS11 News delivers news and information that resonates with Kentuckians and Hoosiers on multiple platforms. https://t.co/MbwzeEaknJ | News tips: assign@https://t.co/MbwzeEaknJ",
+      "id": "20563513",
+      "username": "WHAS11"
+    },
+    {
+      "name": "WAVE",
+      "description": "#WAVENews is the NBC affiliate in #Louisville. We are your station for breaking news, breaking weather and breaking investigations in #Kentucky \u0026 #Indiana.",
+      "id": "16362924",
+      "username": "wave3news"
+    },
+    {
+      "name": "Washington Examiner",
+      "description": "Political news and commentary from the Washington Examiner. https://t.co/IV2haseKib\n\n#RestoringAmerica",
+      "id": "18956073",
+      "username": "dcexaminer"
+    },
+    {
+      "name": "Kentucky Economic Development Cabinet",
+      "description": "Many of the world’s most successful companies have discovered Kentucky is a great place to build business. Want to hear more? We’re happy to spread the word.",
+      "id": "254236318",
+      "username": "CEDkygov"
+    },
+    {
+      "name": "Prime Minister of Israel",
+      "description": "The official Twitter account of the Office of the Prime Minister of Israel ??",
+      "id": "141084952",
+      "username": "IsraeliPM"
+    },
+    {
+      "name": "Israel Foreign Ministry",
+      "description": "?? Official twitter channel of Israel\u0027s Ministry of Foreign Affairs Facebook https://t.co/sTADw755FH Instagram https://t.co/6wCfe4r9Lx",
+      "id": "85796380",
+      "username": "IsraelMFA"
+    },
+    {
+      "name": "Benjamin Netanyahu - ?????? ??????",
+      "description": "??? ?????? ????? ?????? https://t.co/jjO4V91WG1",
+      "id": "17061263",
+      "username": "netanyahu"
+    },
+    {
+      "name": "Republican Cloakroom",
+      "description": "This feed provides live Floor and voting updates. Operated by the Republican Leader’s Office.",
+      "id": "1137600571",
+      "username": "RepCloakroom"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "Susan Watts",
+      "description": "DPP, Federal Programs Coordinator \u0026 Innovation Coordinator for Breathitt County Schools.",
+      "id": "2707124976",
+      "username": "BCS_DPP"
+    },
+    {
+      "name": "Partnership 4 Change",
+      "description": "Inspiring community well-being.",
+      "id": "66331540",
+      "username": "PFC_MN"
+    },
+    {
+      "name": "Pramod Raj Sedhain",
+      "description": "A keen learner interested in #CounterTerrorism, #Geopolitics, #Defense, #Diplomacy \u0026 #Security Affairs.",
+      "id": "246089288",
+      "username": "pramodsedhain"
+    },
+    {
+      "name": "Bonnie K. Goodman",
+      "description": "BA (#History, #ArtHistory), MLIS @McGillU @Concordia (#Judaic St.) #Librarian, #Historian, \u0026 #Artist/ Fmr @myHNN Editor, Reporter @Examiner/ #Jewish #Israel #US",
+      "id": "33095115",
+      "username": "historyeditor"
+    },
+    {
+      "name": "Rock the Vote",
+      "description": "Building political power for young voters #RockTheVote",
+      "id": "15941955",
+      "username": "RockTheVote"
+    },
+    {
+      "name": "SAMHSA",
+      "description": "Official account Substance Abuse and Mental Health Services Admin.\nBehavioral Health Tx https://t.co/09X3TWQx9L \nPrivacy Policy https://t.co/lglQUfj26L RT ? endorsement",
+      "id": "24959108",
+      "username": "samhsagov"
+    },
+    {
+      "name": "NIDAnews",
+      "description": "Official Twitter account of the National Institute on Drug Abuse.\nComment Policy: https://t.co/xil1u9lgW6\nContact NIDA: https://t.co/X3H6sN1Xl6\nFollow/Like/RT?endorsement.",
+      "id": "102234123",
+      "username": "NIDAnews"
+    },
+    {
+      "name": "Dave Trott",
+      "description": "This is an archive account of former Representative for Michigan’s 11th Congressional District, Dave Trott.",
+      "id": "2869746172",
+      "username": "MIDaveTrott"
+    },
+    {
+      "name": "Buddy Carter",
+      "description": "Proudly serving Georgia\u0027s 1st Congressional District  \n      \n?Sign up for my e-newsletter?",
+      "id": "2973870195",
+      "username": "RepBuddyCarter"
+    },
+    {
+      "name": "Rick W. Allen",
+      "description": "Proudly representing Georgia\u0027s 12th Congressional District",
+      "id": "2964287128",
+      "username": "RepRickAllen"
+    },
+    {
+      "name": "John Ratcliffe",
+      "description": "The nation’s top intelligence official as the 6th Director of National Intelligence of the United States. Former Member of Congress and U.S. Attorney for Texas.",
+      "id": "2847221717",
+      "username": "JohnRatcliffe"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Rep. Sandy Levin",
+      "description": "Former Member of Congress from Michigan. Now at the U of M Ford School of Public Policy. Family, writing and politics keep me busy. Fan of opera and hockey",
+      "id": "25781141",
+      "username": "repsandylevin"
+    },
+    {
+      "name": "Rep. Bruce Poliquin",
+      "description": "Proudly Serving Maine\u0027s Second Congressional District",
+      "id": "2932617195",
+      "username": "RepPoliquin"
+    },
+    {
+      "name": "Renee Shaw",
+      "description": "@KET Director of Public Affairs and Moderator @kytonightKET, Evening Edition, Connections, Legislative \u0026 Election Coverage ??/ RTs necessarily ? endorsements",
+      "id": "342298824",
+      "username": "ReneeKET"
+    },
+    {
+      "name": "Sen. Approps Dems",
+      "description": "News and information from the U.S. Senate Committee on Appropriations on behalf of Chairman @SenatorLeahy.",
+      "id": "352534407",
+      "username": "SenateApprops"
+    },
+    {
+      "name": "Kerry Dooley Young ??",
+      "description": "Taking a break from Twitter. Find me on LinkedIn, Medium, Instagram, https://t.co/GAg9UuMGKa and maybe Mastodon.",
+      "id": "78623653",
+      "username": "KDooleyYoung"
+    },
+    {
+      "name": "FTV for Rep. Rogers",
+      "description": "Tweeting the Congressional votes of @RepHalRogers",
+      "id": "2456959248",
+      "username": "FTV_KY5"
+    },
+    {
+      "name": "Robert Stivers",
+      "description": "",
+      "id": "2205219831",
+      "username": "kysenatepres"
+    },
+    {
+      "name": "Brandon Smith",
+      "description": "",
+      "id": "1135178635",
+      "username": "Smithkysenate"
+    },
+    {
+      "name": "TN Valley Corridor",
+      "description": "Working Together in Support of One of America’s Top Science and Technology Regions https://t.co/KwJlDZ21NB",
+      "id": "82711742",
+      "username": "ValleyCorridor"
+    },
+    {
+      "name": "Robert Steurer",
+      "description": "Kentucky born \u0026 raised. DC now. @UofLAlum, @GoCards #L1C4, @Nationals \u0026 @DallasCowboys! ??",
+      "id": "2174852239",
+      "username": "RobertSteurer"
+    },
+    {
+      "name": "Philae Lander",
+      "description": "On 12 November 2014 I landed on comet #67P as part of @ESA_Rosetta. I am operated by @DLR_en\u0027s Lander Control Center LCC in Cologne.",
+      "id": "208442526",
+      "username": "Philae2014"
+    },
+    {
+      "name": "Johnathan Gay",
+      "description": "Counsel @ARCCenters. Prosecutor in #Appalachia KY. Fighting #fentanyl epidemic. Veteran-US Army. Advocate for foster/adoption. Collaborator- @PutinsVictims",
+      "id": "65021444",
+      "username": "KyJohnCGay"
+    },
+    {
+      "name": "Bill Estep",
+      "description": "I\u0027m a reporter for the Lexington Herald-Leader covering Southern and Eastern Kentucky.",
+      "id": "144981124",
+      "username": "billestep1"
+    },
+    {
+      "name": "The Morehead News",
+      "description": "Published since 1883, The Morehead News  brings you all the latest in Morehead and Rowan County news without fear or favor.",
+      "id": "546198088",
+      "username": "TheMoreheadNews"
+    },
+    {
+      "name": "Aerospace Industries",
+      "description": "Founded in 1919, the Aerospace Industries Association is the voice of the American aerospace \u0026 defense industry on critical national security \u0026 economic issues.",
+      "id": "71070614",
+      "username": "AIAspeaks"
+    },
+    {
+      "name": "Jen Hing",
+      "description": "Communications DIrector for the House Appropriations Committee  (@HouseAppropsGOP). Opinions are my own. Retweets or mentions do not equal endorsements.",
+      "id": "145271179",
+      "username": "Jennifer_Hing"
+    },
+    {
+      "name": "Matt Jones",
+      "description": "Host of KSR with 40 affiliates and NFL Preview show on ESPN Radio. Co-owner of KSBar and OVW Wrestling. Author of New York Times Bestseller, “Mitch, Please!”",
+      "id": "21920725",
+      "username": "KySportsRadio"
+    },
+    {
+      "name": "WKUR-FM 94.9",
+      "description": "WKUR-FM 94.9 is YOUR country road! Online stream coming soon to our website! So you can listen anywhere in the world!",
+      "id": "2750640506",
+      "username": "WKURFM"
+    },
+    {
+      "name": "KY Photo Archive",
+      "description": "Photos from the Lexington Herald-Leader / https://t.co/HqueVzq6nF archives",
+      "id": "2352214999",
+      "username": "KYPhotoArchive"
+    },
+    {
+      "name": "Highlands Autism",
+      "description": "The Highlands Center for Autism is a private, year-round day school located in Eastern Kentucky serving children from the earliest diagnosis through school age.",
+      "id": "92039033",
+      "username": "highlandsautism"
+    },
+    {
+      "name": "Eli Capilouto",
+      "description": "12th President of the University of Kentucky. #UKWildlyPossible",
+      "id": "292990275",
+      "username": "UKYpres"
+    },
+    {
+      "name": "MSPR - 90.3 FM",
+      "description": "Local news and program updates from Morehead State Public Radio (WMKY)",
+      "id": "45829185",
+      "username": "mspr903fm"
+    },
+    {
+      "name": "Nancy Hale",
+      "description": "",
+      "id": "1329108505",
+      "username": "nihale1956"
+    },
+    {
+      "name": "Storify",
+      "description": "Storify helps find the voices online that matter. Make the web tell a story. Co-founded by @burtherman and @xdamman. Now part of @Livefyre Support @storifyhelp",
+      "id": "17814938",
+      "username": "Storify"
+    },
+    {
+      "name": "Paul Bedard",
+      "description": "Washington Secrets and https://t.co/IMMs7JGxoV. Was USNews Washington Whispers, Washington Times White House correspondent. pbedard@washingtonexaminer.com",
+      "id": "18029328",
+      "username": "SecretsBedard"
+    },
+    {
+      "name": "Discovery",
+      "description": "We\u0027ll bring the ? to you.",
+      "id": "17842366",
+      "username": "Discovery"
+    },
+    {
+      "name": "National Geographic",
+      "description": "Taking our understanding and awareness of the world further for more than 130 years",
+      "id": "17471979",
+      "username": "NatGeo"
+    },
+    {
+      "name": "Kentuckians for Better Transportation",
+      "description": "KBT is the voice to educate and advocate for a safe and sustainable multi-modal transportation network that provides mobility across the Commonwealth for all.",
+      "id": "580577850",
+      "username": "KBT4AllModes"
+    },
+    {
+      "name": "CaseyFamilyPrograms",
+      "description": "Casey Family Programs is the nation\u0027s largest operating foundation focused on safely reducing the need for foster care.",
+      "id": "91230293",
+      "username": "CaseyPrograms"
+    },
+    {
+      "name": "National Museum of American History",
+      "description": "Open every day except December 25, from 10:00 a.m. to 5:30 p.m.  Visit our site to learn more and explore: https://t.co/UzeJSDqYyQ\n\nHost: Chris",
+      "id": "17366486",
+      "username": "amhistorymuseum"
+    },
+    {
+      "name": "Smithsonian",
+      "description": "We\u0027re not a museum. We\u0027re 21 of them! (Plus a zoo \u0026 9 research centers.) Find visiting info at https://t.co/DUhPwllAU8 | Legal: https://t.co/m1RRg3okOi",
+      "id": "14199378",
+      "username": "smithsonian"
+    },
+    {
+      "name": "The Medical Leader",
+      "description": "",
+      "id": "40034188",
+      "username": "medicalleader"
+    },
+    {
+      "name": "CMF",
+      "description": "The Congressional Management Foundation is a nonpartisan nonprofit organization dedicated to building trust and effectiveness in Congress.",
+      "id": "77017567",
+      "username": "congressfdn"
+    },
+    {
+      "name": "(((Melissa Fitzgerald)))",
+      "description": "Director,@_AllRise_ @Justice4Vets. Actorvist. I believe we all have the power to impact the world in a positive way. Opinions here are my own.",
+      "id": "359601344",
+      "username": "maffyfitz"
+    },
+    {
+      "name": "Joe Sonka ?",
+      "description": "I write about Kentucky government \u0026 politics for the 2020 Pulitzer Prize-winning @CourierJournal \u0026 @cjnewsguild. Should we talk about the government? Hi hi. Hi.",
+      "id": "14177553",
+      "username": "joesonka"
+    },
+    {
+      "name": "Rep. Stephen Lynch",
+      "description": "The official Twitter account of Congressman Stephen F. Lynch. Proudly serving the 8th Congressional District of Massachusetts.",
+      "id": "310310133",
+      "username": "RepStephenLynch"
+    },
+    {
+      "name": "AP Planner",
+      "description": "Highlights of upcoming events from the essential editorial planning tool. A paid service from The Associated Press \u0026 @Onclusive. For news updates follow @AP",
+      "id": "474232856",
+      "username": "AP_Planner"
+    },
+    {
+      "name": "Van Ingram",
+      "description": "Executive Director, Kentucky Office of Drug Control Policy",
+      "id": "1227614316",
+      "username": "VanLIngram"
+    },
+    {
+      "name": "Ada GiudiceTompson",
+      "description": "I am a bereaved Mom who lost my only child, Michael, to a narcotic prescribed by his doctor. Rx Opioids should be regulated and used in an evidence-based manner",
+      "id": "376809657",
+      "username": "AdaGiudiceTomps"
+    },
+    {
+      "name": "Medical Assn of GA",
+      "description": "With more than 8,000 members, the Medical Association of Georgia is the leading voice for #physicians in #Georgia. Tweets/retweets are not endorsements.",
+      "id": "36376149",
+      "username": "MAG1849"
+    },
+    {
+      "name": "Melanie Griffith",
+      "description": "check out https://t.co/3tleQDY67H",
+      "id": "438128416",
+      "username": "MelanieGriffith"
+    },
+    {
+      "name": "Pikeville Medical Center",
+      "description": "Follows/retweets do not equal endorsement.",
+      "id": "40055800",
+      "username": "pmcpikeville"
+    },
+    {
+      "name": "Rep. Debbie Wasserman Schultz",
+      "description": "U.S. Congresswoman proudly representing the people of Florida\u0027s 23rd District in our nation\u0027s capital. Text me: 954-866-9444",
+      "id": "1140648348",
+      "username": "RepDWStweets"
+    },
+    {
+      "name": "Adam Beam",
+      "description": "I write about California for the @AP. South Carolina native. Priors: @thestate; @thegamecock. Tell me things: abeam@ap.org.",
+      "id": "16960812",
+      "username": "adambeam"
+    },
+    {
+      "name": "Bill Gates",
+      "description": "Sharing things I\u0027m learning through my foundation work and other interests.",
+      "id": "50393960",
+      "username": "BillGates"
+    },
+    {
+      "name": "Melinda French Gates",
+      "description": "Philanthropist, businesswoman, \u0026 global advocate for women \u0026 girls. Co-chair of the @gatesfoundation. Founder of @pivotalventures. Author of The Moment of Lift.",
+      "id": "161801527",
+      "username": "melindagates"
+    },
+    {
+      "name": "Gates Foundation",
+      "description": "We are impatient optimists working to reduce inequity.",
+      "id": "17899109",
+      "username": "gatesfoundation"
+    },
+    {
+      "name": "Prichard Committee",
+      "description": "Building a #GroundswellKY for a #BigBoldFuture. #ExcellenceWithEquity #StrongStartKY Follow our President \u0026 CEO @Brigitte_Blom",
+      "id": "46124171",
+      "username": "prichardcom"
+    },
+    {
+      "name": "Heather Watson?? HerKentucky",
+      "description": "????Kentuckian, bourbon writer, storyteller.   Kentucky’s wacky aunt.",
+      "id": "379483542",
+      "username": "HerKentucky"
+    },
+    {
+      "name": "Niels Lesniewski",
+      "description": "CQ and Roll Call Chief Correspondent\n(Part of @fiscalnote)\nniels@cqrollcall.com \u0026 niels.lesniewski@protonmail.com\nYou can find me on other platforms, as well.",
+      "id": "140286364",
+      "username": "nielslesniewski"
+    },
+    {
+      "name": "Former Gov. Nathan Deal",
+      "description": "Nathan Deal served as the 82nd Governor of Georgia.",
+      "id": "217416964",
+      "username": "GovernorDeal"
+    },
+    {
+      "name": "GA AG Chris Carr",
+      "description": "This is the official Twitter account of the Georgia Attorney General\u0027s Office.",
+      "id": "234400240",
+      "username": "Georgia_AG"
+    },
+    {
+      "name": "NationalPTA",
+      "description": "The largest volunteer child advocacy association in the nation. \n\nShare your PTA story ? #PTAProud #HowWePTA",
+      "id": "14407823",
+      "username": "NationalPTA"
+    },
+    {
+      "name": "U.S. House History",
+      "description": "U.S. House History is the official Twitter account of the History, Art \u0026 Archives of the U.S. House of Representatives",
+      "id": "906782533",
+      "username": "USHouseHistory"
+    },
+    {
+      "name": "The Lane Report",
+      "description": "Kentucky’s Only Statewide Business Magazine.",
+      "id": "367396110",
+      "username": "TheLaneReport"
+    },
+    {
+      "name": "U.S. Department of Education",
+      "description": "The official United States Department of Education Twitter account. Follows, Retweets and shared links ? endorsement.",
+      "id": "20437286",
+      "username": "usedgov"
+    },
+    {
+      "name": "National Review",
+      "description": "Standing athwart history, yelling Stop. A magazine founded by the late William F. Buckley Jr. \nTo send tips: https://t.co/wH7mvUJZdI \nInstagram: NationalReview",
+      "id": "19417492",
+      "username": "NRO"
+    },
+    {
+      "name": "Trip Gabriel",
+      "description": "National Correspondent on the Politics desk at @nytimes. Former Styles editor. RTs \u003d Just spreading the news.",
+      "id": "39245720",
+      "username": "tripgabriel"
+    },
+    {
+      "name": "Ronnie Ellis",
+      "description": "",
+      "id": "74295254",
+      "username": "cnhifrankfort"
+    },
+    {
+      "name": "KET Public Affairs",
+      "description": "Public policy, state politics and legislative coverage from Kentucky Educational Television (@KET).",
+      "id": "19341761",
+      "username": "PubAffairsKET"
+    },
+    {
+      "name": "LEO Weekly News",
+      "description": "Louisville/KY politics \u0026 news updates from LEO Weekly,  Lville\u0027s alternative newsweekly since 1990. http://t.co/Fd4PN4alrh",
+      "id": "384412160",
+      "username": "LEOWeeklyNews"
+    },
+    {
+      "name": "Middlesboro Main St",
+      "description": "Revitalizing downtown Middlesboro, Kentucky, through grassroots community action since 2006. #LevittAMP #MusicMoves @NatlMainStreet @SavingPlaces",
+      "id": "84345431",
+      "username": "DDMBoro"
+    },
+    {
+      "name": "Dr. Jay Morgan",
+      "description": "14th President of Morehead State University",
+      "id": "196827006",
+      "username": "MSU_President"
+    },
+    {
+      "name": "Kentucky Nonprofit Network",
+      "description": "Your state association. Empowering Nonprofits. Strengthening Kentucky.",
+      "id": "21907448",
+      "username": "kynonprofits"
+    },
+    {
+      "name": "Matt Frassica @frassica@mas.to",
+      "description": "Maker of podcasts. Find me on Mastodon: @frassica@mas.to",
+      "id": "72168107",
+      "username": "mattfrassica"
+    },
+    {
+      "name": "Kris Maher",
+      "description": "Pittsburgh-based @WSJ reporter, covering U.S. news in a 13-state region. kris.maher@wsj.com",
+      "id": "435096427",
+      "username": "Kris_Maher"
+    },
+    {
+      "name": "KET",
+      "description": "KET is Kentucky’s statewide public television network, providing high-quality locally produced and @PBS programming and educational services.",
+      "id": "67411447",
+      "username": "KET"
+    },
+    {
+      "name": "kyforward",
+      "description": "Sign up for news updates at: http://t.co/fQ4mItR46y",
+      "id": "249716979",
+      "username": "kyforward"
+    },
+    {
+      "name": "Russ Cassady",
+      "description": "Catholic. Husband and father. Regional editor at Appalachian Newspapers (Pike, Floyd, Perry, Johnson and Mingo counties).",
+      "id": "15846757",
+      "username": "russcassady"
+    },
+    {
+      "name": "HuffPost Politics",
+      "description": "The latest political news from HuffPost\u0027s politics team.\n\nNeed help with HuffPost login or membership? Tweet @HuffPostSupport",
+      "id": "15458694",
+      "username": "HuffPostPol"
+    },
+    {
+      "name": "Veterans Benefits",
+      "description": "Official account for the Veterans Benefits Administration (VBA) Serving Veterans, Service members, and their families. Follows/Comments/RTs ? endorsement.",
+      "id": "83922884",
+      "username": "VAVetBenefits"
+    },
+    {
+      "name": "Veterans Affairs",
+      "description": "Official Twitter feed of the U.S. Department of Veterans Affairs. Following a Twitter user does not signify VA endorsement. \nhttps://t.co/PXoHs7whZL",
+      "id": "78408666",
+      "username": "DeptVetAffairs"
+    },
+    {
+      "name": "Philmonger",
+      "description": "Writer. Acerbic. Reporter. Radical. Editor. Truculent. Thinker. Incisive. Citizen. Cynic. Agnostic. Militant. Black Man. Free. Pulitzer + Peabody. Winner.",
+      "id": "49842959",
+      "username": "phillipmbailey"
+    },
+    {
+      "name": "U.S. Commerce Dept.",
+      "description": "Welcome to the official Twitter feed of the U.S. Department of Commerce! Follow @SecRaimondo and @DepSecGraves. Newsletter sign-up at https://t.co/R9CVDwAWPs",
+      "id": "110541296",
+      "username": "CommerceGov"
+    },
+    {
+      "name": "@SOAR_EKY",
+      "description": "A regional nonpartisan nonprofit championing local projects, programs, and advocacy for the 54 ARC-mandated counties in #AppalachiaKentucky. #SOAR #EKY",
+      "id": "2196373082",
+      "username": "SOAR_EKY"
+    },
+    {
+      "name": "U.S. Department of Labor",
+      "description": "Led by @SecMartyWalsh, the Department of Labor serves America\u0027s workers, job seekers and retirees.",
+      "id": "20179628",
+      "username": "USDOL"
+    },
+    {
+      "name": "US Drug Policy NARA",
+      "description": "Office of Nat\u0027l Drug Control Policy. This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA)",
+      "id": "15460572",
+      "username": "ONDCP44"
+    },
+    {
+      "name": "The Center",
+      "description": "The Center for Rural Development provides services in leadership, technology, public safety, and arts and culture to Kentucky and the nation.",
+      "id": "38257822",
+      "username": "centertech"
+    },
+    {
+      "name": "Appalachian Regional Commission",
+      "description": "Federal-state partnership working for sustainable community \u0026 economic development in the 13 states of Appalachia.",
+      "id": "264332977",
+      "username": "ARCgov"
+    },
+    {
+      "name": "Appalachian Wireless Arena",
+      "description": "Sports and Entertainment Center of East KY located in downtown Pikeville. Like us on Facebook.",
+      "id": "29928552",
+      "username": "Appwirearena"
+    },
+    {
+      "name": "Tanner Hesterberg",
+      "description": "Blessed beyond what I deserve • Criminal defense attorney in Eastern KY • TV/radio • Morehead State alum • Long-suffering Reds \u0026 Bengals fan",
+      "id": "587480650",
+      "username": "TannerTweeting"
+    },
+    {
+      "name": "Sam Youngman",
+      "description": "Diehard Kentucky basketball fan, former campaign reporter/White House correspondent, not paying $8",
+      "id": "41387157",
+      "username": "samyoungman"
+    },
+    {
+      "name": "FED Up! Coalition",
+      "description": "FED Up! A call for immediate, coordinated \u0026 comprehensive federal action to END America’s crisis of #addiction \u0026 #overdose deaths #AmericaIsFEDUP #Opioids",
+      "id": "1636755409",
+      "username": "FEDUpRally"
+    },
+    {
+      "name": "Rep. Brett Guthrie",
+      "description": "Fighting for conservative values in Washington while representing the people of Kentucky\u0027s 2nd Congressional District",
+      "id": "1908143071",
+      "username": "RepGuthrie"
+    },
+    {
+      "name": "ATR",
+      "description": "Americans for Tax Reform: Advocating for lower taxes, a simpler tax code, and limited government since 1985. Sponsors of the Taxpayer Protection Pledge.",
+      "id": "15075753",
+      "username": "taxreformer"
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "description": "Feed from http://t.co/WPEu5UoHST. For live tweets follow @USCG. This is not an emergency channel. If you are in distress, use VHF Ch. 16 or dial 911.",
+      "id": "17409240",
+      "username": "uscoastguard"
+    },
+    {
+      "name": "U.S. Navy",
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links ? endorsement)",
+      "id": "54885400",
+      "username": "USNavy"
+    },
+    {
+      "name": "U.S. Marines",
+      "description": "The official Twitter account of the United States Marine Corps. \n\nThe appearance of links does not constitute endorsement.",
+      "id": "10126672",
+      "username": "USMC"
+    },
+    {
+      "name": "U.S. Air Force",
+      "description": "Official U.S. Air Force Twitter (Following, RTs \u0026 links ? endorsement) #AimHigh",
+      "id": "19611483",
+      "username": "usairforce"
+    },
+    {
+      "name": "NBC News",
+      "description": "News updates from around the ?, all day, every day.",
+      "id": "14173315",
+      "username": "NBCNews"
+    },
+    {
+      "name": "CNN Breaking News",
+      "description": "Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N",
+      "id": "428333",
+      "username": "cnnbrk"
+    },
+    {
+      "name": "CBS News",
+      "description": "Your source for original reporting and trusted news.\n\n? CBS | Streaming on the CBS News app | @ParamountPlus",
+      "id": "15012486",
+      "username": "CBSNews"
+    },
+    {
+      "name": "Bruce Carter",
+      "description": "News Director - LEX 18 News",
+      "id": "65362333",
+      "username": "BruceCarterLEX"
+    },
+    {
+      "name": "Rep. Andy Barr",
+      "description": "KY-06 District Congressman \u0026 Member of House Foreign Affairs \u0026 Financial Services Committees.",
+      "id": "1089334250",
+      "username": "RepAndyBarr"
+    },
+    {
+      "name": "ABC News",
+      "description": "The only official ABC News Twitter account. Download our new mobile app: https://t.co/6WupJH6wUx",
+      "id": "28785486",
+      "username": "ABC"
+    },
+    {
+      "name": "Joel Thornbury",
+      "description": "24x Marathoner, Boston Finisher,       ?? ?? ?? ?? ??, IM70.3, Concierge \u0026 Cutting Edge Pharmacist, Run Race Coordinator, KY Rx Policy Guy, #BBN…GO CATS!",
+      "id": "57856726",
+      "username": "JoelThornbury"
+    },
+    {
+      "name": "KY Blood Center",
+      "description": "Help save Kentucky patients\u0027 lives. Donate blood. We are #TeamKentucky.",
+      "id": "185483828",
+      "username": "KYBloodCenter"
+    },
+    {
+      "name": "#JimmyRoseAGT",
+      "description": "i am a Husband to My Heather and We are also Taxidermist together and we also have six kids! Iam blessed and have a beautiful life/Family.",
+      "id": "1587176756",
+      "username": "JimmyRoseAGT"
+    },
+    {
+      "name": "Richard Haynes",
+      "description": "Dad, Husband, Librarian, Historical Recreationist, Gamer, Geek, and Zombie prepper.  Yep that about sums it up.",
+      "id": "250478067",
+      "username": "libraryrich"
+    },
+    {
+      "name": "Suzy Khimm",
+      "description": "National investigative reporter for @NBCNews, covering the impact of policy and federal agencies on ordinary people. Tips? suzy.khimm@nbcuni.com. DMs are open.",
+      "id": "18174520",
+      "username": "SuzyKhimm"
+    },
+    {
+      "name": "Operation UNITE",
+      "description": "",
+      "id": "89011649",
+      "username": "uniteky"
+    },
+    {
+      "name": "Congressman Tom Rice",
+      "description": "Former CPA and tax lawyer. Proudly representing South Carolina\u0027s 7th Congressional District. Find me on FB at https://t.co/1YXogZ4l3N.",
+      "id": "1058345042",
+      "username": "RepTomRice"
+    },
+    {
+      "name": "UK HealthCare",
+      "description": "Advanced medicine from University of Kentucky\u0027s UK HealthCare.",
+      "id": "16702346",
+      "username": "UK_HealthCare"
+    },
+    {
+      "name": "National Journal",
+      "description": "We deliver insightful journalism, provide solutions and tools, and identify pathways between policy influencers to help govt affairs professionals navigate DC.",
+      "id": "15210284",
+      "username": "nationaljournal"
+    },
+    {
+      "name": "CQ",
+      "description": "Corporate handle for CQ, the premier source for Congressional news, analysis, \u0026 tracking, essential intelligence, \u0026 advocacy \u0026 engagement solutions.",
+      "id": "410216127",
+      "username": "CQRollCall"
+    },
+    {
+      "name": "U.S. FDA",
+      "description": "Our tweets are FDA Approved! Privacy Policy - https://t.co/LbTJXYRXVP",
+      "id": "208120290",
+      "username": "US_FDA"
+    },
+    {
+      "name": "Jim Moran",
+      "description": "Updates from the former Congressman representing the 8th District of Virginia (Northern Virginia)",
+      "id": "47412499",
+      "username": "Jim_Moran"
+    },
+    {
+      "name": "Kentucky Guard",
+      "description": "Official feed of the Kentucky National Guard Public Affairs Office. (Following, likes, and RTs do not\u003dendorsement)",
+      "id": "62827605",
+      "username": "kentuckyguard"
+    },
+    {
+      "name": "Kentucky Army National Guard Recruiting",
+      "description": "The official page of the Kentucky Army National Guard Recruiting and Retention Battalion. \n(Follows \u0026 RTs \u003d/\u003d endorsements)",
+      "id": "229144155",
+      "username": "KYArmyGuard"
+    },
+    {
+      "name": "National Guard",
+      "description": "Official tweets from Army National Guard Recruiting and Retention. Following, RTs, and Likes ? endorsement",
+      "id": "20600214",
+      "username": "NationalGuard"
+    },
+    {
+      "name": "KY Conservative",
+      "description": "",
+      "id": "1519604851",
+      "username": "KyConservative2"
+    },
+    {
+      "name": "Devlin Barrett",
+      "description": "WashPost reporter covering FBI, DoJ. (202) 617-6330. Author \"October Surprise: How the FBI Tried to Save Itself and Crashed an Election” https://t.co/hkrzWfMN4U",
+      "id": "30970039",
+      "username": "DevlinBarrett"
+    },
+    {
+      "name": "The Ripon Society",
+      "description": "Centrist Republican public policy group est. 1962 in the spirit of Theodore Roosevelt; advocating low taxes, strong nat\u0027l defense \u0026 a smaller, smarter gov\u0027t.",
+      "id": "18981785",
+      "username": "RiponSociety"
+    },
+    {
+      "name": "Mill Springs Battlefield Association",
+      "description": "The Mill Springs Battlefield Association is dedicated to the preservation, protection, and interpretation of the Civil War Battlefield in Nancy, KY.",
+      "id": "972795150",
+      "username": "msba1862"
+    },
+    {
+      "name": "Forward in the Fifth",
+      "description": "Non-profit education organization, created more than 25 years ago to improve education in Southern \u0026 Eastern KY. Energizing Students, Empowering Communities.",
+      "id": "1449045656",
+      "username": "ForwardFifth"
+    },
+    {
+      "name": "Ted Cruz",
+      "description": "Father of two, @heidiscruz\u0027s husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "id": "23022687",
+      "username": "tedcruz"
+    },
+    {
+      "name": "Mike Lee",
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "id": "88784440",
+      "username": "SenMikeLee"
+    },
+    {
+      "name": "Senator Ted Cruz",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "id": "1074480192",
+      "username": "SenTedCruz"
+    },
+    {
+      "name": "matthew perry",
+      "description": "Extremely skilled poet and dancer with a seemingly endless sense of longing. Hi! My memoir - Friends, Lovers, and the Big Terrible Thing – comes out 11/1.",
+      "id": "30271564",
+      "username": "MatthewPerry"
+    },
+    {
+      "name": "Roger D. Alford",
+      "description": "",
+      "id": "153891494",
+      "username": "rdalford"
+    },
+    {
+      "name": "Associated Press",
+      "description": "AP draws on its worldwide staff of journalists to create authoritative video clips of international and national events.",
+      "id": "88937789",
+      "username": "APVideo_YouTube"
+    },
+    {
+      "name": "NPR",
+      "description": "News. Arts \u0026 Life. Music \u0026 more. This is NPR. ?? Securely send us news tips: https://t.co/qfEoMDe1Hw",
+      "id": "5392522",
+      "username": "NPR"
+    },
+    {
+      "name": "About The Associated Press",
+      "description": "Stay informed about the world-class content, technology and services provided by The Associated Press. For news updates, follow @AP. #AdvancingThePowerOfFacts",
+      "id": "49304503",
+      "username": "AboutTheAP"
+    },
+    {
+      "name": "The Associated Press",
+      "description": "Advancing the power of facts, globally ?",
+      "id": "51241574",
+      "username": "AP"
+    },
+    {
+      "name": "John Clay",
+      "description": "Sports columnist Lexington Herald-Leader. E-mail: jclay@herald-leader.com. The John Clay Podcast. Hear me every Wednesday at 7:40 am with @JackPattietalks.",
+      "id": "14774813",
+      "username": "johnclayiv"
+    },
+    {
+      "name": "Kentucky 4-H Foundation",
+      "description": "Funding opportunities for Kentucky 4-H youth.\n\nJoin us for the first-ever Virtual Emerald Gala!\nMay 11, 2020\nLearn more: https://t.co/JoziB9ZH9b",
+      "id": "863089892",
+      "username": "KY4HFoundation"
+    },
+    {
+      "name": "Rochelle Walensky, MD, MPH",
+      "description": "Director, @CDCgov Note: Tweets prior to 1/20/21 were from former CDC directors. Privacy policy: https://t.co/qNVn53Yrr7 #publichealth #science #government",
+      "id": "426909329",
+      "username": "CDCDirector"
+    },
+    {
+      "name": "The Congressional Award",
+      "description": "U.S. Congress\u0027 only charity \u0026 award program for youth. Est. 1979. #EarnedIt",
+      "id": "34402366",
+      "username": "theaward"
+    },
+    {
+      "name": "Richard Shelby",
+      "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.)",
+      "id": "21111098",
+      "username": "SenShelby"
+    },
+    {
+      "name": "Barbara Mikulski",
+      "description": "U.S. Senator for Maryland",
+      "id": "132278386",
+      "username": "SenatorBarb"
+    },
+    {
+      "name": "Chad Pergram",
+      "description": "Chad Pergram is the Senior Congressional Correspondent for Fox News. He\u0027s won an Edward R. Murrow Award \u0026 is a two-time recipient of the Joan Barone Award.",
+      "id": "16187637",
+      "username": "ChadPergram"
+    },
+    {
+      "name": "The Mountain Citizen",
+      "description": "Martin County, KY Newspaper #MountainCitizen",
+      "id": "552242205",
+      "username": "MountainCitizen"
+    },
+    {
+      "name": "Kentucky News",
+      "description": "",
+      "id": "63517976",
+      "username": "ky_news"
+    },
+    {
+      "name": "Dan Blake",
+      "description": "News refugee settling into new home in digital marketing, content strategy and optimization",
+      "id": "19401846",
+      "username": "realdanblake"
+    },
+    {
+      "name": "Jessie Halladay",
+      "description": "Purposeful Athlete. Former reporter. Native Detroiter. Louisville transplant. Smart on Crime advocate. Bleed Maize and Blue. Ironman. Overindulgent Aunt.",
+      "id": "44362236",
+      "username": "Jess_Halladay"
+    },
+    {
+      "name": "James Bruggers",
+      "description": "Covering the Southeast for Inside Climate News; 13-year board member, past pres. of @sejorg; U of MI Knight Wallace Fellows alum. Courier-Journal alum",
+      "id": "14752312",
+      "username": "jbruggers"
+    },
+    {
+      "name": "Joe Gerth",
+      "description": "Native Louisvillian. Columnist for the Pulitzer Prize-winning Courier-Journal. Was once trolled by a preschool.",
+      "id": "35465482",
+      "username": "Joe_Gerth"
+    },
+    {
+      "name": "Clay Live News",
+      "description": "",
+      "id": "219786349",
+      "username": "ClayLiveNews"
+    },
+    {
+      "name": "The Mountain Advocate",
+      "description": "The weekly newspaper of Barbourville and Knox County, Kentucky.  Established 1904.  Owned by Mountain Advocate Media, Inc.\n\nYour Only Hometown Newspaper",
+      "id": "309829287",
+      "username": "mtnadvocateky"
+    },
+    {
+      "name": "Kay Bailey Hutchison",
+      "description": "US Ambassador to NATO, 2017-2021; US Senator from Texas, 1993-2013",
+      "id": "133439172",
+      "username": "kaybaileyhutch"
+    },
+    {
+      "name": "Groundwork Project",
+      "description": "Founded by @JoeKennedy. We invest in year-round community organizing and sustainable political infrastructure in places Dems have gotten used to writing off.",
+      "id": "461720085",
+      "username": "GroundworkProj"
+    },
+    {
+      "name": "Congressman Bill Keating",
+      "description": "Official Twitter page. Chairman of Europe, Energy, the Environment \u0026 Cyber Subcommittee \u0026 senior Member of Armed Services Committee.",
+      "id": "232992031",
+      "username": "USRepKeating"
+    },
+    {
+      "name": "Senator Bob Corker",
+      "description": "Official news and updates from former United States Senator Bob Corker (R-Tennessee).",
+      "id": "73303753",
+      "username": "SenBobCorker"
+    },
+    {
+      "name": "Dr. Sanjay Gupta",
+      "description": "Associate Professor of Neurosurgery, Emory University Hospital; CNN Chief Medical Correspondent",
+      "id": "18170896",
+      "username": "drsanjaygupta"
+    },
+    {
+      "name": "Kristi Noem",
+      "description": "I am a wife, mother, grandma, farmer, rancher, small business owner, and South Dakotan who serves as South Dakota\u0027s Governor.",
+      "id": "114388293",
+      "username": "KristiNoem"
+    },
+    {
+      "name": "BSCTC05",
+      "description": "Providing accessible, high-quality opportunities to meet the educational \u0026 workforce needs of the residents of the Big Sandy region",
+      "id": "28330493",
+      "username": "BSCTC05"
+    },
+    {
+      "name": "HCTC",
+      "description": "HCTC--a community where students find confidence, collaboration, and success!\nFollow us on:\nFacebook @HazardCTC\nInstagram @go2hctc\nTikTok @HazardCTC",
+      "id": "432761457",
+      "username": "HCTC1"
+    },
+    {
+      "name": "UPIKE ?",
+      "description": "The official twitter for the University of Pikeville #MoveMountains\n\nInstagram: https://t.co/DX4yMq2hac\nFacebook: https://t.co/9YjCCjoGKa",
+      "id": "300271496",
+      "username": "upikebears"
+    },
+    {
+      "name": "University of the Cumberlands",
+      "description": "University of the Cumberlands is a private, liberal arts university offering undergraduate, pre-professional \u0026 graduate programs.",
+      "id": "47392442",
+      "username": "UCumberlands"
+    },
+    {
+      "name": "Morehead State",
+      "description": "Morehead State ranks among the best public regional universities in the South for academic excellence and student support. #SOARHigher. ?",
+      "id": "15946400",
+      "username": "moreheadstate"
+    },
+    {
+      "name": "Morehead State News",
+      "description": "Official source of info for media, govt, agencies, writers, orgs, etc. Prospective/current students/families, alumni \u0026 employees may also follow @moreheadstate.",
+      "id": "1131688878",
+      "username": "News_MSU"
+    },
+    {
+      "name": "Salyersville Independent",
+      "description": "The voice of Magoffin County",
+      "id": "234858076",
+      "username": "SalyersvilleInd"
+    },
+    {
+      "name": "Floyd County Times",
+      "description": "Newspaper serving Prestonsburg and Floyd County, Ky., since 1927.",
+      "id": "114456845",
+      "username": "floydcotimes"
+    },
+    {
+      "name": "MiddlesboroDailyNews",
+      "description": "Official Twitter page of the Middlesboro Daily News. Putting you in the know 24 hours a day!",
+      "id": "624744754",
+      "username": "DailyNewsSEKY"
+    },
+    {
+      "name": "City of London, KY",
+      "description": "Visit beautiful London, Kentucky and enjoy the best that Southeastern Kentucky has to offer!",
+      "id": "79074462",
+      "username": "cityoflondonky"
+    },
+    {
+      "name": "The News Journal",
+      "description": "The official Twitter account for the Corbin News Journal/Whitley Republican. We\u0027re all about where YOU live!",
+      "id": "137443650",
+      "username": "cwnewsjournal"
+    },
+    {
+      "name": "Harlan Daily Ent.",
+      "description": "Official Twitter page of the Harlan Daily Enterprise. Keeping you up to date on what matters most!",
+      "id": "637162007",
+      "username": "HarlanDailyEnt"
+    },
+    {
+      "name": "WDRB News",
+      "description": "WDRB News is the Fox affiliate in Louisville, providing news, sports, weather and traffic from the strongest journalism team in Kentucky.",
+      "id": "43930301",
+      "username": "WDRBNews"
+    },
+    {
+      "name": "Hazard Herald",
+      "description": "",
+      "id": "128883595",
+      "username": "HazardHerald"
+    },
+    {
+      "name": "Eastern Kentucky CEP",
+      "description": "EKCEP administers career advising and employer services in 23 Appalachian counties with a misson to prepare, advance and expand the workforce.",
+      "id": "63122919",
+      "username": "EKCEP"
+    },
+    {
+      "name": "ABC 36 News",
+      "description": "Your Neighbors. Your News. - ABC 36 Lexington, WTVQ-DT - Have a news tip? Email us at news36@wtvq.com or call us 859-299-3636.",
+      "id": "22772925",
+      "username": "ABC36News"
+    },
+    {
+      "name": "LEX 18 News",
+      "description": "Count on LEX 18 News for the best news, weather, and sports coverage in central Kentucky. LEX 18 is the official station for Big Blue Nation!",
+      "id": "23489273",
+      "username": "LEX18News"
+    },
+    {
+      "name": "Ryan Alessi",
+      "description": "Journalist. Professor. Baltimore Orioles fan.",
+      "id": "1140302562",
+      "username": "RyanAlessi"
+    },
+    {
+      "name": "Senator Pat Toomey",
+      "description": "Official Twitter account for Pat Toomey. Husband. Father. U.S. Senator for Pennsylvania.",
+      "id": "221162525",
+      "username": "SenToomey"
+    },
+    {
+      "name": "Thomas Massie",
+      "description": "U.S. Representative for KY4, co-Chair 2A Caucus, greenest member of congress, MIT 93 BS EE, MIT 96 Master of Science #sassywithmassie #politicalsciencedenier",
+      "id": "975200486",
+      "username": "RepThomasMassie"
+    },
+    {
+      "name": "Haley Barbour",
+      "description": "Husband, Father, Grandfather | Founding Partner at BGR Group | Former Mississippi Governor, RGA Chairman, and RNC Chairman",
+      "id": "20252855",
+      "username": "HaleyBarbour"
+    },
+    {
+      "name": "Alice Lloyd College",
+      "description": "The official Twitter account of Alice Lloyd College and Alice Lloyd College Athletics.",
+      "id": "314063239",
+      "username": "ALCeagles"
+    },
+    {
+      "name": "Rep. Andy Harris, MD",
+      "description": "Proud to serve MD-01; Member of @HouseAppropsGOP + @FreedomCaucus; Co-chair of House Pro-Life Caucus and @GOPDoctors; Physician, Navy Vet, Father and Husband",
+      "id": "960962340",
+      "username": "RepAndyHarrisMD"
+    },
+    {
+      "name": "Phil Gingrey, MD",
+      "description": "Proudly served #GA11 in Congress from 2003 to 2015. Advisory Board at District Policy Group of FaegreDrinker LLC. OB/GYN. Views are my own.",
+      "id": "32506723",
+      "username": "DrPhilGingrey"
+    },
+    {
+      "name": "Andy Barr",
+      "description": "Trusted by voters of #KY06 to represent them in Congress since 2013. The True Conservative for Central Kentucky.",
+      "id": "115186195",
+      "username": "barrforcongress"
+    },
+    {
+      "name": "CNN",
+      "description": "It’s our job to #GoThere \u0026 tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6",
+      "id": "759251",
+      "username": "CNN"
+    },
+    {
+      "name": "Pete Sessions",
+      "description": "Proudly Representing the 17th Congressional District of Texas.",
+      "id": "24735461",
+      "username": "PeteSessions"
+    },
+    {
+      "name": "Erik Paulsen",
+      "description": "",
+      "id": "17513304",
+      "username": "ErikPaulsen"
+    },
+    {
+      "name": "Connie Mack",
+      "description": "Ret. Member of Congress, baseball enthusiast, and proud father. Opinions are strong and my own. #FreedomMatters",
+      "id": "23121519",
+      "username": "ConnieMackIV"
+    },
+    {
+      "name": "Virginia Foxx",
+      "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina\u0027s Fifth District.",
+      "id": "16256269",
+      "username": "virginiafoxx"
+    },
+    {
+      "name": "Tom Graves",
+      "description": "President \u0026 CEO, Ervin Graves Strategy Group. Founder, @amfuttogether. Former Congressman from GA; 2010-2020 https://t.co/6jOuH6inDI",
+      "id": "190328374",
+      "username": "RepTomGraves"
+    },
+    {
+      "name": "Renee Ellmers",
+      "description": "Christian, Wife, Mom, BSN, RN, Conservative “Reagan” Republican, Small Business Owner, Former HHS Regional Director, Former Member of Congress.",
+      "id": "213634439",
+      "username": "RepReneeEllmers"
+    },
+    {
+      "name": "Laura Ingraham",
+      "description": "Mom, author, host, The Ingraham Angle, 10p ET @FoxNews. Retweets do not \u003d Endorsements",
+      "id": "50769180",
+      "username": "IngrahamAngle"
+    },
+    {
+      "name": "Heritage Foundation",
+      "description": "Devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+      "id": "10168082",
+      "username": "Heritage"
+    },
+    {
+      "name": "Count on Coal",
+      "description": "Count on Coal. Join us in our fight to protect America\u0027s most reliable \u0026 affordable energy. Take action here: https://t.co/OXyo5a69UA",
+      "id": "549374169",
+      "username": "countoncoal"
+    },
+    {
+      "name": "Partnership to End Addiction",
+      "description": "We’re here to ensure families impacted by addiction get the support they need. Text JOIN to 55753 to receive personalized messages of support and guidance.",
+      "id": "19711108",
+      "username": "ToEndAddiction"
+    },
+    {
+      "name": "Marcus Green",
+      "description": "Kentuckian | reporter @WDRBNews by way of @courierjournal @newsandtribune | send tips about off-track betting in the Himalayas | RTs/likes ? endorsements",
+      "id": "377652071",
+      "username": "MarcusGreenWDRB"
+    },
+    {
+      "name": "Team Mitch (Text MITCH to 47137)",
+      "description": "Official account of Mitch McConnell for Senate. #TeamMitch #KYSen #KentuckyTough",
+      "id": "365530059",
+      "username": "Team_Mitch"
+    },
+    {
+      "name": "Diane Black",
+      "description": "Wife to Dave, mom of three, and proud \"Mimi\" to 6 grandchildren. Registered nurse, former #TN06 Congressman, and @HouseBudgetGOP Chair.",
+      "id": "110545675",
+      "username": "RepDianeBlack"
+    },
+    {
+      "name": "Tim Scott",
+      "description": "Just a South Carolinian living his mama’s American Dream.",
+      "id": "217543151",
+      "username": "SenatorTimScott"
+    },
+    {
+      "name": "Gregg Harper",
+      "description": "Devoted husband. Loving father. Principled conservative.",
+      "id": "23712174",
+      "username": "GreggHarper"
+    },
+    {
+      "name": "Lynn Westmoreland",
+      "description": "Former U.S. Representative for Georgia\u0027s Third Congressional District.",
+      "id": "137407124",
+      "username": "Westmoreland_GA"
+    },
+    {
+      "name": "Bill Johnson",
+      "description": "Proudly representing #Ohio\u0027s 6th Congressional District. Energy Enthusiast. Veteran. Husband. Father. Grandfather.",
+      "id": "211530910",
+      "username": "RepBillJohnson"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "House Republican Leader",
+      "id": "15428227",
+      "username": "kevinomccarthy"
+    },
+    {
+      "name": "Courier Journal",
+      "description": "The best source for news in Louisville, Kentucky, and beyond. Thank you for supporting local journalism: https://t.co/kIt308Uh4H | Header: @MClevenger_CJ",
+      "id": "7972552",
+      "username": "courierjournal"
+    },
+    {
+      "name": "Rep. Scott Tipton",
+      "description": "Former representative of Colorado\u0027s 3rd Congressional District.",
+      "id": "242873057",
+      "username": "RepTipton"
+    },
+    {
+      "name": "Stephen Fincher",
+      "description": "Congressman, Farmer, and Gospel Singer proudly serving the people of the 8th district of the great state of Tennessee.",
+      "id": "249219716",
+      "username": "RepFincherTN08"
+    },
+    {
+      "name": "Jack Kingston",
+      "description": "Conservative activist, Trump surrogate \u0026 former congressman",
+      "id": "36654245",
+      "username": "JackKingston"
+    },
+    {
+      "name": "Mary Bono",
+      "description": "Independent. Former Member of Congress. Advocate. USC Trojan. ????",
+      "id": "19616327",
+      "username": "MaryBonoUSA"
+    },
+    {
+      "name": "Trey Gowdy",
+      "description": "Husband, father, former prosecutor, South Carolinian for life.",
+      "id": "237348797",
+      "username": "TGowdySC"
+    },
+    {
+      "name": "Ann Marie Buerkle",
+      "description": "Principal at @TheFirmWJ. Former @USCPSC Acting Chair \u0026 Commissioner. Former Congresswoman to NY25. Mother of 6. Grandmother of 18. Tweets are my own.",
+      "id": "218349372",
+      "username": "annmbuerkle"
+    },
+    {
+      "name": "Trey Grayson",
+      "description": "Partner, Frost Brown Todd / Managing Director, CivicPoint. Past: NKY Chamber, Harvard IOP \u0026 KY Secretary of State. Husband of Nancy. #GirlDad of Alex and Kate.",
+      "id": "17015011",
+      "username": "KYTrey"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "Dr. Phil Roe",
+      "description": "Official Account of former Congressman Phil Roe, MD.",
+      "id": "52503751",
+      "username": "DrPhilRoe"
+    },
+    {
+      "name": "US Rep. Mike Turner",
+      "description": "I proudly represent the 10th District of Ohio. Montgomery Co. Greene Co. \u0026 Fayette Co. #OH10 | Lead Republican of @HouseIntelGOP \u0026 Member of @HASCRepublicans",
+      "id": "51228911",
+      "username": "RepMikeTurner"
+    },
+    {
+      "name": "Rep. Randy Hultgren",
+      "description": "Member of Congress proudly representing IL-14. Member: @HouseScience @FinancialCmte Committees. Co-Chairman: @TLHumanRights. FB profile: http://t.co/cAzY81jGee",
+      "id": "237814920",
+      "username": "RepHultgren"
+    },
+    {
+      "name": "Rep. Rob Wittman",
+      "description": "Honored to represent VA01; proud husband, father, grandfather, and conservative; avid outdoorsman; Ranking Member of Seapower \u0026 Projection Forces Subcommittee",
+      "id": "15356407",
+      "username": "RobWittman"
+    },
+    {
+      "name": "Fox News",
+      "description": "Follow America\u0027s #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "id": "1367531",
+      "username": "FoxNews"
+    },
+    {
+      "name": "Governor Mike Pence",
+      "description": "This is an archive of former Indiana Governor Mike Pence\u0027s account.",
+      "id": "15985455",
+      "username": "GovPenceIN"
+    },
+    {
+      "name": "Governor Kristi Noem",
+      "description": "South Dakotan. Wife. Mom. Grandma! Honored to serve as South Dakota\u0027s Governor.",
+      "id": "235251868",
+      "username": "govkristinoem"
+    },
+    {
+      "name": "Jim DeMint",
+      "description": "Chairman, Conservative Partnership Institute (@CPInst) https://t.co/npt2OqHnJ2. Father of 4. Author: \"Satan\u0027s Dare\" - A novel",
+      "id": "9508922",
+      "username": "JimDeMint"
+    },
+    {
+      "name": "Patrick McHenry",
+      "description": "I represent the citizens of North Carolina’s 10th District in the United States Congress.",
+      "id": "27676828",
+      "username": "PatrickMcHenry"
+    },
+    {
+      "name": "Rep. Walter Jones",
+      "description": "Proudly representing the people of Eastern North Carolina. #NC03",
+      "id": "26778110",
+      "username": "RepWalterJones"
+    },
+    {
+      "name": "Ileana Ros-Lehtinen",
+      "description": "Senior Advisor @Akin_Gump, @UnivMiami Fellow, Congresswoman (1989-2019). All views \u003d my own; retweets ? endorsement.",
+      "id": "14275291",
+      "username": "RosLehtinen"
+    },
+    {
+      "name": "Rep. Jim Renacci",
+      "description": "Congressman, 16th District of Ohio",
+      "id": "236916916",
+      "username": "RepJimRenacci"
+    },
+    {
+      "name": "Archive: Rep. Vicky Hartzler",
+      "description": "The archived tweets of Vicky Hartzler, fmr Representative for Missouri\u0027s 4th District. This account is inactive. You can now follow Vicky at @VickyHartzlerMO.",
+      "id": "237763317",
+      "username": "RepHartzler"
+    },
+    {
+      "name": "Randy Forbes",
+      "description": "Representing Virginia\u0027s Fourth Congressional District. (Following a group or person does not indicate support or endorsement of their beliefs or opinions.)",
+      "id": "15160884",
+      "username": "Randy_Forbes"
+    },
+    {
+      "name": "U.S. Rep. Bob Latta",
+      "description": "#OH5. Deputy Whip. Member of @HouseCommerce. Republican Leader of the Communications \u0026 Technology Subcommittee.\nSign up for updates: https://t.co/eZl0cNxtXW",
+      "id": "15394954",
+      "username": "boblatta"
+    },
+    {
+      "name": "Morgan Griffith",
+      "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+      "id": "234057152",
+      "username": "RepMGriffith"
+    },
+    {
+      "name": "Steve Case",
+      "description": "Chairman of @Revolution. Chairman of @CaseFoundation. Chair of @Smithsonian. Co-founder of @AOL. Author of @RiseOfRest @ThirdWaveBook. Champion of @RiseOfRest.",
+      "id": "6708952",
+      "username": "SteveCase"
+    },
+    {
+      "name": "Mike Rogers",
+      "description": "I am proud to represent Alabama\u0027s Third Congressional District.",
+      "id": "33977070",
+      "username": "RepMikeRogersAL"
+    },
+    {
+      "name": "Darrell Issa",
+      "description": "Entrepreneur, Former CEO, Congressman from California.\n\nVisit my website: https://t.co/cPz4eptLEf",
+      "id": "22509548",
+      "username": "DarrellIssa"
+    },
+    {
+      "name": "Mac Thornberry Press",
+      "description": "Archived account of the press shop for former US Rep. Mac Thornberry. Mac proudly represented the 13th District of Texas for 26 years.",
+      "id": "377534571",
+      "username": "MacTXPress"
+    },
+    {
+      "name": "Jason Chaffetz",
+      "description": "Fox News Contributor. Author of They Never Let A Crisis Go To Waste, Power Grab \u0026 The Deep State. Fmr. Chairman, Oversight \u0026 Gov\u0027t Reform U.S. House of Reps",
+      "id": "17800215",
+      "username": "jasoninthehouse"
+    },
+    {
+      "name": "Justin Amash",
+      "description": "libertarian • member of Congress, 2011-2021",
+      "id": "233842454",
+      "username": "justinamash"
+    },
+    {
+      "name": "CathyMcMorrisRodgers",
+      "description": "Proudly serving Washington\u0027s beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "id": "17976923",
+      "username": "cathymcmorris"
+    },
+    {
+      "name": "Michele Bachmann",
+      "description": "Wife, mom, foster mom, former tax attorney, small business owner, former Congresswoman.",
+      "id": "18217624",
+      "username": "MicheleBachmann"
+    },
+    {
+      "name": "Tom Price",
+      "description": "Former U.S. Representative for Georgia\u0027s 6th Congressional District \u0026 served as the 23rd U.S. Secretary of @HHSGov. This and @SecPriceMD are archived accounts.",
+      "id": "6577802",
+      "username": "RepTomPrice"
+    },
+    {
+      "name": "John McCain",
+      "description": "Memorial account for U.S. Senator John McCain, 1936-2018. To support the causes to which Senator McCain dedicated his life \u0026 service, follow @McCainInstitute.",
+      "id": "19394188",
+      "username": "SenJohnMcCain"
+    },
+    {
+      "name": "J Earnest (Archived)",
+      "description": "WH Press Secretary. This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "113420831",
+      "username": "PressSec44"
+    },
+    {
+      "name": "Kayleigh McEnany 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818927131883356161",
+      "username": "PressSec45"
+    },
+    {
+      "name": "Keeneland Racing",
+      "description": "Investing in Racing\u0027s future since 1936. Keeneland conducts world-class Thoroughbred horse racing every April and October.",
+      "id": "53185909",
+      "username": "keenelandracing"
+    },
+    {
+      "name": "Keeneland",
+      "description": "Investing in Racing\u0027s future since 1936. Keeneland is the world\u0027s largest Thoroughbred auction company and a world-class Thoroughbred race course.",
+      "id": "23108483",
+      "username": "keeneland"
+    },
+    {
+      "name": "Anthony Davis",
+      "description": "#23 IG: AntDavis23",
+      "id": "159113258",
+      "username": "AntDavis23"
+    },
+    {
+      "name": "Somerset Kentucky",
+      "description": "Tweeting news and views from our wonderful community situated on beautiful Lake Cumberland.",
+      "id": "71245494",
+      "username": "Somerset_KY"
+    },
+    {
+      "name": "Henderson KY Rotary",
+      "description": "The Official Rotary Club of Henderson, KY. Our club has over 90 members with diverse talents \u0026 occupations. Service before self. We Meet Each Thurs 12n-1pm.",
+      "id": "45062163",
+      "username": "HendKYRotary"
+    },
+    {
+      "name": "Steve Beshear",
+      "description": "61st Governor of Kentucky.  Proud husband, father, grandfather and Democrat.",
+      "id": "37656339",
+      "username": "Steve__Beshear"
+    },
+    {
+      "name": "NewsTalk943",
+      "description": "NewsTalk 94.3 WKYX-WNGO",
+      "id": "38282024",
+      "username": "NewsTalk943"
+    },
+    {
+      "name": "Eyewitness News",
+      "description": "",
+      "id": "18733970",
+      "username": "NEWS25"
+    },
+    {
+      "name": "Kentucky.gov",
+      "description": "The Official Website of the Commonwealth of Kentucky",
+      "id": "14972052",
+      "username": "kygov"
+    },
+    {
+      "name": "14 News",
+      "description": "The official account of the Tri-State\u0027s News and Weather Leader",
+      "id": "16241824",
+      "username": "14News"
+    },
+    {
+      "name": "KY State Police",
+      "description": "KSP has defined itself as a professional, detailed and efficient law enforcement agency dedicated to preserving law and order for the protection of its citizens",
+      "id": "24700690",
+      "username": "kystatepolice"
+    },
+    {
+      "name": "KFVS News",
+      "description": "Local news coverage from southeast Missouri, southern Illinois, western Kentucky, \u0026amp; Northwest Tennessee.",
+      "id": "21034105",
+      "username": "kfvsnews"
+    },
+    {
+      "name": "westkentuckystar.com",
+      "description": "",
+      "id": "54299083",
+      "username": "westkystar"
+    },
+    {
+      "name": "Bowling Green KY",
+      "description": "Official Municipal Twitter Account. For non-emergency requests, please call 270-393-3444. Disclaimer: https://t.co/VoDYMVEt61",
+      "id": "54300028",
+      "username": "CityofBGKY"
+    },
+    {
+      "name": "Tweet Congress",
+      "description": "Grassroots effort to get Congress tweeting!",
+      "id": "17993906",
+      "username": "tweetcongress"
+    },
+    {
+      "name": "cjnews",
+      "description": "News and information from The Courier-Journal and http://t.co/6FYgIcA8Cg",
+      "id": "17808688",
+      "username": "cjnews"
+    },
+    {
+      "name": "WLKY",
+      "description": "Hearst Television Inc., CBS Affiliate",
+      "id": "22970986",
+      "username": "WLKY"
+    },
+    {
+      "name": "Kentucky Tourism",
+      "description": "The latest tweets about bourbon, horses, outdoor adventure, art, music and all things Kentucky. Official Twitter of Kentucky Tourism. #TravelKY",
+      "id": "19399778",
+      "username": "KentuckyTourism"
+    },
+    {
+      "name": "Todd Gatton",
+      "description": "Shop https://t.co/gwPGgFUfrN. New Website Launch. We are Now Selling Drones at Prices Much Lower than anywhere Online. If you are in the Market for Drones Shop https://t.co/gwPGgFUfrN.",
+      "id": "7529502",
+      "username": "Owensboro"
+    },
+    {
+      "name": "BGCity Center",
+      "description": "In Bowling Green, KY #CityCenter is a place where we can all come together to enjoy shopping, dining, working, entertainment \u0026 experiences that are uniquely BG!",
+      "id": "316438383",
+      "username": "BGCityCenter"
+    },
+    {
+      "name": "KY Attorney General Andy Beshear (2016-2019)",
+      "description": "Archived account of Kentucky’s 50th Attorney General, Andy Beshear.",
+      "id": "26776972",
+      "username": "kyoag50"
+    },
+    {
+      "name": "88.9 WEKU",
+      "description": "Central and Eastern Kentucky\u0027s source for NPR news, information and entertainment.",
+      "id": "59826862",
+      "username": "889WEKU"
+    },
+    {
+      "name": "WUKY",
+      "description": "University of Kentucky Public Radio, where NPR Rocks @ 91.3. Lexington news, NPR, indie rock, and more. Like us on Facebook: https://t.co/Z4aXkxEBKp.",
+      "id": "15138137",
+      "username": "wuky"
+    },
+    {
+      "name": "EKU",
+      "description": "Discover the #EKUPeople, #EKUPlaces, and #EKUPrograms that make #EKU a great University. #GoBigE | IG: easternkentuckyu",
+      "id": "24989413",
+      "username": "eku"
+    },
+    {
+      "name": "Northwest KY Forward",
+      "description": "Northwest Kentucky Forward is the lead economic development organization for the counties of Henderson, McLean, Union and Webster.",
+      "id": "135882137",
+      "username": "NorthwestKY"
+    },
+    {
+      "name": "Screech Owl - LBL",
+      "description": "Welcome to Land Between the Lakes National Recreation Area in beautiful western Kentucky and Tennessee | Managed by USDA Forest Service | Come Outside and Play!",
+      "id": "31471188",
+      "username": "LBLScreechOwl"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+      "id": "3108351",
+      "username": "WSJ"
+    },
+    {
+      "name": "U.S. News \u0026 World Report",
+      "description": "Life’s decisions made here since 1933. Breaking news and analysis, consumer advice and the original rankings guide.",
+      "id": "6577642",
+      "username": "usnews"
+    },
+    {
+      "name": "FOX Business",
+      "description": "The official Twitter page of FOX Business. Invested in You.",
+      "id": "56413858",
+      "username": "FoxBusiness"
+    },
+    {
+      "name": "NADCP",
+      "description": "When people struggling with addiction receive treatment instead of incarceration, we All Rise. Likes/retweets do not constitute endorsement.",
+      "id": "36763673",
+      "username": "_ALLRISE_"
+    },
+    {
+      "name": "Greta Van Susteren",
+      "description": "Lawyer/Journalist/Anchor of The Record on Newsmax at 6p eastern daily",
+      "id": "16031927",
+      "username": "greta"
+    },
+    {
+      "name": "Roll Call",
+      "description": "Breaking news, reporter tweets and analysis from the Source for News on Capitol Hill since 1955. Instagram: https://t.co/ZFMIdCppoH",
+      "id": "15922214",
+      "username": "rollcall"
+    },
+    {
+      "name": "The New York Times",
+      "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+      "id": "807095",
+      "username": "nytimes"
+    },
+    {
+      "name": "Newt Gingrich",
+      "description": "Husband, father, grandfather, citizen, small businessman, author, former Speaker of the House.",
+      "id": "20713061",
+      "username": "newtgingrich"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what\u0027s happening in Washington, breaking news and retweets of our reporters.",
+      "id": "1917731",
+      "username": "thehill"
+    },
+    {
+      "name": "Paul Brandus - \u0026 on Post and Mastodon @PaulBrandus",
+      "description": "(see pinned tweet for bio)",
+      "id": "20182089",
+      "username": "WestWingReport"
+    },
+    {
+      "name": "Kentucky Derby",
+      "description": "The 149th running of the #KyDerby is scheduled for Saturday, May 6th at @ChurchillDowns ??",
+      "id": "25742569",
+      "username": "KentuckyDerby"
+    },
+    {
+      "name": "POLITICO",
+      "description": "Nobody knows politics and policy like POLITICO. \nCongress nerds ? @politicongress \nAll 2022 race calls ? @politicoelex\nGot a news tip? ? https://t.co/JBzpu5pJz6",
+      "id": "9300262",
+      "username": "politico"
+    },
+    {
+      "name": "Post Politics",
+      "description": "The latest political news and analysis from The Washington Post.",
+      "id": "14345062",
+      "username": "postpolitics"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Wes Swietek",
+      "description": "Managing Editor for the Bowling Green (Ky.) Daily News and author of \"The Cemetery Road Murders\"  (https://t.co/eYOX5HGnOR).",
+      "id": "234010934",
+      "username": "WesSwietek"
+    },
+    {
+      "name": "Alex Burns",
+      "description": "@POLITICO associate editor for global politics. Columnist. @CNN political analyst. @HarvardIOP board. Co-author of This Will Not Pass.",
+      "id": "79743108",
+      "username": "alexanderburns"
+    },
+    {
+      "name": "Robert Costa",
+      "description": "Chief Election \u0026 Campaign Correspondent for @CBSNews, co-author of “Peril” with @realBobWoodward, @Center4Politics Scholar at the University of Virginia",
+      "id": "86129724",
+      "username": "costareports"
+    },
+    {
+      "name": "Devin M. Katayama (he/him)",
+      "description": "producer @throughlineNPR | past: editor of talent + development @KQED ?@TheBayKQED, American Suburb, et al",
+      "id": "334170921",
+      "username": "RadioDevin"
+    },
+    {
+      "name": "Chris Otts",
+      "description": "https://t.co/fIaTn5TgGX reporter on biz, econ. previously: @Bagehots \u002721-22; @courierjournal. Dadx2. lifetime dishwasher 4 @katieelizcarter. #WhoDat and #RollTide",
+      "id": "67075260",
+      "username": "christopherotts"
+    },
+    {
+      "name": "Robyn Minor",
+      "description": "Living life with a fresh outlook. Still like old stuff, travel and current events and teaching kids how to improve their English.",
+      "id": "282189060",
+      "username": "bowserminor"
+    },
+    {
+      "name": "Tom Eblen",
+      "description": "Opinion columnist, journalist, writer, photographer, history buff. Also now on #Post at  https://t.co/4aDZit8VHc and #Mastodon at https://t.co/o2M7HSfwOB",
+      "id": "39391793",
+      "username": "tomeblen"
+    },
+    {
+      "name": "Former KY Enquirer",
+      "description": "WE HAVE MOVED! Please follow our new account at @Enquirer for news from Kentucky Enquirer.",
+      "id": "505978388",
+      "username": "ky_enquirer"
+    },
+    {
+      "name": "App. News-Express",
+      "description": "",
+      "id": "109057359",
+      "username": "AppalachianNews"
+    },
+    {
+      "name": "WYMT",
+      "description": "We\u0027re Your Mountain Television -- Eastern and Southern Kentucky\u0027s source for news.",
+      "id": "16469077",
+      "username": "WYMT"
+    },
+    {
+      "name": "Bowling Green Daily News",
+      "description": "The Daily News covers news, sports, features and provides commentary for South Central Kentucky.",
+      "id": "15524670",
+      "username": "bgdailynews"
+    },
+    {
+      "name": "Kentucky Enquirer",
+      "description": "The Twitter place for Northern Kentucky news from The Kentucky Enquirer and its partners.",
+      "id": "19712671",
+      "username": "kyenquirer"
+    },
+    {
+      "name": "The Arena - Politics",
+      "description": "Welcome to The Courier-Journal\u0027s Politics in Kentucky blog, that looks at local, statewide and national issues from a bluegrass and Hoosier perspective.",
+      "id": "17974987",
+      "username": "kypolblog"
+    },
+    {
+      "name": "Bluegrass Politics",
+      "description": "Kentucky politics news from @heraldleader reporters John Cheves (JC), @_AustinHorn (AH) and @TessaDuvall (TD).",
+      "id": "21233325",
+      "username": "BGPolitics"
+    },
+    {
+      "name": "Lexington Herald-Leader",
+      "description": "Follow us for news from the Lexington Herald-Leader and our\nwebsite https://t.co/HHcHyaozFG. Also follow @kentuckysports, @hlpublicsafety, @BGPolitics, @LexGoEat",
+      "id": "11612722",
+      "username": "heraldleader"
+    },
+    {
+      "name": "89.3 WFPL News",
+      "description": "Daily local newsroom from @LouPubMedia (LPM), an independent, community-supported nonprofit.",
+      "id": "14602140",
+      "username": "WFPLNews"
+    },
+    {
+      "name": "Neil Middleton",
+      "description": "Servant of Jesus Christ, Husband, Dad, @WYMT VP-General Manager, News Junkie. UK fan and member of the #BBN. May my life reflect Mark 8:34-36",
+      "id": "24000056",
+      "username": "SNeilMiddleton"
+    },
+    {
+      "name": "Kentucky Tonight",
+      "description": "Kentucky Educational Television (@KET) public affairs program focusing on important issues. Airs live on Mondays at 8 p.m. (7 CT) on KET.",
+      "id": "365596481",
+      "username": "KyTonightKET"
+    },
+    {
+      "name": "NEWSRADIO 630 WLAP",
+      "description": "Home of the Kentucky Wildcats - Kentucky Sports Radio - Tom Leach - Clay Travis \u0026 Buck Sexton - Sean Hannity - Dick Gabriel #iHeartRadio #WeAreUK #BBN Listen ??",
+      "id": "34291283",
+      "username": "630WLAP"
+    },
+    {
+      "name": "Spectrum News 1 Kentucky",
+      "description": "24/7 local news channel committed to serving communities in Kentucky.",
+      "id": "126051146",
+      "username": "SpectrumNews1KY"
+    },
+    {
+      "name": "WKMS",
+      "description": "The public radio service of Western Kentucky, Southern Illinois and Northwest Tennessee. Our mission is to inform. Retweets aren\u0027t endorsements.",
+      "id": "16689868",
+      "username": "wkms"
+    },
+    {
+      "name": "News Radio 840 WHAS",
+      "description": "Kentuckiana\u0027s News, Weather \u0026 Traffic Station. 100 Years Strong!\nHome of @Tony840Cruise @TerryMeiners @tonyvanetti @DwightWitten @UKAthletics @CrusadeChildren",
+      "id": "17153947",
+      "username": "840WHAS"
+    },
+    {
+      "name": "WKYT",
+      "description": "WKYT Stands For Kentucky",
+      "id": "16434865",
+      "username": "WKYT"
+    },
+    {
+      "name": "WUKY News",
+      "description": "We are consolidating twitter accounts, so please follow @WUKY for local news headlines and music updates!",
+      "id": "38449099",
+      "username": "WUKYNEWS"
+    },
+    {
+      "name": "The Times-Tribune",
+      "description": "The Times-Tribune is a two-day (Tuesday, and Thursday) newspaper based in Corbin, Ky., and covers Knox, Laurel and Whitley counties.",
+      "id": "69028657",
+      "username": "TimesTribuneKY"
+    },
+    {
+      "name": "Bill Bryant",
+      "description": "WKYT Evening News Anchor/Host of \u0027Kentucky Newsmakers\u0027 on @WKYT (CBS) \u0026 \u0027Comment on Kentucky\u0027 on @KET 40+ years in broadcasting.  Lifelong Kentuckian. @EKU grad",
+      "id": "198489405",
+      "username": "kynewsmakers"
+    },
+    {
+      "name": "Steve Hensley",
+      "description": "News Director and anchor at WYMT-TV in Hazard, Kentucky.",
+      "id": "26174974",
+      "username": "stevewymt"
+    },
+    {
+      "name": "Gregory Hall",
+      "description": "Publisher of Barn 6A horse industry blog. UK, Cubs \u0026 Bears fan. Happiest being Sarah\u0027s husband \u0026 Sheikh Ben\u0027s \u0026 Sheikha Elizabeth’s dad.",
+      "id": "42649330",
+      "username": "gregoryahall"
+    },
+    {
+      "name": "James Robert Carroll",
+      "description": "Washington Bureau Chief, Capital News Service, U. of Maryland; author of books on JFK \u0026 Woodrow Wilson; passionate about presidential history and Boston sports",
+      "id": "437048841",
+      "username": "JRCarrollNews"
+    },
+    {
+      "name": "KentuckyPublicRadio",
+      "description": "Tweets from Kentucky Public Radio\u0027s Frankfort Bureau Chief Ryland Barton, @RylandKY Have a tip? DM or @reply.",
+      "id": "449492847",
+      "username": "KPR_Frankfort"
+    },
+    {
+      "name": "Charlie White",
+      "description": "C-J reporter for Bullitt County and adjacent areas of Southern and Southwestern Louisville | @c_write",
+      "id": "18197642",
+      "username": "BullittNews"
+    },
+    {
+      "name": "faithandworks",
+      "description": "Peter Smith, religion writer for The Courier-Journal and Faith \u0026 Works blog.",
+      "id": "7972792",
+      "username": "faithandworks"
+    },
+    {
+      "name": "Dylan Lovan",
+      "description": "@AP print/video reporter all over Kentucky and beyond.",
+      "id": "76115719",
+      "username": "dylanlovan"
+    },
+    {
+      "name": "WKYM 101.7",
+      "description": "Lake Cumberland\u0027s Classic Rock Station, with John Boy and Billy mornings, and EVERYTHING that rocks all day! Locally owned and operated since day one.",
+      "id": "15724907",
+      "username": "wkym1017"
+    },
+    {
+      "name": "Sara Beth Gregory",
+      "description": "Circuit Judge-Elect for Russell \u0026 Wayne Co, Believer in Jesus, Attorney, UK Fan, Traveler, Former State Senator/Former State Rep.",
+      "id": "26000904",
+      "username": "sbgregory"
+    },
+    {
+      "name": "Rep. Austin Scott",
+      "description": "I am proud to represent the 8th Congressional District of Georgia. Committees: @HASCRepublicans and @HouseAgGOP",
+      "id": "234797704",
+      "username": "AustinScottGA08"
+    },
+    {
+      "name": "WSJ Politics",
+      "description": "WSJ’s home for politics, policy and national security news. Sign up to get our Capital Journal newsletter every morning at http://t.co/uZUT8GIFk6",
+      "id": "16311797",
+      "username": "WSJPolitics"
+    },
+    {
+      "name": "John Fleming",
+      "description": "The Official Twitter account for the office of Congressman John Fleming M.D. (R-LA). Retweets or Mentions do not equal endorsements.",
+      "id": "84620376",
+      "username": "RepFleming"
+    },
+    {
+      "name": "Rep. Frank Guinta",
+      "description": "Proud to represent the people of New Hampshire\u0027s First Congressional District!",
+      "id": "236960387",
+      "username": "RepFrankGuinta"
+    },
+    {
+      "name": "Frank LoBiondo",
+      "description": "Founder \u0026 CEO of LoBo Strategies consulting firm. Former Rep for NJ-02 from 1995-2019, Chaired House Aviation \u0026 CIA Subcoms. Enjoy time with my Weimaraners.",
+      "id": "241207373",
+      "username": "FrankLoBiondoNJ"
+    },
+    {
+      "name": "Raúl R. Labrador",
+      "description": "Idaho Attorney General-Elect; Husband, Father, Grandfather; Former Member of Congress (2010 - 2018) for Idaho\u0027s 1st District.",
+      "id": "246341769",
+      "username": "Raul_Labrador"
+    },
+    {
+      "name": "Rep. Steve Chabot",
+      "description": "Husband, Dad, Grandpa \u0026 proud Cincinnatian. Dean of Ohio GOP Delegation, Ranking Member on @HouseForeignGOP Asia Subcommittee \u0026 senior member on @JudiciaryGOP.",
+      "id": "237750442",
+      "username": "RepSteveChabot"
+    },
+    {
+      "name": "Rep. John Tierney",
+      "description": "Former Massachusetts Congressman; Executive Director, Council for a @livableworld and Center for Arms Control and Nonproliferation @Nukes_of_Hazard",
+      "id": "384392601",
+      "username": "RepTierney"
+    },
+    {
+      "name": "RepMarkAmodei",
+      "description": "Proudly representing Nevada\u0027s 2nd District",
+      "id": "402719755",
+      "username": "MarkAmodeiNV2"
+    },
+    {
+      "name": "Appropriations Republicans",
+      "description": "Members committed to reviewing the federal budget, conducting oversight, and making funding decisions, line-by-line. Ranking Member @RepKayGranger (TX)",
+      "id": "301549400",
+      "username": "HouseAppropsGOP"
+    },
+    {
+      "name": "Rep Rick Crawford",
+      "description": "Representing AR-01 in the U.S. House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee. Text me: 870.292.6747",
+      "id": "233693291",
+      "username": "RepRickCrawford"
+    },
+    {
+      "name": "Reid Ribble",
+      "description": "Just a private citizen who for a while looked behind the curtain of government. Husband, father, grandfather. These are the titles of life.",
+      "id": "234053893",
+      "username": "RepRibble"
+    },
+    {
+      "name": "Rob Sanders ??",
+      "description": "Personal account of Commonwealth’s Attorney, 16thJudicialCircuit (Kenton Co., KY) father, husband, CrossFit, sportsman, sportsfan,(Ret.)vol.firefighter, \u0026more..",
+      "id": "35560459",
+      "username": "KYprosecutor"
+    },
+    {
+      "name": "John Kline",
+      "description": "Served in Congress from 2003-2017. Married to wife, Vicky. Served 25 years in U.S. Marine Corps, retiring at rank of Colonel.",
+      "id": "76350004",
+      "username": "repjohnkline"
+    },
+    {
+      "name": "Rep. Jerry Lewis",
+      "description": "Proud to serve the 41st district of California in Congress.",
+      "id": "77250424",
+      "username": "RepJerryLewis"
+    },
+    {
+      "name": "Rep. Paul Gosar, DDS",
+      "description": "Representing AZ’s 4th District",
+      "id": "240760644",
+      "username": "RepGosar"
+    },
+    {
+      "name": "Mike Allen",
+      "description": "? We wrote a book ... \"Smart Brevity: The Power of Saying More with Less.\"\n\nHow YOU can punch through the noise, be heard.\n\n? Link below to preorder ...",
+      "id": "14246001",
+      "username": "mikeallen"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "The world’s largest business organization. We advocate, connect, inform, and fight for business growth and America’s success.",
+      "id": "85606078",
+      "username": "USChamber"
+    },
+    {
+      "name": "US Rep John Sullivan",
+      "description": "United States Representative honored to serve the constituents of Oklahoma\u0027s First District.",
+      "id": "21329888",
+      "username": "USRepSullivan"
+    },
+    {
+      "name": "Senator John Thune",
+      "description": "Senate Republican Whip. Representing South Dakota. Father. Grandfather. Husband. Sports Fan. Avid Outdoorsman. Hates Shoveling Snow.\nhttps://t.co/CAJybse6Mc",
+      "id": "296361085",
+      "username": "SenJohnThune"
+    },
+    {
+      "name": "Rand Paul",
+      "description": "U.S. Senator for Kentucky | I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+      "id": "216881337",
+      "username": "RandPaul"
+    },
+    {
+      "name": "Oversight Committee Republicans",
+      "description": "House Oversight Committee Republicans | Est. 1814 \nRanking Member @RepJamesComer",
+      "id": "22508473",
+      "username": "GOPoversight"
+    },
+    {
+      "name": "PolitiFact",
+      "description": "Home of the Truth-O-Meter and independent fact-checking. Part of @Poynter. Sign up for our newsletter: https://t.co/9ygUqAw2P8",
+      "id": "8953122",
+      "username": "PolitiFact"
+    },
+    {
+      "name": "Allen West",
+      "description": "Executive Director of @The_ACRU, fmr candidate for TX Gov, former @TexasGOP Chair, former FL Rep, retired Army LTC, author. https://t.co/ULPDX08reK",
+      "id": "237403203",
+      "username": "AllenWest"
+    },
+    {
+      "name": "Spencer Bachus",
+      "description": "U.S. Congressman, AL-06",
+      "id": "78431501",
+      "username": "BachusAL06"
+    },
+    {
+      "name": "Sen. Marsha Blackburn",
+      "description": "I am honored to serve the people of Tennessee.",
+      "id": "278145569",
+      "username": "MarshaBlackburn"
+    },
+    {
+      "name": "Rep. Robert J. Dold",
+      "description": "Proudly representing the 10th District of Illinois. Follow along on Facebook \u0026 Instagram: https://t.co/gVIVqb99ca | https://t.co/WKM99U8H9P",
+      "id": "245408102",
+      "username": "RepDold"
+    },
+    {
+      "name": "Ed Royce",
+      "description": "Proudly serving California\u0027s 39th Congressional District (#CA39). Chairman of the @HouseForeign Affairs Committee.",
+      "id": "246769138",
+      "username": "RepEdRoyce"
+    },
+    {
+      "name": "Rep. Steve Womack",
+      "description": "Proud to serve the folks of Arkansas\u0027s 3rd District. Member of @HouseAppropsGOP.",
+      "id": "234469322",
+      "username": "rep_stevewomack"
+    },
+    {
+      "name": "Kentucky College Republicans",
+      "description": "Official representative of college conservatives from across the Bluegrass. Proud member of the @CRNC and the youth arm of the @KYGOP.",
+      "id": "18140989",
+      "username": "kfcr"
+    },
+    {
+      "name": "Todd P\u0027Pool",
+      "description": "Attorney. Businessman. Prosecutor. Pilot. Sportsman.  Defender of faith, family and freedom in KY.",
+      "id": "222704119",
+      "username": "ToddPPool"
+    },
+    {
+      "name": "Kentucky Coal",
+      "description": "KCA is the state\u0027s #coal assoc. with members from both #EKY and #WKY #Surface \u0026 #Underground #Mining. #CoalMiners #CoalPowersKY #CoalJobsMatter #CoalCountry",
+      "id": "19256832",
+      "username": "KentuckyCoal"
+    },
+    {
+      "name": "Mario Diaz-Balart",
+      "description": "I am proud to represent Florida\u0027s 25th Congressional District and serve on @HouseAppropsGOP as Transportation, Housing + Urban Development Ranking Member",
+      "id": "37094727",
+      "username": "MarioDB"
+    },
+    {
+      "name": "Mo Brooks",
+      "description": "Thanks for following Alabama’s 5th District Congressman. Political discourse welcome. BLOCKED: Profanity, defamation, lying. PLEASE RETWEET GOOD INFO!",
+      "id": "237299871",
+      "username": "RepMoBrooks"
+    },
+    {
+      "name": "Jonathan Allen",
+      "description": "#1 NYT-bestselling Author | Senior National Politics Reporter, @nbcnews | em-dash junkie",
+      "id": "43409523",
+      "username": "jonallendc"
+    },
+    {
+      "name": "Library of Congress",
+      "description": "World’s largest library. Explore collections, services \u0026 plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+      "id": "7152572",
+      "username": "librarycongress"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "ChamberPost - The U.S. Chamber of Commerce Blog for Business",
+      "id": "14141323",
+      "username": "chamberpost"
+    },
+    {
+      "name": "Mike Fitzpatrick",
+      "description": "Proudly representing #PA8 in the US House of Representatives. Husband. Dad. @Eagles fan.      #BetterJobsMoreOpportunity",
+      "id": "237944147",
+      "username": "RepFitzpatrick"
+    },
+    {
+      "name": "Rep. John Yarmuth",
+      "description": "Chairman of the House Budget Committee. Founder \u0026 Co-Chair of the Congressional Bourbon Caucus. Congressman representing Kentucky’s 3rd Congressional District.",
+      "id": "384913290",
+      "username": "RepJohnYarmuth"
+    },
+    {
+      "name": "kentuckyYR",
+      "description": "Official updates from the Kentucky Young Republican Federation",
+      "id": "102835363",
+      "username": "kentuckyYR"
+    },
+    {
+      "name": "DonSeymour",
+      "description": "@Meta Programs \u0026 Partnerships · Former @SpeakerBoehner Comms · @MiamiAlum · Clevelander",
+      "id": "16371006",
+      "username": "DonSeymour"
+    },
+    {
+      "name": "Dennis Ross",
+      "description": "Husband, Father, former Representative for Florida\u0027s 15th Congressional District. https://t.co/IXwSnVOJw5",
+      "id": "33655490",
+      "username": "DennisRossSEU"
+    },
+    {
+      "name": "House GOP Policy",
+      "description": "House Republican Policy Committee, chaired by @USRepGaryPalmer (AL-06), is the principal forum for generating bold and innovative policy initiatives. Est.1949",
+      "id": "10840862",
+      "username": "GOPpolicy"
+    },
+    {
+      "name": "Rep. Jeff Duncan",
+      "description": "Christian, husband, father, \u0026 small business owner. Lover of football \u0026 the outdoors. Employee for the people of #SC03 ? Instagram: https://t.co/FHO3ywu4Hq",
+      "id": "240393970",
+      "username": "RepJeffDuncan"
+    },
+    {
+      "name": "Matt Drudge",
+      "description": "",
+      "id": "247723476",
+      "username": "DRUDGE"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill\u0027s Twitter Room",
+      "id": "26946495",
+      "username": "thehilltweets"
+    },
+    {
+      "name": "Rep. Adrian Smith",
+      "description": "Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives",
+      "id": "296245061",
+      "username": "RepAdrianSmith"
+    },
+    {
+      "name": "Gabrielle Giffords",
+      "description": "Proudly served Arizona\u0027s 8th District in the United States Congress 2007-2012. Co-founded @GiffordsCourage. Aphasia advocate. Married to @CaptMarkKelly.",
+      "id": "44177383",
+      "username": "GabbyGiffords"
+    },
+    {
+      "name": "Daniel Webster",
+      "description": "A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.",
+      "id": "281540744",
+      "username": "RepWebster"
+    },
+    {
+      "name": "Secretary of State Alison L. Grimes (2012–2020)",
+      "description": "Archived Official Twitter Account for Kentucky Secretary of State Alison Lundergan Grimes. For current updates: @AlisonForKY. #GetUpGetOutGetLoud #GoVoteKY",
+      "id": "17871144",
+      "username": "KySecofState"
+    },
+    {
+      "name": "Patrick Bell",
+      "description": "PNW. Public Affairs.  Opinions are my own. ??",
+      "id": "7126672",
+      "username": "patbell"
+    },
+    {
+      "name": "Al Cross",
+      "description": "Dir., Inst. for Rural Journalism; professor, https://t.co/9ilENg5spv. School of J.; publisher, TheRuralBlog and Ky.HealthNews; contributing political columnist; RT not endorsement",
+      "id": "16352611",
+      "username": "ruralj"
+    },
+    {
+      "name": "Jon Runyan",
+      "description": "",
+      "id": "309267226",
+      "username": "RepJonRunyan"
+    },
+    {
+      "name": "Laura Bush",
+      "description": "Former teacher, librarian, and First Lady of the United States",
+      "id": "131204770",
+      "username": "laurawbush"
+    },
+    {
+      "name": "Joe Wilson",
+      "description": "Official Twitter account of U.S. Representative Joe Wilson serving #SC02.",
+      "id": "254082173",
+      "username": "RepJoeWilson"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "Kentucky Farm Bureau Federation",
+      "description": "Kentucky Farm Bureau serves as the Voice of Kentucky Agriculture, representing the interests of Kentucky farm families and rural communities.",
+      "id": "24696405",
+      "username": "KYFB"
+    },
+    {
+      "name": "U.S. Army",
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links ? endorsement)",
+      "id": "8775672",
+      "username": "USArmy"
+    },
+    {
+      "name": "David B. McKinley",
+      "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+      "id": "240427862",
+      "username": "RepMcKinley"
+    },
+    {
+      "name": "Robert Hurt",
+      "description": "Dean of the Helms School of Government @LibertyU. Former U.S. Representative for Virginia\u0027s Fifth District.",
+      "id": "234837632",
+      "username": "RepRobertHurt"
+    },
+    {
+      "name": "Chris Gibson",
+      "description": "Congressman for New York\u0027s 19th Congressional District, Army Veteran, Member of the House Agriculture and Armed Services Committees",
+      "id": "234937222",
+      "username": "RepChrisGibson"
+    },
+    {
+      "name": "Mike Conaway",
+      "description": "Proud to serve the 11th Congressional District of Texas. Ranking Member of @HouseAgGOP, member of @HASCRepublicans \u0026 #HPSCI.",
+      "id": "295685416",
+      "username": "ConawayTX11"
+    },
+    {
+      "name": "CongressmanBobTurner",
+      "description": "Proudly representing New York\u0027s 9th Congressional District.",
+      "id": "381736092",
+      "username": "USRepBobTurner"
+    },
+    {
+      "name": "Lou Barletta",
+      "description": "Husband, father \u0026 grandfather to 10. Former member of Congress \u0026 mayor of Hazleton ??",
+      "id": "239871673",
+      "username": "RepLouBarletta"
+    },
+    {
+      "name": "Frank Wolf",
+      "description": "Former Congressman for Virginia\u0027s 10th district, Current Commissioner United States Commission on International Religious Freedom. @USCIRF",
+      "id": "237418907",
+      "username": "fmrRepWolf"
+    },
+    {
+      "name": "Scott DesJarlais",
+      "description": "Individual Rights. Small Government. Strong Defense. Representing Tennessee\u0027s 4th District in Congress.",
+      "id": "235312723",
+      "username": "DesJarlaisTN04"
+    },
+    {
+      "name": "Jeff Landry",
+      "description": "Husband | Father | Outdoorsman | Small Businessman| Louisiana\u0027s Attorney General | Candidate for Governor of Louisiana",
+      "id": "235258843",
+      "username": "JeffLandry"
+    },
+    {
+      "name": "Tim Huelskamp, Ph.D.",
+      "description": "Former Congressman, Senior Advisor to CatholicVote, Catholics for Trump, father of 4 adopted children",
+      "id": "233761277",
+      "username": "CongHuelskamp"
+    },
+    {
+      "name": "Former Rep. Kenny Marchant",
+      "description": "Former Rep. Kenny Marchant proudly represented the 24th Congressional District of Texas from Jan. 2005 - Jan. 2021.",
+      "id": "23976316",
+      "username": "RepKenMarchant"
+    },
+    {
+      "name": "Congressman Doc Hastings (Archived)",
+      "description": "This account has been archived. Doc Hastings proudly represented Central Washington in Congress (1995-2015) and served as Chairman of @NatResources (2011-2014).",
+      "id": "402029058",
+      "username": "DocHastings"
+    },
+    {
+      "name": "Howard Coble",
+      "description": "From the office of Congressman Howard Coble, NC-6",
+      "id": "314335929",
+      "username": "HowardCoble"
+    },
+    {
+      "name": "Randy Neugebauer",
+      "description": "Former U.S. Representative of the 19th District of Texas, proud husband, father and grandfather, and avid fisherman.",
+      "id": "34340464",
+      "username": "RandyNeugebauer"
+    },
+    {
+      "name": "Larry Bucshon, MD",
+      "description": "Congressman representing Hoosiers from #IN08. Doctor. Member of @HouseCommerce. https://t.co/4eq38gWLlg",
+      "id": "234812598",
+      "username": "RepLarryBucshon"
+    },
+    {
+      "name": "Todd Ruger",
+      "description": "Immigration and legal affairs editor at CQ Roll Call (@cqnow, @rollcall). Supreme Court. Congress. Header photo: @pennstatetom. My book: https://t.co/3lptNAcmhS",
+      "id": "22728467",
+      "username": "ToddRuger"
+    },
+    {
+      "name": "Lt. Gov. Tim Griffin",
+      "description": "20th Lieutenant Governor of Arkansas, Former #AR2 Member of Congress, 5th generation Arkansan, @USArmy Reserve Colonel, Husband and Father.",
+      "id": "201079432",
+      "username": "LtGovTimGriffin"
+    },
+    {
+      "name": "NRCC",
+      "description": "The NRCC is dedicated to defending our conservative majority in the House. Text “VICTORY” to 21818 ?",
+      "id": "5496932",
+      "username": "NRCC"
+    },
+    {
+      "name": "Karl Rove",
+      "description": "Former Deputy Chief of Staff to President George W. Bush, Author of NYT bestseller, Courage \u0026 Consequence, and new book, The Triumph of William McKinley.",
+      "id": "18791763",
+      "username": "KarlRove"
+    },
+    {
+      "name": "Chris Christie",
+      "description": "Official Twitter Account of the 55th Governor of New Jersey. Husband and proud father of four. ABC News Political and Legal Contributor",
+      "id": "90484508",
+      "username": "GovChristie"
+    },
+    {
+      "name": "Bret Baier",
+      "description": "Chief Political Anchor @FoxNews. Anchor \u0026 Executive Editor of @SpecialReport NYT bestselling author-“To Rescue The Republic” which hit #1 is available for order",
+      "id": "18646108",
+      "username": "BretBaier"
+    },
+    {
+      "name": "Lindsey Graham",
+      "description": "Twitter feed for U.S. Senator Lindsey Graham of South Carolina.",
+      "id": "14845376",
+      "username": "GrahamBlog"
+    },
+    {
+      "name": "Rx Summit",
+      "description": "The largest, most influential annual event addressing the opioid and addiction crisis.  #ThisIsWhyWeMeet #RxSummit2023",
+      "id": "425872825",
+      "username": "RxSummit"
+    },
+    {
+      "name": "RSC",
+      "description": "The Republican Study Committee (RSC) is the largest conservative caucus in the House of Representatives. Chaired by @RepJimBanks (IN-03).",
+      "id": "22528309",
+      "username": "RepublicanStudy"
+    },
+    {
+      "name": "Paul Ryan",
+      "description": "Office of the 54th Speaker of the House, Paul Ryan.",
+      "id": "18916432",
+      "username": "SpeakerRyan"
+    },
+    {
+      "name": "Tucker Carlson",
+      "description": "Emmy-award-winning broadcast journalist, graduate of Harvard College \u0026 Yale Law School. Frequent visitor to the Aspen Inst. Fully vaccinated. She/Hers ??",
+      "id": "22703645",
+      "username": "TuckerCarlson"
+    },
+    {
+      "name": "Marco Rubio",
+      "description": "Christian,Husband,Father,AMERICAN,Senator for Florida, Instagram:@marcorubio Truth:@marcorubio #GatorNation #FinsUp",
+      "id": "15745368",
+      "username": "marcorubio"
+    },
+    {
+      "name": "Archive: Rep. Jeb Hensarling",
+      "description": "Former Representative for the 5th Congressional District of Texas (2003-2018) and Chairman of the House Financial Services Committee (2013-2018).",
+      "id": "18566912",
+      "username": "RepHensarling"
+    },
+    {
+      "name": "Peggy Noonan",
+      "description": "WSJ columnist and author of nine books on US politics and culture. Most recent: The Time of Our Lives. Pulitzer Prize for commentary, 2017.",
+      "id": "35474809",
+      "username": "Peggynoonannyc"
+    },
+    {
+      "name": "John Thune",
+      "description": "United States Senator from South Dakota",
+      "id": "26533227",
+      "username": "johnthune"
+    },
+    {
+      "name": "U.S. Senator Jon Kyl",
+      "description": "United States Senator for Arizona and Assistant Senate Republican Leader",
+      "id": "24905240",
+      "username": "SenJonKyl"
+    },
+    {
+      "name": "Scott Brown",
+      "description": "US Senator for Massachusetts",
+      "id": "117537998",
+      "username": "USSenScottBrown"
+    },
+    {
+      "name": "Martha Roby",
+      "description": "Former Member of the U.S. House of Representatives for Alabama’s 2nd Congressional District.",
+      "id": "224294785",
+      "username": "MarthaRobyAL"
+    },
+    {
+      "name": "Cantor Press",
+      "description": "Press Office For @RepEricCantor",
+      "id": "209792690",
+      "username": "CantorPress"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "Kentucky Chamber",
+      "description": "The Kentucky Chamber of Commerce is the only business association in the state advocating for companies of all sizes and industries across the Commonwealth.",
+      "id": "43359022",
+      "username": "KyChamber"
+    },
+    {
+      "name": "House Rules Republicans",
+      "description": "The official account for Republicans of the House Rules Committee. Ranking Republican @TomColeOK04.",
+      "id": "78369108",
+      "username": "RulesReps"
+    },
+    {
+      "name": "Roll Call Politics",
+      "description": "The original leader in Congressional campaign political coverage. More from @RollCall\u0027s @EricMGarcia, @SFPathe, @Alex_Roarty and @EYokley.",
+      "id": "15918708",
+      "username": "rollcallpols"
+    },
+    {
+      "name": "Faces of Coal",
+      "description": "Protecting jobs and the future of our families which are at risk because the government and outside groups want to stop coal mining in Appalachia",
+      "id": "66355647",
+      "username": "FacesofCoal"
+    },
+    {
+      "name": "GOP",
+      "description": "Text FREEDOM to 80810 to receive exclusive updates from the Republican National Committee!",
+      "id": "11134252",
+      "username": "GOP"
+    },
+    {
+      "name": "Dakota Meyer",
+      "description": "Father • Marine • Sniper • American • YouTuber • Host of Owning it podcast",
+      "id": "185868832",
+      "username": "Dakota_Meyer"
+    },
+    {
+      "name": "John Calipari",
+      "description": "Official Twitter account of Kentucky head men\u0027s basketball coach John Calipari.",
+      "id": "26072066",
+      "username": "UKCoachCalipari"
+    },
+    {
+      "name": "Charles Krauthammer (1950-2018) In Memoriam",
+      "description": "Official account of the late Pulitzer Prize-winning columnist \u0026 bestselling author, named America\u0027s most influential commentator.\nPage managed by his family.",
+      "id": "27744185",
+      "username": "krauthammer"
+    },
+    {
+      "name": "University of Kentucky",
+      "description": "#ThisIsYourMoment https://t.co/n3pBK6iW48 | https://t.co/9wvX437dfx | https://t.co/2hdyMYSiXn",
+      "id": "34323121",
+      "username": "universityofky"
+    },
+    {
+      "name": "Republican Party of Kentucky",
+      "description": "Official Page of the Republican Party of Kentucky. Committed to electing Republicans who are working to keep Kentucky on the right track.",
+      "id": "90386169",
+      "username": "KYGOP"
+    },
+    {
+      "name": "KFB Insurance",
+      "description": "KFB Insurance was founded in 1944 as a member service of the KFB Federation. It is now the largest property and casualty insurance company domiciled in KY.",
+      "id": "39314145",
+      "username": "KYFBIns"
+    },
+    {
+      "name": "Dave Schnittger",
+      "description": "Principal at Squire Patton Boggs LLP. Spokesman, @SpeakerBoehner. Former Deputy Chief of Staff, Office of the Speaker, U.S. House of Representatives.",
+      "id": "70708097",
+      "username": "OhSchnitt"
+    },
+    {
+      "name": "Chris Bailey",
+      "description": "WKYT Chief Meteorologist. I\u0027m a UK, Reds and Bengals kinda guy. #BBN #WhoDey",
+      "id": "28221645",
+      "username": "Kentuckyweather"
+    },
+    {
+      "name": "Senator Rubio Press",
+      "description": "Official account of U.S. Senator Marco Rubio’s press shop. For more information please visit his website",
+      "id": "229966028",
+      "username": "SenRubioPress"
+    },
+    {
+      "name": "Business Roundtable",
+      "description": "BRT is an association of CEOs of leading US companies working to promote a thriving economy \u0026 expanded opportunity for all Americans through sound public policy",
+      "id": "44682276",
+      "username": "BizRoundtable"
+    },
+    {
+      "name": "Team Boehner",
+      "description": "Feed for Speaker John Boehner\u0027s political press shop.  Committed to @JohnBoehner\u0027s vision of a smaller, less costly gov\u0027t.",
+      "id": "272542662",
+      "username": "TeamBoehner"
+    },
+    {
+      "name": "Brett Guthrie",
+      "description": "Congressman serving Kentucky\u0027s 2nd District.",
+      "id": "114607567",
+      "username": "brettguthrie"
+    },
+    {
+      "name": "Geoff Davis",
+      "description": "Representing the people of Kentucky\u0027s Fourth Congressional District.",
+      "id": "239561508",
+      "username": "RepGeoffDavis"
+    },
+    {
+      "name": "Rep. Ed Whitfield",
+      "description": "Representative Ed Whitfield of Kentucky’s First Congressional District and Chairman of the House Subcommittee on Energy and Power.",
+      "id": "234906311",
+      "username": "RepEdWhitfield"
+    },
+    {
+      "name": "U.S. House Updates",
+      "description": "A @GovTop Project. #US #HouseofRepresentatives updates. Also: @USHouseNews, @SenateFloor, @SenateNews, @USSupremeCourt, @GovTop",
+      "id": "7402662",
+      "username": "HouseFloor"
+    },
+    {
+      "name": "Mitt Romney",
+      "description": "Husband, Father, Grandfather, Former Governor, U.S. Senator (R-UT). Follow @SenatorRomney for official updates.",
+      "id": "50055701",
+      "username": "MittRomney"
+    },
+    {
+      "name": "John Boehner",
+      "description": "Official Twitter account for former U.S. House Speaker John Boehner (R-OH)",
+      "id": "7713202",
+      "username": "SpeakerBoehner"
+    },
+    {
+      "name": "Team Cantor",
+      "description": "Tweets from Eric at @EricCantor",
+      "id": "5561412",
+      "username": "TeamCantor"
+    },
+    {
+      "name": "Eric Cantor",
+      "description": "Vice Chair and Managing Director, @Moelis; former House Majority Leader. Working to build #AnAmericaThatWorks, #AnAmericaThatLeads. Tweets are my own.",
+      "id": "18891923",
+      "username": "EricCantor"
+    },
+    {
+      "name": "Senator McConnell Press",
+      "description": "The #Kentucky press office for U.S. Senate Republican Leader Mitch McConnell @LeaderMcConnell. For more information please visit his website:",
+      "id": "339822881",
+      "username": "McConnellPress"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    }
+  ],
+  "id": "550401754",
+  "username": "RepHalRogers"
+}

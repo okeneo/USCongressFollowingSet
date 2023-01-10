@@ -1,0 +1,4314 @@
+{
+  "following": [
+    {
+      "name": "Secretary Pete Buttigieg",
+      "description": "19th Secretary of Transportation. Working to ensure safety and make transportation more equitable while fighting climate change and creating jobs. (he/him)",
+      "id": "1356958547603513346",
+      "username": "SecretaryPete"
+    },
+    {
+      "name": "Nicholas Wu",
+      "description": "covering Congress for @politico | previously: @usatoday @princetonian | my views are my own | email me nwu@politico.com",
+      "id": "1330575260",
+      "username": "nicholaswu12"
+    },
+    {
+      "name": "CNAS",
+      "description": "The Center for a New American Security develops strong, pragmatic, and principled national security and defense policies. Join us: https://t.co/WzyUv7xOwv.",
+      "id": "41124675",
+      "username": "CNASdc"
+    },
+    {
+      "name": "House Foreign Affairs Committee",
+      "description": "House committee responsible for foreign policy legislation and oversight | @RepGregoryMeeks, Chairman (CM) | #HFAC",
+      "id": "61206798",
+      "username": "HouseForeign"
+    },
+    {
+      "name": "Ossoff\u0027s Office",
+      "description": "Updates from Georgia U.S. Senator Jon @Ossoff\u0027s office.",
+      "id": "1356714265894408196",
+      "username": "SenOssoff"
+    },
+    {
+      "name": "Peter Morley",
+      "description": "?? Patient Advocate-Cancer Survivor \u0026 Lupus Warrior;\n\nTestified 3x before Congress ; @AppropsDems/ @OversightDems/@EnergyCommerce\n\nCo-Founder @HealthCareMonth ;",
+      "id": "812361923304034304",
+      "username": "morethanmySLE"
+    },
+    {
+      "name": "Dylan",
+      "description": "Hill Comms. Opinions my own.",
+      "id": "243810946",
+      "username": "Dylan_Said_What"
+    },
+    {
+      "name": "Andrea Mitchell",
+      "description": "NBC News Chief Washington Correspondent and Chief Foreign Affairs Correspondent/Anchor, Andrea Mitchell Reports, weekdays at 12pm ET on @MSNBC.",
+      "id": "89820928",
+      "username": "mitchellreports"
+    },
+    {
+      "name": "Secretary Jennifer Granholm",
+      "description": "16th Secretary of @ENERGY. Former Governor of Michigan. Obsessed with solving climate change and creating good-paying clean energy jobs.",
+      "id": "1354833262431133696",
+      "username": "SecGranholm"
+    },
+    {
+      "name": "Bryan Doherty",
+      "description": "Press @UFCW | These tweets are very much my own burden | he/him #1u",
+      "id": "262909443",
+      "username": "bryansdoherty"
+    },
+    {
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa\u0027s Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "id": "1345807954604412929",
+      "username": "RepMMM"
+    },
+    {
+      "name": "Tony Iacono",
+      "description": "Anthony Iacono, Ph.D.  President of County College of Morris",
+      "id": "334378463",
+      "username": "TonyIacono1"
+    },
+    {
+      "name": "RWJBarnabas",
+      "description": "Let\u0027s Be Healthy Together!\nStatements posted by RWJBarnabas Health official social media pages are the only statements that represent our views and policies.",
+      "id": "45596617",
+      "username": "RWJBarnabas"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "MFG Talk Radio",
+      "description": "Manufacturing Talk Radio Is A Weekly News Podcast That Focuses On All Things Manufacturing. New Show Airs Every Tuesday, Don\u0027t Miss Our Expert Insight!",
+      "id": "2527633399",
+      "username": "MFGTalkRadio"
+    },
+    {
+      "name": "Tom Reed",
+      "description": "Owner of 3 dogs, lover of coffee, day job in Washington trying to help people.",
+      "id": "252819323",
+      "username": "TomReedNY23"
+    },
+    {
+      "name": "Rep. Andrew Garbarino",
+      "description": "Official Twitter account of Rep. Andrew Garbarino. Proudly representing New York\u0027s 2nd Congressional District.",
+      "id": "1344349650447433729",
+      "username": "RepGarbarino"
+    },
+    {
+      "name": "NJ\u0027s Community Colleges",
+      "description": "Opening the doorway to opportunity for nearly 400,000 students each year.",
+      "id": "55286661",
+      "username": "NJCommColleges"
+    },
+    {
+      "name": "Tom Suozzi",
+      "description": "Representing New York\u0027s 3rd Congressional District including parts of Queens, Nassau and Suffolk counties. https://t.co/mRTIFPnjy2",
+      "id": "816705409486618624",
+      "username": "RepTomSuozzi"
+    },
+    {
+      "name": "GetCoveredNJ",
+      "description": "Health insurance made possible.\nFinancial help available.",
+      "id": "1054775861076021249",
+      "username": "GetCoveredNJ"
+    },
+    {
+      "name": "Karine Jean-Pierre",
+      "description": "35th White House Press Secretary",
+      "id": "1349170292564905988",
+      "username": "PressSec"
+    },
+    {
+      "name": "Mountain Lakes",
+      "description": "Mountain Lakes is a beautiful small town in northern NJ, USA.  Founded in 1911, it has about 4200 people, 5 lakes, winding roads, and stately old houses.",
+      "id": "313313540",
+      "username": "mtnlakesnj"
+    },
+    {
+      "name": "Drew University",
+      "description": "The University in The Forest | 2,000+ Students | 60+ Programs of Study | 19 Dual-Degree Programs | 7 NYC Semesters | 22 D-III Teams | 90+ Student Clubs",
+      "id": "36508339",
+      "username": "DrewUniversity"
+    },
+    {
+      "name": "NJ DOBI",
+      "description": "NJDOBI regulates the banking/insurance/real estate industries to protect/educate consumers and promote growth/financial stability/efficiency of the industries",
+      "id": "245160862",
+      "username": "NJDOBI"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "ADL",
+      "description": "ADL (Anti-Defamation League) - To stop the defamation of the Jewish people, and secure justice and fair treatment to all. #FightingHateForGood",
+      "id": "19670226",
+      "username": "ADL"
+    },
+    {
+      "name": "Congressman Jamaal Bowman",
+      "description": "Humbled to serve New York\u0027s 16th Congressional District. Vice Chair, @EdLaborCmte \u0026 Member, @HouseScience. Providing updates on services and legislation.",
+      "id": "1344389506963808264",
+      "username": "RepBowman"
+    },
+    {
+      "name": "Congresswoman Marie Newman",
+      "description": "Mother and former Member of Congress. Fighter for stronger infrastructure and an economy that works for everyone.",
+      "id": "1343578440977494018",
+      "username": "RepMarieNewman"
+    },
+    {
+      "name": "Congresswoman Marilyn Strickland",
+      "description": "Proudly representing #WA10. Fighting for a nation that is safe, just and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",
+      "id": "1343646545955213312",
+      "username": "RepStricklandWA"
+    },
+    {
+      "name": "Rep. Frank J. Mrvan",
+      "description": "Congressman Frank J. Mrvan represents Indiana\u0027s First Congressional District in the U.S. House of Representatives.",
+      "id": "1346205046036377601",
+      "username": "RepMrvan"
+    },
+    {
+      "name": "Rep. Teresa Leger Fernández",
+      "description": "Working to protect what we love. Mom of 3. Proudly serving New Mexico’s 3rd Congressional District. She/her/ella.",
+      "id": "1345147845926670337",
+      "username": "RepTeresaLF"
+    },
+    {
+      "name": "Rep. Mondaire Jones",
+      "description": "Congressman, NY-17. Member, @HouseJudiciary, @EdLaborCmte, \u0026 @CongressEthics. Deputy Whip, @USProgressives. Co-Chair, @LGBTEqCaucus. He/Him. Official account.",
+      "id": "1345883634046279681",
+      "username": "RepMondaire"
+    },
+    {
+      "name": "Rep. Ritchie Torres",
+      "description": "Congressman for #NY15 (South Bronx). Bronx native, product of public housing. Fighting every day for the essential borough. He/him. Official House account.",
+      "id": "1276403757224546304",
+      "username": "RepRitchie"
+    },
+    {
+      "name": "Rep. Jake Auchincloss",
+      "description": "Dad. Marine. Former Newton City Councilor. Congressman representing MA-04. Vice-Chair of @FSCDems and member of @TransportDems.",
+      "id": "1330278736554582016",
+      "username": "RepAuchincloss"
+    },
+    {
+      "name": "Congresswoman Kathy Manning",
+      "description": "Congresswoman representing #NC06. Member of @EdLaborCmte \u0026 @HouseForeign\n#ncpol",
+      "id": "1337115670161608712",
+      "username": "RepKManning"
+    },
+    {
+      "name": "Rep. Carolyn Bourdeaux",
+      "description": "Proudly representing #GA07. Advocate for Georgia families and a big fan of budgets. Before Congress, I taught at @aysps — go Panthers!",
+      "id": "1343620645452595200",
+      "username": "RepBourdeaux"
+    },
+    {
+      "name": "Congresswoman Sara Jacobs",
+      "description": "Representing #CA53 and a new generation of leaders. She/Her. Member of House Dem Steering and Policy Committee, @HouseForeign, @HASCDemocrats \u0026 @FairGrowthCmte.",
+      "id": "1345103905869455361",
+      "username": "RepSaraJacobs"
+    },
+    {
+      "name": "Congresswoman Deborah Ross",
+      "description": "Proudly serving North Carolina’s 2nd District. Former civil rights attorney and NC state legislator.\nCommittees: @HouseJudiciary, @RulesDemocrats, @HouseScience",
+      "id": "1348683154815655940",
+      "username": "RepDeborahRoss"
+    },
+    {
+      "name": "NJ National Guard",
+      "description": "Official New Jersey National Guard Twitter account: news and updates about our Soldiers and Airmen around the state. (Following does not\u003dendorsement)",
+      "id": "326194495",
+      "username": "NJNationalGuard"
+    },
+    {
+      "name": "Committee on Education \u0026 Labor",
+      "description": "Building an America where everyone can succeed. Chairman @BobbyScott.",
+      "id": "7004382",
+      "username": "EdLaborCmte"
+    },
+    {
+      "name": "Congresswoman Nikema Williams",
+      "description": "Working for the people #OutLoudOnPurpose. Proudly representing #GA05?. Member of @FSCDems and @TransportDems. 117th Congress Freshman Class President. She/Her",
+      "id": "1345461797361504259",
+      "username": "RepNikema"
+    },
+    {
+      "name": "David Cicilline",
+      "description": "Congressman for Rhode Island’s 1st District. Antitrust Subcommittee Chairman. #ForThePeople",
+      "id": "23593446",
+      "username": "davidcicilline"
+    },
+    {
+      "name": "Toni\u0027s Kitchen",
+      "description": "Toni’s Kitchen is a food ministry at St Luke’s Episcopal Church in Montclair, NJ.  We also provide outreach services to those in need in our community.",
+      "id": "465061382",
+      "username": "TonisKitchen"
+    },
+    {
+      "name": "Downtown Denville",
+      "description": "The official Twitter account of the Downtown Denville Business Improvement District. Shop, eat and discover why we’re the number one downtown in Morris County!",
+      "id": "882620962147115008",
+      "username": "DwtnDenville"
+    },
+    {
+      "name": "Sussex County Chamber of Commerce",
+      "description": "600 members strong and passionate about working together to help your business, large or small, become a successful part of our business community.",
+      "id": "1245732497591341059",
+      "username": "SussexCoChamber"
+    },
+    {
+      "name": "Project Self-Sufficiency",
+      "description": "Empowers northwestern New Jersey individuals and families to become economically self-sufficient.",
+      "id": "1252681333",
+      "username": "PssNewJersey"
+    },
+    {
+      "name": "Gurbir S. Grewal",
+      "description": "Personal Twitter account of Gurbir S. Grewal — 61st Attorney General of New Jersey. Born \u0026 bred New Jerseyan.",
+      "id": "903824715189510144",
+      "username": "GurbirGrewalNJ"
+    },
+    {
+      "name": "NAAG",
+      "description": "The National Association of Attorneys General (NAAG) is the nonpartisan national forum for America’s attorneys general and their staff.",
+      "id": "1382264785",
+      "username": "NatlAssnAttysGn"
+    },
+    {
+      "name": "Temptime Corporation",
+      "description": "Temptime is deeply committed to improving global public health. Our temperature monitoring devices have helped healthcare workers immunize millions of children.",
+      "id": "100210630",
+      "username": "Temptime_Corp"
+    },
+    {
+      "name": "Randy Weber",
+      "description": "Representative for the 14th Congressional District of Texas | Parler: @reprandyweber | Facebook: TXRandy14 ?????",
+      "id": "1058051748",
+      "username": "TXRandy14"
+    },
+    {
+      "name": "NJHumanServices",
+      "description": "Providing assistance through programs and services to NJ residents in need.",
+      "id": "606512828",
+      "username": "NJDHS"
+    },
+    {
+      "name": "Trees for Troops",
+      "description": "Together we\u0027ve donated more than 225,319 Real #Christmas Trees to #military families in the U.S. and overseas since 2005! Visit our website to donate today!",
+      "id": "20634908",
+      "username": "Trees4Troops"
+    },
+    {
+      "name": "U.S. EPA",
+      "description": "Our mission is to protect human health and the environment.",
+      "id": "14615871",
+      "username": "EPA"
+    },
+    {
+      "name": "MCSTAcademics",
+      "description": "#MCSTpride",
+      "id": "809824177188376578",
+      "username": "MCST_academics"
+    },
+    {
+      "name": "Open Space Institute",
+      "description": "Leader in land conservation. ? Partner in protection of 2+ million acres from Quebec to Florida. ? Donate to support us ? https://t.co/1G5K7T023D",
+      "id": "177652293",
+      "username": "OpenSpaceInst"
+    },
+    {
+      "name": "David B. McKinley",
+      "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+      "id": "240427862",
+      "username": "RepMcKinley"
+    },
+    {
+      "name": "Greta Van Susteren",
+      "description": "Lawyer/Journalist/Anchor of The Record on Newsmax at 6p eastern daily",
+      "id": "16031927",
+      "username": "greta"
+    },
+    {
+      "name": "NJ Department of Community Affairs",
+      "description": "New Jersey Department of Community Affairs assists local governments, businesses \u0026 individuals to improve the quality of life in NJ. Commissioner @LtGovOliver",
+      "id": "3416038624",
+      "username": "NJDCA"
+    },
+    {
+      "name": "NJ Dept of Treasury",
+      "description": "Official Twitter account for the NJ State Department of the Treasury",
+      "id": "974331632483266562",
+      "username": "NJTreasury"
+    },
+    {
+      "name": "New Jersey EDA",
+      "description": "The NJ Economic Development Authority is committed to ensuring that businesses have the tools \u0026 resources they need to grow \u0026 thrive in the Garden State.",
+      "id": "735652804883296257",
+      "username": "NewJerseyEDA"
+    },
+    {
+      "name": "Burnpits360",
+      "description": "Burn Pits 360 is a Veterans non profit organization who\u0027s sole mission is to provide advocacy through education, research and Outreach.",
+      "id": "177797385",
+      "username": "Burnpit360"
+    },
+    {
+      "name": "NJ DMAVA",
+      "description": "Official page of the New Jersey Department of Military and Veterans Affairs. (Following does not\u003dendorsement)",
+      "id": "326345863",
+      "username": "NJDMAVA"
+    },
+    {
+      "name": "Judge Carter",
+      "description": "U.S. Congressman proudly serving #TX31 \u0026 @forthood. Former Judge. Proud @TexasTech #RedRaider.",
+      "id": "18030431",
+      "username": "JudgeCarter"
+    },
+    {
+      "name": "NJSBDC State Office",
+      "description": "We\u0027ve Helped 13,000+ NJ Small Businesses Grow with $0 Business Consulting \u0026 Training | Powered by @SBAgov | https://t.co/imDPv0CF8y | Click?to Find Center",
+      "id": "179172509",
+      "username": "NJSBDC"
+    },
+    {
+      "name": "Rosa DeLauro",
+      "description": "Proud to represent CT-03 in Congress. Chair of @AppropsDems. Italian-American, New Haven native, fierce advocate for a strong middle class \u0026 those in need.",
+      "id": "140519774",
+      "username": "rosadelauro"
+    },
+    {
+      "name": "Bobby L. Rush",
+      "description": "Father, Grandfather, Pastor, Activist, and former Congressman.",
+      "id": "305216911",
+      "username": "BobbyLRush"
+    },
+    {
+      "name": "Federal Reserve",
+      "description": "The official Twitter channel of the Board of Governors of the Federal Reserve System. Privacy Policy: http://t.co/pbRRCfwyou",
+      "id": "26538229",
+      "username": "federalreserve"
+    },
+    {
+      "name": "NOAA",
+      "description": "NOAA provides science, service and stewardship to protect life, property \u0026 Earth\u0027s natural resources. An agency of @CommerceGov. Join us on Instagram \u0026 Facebook",
+      "id": "14342564",
+      "username": "NOAA"
+    },
+    {
+      "name": "Lou Venezia",
+      "description": "Fire Chief Bloomfield, N.J. Fire Department.",
+      "id": "342865296",
+      "username": "louvenezia"
+    },
+    {
+      "name": "Rep. Suzan DelBene",
+      "description": "U.S. Congresswoman representing Washington\u0027s 1st Congressional District (#WA01) \n\nChair of @NewDemCoalition | Vice Chair of @WaysMeansCmte",
+      "id": "995193054",
+      "username": "RepDelBene"
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "description": "Mom to Theo, Henry and dog Maple. Wife to Jonathan. U.S. Senator for New York. Not “very polite.” She/her.",
+      "id": "72198806",
+      "username": "SenGillibrand"
+    },
+    {
+      "name": "New Jersey Reentry Corporation",
+      "description": "The New Jersey Reentry Corporation (NJRC) is a nonprofit agency with a social mission to remove all barriers to employment for court involved individuals.",
+      "id": "4830908056",
+      "username": "NJ_Reentry"
+    },
+    {
+      "name": "NJFMBA",
+      "description": "New Jersey Firefighters\u0027 Mutual Benevolent Association with more than 5,000 firefighters across the state of New Jersey.",
+      "id": "60683908",
+      "username": "njfmba"
+    },
+    {
+      "name": "Rep. Ed Case",
+      "description": "Proudly representing Hawaii\u0027s First Congressional District.",
+      "id": "1081350574589833221",
+      "username": "RepEdCase"
+    },
+    {
+      "name": "National Institute of Standards and Technology",
+      "description": "NIST promotes U.S. innovation \u0026 competitiveness by advancing measurement science, standards \u0026 tech to enhance economic security \u0026 improve our quality of life.",
+      "id": "46648807",
+      "username": "NIST"
+    },
+    {
+      "name": "Leslie Allen",
+      "description": "USC grad, Top 20 WTA pro, Leadership /Life-skills Trainer, Keynote Speaker, NJ realtor, Loves anything Mid Century Modern especially to re purpose or up cycle.",
+      "id": "315288409",
+      "username": "LeslieTweets81"
+    },
+    {
+      "name": "Clean Water Action",
+      "description": "Clean Water Action works to empower people to take action to protect America\u0027s waters, build healthy communities, and to make democracy work for all of us.",
+      "id": "32854561",
+      "username": "cleanh2oaction"
+    },
+    {
+      "name": "Museum of Early Trades \u0026 Crafts",
+      "description": "A NJ history museum exploring the stories of the hardworking craftspeople of the 18th \u0026 19th centuries.\n9 Main Street  Hours: T-S:10-4 Sun: 12-5 Closed Monday",
+      "id": "325657341",
+      "username": "METCnj"
+    },
+    {
+      "name": "Stop 4 Nikhil",
+      "description": "STOP For Nikhil 5K Run/Walk/Bike Ride on Sunday, September 19, 2021, in-person and virtual. The only race in NJ about safe mobility for all.",
+      "id": "570483755",
+      "username": "stop4nikhil"
+    },
+    {
+      "name": "90.3 WMSC-FM",
+      "description": "The 2021 #1 College Station in the Nation | Marconi Finalist for “College Radio Station of the Year” 2022| @montclairstateu 90.3FM \u0026. @iheartradio app",
+      "id": "16002657",
+      "username": "WMSC"
+    },
+    {
+      "name": "NJ State Council on the Arts",
+      "description": "We encourage and give financial support to artists, arts organizations, and projects throughout New Jersey. #NJarts",
+      "id": "2316118140",
+      "username": "NJArtsCouncil"
+    },
+    {
+      "name": "Jazz House Kids",
+      "description": "Now in its 20th year, JAZZ HOUSE KiDS is dedicated to transforming lives using the power and legacy of jazz through world-class education and performances.",
+      "id": "143089127",
+      "username": "jazzhousekids"
+    },
+    {
+      "name": "The Wellmont Theater",
+      "description": "NJ\u0027s Premier Live Entertainment Venue in the heart of Montclair! \n? Get NO-FEE tickets at our box office Mon-Fri 12-5PM ?\nhttps://t.co/0zn2ZkVmlS",
+      "id": "1621103737",
+      "username": "WellmontTheater"
+    },
+    {
+      "name": "ShakespeareTheatreNJ",
+      "description": "Company of the Year...year-in-year-out excellence. (The Wall Street Journal)\n\nhttps://t.co/2mwCh8BMax",
+      "id": "20701865",
+      "username": "ShakespeareNJ"
+    },
+    {
+      "name": "MPAC",
+      "description": "Northern NJ\u0027s top performing arts venue, presenting concerts, comedy, theatre, family shows and more. #mpac",
+      "id": "52517480",
+      "username": "MayoCenter"
+    },
+    {
+      "name": "Stephanie Ruhle",
+      "description": "Mom, Host of 11th Hour with Stephanie Ruhle on @msnbc weeknights 11PM EST, @nbcnews Snr Business Analyst, lover of odd numbers \u0026 even playing fields.",
+      "id": "382685028",
+      "username": "SRuhle"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "The world’s largest business organization. We advocate, connect, inform, and fight for business growth and America’s success.",
+      "id": "85606078",
+      "username": "USChamber"
+    },
+    {
+      "name": "The Artist Baker",
+      "description": "",
+      "id": "577167038",
+      "username": "theartistbaker"
+    },
+    {
+      "name": "Appalachian Mtn Club",
+      "description": "We promote the protection, enjoyment, and understanding of the outdoors in America\u0027s Northeast and Mid-Atlantic regions.",
+      "id": "71280747",
+      "username": "AppMtnClub"
+    },
+    {
+      "name": "New Jersey Division of Fire Safety",
+      "description": "New Jersey Division of Fire Safety /    Office of the State Fire Marshal.  A Division of @NJDCA.",
+      "id": "2166691345",
+      "username": "NJFireSafety"
+    },
+    {
+      "name": "HOPE One",
+      "description": "HOPE One is a mobile recovery access unit that is bringing addiction and recovery services directly to those that need them most.",
+      "id": "849701125729267712",
+      "username": "HOPEOneMorris"
+    },
+    {
+      "name": "Madison Area YMCA",
+      "description": "The Madison Area YMCA is a nonprofit, charitable organization at the heart of community life. Our strength is bringing people together to improve our community.",
+      "id": "322048732",
+      "username": "MadisonAreaYMCA"
+    },
+    {
+      "name": "William Paterson University",
+      "description": "Your grit, our support. Together, we’ll do this. #WPUNJ  •  Will. Power.",
+      "id": "423564565",
+      "username": "wpunj_edu"
+    },
+    {
+      "name": "VA New Jersey Health Care System",
+      "description": "VA New Jersey Health Care System serves Vets in most of NJ. Go to https://t.co/4Xp5BsArnu for more info.\n\nFollowing a Twitter account does not signify VA endorsement.",
+      "id": "365544323",
+      "username": "VANJHCS"
+    },
+    {
+      "name": "VBOC Region II",
+      "description": "Assisting our veterans, service members and military spouses with entrepreneurial training and counseling.",
+      "id": "778057056020561920",
+      "username": "vbocNYNJ"
+    },
+    {
+      "name": "Lolita Baldor",
+      "description": "National Security/Pentagon Reporter with The Associated Press in Washington, D.C.; Granite State/Lakes Region native; Go Sox! Go Pats!",
+      "id": "109377487",
+      "username": "lbaldor"
+    },
+    {
+      "name": "NJWomenVote100",
+      "description": "Official account for New Jersey\u0027s 19th Amendment Centennial organization. Feat. news, historical facts and more to celebrate the 19th Amendment at 100 in 2020",
+      "id": "1067169230326558720",
+      "username": "NJWomenVote100"
+    },
+    {
+      "name": "Essex County Board of Commissioners",
+      "description": "The Essex County New Jersey Board of Commissioners\n\nFB: https://t.co/kgfgmD3DBT\nIG: https://t.co/iDNFD2acwN",
+      "id": "1050394972241977345",
+      "username": "ECCommissioners"
+    },
+    {
+      "name": "HUD NY/NJ",
+      "description": "Welcome to the official Twitter page for HUD in Region 2. Serving the states of New York \u0026 New Jersey.",
+      "id": "349199740",
+      "username": "HUDNY_NJ"
+    },
+    {
+      "name": "New Jersey Performing Arts Center",
+      "description": "Bring up the lights! Performances return to NJPAC. Get tickets today. Learn more about Arts Education at @NJPACArtsEd \u0026 fundraising @NJPACwomen",
+      "id": "15764019",
+      "username": "NJPAC"
+    },
+    {
+      "name": "Hadassah_Northern_NJ",
+      "description": "The power of women who heal. The power of women who advocate. The power of women who lead. The power of women for Israel.",
+      "id": "3289206445",
+      "username": "hadassah_nnj"
+    },
+    {
+      "name": "jennifer steinhauer",
+      "description": "Gen X extremist, meatloaf expert, Paper Plane proponent. Author of \"The Firsts,\" two cookbooks and a novel. Building leaders at UC IOP.",
+      "id": "16441088",
+      "username": "jestei"
+    },
+    {
+      "name": "watchungbooksellers",
+      "description": "A vibrant, independent community bookstore.",
+      "id": "30441525",
+      "username": "watchungbooks"
+    },
+    {
+      "name": "Sparta Township NJ",
+      "description": "Sparta is a thriving community with rolling hills, beautiful lakes, picturesque farms, and inviting residential developments in Sussex County, NJ.",
+      "id": "1064564644373823489",
+      "username": "SpartaTwpNJ"
+    },
+    {
+      "name": "FEMA",
+      "description": "Our story of supporting citizens \u0026 first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "id": "16669075",
+      "username": "fema"
+    },
+    {
+      "name": "LCV – League of Conservation Voters ?",
+      "description": "Fighting to build a world with clean air and water, public lands, and a safe climate that are protected by a just and equitable democracy. https://t.co/uvE9ekLC0T",
+      "id": "20517132",
+      "username": "LCVoters"
+    },
+    {
+      "name": "New Jersey Audubon",
+      "description": "Protecting New Jersey wildlife and habitat since 1897.",
+      "id": "112775490",
+      "username": "NJAudubon"
+    },
+    {
+      "name": "New Jersey Conservation Foundation",
+      "description": "Preserving land and natural resources throughout New Jersey...\n(RTs/Likes/Follows ? endorsements)",
+      "id": "147679369",
+      "username": "ConserveNJ"
+    },
+    {
+      "name": "Vet Voice Foundation",
+      "description": "Founded in 2009, VV Foundation is a 501(c)(3) non-profit organization with more than 1.5 million members that elevates veteran voices in our democracy.",
+      "id": "164796650",
+      "username": "VetVoiceFound"
+    },
+    {
+      "name": "Rep. John Katko",
+      "description": "Official Twitter account of Rep. John Katko. Proudly representing New York\u0027s 24th Congressional District.",
+      "id": "2966765501",
+      "username": "RepJohnKatko"
+    },
+    {
+      "name": "Rep. Peter Welch",
+      "description": "Official Twitter Account for Congressman Peter Welch, proudly representing the great state of Vermont in the U.S. House of Representatives.",
+      "id": "1410590874",
+      "username": "PeterWelch"
+    },
+    {
+      "name": "Rep. John Curtis",
+      "description": "Official account for United States Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah\u0027s 3rd district.",
+      "id": "931614483050414080",
+      "username": "RepJohnCurtis"
+    },
+    {
+      "name": "Minority Veterans of America",
+      "description": "Transforming the narrative of the American veteran. ??",
+      "id": "931246784688529408",
+      "username": "MinorityVets"
+    },
+    {
+      "name": "Robert D. Parisi",
+      "description": "Lifelong resident of this great community, blessed with wonderful family and friends, and looking forward to the opportunities that lie ahead",
+      "id": "167379511",
+      "username": "WOMayorParisi"
+    },
+    {
+      "name": "Lake Hopatcong Fdn",
+      "description": "Fostering a vibrant and healthy Lake Hopatcong and its surrounding community.",
+      "id": "1264631160",
+      "username": "ThisIsYourLake"
+    },
+    {
+      "name": "TechNet",
+      "description": "The national, bipartisan network of technology CEOs \u0026 senior executives that promotes the growth of the innovation economy",
+      "id": "50128726",
+      "username": "TechNetUpdate"
+    },
+    {
+      "name": "The Hill Events",
+      "description": "Live journalism. @TheHill’s events are timely, exciting live experiences that tackle big-picture, of-the-moment issues with authority: https://t.co/Xky2wkogkw",
+      "id": "2730222072",
+      "username": "TheHillEvents"
+    },
+    {
+      "name": "DARPA",
+      "description": "Official account of the Defense Advanced Research Projects Agency. Follows/retweets/links do not \u003d endorsement. Breakthrough technologies for national security.",
+      "id": "54645160",
+      "username": "DARPA"
+    },
+    {
+      "name": "Rep. Tony Cárdenas",
+      "description": "Husband, father and grandfather. Proud to represent #CA29 - the San Fernando Valley - in The People’s House. Member of @EnergyCommerce @HispanicCaucus",
+      "id": "1222257180",
+      "username": "RepCardenas"
+    },
+    {
+      "name": "Little Falls Schools",
+      "description": "2021 Northern NJ Superintendent of the Year 2021 Passaic County Superintendent of the Year NJDOE Lighthouse District National Blue Ribbon School of Excellence",
+      "id": "3353822883",
+      "username": "LFschools"
+    },
+    {
+      "name": "Steve Vladeck",
+      "description": "@ksvesq’s husband; father of daughters; Charles Alan Wright Chair in Federal Courts @UTexasLaw; #SCOTUS nerd @CNN; new book: https://t.co/FmqTSPSMH3; #LGM",
+      "id": "380268462",
+      "username": "steve_vladeck"
+    },
+    {
+      "name": "Select Committee on the Climate Crisis",
+      "description": "Official account for the House Select Committee on the Climate Crisis, chaired by @USRepKCastor.  \n\nRead our Climate Crisis Action Plan ?",
+      "id": "1109185600354242563",
+      "username": "ClimateCrisis"
+    },
+    {
+      "name": "Borough of Caldwell",
+      "description": "The Official Twitter Account of the Borough of Caldwell, NJ. Tweets in compliance with the social media policy. https://t.co/q2SICnXWiu",
+      "id": "1095743055578230784",
+      "username": "caldwellborough"
+    },
+    {
+      "name": "Rep. Kevin Hern",
+      "description": "Representing Oklahoma\u0027s 1st Congressional District in Congress",
+      "id": "1067818539179024386",
+      "username": "repkevinhern"
+    },
+    {
+      "name": "Community FoodBank of New Jersey",
+      "description": "Community FoodBank of New Jersey, a member of Feeding America, fills the emptiness caused by hunger with FOOD, HELP and HOPE",
+      "id": "18032149",
+      "username": "CFBNJ"
+    },
+    {
+      "name": "JHBK",
+      "description": "Jockey Hollow Bar \u0026 Kitchen is The Oyster \u0026 Wine Bar, The Vail Bar, The Dining Room at Jockey Hollow, and The Rathskeller. Reservations 973.644.3180 \u0026 OpenTable",
+      "id": "2394649344",
+      "username": "JockeyHollowBK"
+    },
+    {
+      "name": "i do... i do...",
+      "description": "Bridal studio in Morristown, NJ. We guide our brides\u0027 imagination by helping select a unique \u0026 perfect wedding gown for the day she says,“i do”!",
+      "id": "1543637898",
+      "username": "idoidoNJ"
+    },
+    {
+      "name": "just jersey",
+      "description": "A retail store that showcases the Garden State\u0027s local goods.",
+      "id": "1269655728",
+      "username": "justjerseygoods"
+    },
+    {
+      "name": "Sheila Jackson Lee",
+      "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas\u0027 18th Congressional District in the U.S. House of Representatives.",
+      "id": "80612021",
+      "username": "JacksonLeeTX18"
+    },
+    {
+      "name": "Mike Quigley",
+      "description": "Representing Illinois\u0027 5th District. House Appropriator, Intelligence Committee member, amateur hockey player, proud Cubs fan. He/Him.",
+      "id": "56864092",
+      "username": "RepMikeQuigley"
+    },
+    {
+      "name": "Rep. Seth Moulton",
+      "description": "Veteran, father \u0026 husband proudly serving Massachusetts\u0027 Sixth District. @HASCDemocrats @HouseBudgetDems @TransportDems",
+      "id": "3091316093",
+      "username": "RepMoulton"
+    },
+    {
+      "name": "EDGE New Jersey",
+      "description": "EDGE NJ responds compassionately and responsibly to the HIV+ \u0026 LGBTQ+ communities. Follow us on Instagram: @edge_nj",
+      "id": "607427698",
+      "username": "edge_nj"
+    },
+    {
+      "name": "Environment America",
+      "description": "Environment America is a policy and action group with one mission: to build a greener, healthier world.",
+      "id": "16721621",
+      "username": "EnvAm"
+    },
+    {
+      "name": "FPSussex",
+      "description": "The Family Promise of Sussex County shelter program works to stabilize families and individuals experiencing a housing crisis.\n(973) 579-1180",
+      "id": "425258627",
+      "username": "FPSussex"
+    },
+    {
+      "name": "GAF Roofing",
+      "description": "North America\u0027s largest roofing manufacturer. 130 years of work. 90+ million people protected. Active in our communities. #WeProtectWhatMattersMost",
+      "id": "23605000",
+      "username": "gafroofing"
+    },
+    {
+      "name": "InterfaithFoodPantryNetwork",
+      "description": "Improving the health and well being of Morris County residents in need, providing hands on volunteer opportunities, and educating the public about hunger.",
+      "id": "326307657",
+      "username": "InterfaithFoodP"
+    },
+    {
+      "name": "Rep. Scott Tipton",
+      "description": "Former representative of Colorado\u0027s 3rd Congressional District.",
+      "id": "242873057",
+      "username": "RepTipton"
+    },
+    {
+      "name": "Morris County Vocational School District (MCVSD)",
+      "description": "Mission: to provide vocational and enrichment programs that inspire and prepare students to succeed in today\u0027s world and pursue tomorrow\u0027s opportunities.",
+      "id": "3731703016",
+      "username": "MorrisCountyVSD"
+    },
+    {
+      "name": "Morris Catholic",
+      "description": "The official Twitter account of Morris Catholic High School.  We train the next generation of leaders to practice Character, Community and Commitment.",
+      "id": "59544834",
+      "username": "MCHSCrusader"
+    },
+    {
+      "name": "Montclair Art Museum",
+      "description": "Collecting \u0026 preserving American \u0026 Native American art since 1914. Experience Art Your Way at #MAM",
+      "id": "98721224",
+      "username": "MAMmontclair"
+    },
+    {
+      "name": "Sue Fulton",
+      "description": "West Point \u002780, Army veteran. She, her, hers. I believe diversity makes us stronger, smarter, better. Fighting for the Constitution. Opinions mine alone.",
+      "id": "72944396",
+      "username": "suefulton"
+    },
+    {
+      "name": "Eleanor #DCStatehood Holmes Norton",
+      "description": "Member of Congress, representing the District of Columbia.",
+      "id": "23600262",
+      "username": "EleanorNorton"
+    },
+    {
+      "name": "Andre Sayegh",
+      "description": "Father, Husband, Son, Brother and Mayor of Paterson, New Jersey\u0027s third largest city  #onepaterson",
+      "id": "56360914",
+      "username": "andresayeghNJ"
+    },
+    {
+      "name": "Rep. Gregory Meeks",
+      "description": "Proudly serving the people of the 5th Congressional District of New York. For media inquiries, please contact Ayanna.Young@mail.house.gov",
+      "id": "22812754",
+      "username": "RepGregoryMeeks"
+    },
+    {
+      "name": "Rep. Gwen Moore",
+      "description": "Honored to represent Wisconsin’s 4th Congressional District. Proud mother, grandmother \u0026 great-grandmother. Loves poetry reading, knitting \u0026 crocheting.",
+      "id": "22669526",
+      "username": "RepGwenMoore"
+    },
+    {
+      "name": "Bennie G. Thompson",
+      "description": "Husband. Father. Grandfather. Avid hunter. Proudly serving #MS02 in Congress. | Chairman of @HomelandDems. | Follow my Instagram: @benniegthompson.",
+      "id": "82453460",
+      "username": "BennieGThompson"
+    },
+    {
+      "name": "Pew\u0027s Fix Our Parks",
+      "description": "Raising awareness and finding lasting solutions for America\u0027s national parks\u0027 repair backlog. A project of @PewEnvironment. #FixOurParks",
+      "id": "856595886234796032",
+      "username": "PewFixOurParks"
+    },
+    {
+      "name": "Sierra Club",
+      "description": "Explore, enjoy, and protect the planet!",
+      "id": "34113439",
+      "username": "SierraClub"
+    },
+    {
+      "name": "Morris County Parks",
+      "description": "More than 18,500 acres including historic sites, golf courses, outdoor education \u0026 recreation, arboreta, 150 miles of trails, and a sports/ice skating arena.",
+      "id": "339817282",
+      "username": "MorrisParksNJ"
+    },
+    {
+      "name": "LWCF Coalition",
+      "description": "The Land and Water Conservation Fund protects America\u0027s National Parks \u0026 wildlife refuges, historical monuments, coastline, rivers, trails \u0026 more",
+      "id": "188417388",
+      "username": "LWCFCoalition"
+    },
+    {
+      "name": "Former Rep. Marcia L. Fudge",
+      "description": "Former Representative for Ohio’s Eleventh Congressional District.",
+      "id": "153486399",
+      "username": "RepMarciaFudge"
+    },
+    {
+      "name": "Passaic County, NJ",
+      "description": "The official Twitter feed for Passaic County, NJ",
+      "id": "274636182",
+      "username": "passaic_county"
+    },
+    {
+      "name": "US Rep Kathy Castor",
+      "description": "?Tampa Bay\u0027s Congresswoman???? ?? People Over Politics! ?? ? Chair, @ClimateCrisis ??? https://t.co/u6vvktXzYK",
+      "id": "1880674038",
+      "username": "USRepKCastor"
+    },
+    {
+      "name": "Michele Siekerka",
+      "description": "President and CEO of the NJ Business \u0026 Industry Association, representing over 1,000,000 jobs in NJ",
+      "id": "2842744030",
+      "username": "SiekerkaNJBIA"
+    },
+    {
+      "name": "NJBIA",
+      "description": "The New Jersey Business \u0026 Industry Association provides information, services and advocacy to member companies in order to build a more prosperous New Jersey.",
+      "id": "38348039",
+      "username": "NJBIA"
+    },
+    {
+      "name": "National Law Enforcement Officers Memorial Fund",
+      "description": "Leading authority on line-of-duty deaths | HonorTheFallen \nMaking it safer for those who serve with #OfficerSafety\nTelling the story of LEO @NLEMuseum",
+      "id": "23457956",
+      "username": "NLEOMF"
+    },
+    {
+      "name": "Red Cross New Jersey",
+      "description": "The official Twitter stream of the American Red Cross New Jersey Region. Join us!",
+      "id": "3555278963",
+      "username": "NJRedCross"
+    },
+    {
+      "name": "U.S. Senator Bill Cassidy, M.D.",
+      "description": "Treated uninsured patients as a doctor in Louisiana’s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+      "id": "1017500185356853248",
+      "username": "SenBillCassidy"
+    },
+    {
+      "name": "Governor Ned Lamont",
+      "description": "89th Governor of Connecticut. Find a COVID vaccine near you at https://t.co/iI5zIF71B9",
+      "id": "1076293903723233280",
+      "username": "GovNedLamont"
+    },
+    {
+      "name": "bat grande",
+      "description": "bat",
+      "id": "858717998",
+      "username": "ienatalie"
+    },
+    {
+      "name": "Ovadia Corporation",
+      "description": "U.S. manufacturer of jewelry displays since 1982. Currently making face shields to help in the fight against COVID-19.",
+      "id": "1250619615560044544",
+      "username": "ovadiacorp"
+    },
+    {
+      "name": "David Relman",
+      "description": "",
+      "id": "2925147952",
+      "username": "DavidRelman"
+    },
+    {
+      "name": "Andy Slavitt ??",
+      "description": "Fr Biden/Obama Admins. Host of @inthebubblepod \u0026 author best-selling book “Preventable. Find me on Postnews aslavitt.",
+      "id": "1383272101",
+      "username": "ASlavitt"
+    },
+    {
+      "name": "U.S. Military Academy at West Point",
+      "description": "Official account of the U.S. Military Academy at West Point. #DutyHonorCountry Following, RTs and links ? endorsement",
+      "id": "249844732",
+      "username": "WestPoint_USMA"
+    },
+    {
+      "name": "Library of the Chathams",
+      "description": "Public library serving Chatham Borough \u0026 Chatham Township in Morris County, NJ. Member of Main Library Alliance, Morris-Union Federation, \u0026 Open Borrowing. ?",
+      "id": "326979646",
+      "username": "chatham_library"
+    },
+    {
+      "name": "JSpango",
+      "description": "Mayor of the Borough of Roseland NJ- The Greatest Borough in NJ - Business Administrator- Essex County Sheriff’s Office - Chief Essex County Sheriff’s Office",
+      "id": "939870443133194242",
+      "username": "JamesRSpango"
+    },
+    {
+      "name": "Roseland Borough",
+      "description": "The Official Twitter account of the Borough of Roseland, New Jersey.\nAll comments and posts are subject to NJ OPRA rules \u0026 regulations.",
+      "id": "1192453227779936256",
+      "username": "BoroughRoseland"
+    },
+    {
+      "name": "Rep. Eric Swalwell",
+      "description": "Husband | Dad to Nelson, Cricket \u0026 Hank | Congressman | @HouseJudiciary @HouseIntel @HomelandDems | social media policy: https://t.co/47CTxGMvRW | #EndGunViolence",
+      "id": "942156122",
+      "username": "RepSwalwell"
+    },
+    {
+      "name": "Nutley Chamber",
+      "description": "Nutley Chamber of Commerce is a community-minded, non-profit business organization helping foster growth \u0026 profitability of members.",
+      "id": "2964392303",
+      "username": "NutleyChamber"
+    },
+    {
+      "name": "Yogi Berra Museum",
+      "description": "Non-profit learning center \u0026 tribute to life \u0026 career of American icon Yogi Berra. It ain\u0027t over. \nNow on Display: Billie Jean King: Champion. Activist. Legend.",
+      "id": "264911521",
+      "username": "YogiBerraMuseum"
+    },
+    {
+      "name": "Table Of Hope",
+      "description": "“Hope Starts Here, Where the Community Gathers to Share”",
+      "id": "1062054214917111809",
+      "username": "TableOfHope1"
+    },
+    {
+      "name": "Rep. Brian Fitzpatrick ??",
+      "description": "A fiercely independent voice for my hometown of #PA01 | Former @FBI Special Agent \u0026 Federal Prosecutor | CPA | EMT | Proud @Penn_State Alum | #WeAre ?",
+      "id": "816303263586914304",
+      "username": "RepBrianFitz"
+    },
+    {
+      "name": "Jim Himes ????",
+      "description": "Connecticut Congressman. Reader. Runner. Swimmer. Apiarist. And I make maple syrup. And mead.",
+      "id": "31611298",
+      "username": "jahimes"
+    },
+    {
+      "name": "Congressman Dan Meuser",
+      "description": "Proudly serving the hardworking taxpayers of Pennsylvania\u0027s 9th Congressional District.",
+      "id": "1080574793630527505",
+      "username": "RepMeuser"
+    },
+    {
+      "name": "Pete King",
+      "description": "Former U.S. Congressman, Rosemary’s Husband. Go Irish! Let’s Go Mets!",
+      "id": "18277655",
+      "username": "RepPeteKing"
+    },
+    {
+      "name": "Cheddar News",
+      "description": "Live news \u0026 original shows that feed your curiosity ?",
+      "id": "700784500658208768",
+      "username": "cheddar"
+    },
+    {
+      "name": "@NorthJerseyNews.com",
+      "description": "Covering the political news from Washington and Trenton that affects us",
+      "id": "1221833833575845888",
+      "username": "NorthJerseyNew1"
+    },
+    {
+      "name": "PSE\u0026G",
+      "description": "NJ\u0027s largest elec.+gas utility. We tweet M-F 7a-9p, Sat-Sun 8a-4p. Call 800-436-7734 to report power outages/gas leaks/emergencies. https://t.co/HP7FuFVBnK",
+      "id": "145331696",
+      "username": "PSEGdelivers"
+    },
+    {
+      "name": "SBA New Jersey",
+      "description": "The official Twitter account of the U.S. Small Business Administration New Jersey District Office.  Neither RT or @mentions imply endorsement.",
+      "id": "907621995805847553",
+      "username": "SBA_NewJersey"
+    },
+    {
+      "name": "WCECNJ",
+      "description": "Women’s Business Center serving the northern 14 counties of NJ, helping women start \u0026 grow their own businesses. #WCECWomen #WCECMyStory #WCECNJ",
+      "id": "745396369",
+      "username": "WCECNJ"
+    },
+    {
+      "name": "NJDOL Commissioner",
+      "description": "Official Twitter account of the commissioner of the NJ Department of Labor \u0026 Workforce Development.",
+      "id": "1091448994767736833",
+      "username": "NJDOLCommish"
+    },
+    {
+      "name": "John Lee ?",
+      "description": "#Journalist at @TAPintoLocal; Owner #NJNews sites @TAPintoNutley / love to embrace #mydisneyside / I\u0027m one of the #masterpeeps",
+      "id": "21935703",
+      "username": "johnleesandiego"
+    },
+    {
+      "name": "Denville Township",
+      "description": "Denville Township, Morris County, NJ USA",
+      "id": "57466111",
+      "username": "denvillenj"
+    },
+    {
+      "name": "Mendham Borough NJ",
+      "description": "Mendham Borough is located in suburban Morris County, New Jersey.  Incorporated as a borough by an Act of the NJ Legislature on May 15, 1906.",
+      "id": "474064477",
+      "username": "MendhamBoroNJ"
+    },
+    {
+      "name": "Livingston Schools",
+      "description": "Livingston Public Schools: Empowering all to learn, create, contribute and grow.",
+      "id": "843746575",
+      "username": "LivSchools"
+    },
+    {
+      "name": "livingston police",
+      "description": "",
+      "id": "1433763266",
+      "username": "livingstonalert"
+    },
+    {
+      "name": "New Jersey Department of Education",
+      "description": "State of New Jersey Department of Education. Retweets/Likes are not endorsements.",
+      "id": "958079839969447937",
+      "username": "NewJerseyDOE"
+    },
+    {
+      "name": "Roxbury Register",
+      "description": "Your source for news about Roxbury, Mount Arlington, and Succusanna. https://t.co/ag5V3EvOKB, mcondon@newjerseyhills.com",
+      "id": "500989749",
+      "username": "RoxburyRegister"
+    },
+    {
+      "name": "Tim Sullivan",
+      "description": "CEO, NJ Economic Development Authority (@NewJerseyEDA). @MikeBloomberg \u0026 @DanMalloyCT alum, Hoya, Dad, academic spouse. Opinions entirely my own.",
+      "id": "187664718",
+      "username": "timsullivan510"
+    },
+    {
+      "name": "Rep. Derek Kilmer",
+      "description": "Proudly Representing Washington\u0027s 6th District in the House of Representatives",
+      "id": "1058917562",
+      "username": "RepDerekKilmer"
+    },
+    {
+      "name": "Jersey Civic Engage",
+      "description": "A non-partisan initiative of the NJ Secretary of State’s Office, fostering community civic and voter engagement.",
+      "id": "1195032987097804800",
+      "username": "NJCivicEngage"
+    },
+    {
+      "name": "Rep. Alma Adams",
+      "description": "Congresswoman representing NC’s 12th District. Educator. Artist. Founder \u0026 Co-Chair of the Black Maternal Health @BMHCaucus and the Bipartisan @HBCUCaucus.",
+      "id": "2916086925",
+      "username": "RepAdams"
+    },
+    {
+      "name": "United Way of NNJ",
+      "description": "United Way of Northern New Jersey advances the common good in Morris, Suburban Essex, Somerset, Sussex \u0026 Warren counties.  Follow us \u0026 learn how to LIVE UNITED!",
+      "id": "109054626",
+      "username": "UnitedWayNNJ"
+    },
+    {
+      "name": "New Jersey Firefighters",
+      "description": "The Professional Firefighters Association of New Jersey represents over 5,000 active/retired IAFF firefighters, EMS \u0026 support service members across New Jersey.",
+      "id": "2391224954",
+      "username": "PFANJ_IAFF"
+    },
+    {
+      "name": "Summit Health",
+      "description": "Summit Health helps patients with all of their primary and specialty care needs.",
+      "id": "29256961",
+      "username": "SummitHealthHQ"
+    },
+    {
+      "name": "Eva",
+      "description": "",
+      "id": "1289298174",
+      "username": "zufallhealth"
+    },
+    {
+      "name": "Hackensack Meridian",
+      "description": "Hackensack Meridian Health is a leading not-for-profit health care organization that is the most comprehensive \u0026 truly integrated health care network in NJ.",
+      "id": "741365695213121536",
+      "username": "HMHNewJersey"
+    },
+    {
+      "name": "Veterans Affairs",
+      "description": "Official Twitter feed of the U.S. Department of Veterans Affairs. Following a Twitter user does not signify VA endorsement. \nhttps://t.co/PXoHs7whZL",
+      "id": "78408666",
+      "username": "DeptVetAffairs"
+    },
+    {
+      "name": "Morris County NJ OEM",
+      "description": "Follow us for Morris County multi-jurisdictional emergency updates. Sign up for text, email, voice alerts at https://t.co/O2cEuprvnz.",
+      "id": "174294161",
+      "username": "AlertMorris"
+    },
+    {
+      "name": "NJDOT",
+      "description": "Updates from NJ\u0027s Department of Transportation on projects and driving conditions throughout the state.",
+      "id": "2891202783",
+      "username": "NewJerseyDOT"
+    },
+    {
+      "name": "Governor Phil Murphy",
+      "description": "56th Governor of the Garden State. Advancing opportunity and affordability for every New Jersey family.",
+      "id": "948946378939609089",
+      "username": "GovMurphy"
+    },
+    {
+      "name": "NJDOH",
+      "description": "Official Twitter account of the New Jersey Department of Health. Find us on Facebook, Instagram \u0026 LinkedIn. Contact us at https://t.co/ner05vxx9K",
+      "id": "252114970",
+      "username": "NJDeptofHealth"
+    },
+    {
+      "name": "G. K. Butterfield",
+      "description": "U.S. Representative, proudly serving North Carolina\u0027s 1st Congressional District. Follow my work in Washington and #NC01.",
+      "id": "432676344",
+      "username": "GKButterfield"
+    },
+    {
+      "name": "Keith Kazmark",
+      "description": "Mayor of Woodland Park, NJ.",
+      "id": "25952995",
+      "username": "KeithKazmark"
+    },
+    {
+      "name": "Woodland Park, NJ",
+      "description": "Office of the Mayor",
+      "id": "52817336",
+      "username": "WPNJ"
+    },
+    {
+      "name": "RSVP Essex \u0026 Hudson",
+      "description": "The RSVP Center of Essex \u0026 Hudson Counties, an AmeriCorps Seniors program, mobilizes volunteers ages 55+ to give back to their communities.",
+      "id": "859851914040758275",
+      "username": "RSVPEssexHudson"
+    },
+    {
+      "name": "JFS MetroWest NJ",
+      "description": "We provide social services in NJ",
+      "id": "90472867",
+      "username": "JFS_MetroWest"
+    },
+    {
+      "name": "Yana Lukeman",
+      "description": "ProIsrael leader, proud American, ????, suffering JETS fan ?, #BBG. “A person convinced against their will is of the same opinion still”. ??quotes",
+      "id": "763879569946533892",
+      "username": "YanaLukeman"
+    },
+    {
+      "name": "Rep. Debbie Dingell",
+      "description": "Proudly serving the people of Michigan\u0027s 12th Congressional District. https://t.co/GcyzgYRHyH https://t.co/VwHPxC0Unf",
+      "id": "2970279814",
+      "username": "RepDebDingell"
+    },
+    {
+      "name": "Future Forum Congress",
+      "description": "Official account for #FutureForum - An influential group of young @HouseDemocrats who amplify the voices of younger Americans in Congress. Chair: @RepDarrenSoto",
+      "id": "1090356301488709632",
+      "username": "FFCongress"
+    },
+    {
+      "name": "Med Society of NJ",
+      "description": "Official Twitter Account of the Medical Society of New Jersey",
+      "id": "67311924",
+      "username": "MSNJ1766"
+    },
+    {
+      "name": "The Nature Conservancy in NJ",
+      "description": "Together, let’s ensure that nature is a welcoming place for all.",
+      "id": "885047502",
+      "username": "nature_NJ"
+    },
+    {
+      "name": "New Jersey Secretary of State Tahesha Way",
+      "description": "Official account for Tahesha Way, New Jersey\u0027s 34th Secretary of State. Also follow @NJStateDept for Department news.",
+      "id": "968516379166085120",
+      "username": "SecretaryWay"
+    },
+    {
+      "name": "TAPinto PV",
+      "description": "TAPinto Passaic Valley is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/UNhWHvVsuH",
+      "id": "774333768295452673",
+      "username": "TAPintoPV"
+    },
+    {
+      "name": "Kessler Foundation",
+      "description": "Changing the lives of people with disabilities. Shares do not necessarily reflect the views of Kessler Foundation. #KesslerChangingLives • #ResearchThatLeads",
+      "id": "169583408",
+      "username": "KesslerFdn"
+    },
+    {
+      "name": "USMMA Official",
+      "description": "Federal Service Academy. College. Merchant Marine. Mariners. Acta Non Verba. The world is our campus.",
+      "id": "1089939639790637056",
+      "username": "UsmmaO"
+    },
+    {
+      "name": "JCP\u0026L",
+      "description": "Official account of JCP\u0026L, a FirstEnergy company. We tweet M-F 8-5 + during major weather events. Call 888-544-4877 to report a power outage or emergency.",
+      "id": "59945683",
+      "username": "JCP_L"
+    },
+    {
+      "name": "Rabbinical College of America",
+      "description": "Rabbinical College of America is a large Chabad Lubavitch Chasidic yeshiva. \nLocated in Morristown, New Jersey, RCA has trained thousands of Rabbinic students.",
+      "id": "973391796704366592",
+      "username": "RCANewJersey"
+    },
+    {
+      "name": "End Citizens United",
+      "description": "Democratic activists fighting for true campaign finance reform.",
+      "id": "3063996411",
+      "username": "StopBigMoney"
+    },
+    {
+      "name": "YMCA of Montclair",
+      "description": "The YMCA of Montclair has been making a positive impact in our community since 1891. We operate two branches—Park Street YMCA and Geyer Family YMCA.",
+      "id": "92298774",
+      "username": "montclairymca"
+    },
+    {
+      "name": "Montville Township",
+      "description": "This is the official Twitter account for the Township of Montville, NJ.  Follow us for emergency alerts and information.",
+      "id": "467634485",
+      "username": "MontvilleTwp"
+    },
+    {
+      "name": "Montville Twp Police",
+      "description": "Proudly serving the citizens of Montville Township, NJ",
+      "id": "872436748999118848",
+      "username": "TwpMontvillePD"
+    },
+    {
+      "name": "MLK Observance Committee",
+      "description": "To educate \u0026 inspire all peoples to embrace Dr. Martin Luther King\u0027s dream for beloved community that seeks social justice, equality, peace \u0026 harmony for all.",
+      "id": "4801202175",
+      "username": "MLKOCNJ"
+    },
+    {
+      "name": "MorristownNJ.com",
+      "description": "The go-to source for Morristown NJ ??",
+      "id": "1111760378940325889",
+      "username": "MorristownNJ_"
+    },
+    {
+      "name": "New Jersey LCV",
+      "description": "New Jersey LCV is a non-partisan, non-profit organization making environmental protection a priority in the NJ Statehouse.",
+      "id": "477793352",
+      "username": "NJLCV"
+    },
+    {
+      "name": "Jewish Fed of GMW",
+      "description": "Inspired by Jewish values, Federation cares for people in need, builds a strong Jewish community, and saves the world, one person at a time.",
+      "id": "24931085",
+      "username": "jfedgmw"
+    },
+    {
+      "name": "Rep. Lisa Blunt Rochester",
+      "description": "Official Twitter page for U.S. Representative Lisa Blunt Rochester (D-DE).",
+      "id": "817050219007328258",
+      "username": "RepLBR"
+    },
+    {
+      "name": "NJ Ballet Company",
+      "description": "",
+      "id": "156135728",
+      "username": "NJBalletCompany"
+    },
+    {
+      "name": "(((R. David Levy)))",
+      "description": "Husband, father, Rabbi and computer geek. Mastodon: @rabbilevy@toot.community",
+      "id": "31138381",
+      "username": "RabbiLevy"
+    },
+    {
+      "name": "Rep. Lucille Roybal-Allard",
+      "description": "Representing California\u0027s 40th Congressional District. Chairwoman of the @AppropsDems Homeland Security Committee.",
+      "id": "479872233",
+      "username": "RepRoybalAllard"
+    },
+    {
+      "name": "Rep. Greg Stanton",
+      "description": "Proudly serving Arizona\u0027s 9th Congressional District",
+      "id": "1080885078425784320",
+      "username": "RepGregStanton"
+    },
+    {
+      "name": "Ben McAdams UT",
+      "description": "The official Twitter account for Ben McAdams | Former Utah Congressman, Salt Lake County Mayor, Utah State Senator",
+      "id": "196362083",
+      "username": "BenMcAdamsUT"
+    },
+    {
+      "name": "Bloomfield College",
+      "description": "The Official Twitter Page of Bloomfield College 467 Franklin Street, Bloomfield, NJ (973) 748-9000",
+      "id": "39776883",
+      "username": "bloomfieldedu"
+    },
+    {
+      "name": "Committee on House Admn. Democrats",
+      "description": "Committee w/ oversight of @Smithsonian, @librarycongress, @CapitolPolice, @FEC, @EACgov, @uscapitol, @USGPO \u0026 federal elections. | Chair @RepZoeLofgren",
+      "id": "19716781",
+      "username": "HouseAdm_Dems"
+    },
+    {
+      "name": "Rep. Darren Soto",
+      "description": "Proudly representing #FL9: Osceola County \u0026 parts of Orange \u0026 Polk Counties. ???? Chair of @FFCongress. Member of @EnergyCommerce, @NRDems \u0026 @HispanicCaucus",
+      "id": "818713465653051392",
+      "username": "RepDarrenSoto"
+    },
+    {
+      "name": "J.D. Lace",
+      "description": "Computer Science Educator. Pilot Training. Aircrew @USCGAux @CivilAirPatrol. Veteran. Tweets ? official. #Aviation #Aerospace #STEM",
+      "id": "858901158",
+      "username": "jd_lace"
+    },
+    {
+      "name": "Coalition for the Delaware River Watershed",
+      "description": "Amplifying the collective power of 180+ members to advocate for a healthy and protected watershed",
+      "id": "1951946858",
+      "username": "DelRivCoalition"
+    },
+    {
+      "name": "Rep. Donald McEachin",
+      "description": "Father, husband \u0026 Progressive Democrat. Proudly representing VA’s 4th Congressional District. Member of @EnergyCommerce, @NRDems, \u0026 @climatecrisis",
+      "id": "816181091673448448",
+      "username": "RepMcEachin"
+    },
+    {
+      "name": "Catholic Charities, Diocese of Paterson",
+      "description": "We provide help and create hope for thousands of people in need each day throughout NJ. \nStraight \u0026 Narrow - CFCS - Department for Persons with Disabilities",
+      "id": "3040771383",
+      "username": "CCharitiesPat"
+    },
+    {
+      "name": "NY/NJ Baykeeper",
+      "description": "Protecting, preserving and restoring the NY-NJ Harbor Estuary since 1989. Learn more @ https://t.co/BOMn5oCmdU",
+      "id": "159505287",
+      "username": "NYNJBaykeeper"
+    },
+    {
+      "name": "LWVNJ",
+      "description": "League of Women Voters is a nonpartisan political organization that seeks to improve government and impact public policies through education \u0026 advocacy.",
+      "id": "1648447802",
+      "username": "LWVNJ"
+    },
+    {
+      "name": "David Pringle",
+      "description": "Dad, husband, public interest advocate, community organizer, political strategist/consultant",
+      "id": "1160569932",
+      "username": "DavidPringle11"
+    },
+    {
+      "name": "NJSierraClub",
+      "description": "Sierra Club is a national environmental organization, which seeks to influence public policy in NJ through public education and grass-roots political action.",
+      "id": "237873737",
+      "username": "NJSierraClub"
+    },
+    {
+      "name": "CleanWaterAction NJ",
+      "description": "Clean Water Action works to empower people to take action to protect America\u0027s waters, build healthy communities, and to make democracy work for all of us in NJ",
+      "id": "55258053",
+      "username": "CleanWaterNJ"
+    },
+    {
+      "name": "Environment New Jersey",
+      "description": "Environment New Jersey, a project of Environment America, is a policy and action group with one mission: to build a greener, healthier world.",
+      "id": "243218822",
+      "username": "EnvironmentNJ"
+    },
+    {
+      "name": "ChathamTownship",
+      "description": "Official Chatham Township, NJ government Twitter. Keep up with news, programs, events and emergency notifications.",
+      "id": "2335851510",
+      "username": "ChathamTownship"
+    },
+    {
+      "name": "School District of the Chathams",
+      "description": "The essential intent of the School District of the Chathams is to discover and grow the gifts within each child.",
+      "id": "1177581774370721792",
+      "username": "chatham_sdoc"
+    },
+    {
+      "name": "Councilman Jonathan Lace",
+      "description": "Councilman in the Borough of Caldwell, NJ (2018-2020, 2021-2023). Tweets archived for public record. jlace@caldwell-nj.com",
+      "id": "929522393395101696",
+      "username": "CouncilmanLace"
+    },
+    {
+      "name": "NJ_League",
+      "description": "NJLM represents local government before the State Legislature, media, the courts, \u0026 provides services \u0026 resources to its membership. RTs are not endorsements.",
+      "id": "122095830",
+      "username": "NJ_League"
+    },
+    {
+      "name": "West Essex NOW",
+      "description": "NJ state credited hyperlocal news site covering the West Essex, NJ area.",
+      "id": "895773026",
+      "username": "WestEssexNOW"
+    },
+    {
+      "name": "Rep Van Taylor",
+      "description": "Proudly Serving the Third Congressional District of Texas.",
+      "id": "1075040139351597056",
+      "username": "RepVanTaylor"
+    },
+    {
+      "name": "Natasha Bertrand",
+      "description": "@CNN reporter covering the White House and national security. #ForbesUnder30. DM for Signal.",
+      "id": "372536101",
+      "username": "NatashaBertrand"
+    },
+    {
+      "name": "Chad Pergram",
+      "description": "Chad Pergram is the Senior Congressional Correspondent for Fox News. He\u0027s won an Edward R. Murrow Award \u0026 is a two-time recipient of the Joan Barone Award.",
+      "id": "16187637",
+      "username": "ChadPergram"
+    },
+    {
+      "name": "Doug O\u0027Malley",
+      "description": "@EnvironmentNJ director, husband, Elsa \u0026 Malcolm\u0027s dad. @EnvAm, @NJWEC @ChargEVC \u0026 @NJSOC_Friends board member. Ever-suffering Mets fan. Outdoors lover. He/him.",
+      "id": "82405425",
+      "username": "DougOMalleyENJ"
+    },
+    {
+      "name": "Community Hope, Inc.",
+      "description": "Since 1985, we\u0027ve helped individuals, including veterans, overcome mental illness, addiction, homelessness and poverty by providing housing and support services",
+      "id": "347905928",
+      "username": "CommunityHopeNJ"
+    },
+    {
+      "name": "CASAofMorris\u0026Sussex",
+      "description": "Our volunteer advocates give a voice in court to children who have been removed from their homes due to abuse and neglect. Follow and see how to join our cause.",
+      "id": "285752445",
+      "username": "casamsc"
+    },
+    {
+      "name": "michaeljfox.org",
+      "description": "The Michael J. Fox Foundation is dedicated to  finding better treatments and, ultimately, a cure for Parkinson’s disease. Social Info: https://t.co/jN2BqHCali",
+      "id": "68784803",
+      "username": "MichaelJFoxOrg"
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "description": "Representing Oregon\u0027s 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, \u0026 #ActOnClimate. Proud mom of two grown kids. She/her.",
+      "id": "558769636",
+      "username": "RepBonamici"
+    },
+    {
+      "name": "VFW National HQ",
+      "description": "The nation\u0027s leading military and veteran advocate!",
+      "id": "22650398",
+      "username": "VFWHQ"
+    },
+    {
+      "name": "Stars and Stripes",
+      "description": "Stars and Stripes provides independent news and information to the U.S. military community from reporters and bureaus located around the world.",
+      "id": "9130702",
+      "username": "starsandstripes"
+    },
+    {
+      "name": "The American Legion",
+      "description": "Veterans strengthening America.\nSupporting veterans, the military \u0026 their families since 1919. \nLearn more: https://t.co/BY3DSrs6TU. RTs do not imply endorsement. #BeTheOne",
+      "id": "27048645",
+      "username": "AmericanLegion"
+    },
+    {
+      "name": "IAVA",
+      "description": "Everyday Iraq and Afghanistan Veterans of America advocates on behalf of all veterans. Join the fight and make your voice heard: https://t.co/mocjUVAs47",
+      "id": "12296312",
+      "username": "iava"
+    },
+    {
+      "name": "Citizens\u0027 Climate Lobby",
+      "description": "CCL is a #GrassrootsClimate organization. Our volunteers lobby for bipartisan climate solutions with an approach of appreciation and respect for everyone.",
+      "id": "123231225",
+      "username": "citizensclimate"
+    },
+    {
+      "name": "Disabled American Veterans (DAV)",
+      "description": "We are a more than one million-member nonprofit providing a lifetime of support for veterans of all generations and their families. #KeepThePromise",
+      "id": "22139417",
+      "username": "DAVHQ"
+    },
+    {
+      "name": "Ward Carroll",
+      "description": "YouTuber. Author of \"one of the best military aviation novels ever written\" and “lamest book ever” according to two guys on Amazon. #FlyNavy",
+      "id": "19418649",
+      "username": "wardcarroll"
+    },
+    {
+      "name": "Rep. Joe Courtney",
+      "description": "U.S. Congressman proudly fighting for the residents of Connecticut’s 2nd Congressional District. https://t.co/qNiLbsYBdJ",
+      "id": "85396297",
+      "username": "RepJoeCourtney"
+    },
+    {
+      "name": "Rep. John Larson",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "id": "50452197",
+      "username": "RepJohnLarson"
+    },
+    {
+      "name": "The Arc of NJ",
+      "description": "Dignity, Equality and Opportunity for children and adults with intellectual and developmental disabilities.",
+      "id": "76949312",
+      "username": "thearcofnj"
+    },
+    {
+      "name": "Rep. Joyce Beatty",
+      "description": "Serving Ohio’s 3rd District. Chair of @TheBlackCaucus. Chair of the @FSCDems Subcommittee on Diversity and Inclusion. Proud Ohioan.",
+      "id": "1531521632",
+      "username": "RepBeatty"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "Rep. Ted Lieu",
+      "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/8esik1vtix • https://t.co/bEP2qWfwBG",
+      "id": "3044993235",
+      "username": "RepTedLieu"
+    },
+    {
+      "name": "Attorney General Matt Platkin",
+      "description": "Official account for the Office of the NJ Attorney General. *Direct messages not monitored* For Constituent Services: (609) 984-5828.",
+      "id": "770671228059283456",
+      "username": "NewJerseyOAG"
+    },
+    {
+      "name": "Rep. Salud Carbajal",
+      "description": "Father, husband and veteran proudly representing California’s 24th District. Working to protect the environment, improve our economy, and support our veterans.",
+      "id": "816157667882373120",
+      "username": "RepCarbajal"
+    },
+    {
+      "name": "Ruben Gallego",
+      "description": "Proud representative of Arizona\u0027s 7th Congressional District. #AZ07",
+      "id": "2966570782",
+      "username": "RepRubenGallego"
+    },
+    {
+      "name": "Sean Patrick Maloney",
+      "description": "Representing NY’s 18th Cong’l Dist. Husband \u0026 dad w/ 3 amazing kids. Goal is to remain adult in Washington. Working on Intel to keep USA safe \u0026 free. ??????",
+      "id": "1072467470",
+      "username": "RepSeanMaloney"
+    },
+    {
+      "name": "Rep. Debbie Wasserman Schultz",
+      "description": "U.S. Congresswoman proudly representing the people of Florida\u0027s 23rd District in our nation\u0027s capital. Text me: 954-866-9444",
+      "id": "1140648348",
+      "username": "RepDWStweets"
+    },
+    {
+      "name": "Natural Resources Committee",
+      "description": "Chair @RepRaulGrijalva is working to #ActOnClimate, defend Tribal rights \u0026 territories, advance #EnviroJusticeNow and protect public lands, oceans \u0026 wildlife",
+      "id": "247486443",
+      "username": "NRDems"
+    },
+    {
+      "name": "Raul M. Grijalva",
+      "description": "Chair @NRDems; Chair Emeritus @USProgressives; Member @EdLaborCmte and #MustacheCaucus; Proudly representing the 3rd District of Arizona ???",
+      "id": "28602948",
+      "username": "RepRaulGrijalva"
+    },
+    {
+      "name": "ConnectingVets",
+      "description": "Connecting the veteran community to news, content and resources to transition, stay informed, get inspired and succeed. Always live on the free @Audacy app.",
+      "id": "751131700944572417",
+      "username": "ConnectingVets"
+    },
+    {
+      "name": "Kaylah Jackson ?",
+      "description": "associate editor @voxdotcom • @medillschool + @floridastate alum • from the we$tside with love",
+      "id": "778807350656282625",
+      "username": "kaylahchanel"
+    },
+    {
+      "name": "Rep. Jared Huffman",
+      "description": "Congressman for California\u0027s North Coast. On Facebook at https://t.co/QA1MSke01S.",
+      "id": "1071102246",
+      "username": "RepHuffman"
+    },
+    {
+      "name": "Melanie Zanona",
+      "description": "Capitol Hill reporter for @CNN. Alum of @politico @thehill \u0026 @cqrollcall. Chi till I die. My party trick is identifying lawmakers by the back of their heads.",
+      "id": "45265448",
+      "username": "MZanona"
+    },
+    {
+      "name": "US Rep Brendan Boyle",
+      "description": "Congressman from Philly. Proud Dad to Abby \u0026 husband to Jenny. Notre Dame \u0026 Harvard alum. Philly sports fan. Supporter of all things PA, esp. Dunder Mifflin.",
+      "id": "231108733",
+      "username": "RepBrendanBoyle"
+    },
+    {
+      "name": "André Carson",
+      "description": "The official Twitter account for Congressman André Carson of Indiana\u0027s 7th District. #Indianapolis #Indy",
+      "id": "199325935",
+      "username": "RepAndreCarson"
+    },
+    {
+      "name": "Sanford Bishop, Jr.",
+      "description": "Proudly representing Georgia\u0027s 2nd Congressional District. Chairman of House Appropriations Subcommittee on Agriculture  https://t.co/gQh6pvYihy",
+      "id": "249410485",
+      "username": "SanfordBishop"
+    },
+    {
+      "name": "Rep. Emanuel Cleaver",
+      "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri\u0027s Fifth District.",
+      "id": "163570705",
+      "username": "repcleaver"
+    },
+    {
+      "name": "JBWS",
+      "description": "We work to prevent domestic violence through the protection \u0026 empowerment of victims, the rehabilitation of their family \u0026 the education of the public about DV.",
+      "id": "2283919730",
+      "username": "JBWSpreventsDV"
+    },
+    {
+      "name": "Rep. Hank Johnson",
+      "description": "CBC Whip, Chairman of the Courts, IP \u0026 Internet Subcommittee, Senior Whip for 117th Congress; Champion for working people.",
+      "id": "24745957",
+      "username": "RepHankJohnson"
+    },
+    {
+      "name": "Shavonda E. Sumter",
+      "description": "A Servant Leader \u0026 Jersey Girl proudly representing the people of the 35th Legislative District in the NJ General Assembly. Leadership matters! #WomenOnTheMove",
+      "id": "2541597056",
+      "username": "shavondasumter"
+    },
+    {
+      "name": "Congressman Chuy García",
+      "description": "Progressive Chicagoan. Congressman for #IL04?. Vice Chair of @USProgressives and ? @NRDems. Member of ? @TransportDems and ? @FSCDems?. FB/IG: @RepChuyGarcia",
+      "id": "1082427779583541248",
+      "username": "RepChuyGarcia"
+    },
+    {
+      "name": "Rep. Bobby Scott",
+      "description": "Proudly representing Virginia\u0027s 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+      "id": "161791703",
+      "username": "BobbyScott"
+    },
+    {
+      "name": "Rep. Frederica Wilson",
+      "description": "Lifelong educator serving Florida’s 24th District in Congress. Founder @5000rolemodels. Higher Ed Subcommittee Chair working to #CancelStudentDebt",
+      "id": "234014087",
+      "username": "RepWilson"
+    },
+    {
+      "name": "Congresswoman Chellie Pingree ?? ??",
+      "description": "Organic Farmer ???. Mom of 3. Grandma of 7. Maine islander ?. @AppropsDems Interior Chair and member of @HouseAgDems.",
+      "id": "14984637",
+      "username": "chelliepingree"
+    },
+    {
+      "name": "Rep. Stacey Plaskett",
+      "description": "Proudly representing the Virgin Islands of the United States",
+      "id": "2724095695",
+      "username": "StaceyPlaskett"
+    },
+    {
+      "name": "CNN This Morning",
+      "description": "A reimagined morning show with more stories from across the world and refreshing conversations with @DonLemon, @PoppyHarlowCNN and @KaitlanCollins",
+      "id": "1375289149",
+      "username": "CNNThisMorning"
+    },
+    {
+      "name": "nourish.NJ",
+      "description": "Creating lasting solutions to the problems of hunger, homelessness and poverty in Morris County, New Jersey. Open to all, 365 days a year, no questions asked.",
+      "id": "1979273911",
+      "username": "nourishNJ"
+    },
+    {
+      "name": "Employment Horizons",
+      "description": "Providing job training \u0026 placement to people with special needs. Morris County, New Jersey.",
+      "id": "2445450823",
+      "username": "EmHorizonsInc"
+    },
+    {
+      "name": "Rep. Marc Veasey",
+      "description": "Represent Dallas-Fort Worth | Assistant Whip | @energycommerce | @HASCDemocrats | #GunViolencePrevention Taskforce Whip | Voting Rights Caucus + @bluecollardems",
+      "id": "1074129612",
+      "username": "RepVeasey"
+    },
+    {
+      "name": "Rutgers University",
+      "description": "Rutgers, The State University of New Jersey, is a leading public research university. Follow us for all things Rutgers.",
+      "id": "19272796",
+      "username": "RutgersU"
+    },
+    {
+      "name": "BASF",
+      "description": "At BASF, we create chemistry for a sustainable future. We combine economic success with environmental protection and social responsibility.",
+      "id": "164641631",
+      "username": "BASF"
+    },
+    {
+      "name": "Rep. Jim Costa",
+      "description": "Proudly representing California’s 16th Congressional District. This account is for official use only.",
+      "id": "245451804",
+      "username": "RepJimCosta"
+    },
+    {
+      "name": "Rep. Josh Harder",
+      "description": "Pam’s husband. Lillian’s dad. Proudly serving the Central Valley in Congress.",
+      "id": "1080851152151953410",
+      "username": "RepJoshHarder"
+    },
+    {
+      "name": "Rep. Pete Aguilar",
+      "description": "Dad, husband, former mayor. Proud to be the Inland Empire’s voice in Congress representing #CA31. Vice Chair of @HouseDemocrats.",
+      "id": "3018670151",
+      "username": "RepPeteAguilar"
+    },
+    {
+      "name": "Congressmember Bass",
+      "description": "Representing California\u0027s 37th District, which includes Los Angeles, South LA, \u0026 Culver City. https://t.co/m5lE3N5mBP",
+      "id": "239949176",
+      "username": "RepKarenBass"
+    },
+    {
+      "name": "Mark Takano",
+      "description": "Proudly Representing California\u0027s 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+      "id": "1037321378",
+      "username": "RepMarkTakano"
+    },
+    {
+      "name": "Congressman Raul Ruiz, M.D.",
+      "description": "Emergency medicine physician and public servant. Proudly serving California\u0027s 36th Congressional District. @HispanicCaucus Chairman.",
+      "id": "1089859058",
+      "username": "RepRaulRuizMD"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "Rep. Norma Torres",
+      "description": "U.S. Representative for California\u0027s 35th District. @AppropsDems @RulesDemocrats",
+      "id": "236279233",
+      "username": "NormaJTorres"
+    },
+    {
+      "name": "Rep. Jimmy Gomez",
+      "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Committees: @WaysMeansCmte and @OversightDems",
+      "id": "2371339658",
+      "username": "RepJimmyGomez"
+    },
+    {
+      "name": "David Wildstein",
+      "description": "Editor, The New Jersey Globe",
+      "id": "15836556",
+      "username": "wildstein"
+    },
+    {
+      "name": "Brenda Flanagan",
+      "description": "Brenda Flanagan is a Senior Correspondent for @NJSpotlightNews  @MyNJPBS  Tweets are my tweets. (And yes, I wear a mask. Meow Meow.)",
+      "id": "2434421515",
+      "username": "BFlanaganNJ"
+    },
+    {
+      "name": "NJ Poison Center",
+      "description": "NJ\u0027s ONLY Poison Center. Our experts are health professionals available to help w/questions concerns \u0026 poison-related emergencies - 24/7, Free, Call/Chat",
+      "id": "273506004",
+      "username": "NJPoisonCenter"
+    },
+    {
+      "name": "Joseph N. DiVincenzo, Jr.",
+      "description": "Essex County Executive    \n#EssexCounty\n#PuttingEssexCountyFirst",
+      "id": "67105753",
+      "username": "Joe_D_EssexExec"
+    },
+    {
+      "name": "Diane Calello ????",
+      "description": "Toxicologist, Pediatrician, Writer, Poison Control. Tweets not medical advice. @toxandhound #cysticfibrosis",
+      "id": "217298891",
+      "username": "DrDianeC"
+    },
+    {
+      "name": "Congressional Hispanic Caucus",
+      "description": "The 36-Member Congressional Hispanic Caucus advocates for issues important to Hispanics via the legislative process in Congress.",
+      "id": "33530012",
+      "username": "HispanicCaucus"
+    },
+    {
+      "name": "Cooperman Barnabas Medical Center",
+      "description": "Providing compassionate care, health care excellence \u0026 superior service since 1865! ??",
+      "id": "577324270",
+      "username": "CBMCNJ"
+    },
+    {
+      "name": "Buzz Aldrin MS",
+      "description": "Buzz Aldrin MS Grades 6-8 The STEM Magnet 173 Bellevue Ave, Upper Montclair, NJ 07043 973-509-4220 #BuzzAldrinProud",
+      "id": "1244616740",
+      "username": "BuzzAldrinMS"
+    },
+    {
+      "name": "National Assoc. of Secondary School Principals",
+      "description": "We elevate \u0026 amplify voices of school leaders. Mission: to transform education through exceptional school leadership via @NASSP, @NatHonorSociety \u0026 @NatStuCo.",
+      "id": "15894074",
+      "username": "NASSP"
+    },
+    {
+      "name": "House Committee on Small Business",
+      "description": "Official Twitter Feed of the House Committee on Small Business, Chairwoman Nydia M. Velázquez (@NydiaVelazquez)",
+      "id": "861611548250394624",
+      "username": "HouseSmallBiz"
+    },
+    {
+      "name": "Princeton University",
+      "description": "The official Twitter account of Princeton University. In the nation\u0027s service and the service of humanity. | #PrincetonU",
+      "id": "5694822",
+      "username": "Princeton"
+    },
+    {
+      "name": "House Homeland Security Committee",
+      "description": "We oversee @DHSgov, @CBP, @USCG, @TSA, @FEMA, @CISAgov and more. Chairman @BennieGThompson (D-MS).",
+      "id": "208692908",
+      "username": "HomelandDems"
+    },
+    {
+      "name": "Great Swamp Watershed Association",
+      "description": "Passaic River Waterkeeper Alliance Affiliate. Protecting the waters of the Great Swamp of NJ and Passaic River.",
+      "id": "25523186",
+      "username": "GreatSwampNJ"
+    },
+    {
+      "name": "New Jersey REALTORS",
+      "description": "The Voice for Real Estate in New Jersey. Professional orginzation serving 60,000 members. Resources, Market Stats, Tips, and more.",
+      "id": "23535169",
+      "username": "NJ_REALTORS"
+    },
+    {
+      "name": "Saint Elizabeth University",
+      "description": "Official Twitter Page of Saint Elizabeth University. 2 Convent Road, Morristown, NJ 07960. (800) 210-7900.",
+      "id": "2308525920",
+      "username": "SaintElizabethU"
+    },
+    {
+      "name": "Jeffrey Alan Miller",
+      "description": "Early modern literature professor @MontclairStateU •\n@MacFound Fellow, 2019-24 • Parent, 2018-",
+      "id": "471139990",
+      "username": "jeffalanmiller"
+    },
+    {
+      "name": "David Michaels",
+      "description": "",
+      "id": "246121215",
+      "username": "DavidGMichaels"
+    },
+    {
+      "name": "Michael Barbaro",
+      "description": "Host of The Daily.",
+      "id": "282545479",
+      "username": "mikiebarb"
+    },
+    {
+      "name": "Ms. Magazine",
+      "description": "Reporting, rebelling and truth-telling from the feminist front lines for 50 years.",
+      "id": "14177942",
+      "username": "MsMagazine"
+    },
+    {
+      "name": "Bill Pascrell, III",
+      "description": "Lawyer, lobbyist, political commentator, proud Father of 4 beautiful kids (https://t.co/DmqNKuCzWO)",
+      "id": "465701566",
+      "username": "BillPascrell3rd"
+    },
+    {
+      "name": "House DPCC",
+      "description": "The House Democratic Policy \u0026 Communications Committee is Co-Chaired by @RepCartwright, @RepDebDingell, @RepTedLieu, \u0026 @RepJoeNeguse #PeopleOverPolitics",
+      "id": "3027286779",
+      "username": "HouseDPCC"
+    },
+    {
+      "name": "Stevens Institute of Technology",
+      "description": "Stevens Institute of Technology, the Innovation University®, is a premier, private research university in Hoboken, N.J., just minutes from New York City.",
+      "id": "95713803",
+      "username": "FollowStevens"
+    },
+    {
+      "name": "IBEW",
+      "description": "Official Twitter account of the International Brotherhood of Electrical Workers (IBEW) - the largest union of electrical workers in North America",
+      "id": "18191927",
+      "username": "IBEW"
+    },
+    {
+      "name": "UAW",
+      "description": "The International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW)",
+      "id": "15854702",
+      "username": "UAW"
+    },
+    {
+      "name": "Loretta Weinberg",
+      "description": "",
+      "id": "237012415",
+      "username": "SenatorLorettaW"
+    },
+    {
+      "name": "Kathleen Rice",
+      "description": "U.S. Representative for #NY04 (Long Island). Former Nassau County DA.",
+      "id": "2970462034",
+      "username": "RepKathleenRice"
+    },
+    {
+      "name": "Simone Pathe",
+      "description": "@CNNPolitics Senior Washington Editor. Former @RollCall campaign reporter. @NewsHour, @NJHotline and @BatesCollege alum. (Pics by @pennstatetom)",
+      "id": "550762459",
+      "username": "sfpathe"
+    },
+    {
+      "name": "Rep. Pramila Jayapal",
+      "description": "Congresswoman, lifelong organizer, mom. Proudly serving WA-07. Chair of @USProgressives, Member of @HouseJudiciary, @EdLaborCmte \u0026 @HouseBudgetDems. She/her.",
+      "id": "815733290955112448",
+      "username": "RepJayapal"
+    },
+    {
+      "name": "Sen. Anthony M. Bucco",
+      "description": "Representing New Jersey\u0027s 25th Legislative District and the residents of Morris and Somerset counties in the New Jersey Senate.",
+      "id": "121220263",
+      "username": "tonybucco"
+    },
+    {
+      "name": "WP University Galleries",
+      "description": "The William Paterson University Galleries introduces diverse audiences to contemporary art and enhances visitors’ appreciation and knowledge of the arts.",
+      "id": "408745475",
+      "username": "WPUGalleries"
+    },
+    {
+      "name": "Lucas Tomlinson",
+      "description": "Fox News correspondent",
+      "id": "1176004076",
+      "username": "LucasFoxNews"
+    },
+    {
+      "name": "Archive: Steve Stivers",
+      "description": "The archived tweets of Steve Stivers, Representative for Ohio\u0027s 15th Congressional District from January 3, 2011 to May 17, 2021.",
+      "id": "211420609",
+      "username": "RepSteveStivers"
+    },
+    {
+      "name": "AAUW",
+      "description": "????? Empowering women and girls since 1881. Become a member today!",
+      "id": "19719380",
+      "username": "AAUW"
+    },
+    {
+      "name": "ACS CAN New Jersey",
+      "description": "@ACSCAN New Jersey is the nonprofit, nonpartisan advocacy affiliate of @AmericanCancer in NJ, dedicated to eliminating #cancer as a major health problem.",
+      "id": "4259780067",
+      "username": "ACSCANNJ"
+    },
+    {
+      "name": "Friendship Circle NJ",
+      "description": "",
+      "id": "53087245",
+      "username": "fcnj"
+    },
+    {
+      "name": "ABC7 Eyewitness News",
+      "description": "Your #1 breaking news and local news source in Southern California and the greater Los Angeles area. When you witness news, share it with #abc7eyewitness.",
+      "id": "16374678",
+      "username": "ABC7"
+    },
+    {
+      "name": "Atlantic Health",
+      "description": "Atlantic Health System is a leading non-profit health care system in New Jersey.",
+      "id": "4106235081",
+      "username": "AtlanticHealth"
+    },
+    {
+      "name": "Senator Bob Menendez",
+      "description": "U.S. Senator from New Jersey. @SFRCdems Chairman. Loving husband to Nadine. Proud father of Alicia \u0026 Rob and grandfather of Evangelina, Ofelia, Olivia \u0026 Robert.",
+      "id": "18695134",
+      "username": "SenatorMenendez"
+    },
+    {
+      "name": "Modern Meadow",
+      "description": "You\u0027ll find us on LinkedIn: https://t.co/ZECg7OCg5V",
+      "id": "528744550",
+      "username": "ModernMeadow"
+    },
+    {
+      "name": "The Seeing Eye",
+      "description": "Providing independence to people who are blind through #SeeingEyeDogs since 1929.",
+      "id": "109634457",
+      "username": "SeeingEyeInc"
+    },
+    {
+      "name": "Bipartisan Policy Center",
+      "description": "Where democracy gets to work.",
+      "id": "83932732",
+      "username": "BPC_Bipartisan"
+    },
+    {
+      "name": "Bipartisan Policy Center Action",
+      "description": "BPC Action\u0027s seasoned team provides strategic guidance and unites key stakeholders on both sides of the aisle to move the needle on divisive issues.",
+      "id": "840281366369583104",
+      "username": "BPCAction"
+    },
+    {
+      "name": "Rep. Ro Khanna",
+      "description": "Silicon Valley\u0027s CA-17. New economic patriotism \u0026 restoring American manufacturing. Pro working families. Ending endless wars. No PAC $. He/Him.",
+      "id": "816298918468259841",
+      "username": "RepRoKhanna"
+    },
+    {
+      "name": "Rep. Don Beyer",
+      "description": "Represent Northern Virginia’s #VA08 in the U.S. House. Chairman of @JECDems, also serve on @WaysMeansCmte @HouseScience. Co-Chair @CaucusOnClimate. He/Him/His",
+      "id": "2962868158",
+      "username": "RepDonBeyer"
+    },
+    {
+      "name": "Larry Higgs",
+      "description": "NJ Advance Media #journalist covers #transportation \u0026 #commuting. I\u0027m @njdotcom, riding NJ Transit, GSP \u0026 bike. Subscribe to support lhiggs@njadvancemedia.com",
+      "id": "209725175",
+      "username": "CommutingLarry"
+    },
+    {
+      "name": "New Jersey Citizen Action",
+      "description": "Since 1982, we\u0027ve combined advocacy, organizing, \u0026 policy work with the provision of free direct services to fight for social, racial, \u0026 economic justice in NJ.",
+      "id": "224610761",
+      "username": "NJCitizenAction"
+    },
+    {
+      "name": "James E. Clyburn",
+      "description": "Majority Whip in the U.S. House of Representatives; Representing South Carolina\u0027s 6th Congressional District.",
+      "id": "188019606",
+      "username": "WhipClyburn"
+    },
+    {
+      "name": "Senator Ben Ray Luján",
+      "description": "United States Senator for New Mexico",
+      "id": "19318314",
+      "username": "SenatorLujan"
+    },
+    {
+      "name": "John Bresnahan",
+      "description": "Co-Founder of Punchbowl News. Yankees fan forever. john @ https://t.co/yV4Kr3yM96",
+      "id": "217550862",
+      "username": "bresreports"
+    },
+    {
+      "name": "Joe Kennedy III",
+      "description": "Former Congressman from MA. Tired \u0026 lucky dad. Founder @GroundworkProj. Managing Director @CitizensEnergyC. Advising @EmCollective + @WoodwellClimate + more.",
+      "id": "1055907624",
+      "username": "joekennedy"
+    },
+    {
+      "name": "Katherine Clark",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. Defender of women, kids \u0026 justice. She/Her",
+      "id": "2293131060",
+      "username": "RepKClark"
+    },
+    {
+      "name": "NorthAtlantic UPSers",
+      "description": "Life and times of UPSers in New York and New Jersey. Customer Service: @UPSHelp",
+      "id": "819818946",
+      "username": "NorthAtlUPSers"
+    },
+    {
+      "name": "NJ State Library",
+      "description": "Connecting people with information through libraries.",
+      "id": "43113310",
+      "username": "njstatelibrary"
+    },
+    {
+      "name": "Speaker Craig J. Coughlin",
+      "description": "Speaker of the New Jersey General Assembly. Husband to Tish. Dad to Craig, Vincent, and Nicholas. Proud to represent the 19th Legislative District. ?",
+      "id": "948586073973837825",
+      "username": "SpeakerCoughlin"
+    },
+    {
+      "name": "Rep. Barbara Lee",
+      "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, \u0026 human rights. @ProChoiceCaucus Co-Chair.",
+      "id": "248735463",
+      "username": "RepBarbaraLee"
+    },
+    {
+      "name": "Morris County Sheriff\u0027s Office",
+      "description": "The Twitter home of the Morris County (NJ) Sheriff\u0027s Office.",
+      "id": "1138173762527014913",
+      "username": "morrissheriffnj"
+    },
+    {
+      "name": "MentalHealthAssocMC",
+      "description": "MHA of Morris County is a 501(c)(3) non-profit dedicated to providing a greater hope and belief in the possibility of recovery from mental illness.",
+      "id": "143151507",
+      "username": "MentalHealthMC"
+    },
+    {
+      "name": "Mental Health Association",
+      "description": "Community based organization headquartered in Montclair, NJ serving individuals and families whose lives are affected by mental illness.",
+      "id": "315227245",
+      "username": "MHAInspire"
+    },
+    {
+      "name": "Center for Prevention \u0026 Counseling",
+      "description": "#Addiction affects everyone. We offer help in #SussexCountyNJ. Youth #prevention, #substanceuse counseling, addiction recovery. #Quitsmoking \u0026 #Quitvaping help.",
+      "id": "807700904",
+      "username": "cfpcnj"
+    },
+    {
+      "name": "Saint Clare\u0027s",
+      "description": "Award-winning care and advanced technology, all close to home.\nSaint Clare\u0027s Health: Around the corner. Ahead of the curve.",
+      "id": "57152597",
+      "username": "SaintClares"
+    },
+    {
+      "name": "CAWP",
+      "description": "Center for American Women and Politics: the leading source of scholarly research and current data about American woman’s political participation.",
+      "id": "116832720",
+      "username": "CAWP_RU"
+    },
+    {
+      "name": "Debbie Walsh",
+      "description": "Director, Center for American Women and Politics, Rutgers University @CAWP_RU",
+      "id": "131172141",
+      "username": "DebbieWalsh58"
+    },
+    {
+      "name": "NOW New Jersey",
+      "description": "New Jersey chapter of National Organization for Women (NOW). Acting through intersectional, anti-racist grassroots activism to promote feminist ideals.",
+      "id": "198728887",
+      "username": "NOWNewJersey"
+    },
+    {
+      "name": "Lt. Governor Sheila Oliver",
+      "description": "Lieutenant Governor to @GovMurphy and @NJDCA Commissioner. Proud product of Newark public schools. Champion for women\u0027s equality, education and social justice.",
+      "id": "986996448561696768",
+      "username": "LtGovOliver"
+    },
+    {
+      "name": "Giffords",
+      "description": "Led by @GabbyGiffords, we’re on a mission to save lives from gun violence. Text COURAGE to 34131 to join the fight.",
+      "id": "587536673",
+      "username": "GiffordsCourage"
+    },
+    {
+      "name": "Christine Lee",
+      "description": "@timestribune reporter/obit clerk. Previously: @repherald, @FlorhamPEagle, @MadisonEagle. @WilkesU alum.",
+      "id": "462285230",
+      "username": "Cleespot"
+    },
+    {
+      "name": "Florham Park Eagle",
+      "description": "Your source for news about Florham Park. https://t.co/Rh9tNeyZQ7. clee@newjerseyhills.com",
+      "id": "488485408",
+      "username": "FlorhamPEagle"
+    },
+    {
+      "name": "The Citizen NJ",
+      "description": "The Citizen newspaper delivers news to residents in eight Morris County, N.J. towns. \nhttps://t.co/En62LBuoxf\nmcondon@newjerseyhills.com",
+      "id": "512423013",
+      "username": "the_citizennj"
+    },
+    {
+      "name": "Township of Randolph",
+      "description": "Randolph Twp enjoys a well-deserved reputation as a desirable community in which to live. Our success stems from a team effort \u0026 our citizens. https://t.co/tedAtUNE2i",
+      "id": "788081407377539074",
+      "username": "RandolphTwpNJ"
+    },
+    {
+      "name": "Randolph Reporter",
+      "description": "Your source for news about Randolph and Mine Hill. https://t.co/cs9xmE1buc, probinson@newjerseyhills.com",
+      "id": "501045556",
+      "username": "RandolphReporte"
+    },
+    {
+      "name": "Michael Preston",
+      "description": "Education, innovation, equity. ED of @CooneyCenter. Previously @CSforALL and @CSNYC, @NYCSchools, @ColumbiaCTL, @NewVisionsNYC.",
+      "id": "312733572",
+      "username": "reallymdp"
+    },
+    {
+      "name": "Morris Plains Rotary",
+      "description": "",
+      "id": "2207675526",
+      "username": "MPRotarians"
+    },
+    {
+      "name": "Momique LLC",
+      "description": "Momique is for moms, for babies, for life. Part maternity \u0026 nursing resale. Part arts \u0026 crafts. Part fitness classes. All things #MOM",
+      "id": "977881907529682944",
+      "username": "MomiqueHQ"
+    },
+    {
+      "name": "Sen. Cory Booker",
+      "description": "Proudly serving the people of New Jersey in the U.S. Senate. Newark resident. Trekkie ??. Always reminding folks that \"Cory\" is one letter off from \"corny.\"",
+      "id": "2167097881",
+      "username": "SenBooker"
+    },
+    {
+      "name": "AFL-CIO",
+      "description": "The voice of working people in America\u0027s unions. Fighting for an inclusive economy that lifts wages and creates a better life for all. #1u",
+      "id": "10069612",
+      "username": "AFLCIO"
+    },
+    {
+      "name": "Morris County Tourism Bureau",
+      "description": "Follow us to find out about all the events, places to visit, and things to do in Morris County",
+      "id": "94075547",
+      "username": "morristourism"
+    },
+    {
+      "name": "AARP New Jersey",
+      "description": "Because we\u0027re caregivers. Because our property taxes are already #1 in the nation. And because we\u0027re fighting to keep utility bills from getting there too.",
+      "id": "84132603",
+      "username": "AARPNJ"
+    },
+    {
+      "name": "Senator Tina Smith",
+      "description": "Mom, wife, daughter, \u0026 loving but distracted friend. US Senator, MN. Birdwatcher and hiker. Prefers window seats, donuts, \u0026 MN beer, all together when possible.",
+      "id": "941000686275387392",
+      "username": "SenTinaSmith"
+    },
+    {
+      "name": "NJ Homeland Security",
+      "description": "Official Twitter account for the NJ Office of Homeland Security and Preparedness. @NJCybersecurity #IntelligenceUnclassified #Counterterrorism #Cybersecurity",
+      "id": "138499929",
+      "username": "NJOHSP"
+    },
+    {
+      "name": "NJOEM??",
+      "description": "Official Twitter account of the New Jersey Office of Emergency Management, NJ Task Force One (NJ-TF1), \u0026 NJ All-Hazards Incident Management Team  #ReadyNJ",
+      "id": "20071361",
+      "username": "ReadyNJ"
+    },
+    {
+      "name": "Catherine McCabe",
+      "description": "Archived account of the 17th Commissioner of the @NewJerseyDEP.",
+      "id": "955187070879793152",
+      "username": "NJDEPMcCabe"
+    },
+    {
+      "name": "New Jersey Department of Environmental Protection",
+      "description": "Led by Commissioner @shawnlatur, the NJDEP protects @NJGov\u0027s air, land and water and manages the Garden State\u0027s natural lands, wildlife and parks.",
+      "id": "959089722218999810",
+      "username": "NewJerseyDEP"
+    },
+    {
+      "name": "Auschwitz Memorial",
+      "description": "Former German Nazi concentration \u0026 extermination camp Auschwitz. Official account. Also at Mastodon (https://t.co/UoWXra0xnb), FB \u0026 IN",
+      "id": "586291040",
+      "username": "AuschwitzMuseum"
+    },
+    {
+      "name": "TWU",
+      "description": "The Transport Workers Union of America, representing more than 155,000 workers across all transport, utilities \u0026 service sectors",
+      "id": "26441991",
+      "username": "transportworker"
+    },
+    {
+      "name": "US EPA - NJ,NY,PR,VI",
+      "description": "Protecting human health and the environment in NJ, NY, Puerto Rico, U.S. Virgin Islands, and 8 Tribal Nations. Neither RT nor @mentions imply endorsement.",
+      "id": "19026662",
+      "username": "EPAregion2"
+    },
+    {
+      "name": "Jeri FX",
+      "description": "Just trying to make a difference in this crazy ? \u0026 correct injustices. Proud Moms Demand Action NJ Lead??#WatchUsWork #GVP #TeamMikie All opinions are my own.",
+      "id": "836778146263412738",
+      "username": "JeriSamantha"
+    },
+    {
+      "name": "Verona Environmental",
+      "description": "Founded in 1992, the Verona Environmental Commission works to preserve and improve the natural environment of Verona, NJ. http://t.co/gMD2IMBtYh",
+      "id": "2401364136",
+      "username": "GreenVeronaNJ"
+    },
+    {
+      "name": "Livingston NJ",
+      "description": "Welcome to the official Twitter account for #LTownNJ. RTs/Follows are not endorsements. All interactions subject to OPRA. \n(photo M. Parekh)",
+      "id": "3251919899",
+      "username": "Livingston_NJ"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "Women in Aviation",
+      "description": "Women in Aviation International is a nonprofit membership organization dedicated to connecting and engaging women in aviation.",
+      "id": "317982695",
+      "username": "WomenInAviation"
+    },
+    {
+      "name": "Congressional App Challenge",
+      "description": "We are the U.S. House of Representative\u0027s official coding competition. We promote STEM by inspiring our nation’s youth coding talent.??????",
+      "id": "1225814342",
+      "username": "CongressionalAC"
+    },
+    {
+      "name": "NJTPA",
+      "description": "The North Jersey Transportation Planning Authority is the Metropolitan Planning Organization for the 13-county northern New Jersey region.",
+      "id": "211956483",
+      "username": "NJTPA"
+    },
+    {
+      "name": "Bloomberg",
+      "description": "The first word in business news.\nOur newsletters: https://t.co/nWaCxHSKuU\nOur podcasts: https://t.co/096e9xMbPz\nThe Big Take podcast: https://t.co/UqskwXtp5Z",
+      "id": "34713362",
+      "username": "business"
+    },
+    {
+      "name": "Congresswoman Madeleine Dean",
+      "description": "Congresswoman serving Pennsylvania’s Fourth District - Montgomery and Berks Counties | Committees: @FSCDems \u0026 @HouseJudiciary | \"Courage is in the air\"",
+      "id": "567508925",
+      "username": "RepDean"
+    },
+    {
+      "name": "Rep. Val Demings",
+      "description": "U.S. Representative Florida\u0027s 10th Congressional District. Public Servant. Former Orlando Police Chief. Christian. Wife. Mother. Grandmother. Harley Enthusiast.",
+      "id": "798973032362606600",
+      "username": "RepValDemings"
+    },
+    {
+      "name": "CNBC",
+      "description": "First in business worldwide.",
+      "id": "20402945",
+      "username": "CNBC"
+    },
+    {
+      "name": "NPR",
+      "description": "News. Arts \u0026 Life. Music \u0026 more. This is NPR. ?? Securely send us news tips: https://t.co/qfEoMDe1Hw",
+      "id": "5392522",
+      "username": "NPR"
+    },
+    {
+      "name": "MSNBC",
+      "description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+      "id": "2836421",
+      "username": "MSNBC"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+      "id": "3108351",
+      "username": "WSJ"
+    },
+    {
+      "name": "Wayne Township NJ",
+      "description": "Wayne NJ offers a balanced suburban community, from recreation, museums, exceptional schools, businesses and shopping, Wayne has something for everyone.",
+      "id": "1094817080",
+      "username": "WayneTownshipNJ"
+    },
+    {
+      "name": "Pompton Lakes, NJ",
+      "description": "The Official Twitter of the Borough of Pompton Lakes, New Jersey. View the social media policy here: https://t.co/5y8fACHF8b",
+      "id": "1083131837780815875",
+      "username": "PomptonLakesNJ"
+    },
+    {
+      "name": "West Orange, NJ",
+      "description": "Official Twitter account of the township of West Orange, NJ.",
+      "id": "926393232",
+      "username": "WestOrangeInfo"
+    },
+    {
+      "name": "WestOrangePatch",
+      "description": "Local news, alerts, events and more. We’re your source for all things West Orange.",
+      "id": "147963910",
+      "username": "WestOrangePatch"
+    },
+    {
+      "name": "Livingston NJ Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Livingston.",
+      "id": "81855660",
+      "username": "LivingstonPatch"
+    },
+    {
+      "name": "Chatham Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Chatham.",
+      "id": "92051542",
+      "username": "chathampatch"
+    },
+    {
+      "name": "Madison Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Madison.",
+      "id": "87285896",
+      "username": "MadisonPatch"
+    },
+    {
+      "name": "Madison NJ FD",
+      "description": "This is the offical Twitter page for the Madison, NJ Fire Department",
+      "id": "196787863",
+      "username": "MadisonNJFD"
+    },
+    {
+      "name": "Borough of Madison, NJ",
+      "description": "Official Tweets from #MadisonNJ - the ? city. Follow for news, services \u0026 notifications. Site not monitored 24/7. Site rules at https://t.co/nQltd4g4Y8",
+      "id": "243885262",
+      "username": "MadisonNJ_gov"
+    },
+    {
+      "name": "Morris Township PD",
+      "description": "The official Twitter Site of the Morris Township Police Department",
+      "id": "331759194",
+      "username": "MorrisTwpPD"
+    },
+    {
+      "name": "Florham Park Police",
+      "description": "This is the official Twitter of the Florham Park Police Department.  It is maintained by the FPPD under the direction and supervision of the Chief of Police.",
+      "id": "273559338",
+      "username": "florhamalert"
+    },
+    {
+      "name": "New Jersey",
+      "description": "OFFICIAL Twitter of the Garden State",
+      "id": "984819646082797568",
+      "username": "NJGov"
+    },
+    {
+      "name": "Zufall Health",
+      "description": "501(c)(3) nonprofit \u0026 Federally Qualified Health Center providing high-quality, affordable, and culturally competent care at sites in northern and central NJ.",
+      "id": "2851806251",
+      "username": "Zufall_Health"
+    },
+    {
+      "name": "To The Contrary",
+      "description": "PBS staple for 31 years. \nWomen-owned news analysis show focusing on women’s issues from diverse perspectives. Hosted by award-winning journalist @BonnieErbe.",
+      "id": "19396560",
+      "username": "ToTheContrary"
+    },
+    {
+      "name": "Rep. Tom O\u0027Halleran",
+      "description": "Proud husband, father, and grandfather. Fighting for #AZ01 families and co-chairing the @HouseBlueDogs Coalition.",
+      "id": "808416682972770304",
+      "username": "RepOHalleran"
+    },
+    {
+      "name": "Rep. Sean Casten",
+      "description": "Proudly serving IL-06. Dad, husband, former clean energy entrepreneur. Climate nerd, gun safety \u0026 consumer advocate @ClimateCrisis @HouseScience FSCdems. He/him",
+      "id": "1083472286089396224",
+      "username": "RepCasten"
+    },
+    {
+      "name": "SUSSEX.EDU",
+      "description": "Sussex County Community College offers  excellent, affordable \u0026 convenient programs for degree credit and lifelong learning.",
+      "id": "90467718",
+      "username": "sussexedu"
+    },
+    {
+      "name": "Ami Bera, M.D.",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "id": "950783972",
+      "username": "RepBera"
+    },
+    {
+      "name": "Rep. Mike Thompson",
+      "description": "Rep. Mike Thompson represents California\u0027s 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+      "id": "303861808",
+      "username": "RepThompson"
+    },
+    {
+      "name": "Shannon Watts",
+      "description": "Founder of @MomsDemand, grassroots army of @Everytown / \"Fight Like a Mother\" author / Boards @WeAdvancePeace, @EmergeAmerica / Shrill harridan",
+      "id": "246939630",
+      "username": "shannonrwatts"
+    },
+    {
+      "name": "Jake Tapper",
+      "description": "Dad; husband; anchor of @TheLeadCNN \u0026 @CNNSOTU; Author of @TheOutpostbook, @TheHellfireClub, and The @Devil_May_Dance; long-suffering Philly sports fan",
+      "id": "14529929",
+      "username": "jaketapper"
+    },
+    {
+      "name": "Roll Call",
+      "description": "Breaking news, reporter tweets and analysis from the Source for News on Capitol Hill since 1955. Instagram: https://t.co/ZFMIdCppoH",
+      "id": "15922214",
+      "username": "rollcall"
+    },
+    {
+      "name": "NCJW/Essex",
+      "description": "National Council of Jewish Women is a grassroots organization of volunteers and advocates, inspired by Jewish values, who turn progressive ideals into action.",
+      "id": "1949442865",
+      "username": "ncjwessexnj"
+    },
+    {
+      "name": "JointBaseMDL",
+      "description": "Official Joint Base McGuire-Dix-Lakehurst Twitter 87.abw.pa@us.af.mil",
+      "id": "170793861",
+      "username": "jointbasemdl"
+    },
+    {
+      "name": "New Jersey Policy Perspective",
+      "description": "New Jersey Policy Perspective (NJPP) is a nonpartisan think tank that drives policy change to advance economic, social, and racial justice.",
+      "id": "60987879",
+      "username": "NJPolicy"
+    },
+    {
+      "name": "Paul Tonko ??",
+      "description": "Engineer. Ice cream lover. Chair of Environment \u0026 Climate Subcommittee. Congressman for #NY20 Albany, Schenectady, Troy, Saratoga Springs \u0026 more ??",
+      "id": "84119348",
+      "username": "RepPaulTonko"
+    },
+    {
+      "name": "JDRF",
+      "description": "JDRF is the leading global funder of type 1 diabetes research.",
+      "id": "21927612",
+      "username": "JDRF"
+    },
+    {
+      "name": "NJ 11th for Change @post.news",
+      "description": "A 501(c)(4) grassroots organization dedicated to advocating for all people of NJ\u0027s 11th Congressional District by promoting political transparency. ??",
+      "id": "815929649746284544",
+      "username": "nj11forchange"
+    },
+    {
+      "name": "Ways \u0026 Means Committee",
+      "description": "Official twitter account for Ways \u0026 Means – senior committee with jurisdiction over health care, trade, taxes, and Social Security. Chaired by @RepRichardNeal.",
+      "id": "31128529",
+      "username": "WaysMeansCmte"
+    },
+    {
+      "name": "Steve Klinghoffer",
+      "description": "Husband, Father, Grandfather, Friend, Post-Partisan, Proud Zionist, Productivity Nerd, RT Not \u003d Endorsement, #Israel",
+      "id": "18539072",
+      "username": "sklinghoffer"
+    },
+    {
+      "name": "The Black Caucus",
+      "description": "The conscience of the Congress since 1971??. Advocating for issues important to Black Americans. #CBC50 #OurPowerOurMessage",
+      "id": "233783568",
+      "username": "TheBlackCaucus"
+    },
+    {
+      "name": "Abed Awad, Esq.",
+      "description": "American attorney, Rutgers adjunct law professor and national expert in Sharia/Islamic law. https://t.co/jg4z9AlbiA\nhttps://t.co/dk04IeWnyF",
+      "id": "49540437",
+      "username": "AbedAwadEsq"
+    },
+    {
+      "name": "Everytown",
+      "description": "We are a movement of parents, students, survivors, educators, gun owners \u0026 concerned citizens fighting to end gun violence and build safer communities.",
+      "id": "250386727",
+      "username": "Everytown"
+    },
+    {
+      "name": "Khyati Y. Joshi",
+      "description": "Scholar | Author: White Christian Privilege (NYU Press) \nPractitioner: Social Justice Education *https://t.co/ydefsz9Q1z Pizza: Thin crust w/ extra jalapeños (she/her)",
+      "id": "704073060",
+      "username": "ProfKJoshi"
+    },
+    {
+      "name": "Mollie Binotto",
+      "description": "NJ born, yinzer raised, proud progressive, \u0026 rescue dog enthusiast | My people are @PhilMurphyNJ, @emilyslist, @MikieSherrill, @penguins | VP at SenaKozar.",
+      "id": "20159687",
+      "username": "mollieb45"
+    },
+    {
+      "name": "Moms Demand Action",
+      "description": "Join our grassroots movement of Americans demanding reasonable solutions to address our nation’s culture of gun violence. @MomsDemand is a part of @Everytown.",
+      "id": "1017637447",
+      "username": "MomsDemand"
+    },
+    {
+      "name": "U.S. House History",
+      "description": "U.S. House History is the official Twitter account of the History, Art \u0026 Archives of the U.S. House of Representatives",
+      "id": "906782533",
+      "username": "USHouseHistory"
+    },
+    {
+      "name": "Stuart Heiser",
+      "description": "Strategic comms, NJ expat, urbanite, @FordSchool MPP. Music, culture (some high, most low), biking, data, healthcare, politics, recapturing skate punk youth.",
+      "id": "202821978",
+      "username": "heisers"
+    },
+    {
+      "name": "Montville TAP",
+      "description": "TAPinto Montville is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/TExpKTTX2Z",
+      "id": "1944460404",
+      "username": "MontvilleTAP"
+    },
+    {
+      "name": "Rutgers Federal Relations",
+      "description": "@RutgersU\u0027s Office of Federal Relations advocates on behalf of the university and higher education to our policy makers in Washington, DC.",
+      "id": "732846684",
+      "username": "RUFedRelations"
+    },
+    {
+      "name": "Frank Lucas",
+      "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma’s Third Congressional District.",
+      "id": "242772524",
+      "username": "RepFrankLucas"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Jim Langevin",
+      "description": "U.S. Congressman for Rhode Island\u0027s Second District",
+      "id": "18909919",
+      "username": "JimLangevin"
+    },
+    {
+      "name": "Rep. Anthony Gonzalez",
+      "description": "Representing #OH16 in Congress. Northeast Ohio born and raised, husband, dad and Cuban-American.",
+      "id": "1054381765224210432",
+      "username": "RepAGonzalez"
+    },
+    {
+      "name": "Sandy Hook Promise",
+      "description": "Get involved to prevent school shootings and #EndGunViolence. Text PROMISE to 79775. #ProtectOurKids RT ? endorsement. Account not monitored 24/7.",
+      "id": "1032290077",
+      "username": "sandyhook"
+    },
+    {
+      "name": "Brady | United Against Gun Violence",
+      "description": "We are uniting Americans from coast to coast, red and blue and every color, to end gun violence. Led by @KrisB_Brown.",
+      "id": "27978179",
+      "username": "bradybuzz"
+    },
+    {
+      "name": "Jonathan D. Salant",
+      "description": "@NJAdvanceMedia DC correspondent. Ex-president @PressClubDC, @RegionalReports. @dcmediasoftball coach. @stonybrooku, @columbiajourn alum.  LI native. @Mets fan.",
+      "id": "297053549",
+      "username": "JDSalant"
+    },
+    {
+      "name": "Denis Williams",
+      "description": "",
+      "id": "1908885949",
+      "username": "NutleyPrincipal"
+    },
+    {
+      "name": "NJSP - State Police",
+      "description": "NJ State Police Public Information Unit-Further info on any updates, call 609-882-2000 X6516 or after hours and weekends, X7833",
+      "id": "18740765",
+      "username": "NJSP"
+    },
+    {
+      "name": "Rep. Katie Porter",
+      "description": "Minivan-driving single mom, law professor, consumer advocate ????? Usually carrying a whiteboard, always bringing the receipts ?",
+      "id": "1081222837459996672",
+      "username": "RepKatiePorter"
+    },
+    {
+      "name": "Col. Paul Cook (Ret.)",
+      "description": "Twenty-six year retired @USMC Colonel. Former United States Congressman from California\u0027s 8th Congressional District. #Semperfi",
+      "id": "1074412920",
+      "username": "ColPaulCookRet"
+    },
+    {
+      "name": "CBS News",
+      "description": "Your source for original reporting and trusted news.\n\n? CBS | Streaming on the CBS News app | @ParamountPlus",
+      "id": "15012486",
+      "username": "CBSNews"
+    },
+    {
+      "name": "NBC News",
+      "description": "News updates from around the ?, all day, every day.",
+      "id": "14173315",
+      "username": "NBCNews"
+    },
+    {
+      "name": "ABC News",
+      "description": "The only official ABC News Twitter account. Download our new mobile app: https://t.co/6WupJH6wUx",
+      "id": "28785486",
+      "username": "ABC"
+    },
+    {
+      "name": "CNN Politics",
+      "description": "Political news, campaign stories and Washington coverage from CNN Politics.",
+      "id": "13850422",
+      "username": "CNNPolitics"
+    },
+    {
+      "name": "Reuters",
+      "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+      "id": "1652541",
+      "username": "Reuters"
+    },
+    {
+      "name": "CNN",
+      "description": "It’s our job to #GoThere \u0026 tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6",
+      "id": "759251",
+      "username": "CNN"
+    },
+    {
+      "name": "The New York Times",
+      "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+      "id": "807095",
+      "username": "nytimes"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "The Associated Press",
+      "description": "Advancing the power of facts, globally ?",
+      "id": "51241574",
+      "username": "AP"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what\u0027s happening in Washington, breaking news and retweets of our reporters.",
+      "id": "1917731",
+      "username": "thehill"
+    },
+    {
+      "name": "POLITICO",
+      "description": "Nobody knows politics and policy like POLITICO. \nCongress nerds ? @politicongress \nAll 2022 race calls ? @politicoelex\nGot a news tip? ? https://t.co/JBzpu5pJz6",
+      "id": "9300262",
+      "username": "politico"
+    },
+    {
+      "name": "Congresswoman Ayanna Pressley",
+      "description": "Proudly serving the Massachusetts 7th. Vice Chair, @FSCDems \u0026 Member, @OversightDems She/Her.",
+      "id": "1080584229510172678",
+      "username": "RepPressley"
+    },
+    {
+      "name": "Nancy Solomon",
+      "description": "Reporter/Host of Dead End: A New Jersey Political Murder Mystery. Radio reporter at WNYC.  Tweets are my own.",
+      "id": "413067859",
+      "username": "NancySolomon2"
+    },
+    {
+      "name": "Women\u0027s Congressional Policy Institute (WCPI)",
+      "description": "Bringing women policymakers together across party lines, empowering future women leaders, and fostering a more representative democracy.",
+      "id": "326929954",
+      "username": "WCPInst"
+    },
+    {
+      "name": "Rep. Terri A. Sewell",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama\u0027s 7th District  https://t.co/0uBlTm34B9",
+      "id": "381152398",
+      "username": "RepTerriSewell"
+    },
+    {
+      "name": "Rep. Fred Upton",
+      "description": "Call me Fred. Husband, Dad, Grandpa, and proud to represent Southwest Michigan. #MI06",
+      "id": "124224165",
+      "username": "RepFredUpton"
+    },
+    {
+      "name": "Julie J",
+      "description": "",
+      "id": "93703781",
+      "username": "JulieJ529"
+    },
+    {
+      "name": "ALSofGNY",
+      "description": "The ALS Association Greater New York Chapter. Fighting ALS on every front. Walk to Defeat ALS: @WalktoDefeatALS",
+      "id": "15459234",
+      "username": "ALSofGNY"
+    },
+    {
+      "name": "Leo Shane III",
+      "description": "Deputy editor for Military Times, former vets reporter for Stars \u0026 Stripes. Philly sports fan trapped in DC. Don\u0027t judge me by past or future haircuts.",
+      "id": "16547587",
+      "username": "LeoShane"
+    },
+    {
+      "name": "Christine McGrath",
+      "description": "Deputy Mayor, Verona, NJ. GVP and food insecurity advocate.  Posts are my own, r/t are not endorsements.  Please forgive spelling mistakes.",
+      "id": "743178489432522753",
+      "username": "christinemm22"
+    },
+    {
+      "name": "Christine",
+      "description": "",
+      "id": "1305701425",
+      "username": "BrodiePiper"
+    },
+    {
+      "name": "Tim Patrick ??? ??",
+      "description": "Horror/Marvel/Mets fan.  #Progressive. #anxiety #humanist\nVolunteering for a candidate is the best way to fight back. \n\npost. news /dasdeadpool",
+      "id": "3227259348",
+      "username": "dasdeadpool"
+    },
+    {
+      "name": "Saily Avelenda, JD ????",
+      "description": "Recovering lawyer | Now: @NJDSC Past: #NJ11 \u0026 law stuff | Over-caffeinated | ? Elon, oligarchs \u0026 other tedious men ? | #BLM #Pride | smavelenda@post.news | ?",
+      "id": "780931615992209408",
+      "username": "Smavy45"
+    },
+    {
+      "name": "Rupande Mehta",
+      "description": "She/Her. Former LD-25 candidate, author. Trihayani out now",
+      "id": "2823653589",
+      "username": "rupandemehta"
+    },
+    {
+      "name": "Patrick Curreri",
+      "description": "Human, Father",
+      "id": "1036258462639026178",
+      "username": "curreri_patrick"
+    },
+    {
+      "name": "justin laser beam goldsman",
+      "description": "UMiami 2015. UF M.Ed. ??! Manchester city!! fmr @philmurphynj . Our Revolution. Progressive. CWA Strong. tweets are my own",
+      "id": "268342668",
+      "username": "goldsman93"
+    },
+    {
+      "name": "Charlie Baranski ??",
+      "description": "Linguistics \u0026 PoliSci ? • Jersey Boy • Progressive Dem, NDPer • Local politics • Apprenant de français en temps partiel • Views mine only • he/il ?? ??",
+      "id": "797133264716754944",
+      "username": "CharlieBaranski"
+    },
+    {
+      "name": "Theresa",
+      "description": "Theatre Enthusiast. Broadway rocks. Nurse Practitioner. Social Activist. Love is Love. Gun Violence Prevention Advocate. @momsdemand Volunteer. She/Her",
+      "id": "48530976",
+      "username": "TheresaPil"
+    },
+    {
+      "name": "therealgloria@mastodon.world",
+      "description": "Not who you think I am. PoliticallyObsessed.\nGoldenAgeMysteryFan.Funny/Snarky?\nBeliever in Truth,Justice,Retweets,Art, Food,Fashion+reality of Fred AstaireFilms",
+      "id": "302346908",
+      "username": "therealgloria"
+    },
+    {
+      "name": "Rep. Susan Wild",
+      "description": "Proud to represent Pennsylvania\u0027s 7th Congressional District",
+      "id": "1069636653353000962",
+      "username": "RepSusanWild"
+    },
+    {
+      "name": "Teresa Redd",
+      "description": "#Living my Best Life ???? #Retired Law Enforcement #BLM #Voting Rights",
+      "id": "20463944",
+      "username": "tee152"
+    },
+    {
+      "name": "LGBTQ+ Equality Caucus",
+      "description": "Congressional caucus committed to achieving the full enjoyment of human rights for LGBTQ+ people in the U.S. and around the world.",
+      "id": "1392282998",
+      "username": "LGBTEqCaucus"
+    },
+    {
+      "name": "jrod",
+      "description": "",
+      "id": "896046580050034688",
+      "username": "jrodkwrealtor"
+    },
+    {
+      "name": "Amalia Duarte",
+      "description": "??1st Democrat to win two terms on the @MendhamTownship Committee! ??Excited to serve my community and bring a new voice to local government.??",
+      "id": "847635944559607810",
+      "username": "duarte4mendham"
+    },
+    {
+      "name": "Anna Wong",
+      "description": "web developer. producer. ? mom. #blacklivesmatter",
+      "id": "41479260",
+      "username": "anna_w0ng"
+    },
+    {
+      "name": "Jersey Craig",
+      "description": "LGBTQIA Activist. Founder of #LGBTvoices. Photographer. Feminist. He/Him/his. First Language is Sass. #BlockedByTrump. Views expressed are my own.",
+      "id": "22075159",
+      "username": "Jersey_Craig"
+    },
+    {
+      "name": "DNA the molecule",
+      "description": "Pro-Women, Pro-Men, Pro-Human, Proto-Human, Pro-Humor, Pro-Feline, Pro-Nature, Pro-Action, Pro-Sass",
+      "id": "391005849",
+      "username": "danapogorzelski"
+    },
+    {
+      "name": "Kellie",
+      "description": "District Director for @RepSherrill / mom of 3 kids \u0026 2 beautiful rescue dogs/ fighting for kindness, empathy and respect. All views expressed here are my own.",
+      "id": "818564007506407424",
+      "username": "kindlykel"
+    },
+    {
+      "name": "maranovak @post.news",
+      "description": "Executive Director @nj11forchange. @mets, Shakespeare, dictionary subtweets, bird Twitter, math. Vaccines save lives. @NJGov stan account. (she/her)",
+      "id": "3015437482",
+      "username": "NaraMovak"
+    },
+    {
+      "name": "JerseyScott",
+      "description": "I can’t complain, but sometimes I still do. #JBITBPITNHL",
+      "id": "3056773686",
+      "username": "ScottNNJ"
+    },
+    {
+      "name": "Cappy ?????",
+      "description": "Community organizer, #2511Forward #NJ11FC #TeamMikie #TriTownDems, #ProgressiveTurnoutProjectFellow",
+      "id": "279819032",
+      "username": "cappysg"
+    },
+    {
+      "name": "YantzyIA",
+      "description": "Iowa Born and Raised living in the Northeast",
+      "id": "241266630",
+      "username": "hldexter"
+    },
+    {
+      "name": "Jon Paone",
+      "description": "",
+      "id": "384973672",
+      "username": "jonpaonenj"
+    },
+    {
+      "name": "Jeff Haas",
+      "description": "I am just an old, uneducated white analog guy trying to make it in a digital world.",
+      "id": "57097110",
+      "username": "TheTelephonyMan"
+    },
+    {
+      "name": "Steve Lessick",
+      "description": "Singer - Drummer (CubiZm, Lessick \u0026 Lincoln, Tourne Boys), Patriot \u0026 Progressive, sucker for a good pop hook, harmony vocal aficionado, bleed ? green.",
+      "id": "622980857",
+      "username": "StevenELessick"
+    },
+    {
+      "name": "PatriciaSoteropoulos",
+      "description": "Scientist.  Mother.  Chair, Chatham Borough Democratic Committee.  Co-Chair @ATMorrisCounty #ATNJ #NJ11",
+      "id": "818873301049245696",
+      "username": "PatSoteropoulos"
+    },
+    {
+      "name": "whoifnotme",
+      "description": "I rather stand FOR\nSomething than Against Anything. Huge Rep. Mikie Sherrill fan. Co-founder Where Peace Lives (06-14). Let\u0027s Go NY RANGERS. One Smile at a time",
+      "id": "1014499180574920704",
+      "username": "rudyman1141"
+    },
+    {
+      "name": "Mark Gyorfy",
+      "description": "Mayor of Morris Township - Volunteer Firefighter - Communications \u0026 Public Affairs",
+      "id": "862400240976101378",
+      "username": "MarkGyorfy"
+    },
+    {
+      "name": "Alexa Fitzgerald",
+      "description": "quadruplet • law student • drew wsoc alum • nj • sweet + salty",
+      "id": "781984186211131392",
+      "username": "alexafitz43"
+    },
+    {
+      "name": "Julie",
+      "description": "Just give me the beach, a book and all the dogs. ???????? ? ????. She/her",
+      "id": "156810726",
+      "username": "julielipsss"
+    },
+    {
+      "name": "kelly",
+      "description": "???? stop trump #stopbigotry #NJ11 voter",
+      "id": "22090788",
+      "username": "kellykgill"
+    },
+    {
+      "name": "NJ Society of CPAs",
+      "description": "The largest professional organization serving the needs of current and future CPAs in New Jersey. Managed by @RachaelBell \u0026 @DonPMeyer.",
+      "id": "20534044",
+      "username": "NJCPA"
+    },
+    {
+      "name": "Jonathan Allen",
+      "description": "#1 NYT-bestselling Author | Senior National Politics Reporter, @nbcnews | em-dash junkie",
+      "id": "43409523",
+      "username": "jonallendc"
+    },
+    {
+      "name": "Rep. Adam Smith",
+      "description": "Proudly serving Washington State\u0027s 9th District. \nChairman of the House Armed Services Committee. @HASCDemocrats",
+      "id": "58928690",
+      "username": "RepAdamSmith"
+    },
+    {
+      "name": "Rep. Rick Larsen",
+      "description": "Born and raised in Arlington, Wash. Chair, Aviation Subcommittee",
+      "id": "404132211",
+      "username": "RepRickLarsen"
+    },
+    {
+      "name": "The Well News",
+      "description": "Commonsense coverage done uncommonly well.",
+      "id": "1027280222805221376",
+      "username": "TheWellNews"
+    },
+    {
+      "name": "Denver Riggleman",
+      "description": "Former VA Rep, USAF Intel, NSA, Data hawk, Whiskey Distiller. NY Times bestselling Author of THE BREACH and Bigfoot…It’s Complicated https://t.co/5uGLgX1lJY",
+      "id": "1080504024695222273",
+      "username": "RepRiggleman"
+    },
+    {
+      "name": "Congressman Kelly Armstrong",
+      "description": "Lifelong North Dakotan. U.S. House of Representatives. @housecommerce committee.",
+      "id": "1080515866255593472",
+      "username": "RepArmstrongND"
+    },
+    {
+      "name": "Sorriso Kitchen",
+      "description": "Eat Happy with delicious, farm-fresh breakfast and lunch Tues-Sun 8am-3pm. Proudly supporting our special needs community. 973-665-8068 ?",
+      "id": "1081407844061233153",
+      "username": "sorriso_kitchen"
+    },
+    {
+      "name": "ECLC of NJ",
+      "description": "ECLC is a nonprofit offering Education, Careers and Lifelong Community for children and adults with special needs.",
+      "id": "137732958",
+      "username": "eclcofnj"
+    },
+    {
+      "name": "Sikorsky",
+      "description": "A @LockheedMartin company ?",
+      "id": "96840521",
+      "username": "Sikorsky"
+    },
+    {
+      "name": "BuildGateway",
+      "description": "We are a coalition of civic, environmental, transportation, labor and business groups that say Build Gateway Now!",
+      "id": "1015278168561913856",
+      "username": "build_gateway"
+    },
+    {
+      "name": "Regional Plan",
+      "description": "For 100 years, RPA has been shaping transit systems, protecting the environment \u0026 promoting greater economic opportunity in the NY-NJ-CT region.",
+      "id": "19001834",
+      "username": "RegionalPlan"
+    },
+    {
+      "name": "National Science Foundation",
+      "description": "Explore #NSFfunded research that is transforming the world. Social media policy: https://t.co/IRuZ2l1oLW",
+      "id": "16245822",
+      "username": "NSF"
+    },
+    {
+      "name": "Secretary of the Navy Carlos Del Toro",
+      "description": "Official Twitter account of the U.S. Secretary of the Navy. \nFollowing, RTs and links ? endorsement.",
+      "id": "117821354",
+      "username": "SECNAV"
+    },
+    {
+      "name": "Secretary of the Army Christine E. Wormuth",
+      "description": "The official account of the Secretary of the Army. (Following, RTs \u0026 links ? endorsement) Find photos at https://t.co/VlK3DgpDPb",
+      "id": "814367737342328833",
+      "username": "SecArmy"
+    },
+    {
+      "name": "St. Joseph\u0027s Health",
+      "description": "World-Class Hospital and Healthcare Network.\n\n#ItsWhatsInsideUs",
+      "id": "60933605",
+      "username": "sjh_nj"
+    },
+    {
+      "name": "VoteVets",
+      "description": "Since 2006, over 1.5M Veterans, Military Families, \u0026 supporters have been electing Veterans to office and fighting for progressive values.",
+      "id": "16513335",
+      "username": "votevets"
+    },
+    {
+      "name": "Christopher Vancheri",
+      "description": "I have many titles (PR Guy and Councilman) but my favorite ones are Husband and Father! These are my personal tweets which usually mean they are sports-related",
+      "id": "309212809",
+      "username": "CVancheri"
+    },
+    {
+      "name": "Lucy Del Gaudio (she/her/hers)",
+      "description": "Mom, Wife \u0026 US Army Veteran. Lover of Music, Food, Movies, Art \u0026 Books. Passionate about Veteran Initiatives \u0026 Women Empowerment. #justiceforvanessa #endingmst",
+      "id": "437703824",
+      "username": "LadyDelDJ"
+    },
+    {
+      "name": "House Veterans\u0027 Affairs",
+      "description": "Chairman @RepMarkTakano | House Committee on Veterans’ Affairs",
+      "id": "151519500",
+      "username": "VetAffairsDems"
+    },
+    {
+      "name": "Woodland Park American Legion",
+      "description": "",
+      "id": "1017059551462518785",
+      "username": "park_legion"
+    },
+    {
+      "name": "NJMEP",
+      "description": "A not-for-profit that works with NJ\u0027s small - mid-sized manufacturers to help improve their bottom-line while meeting \u0026 exceeding customer standards.\n\n#MADEinNJ",
+      "id": "377434958",
+      "username": "NJMEP"
+    },
+    {
+      "name": "ARCHIVED Congresswoman Abby Finkenauer",
+      "description": "Archived tweets from Iowa First District Congresswoman Abby Finkenauer (2019-2021). This account is inactive. Please follow @Abby4Iowa",
+      "id": "1081256295469068288",
+      "username": "RepFinkenauer"
+    },
+    {
+      "name": "ActionTogetherNJ",
+      "description": "Action Together™ New Jersey - leader in VBM and elections. https://t.co/Ug2iXEFvsu. This is not the account of Exec Dir. @winnkhuong",
+      "id": "802000177544515584",
+      "username": "Action2getherNJ"
+    },
+    {
+      "name": "Rep. Don Bacon ??",
+      "description": "Serving the great people of NE-02 ??. Married to Angie, 4 kids, 7 grandkids. Brig Gen ?? USAF (Ret.) Policy questions? Visit://bacon.house.gov",
+      "id": "818975124460335106",
+      "username": "RepDonBacon"
+    },
+    {
+      "name": "Rep. Jimmy Panetta",
+      "description": "I am honored to represent California\u0027s new 19th congressional district in the U.S. House of Representatives.",
+      "id": "796736612554117120",
+      "username": "RepJimmyPanetta"
+    },
+    {
+      "name": "Congressman Waltz Press",
+      "description": "Official account of Congressman Mike Waltz’s press shop",
+      "id": "1082416697380913152",
+      "username": "RepWaltzPress"
+    },
+    {
+      "name": "Rep. Eddie Bernice Johnson",
+      "description": "Representing Texas’s 30th Congressional District. Chairwoman of @HouseScience. Dean of the Texas Delegation. First Registered Nurse elected to Congress.",
+      "id": "168502762",
+      "username": "RepEBJ"
+    },
+    {
+      "name": "Rep. Jamie Raskin",
+      "description": "Proudly serving MD’s 8th on @rulesdemocrats, @housejudiciary, @oversightdems \u0026 @houseadm_dems. Confronting violent extremism on the @January6thCmte.",
+      "id": "806906355214852096",
+      "username": "RepRaskin"
+    },
+    {
+      "name": "Homeless Solutions",
+      "description": "HSI is a private, nonprofit organization that has been helping the homeless and working poor in our community since 1983",
+      "id": "47641813",
+      "username": "HSI_NJ"
+    },
+    {
+      "name": "Alex",
+      "description": "",
+      "id": "860662783",
+      "username": "AlexAlexnina"
+    },
+    {
+      "name": "Bill Ritter",
+      "description": "Anchor at Eyewitness News on Channel 7 WABC-TV in New York City. Re-Tweets are not endorsements #RealNews",
+      "id": "18770777",
+      "username": "billritter7"
+    },
+    {
+      "name": "Eyewitness News",
+      "description": "New York\u0027s #1 news, Channel 7 Eyewitness News. WABC-TV. Comments \u0026 photos shared here or using #abc7NY could be used on any ABC platforms.",
+      "id": "16715398",
+      "username": "ABC7NY"
+    },
+    {
+      "name": "Shereef Elnahal, MD",
+      "description": "Working to deliver healthcare to Veterans as @USHVHA. Alum @UnivHospNewark CEO @NJDeptofHealth Commissioner @GovMurphy Cabinet, @VAInnovation. Personal account",
+      "id": "145832541",
+      "username": "ShereefElnahal"
+    },
+    {
+      "name": "NJ Env Lobby",
+      "description": "",
+      "id": "2929544397",
+      "username": "NJEnvLobby"
+    },
+    {
+      "name": "Montclair State U",
+      "description": "A University on another level, an education that elevates your future. #RedHawkPride Social Media Community Standards: https://t.co/IxGjoHdBLx…",
+      "id": "47703620",
+      "username": "montclairstateu"
+    },
+    {
+      "name": "Britnee N. Timberlake",
+      "description": "Mom. Wife. Advocate. NJ Assemblywoman representing District 34 (East Orange, Montclair, Orange \u0026Clifton) Follows, Retweets, \u0026Likes Do Not Signify Endorsement",
+      "id": "992418447714930689",
+      "username": "AswTimberlake"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "House Appropriations",
+      "description": "Chair @rosadelauro and the House Appropriations Committee are investing in America’s working families. Updates from staff.",
+      "id": "30912937",
+      "username": "AppropsDems"
+    },
+    {
+      "name": "Rep. Gil Cisneros",
+      "description": "Navy Veteran and Representative for California\u0027s 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+      "id": "1080986167003230208",
+      "username": "RepGilCisneros"
+    },
+    {
+      "name": "Ted Deutch",
+      "description": "Husband, dad, Former Congressman. Lover of music \u0026 animals. Former Chair of Ethics Cmte \u0026 Middle East, North Africa \u0026 Global CT Subcommittee",
+      "id": "137794015",
+      "username": "RepTedDeutch"
+    },
+    {
+      "name": "Rep. Debbie Mucarsel-Powell",
+      "description": "Mom. Immigrant. Former Congresswoman. 1st Ecuadorian-American in Congress. Fighting for lower health care costs, commonsense gun reform \u0026 combat climate change.",
+      "id": "1080941062028447744",
+      "username": "RepDMP"
+    },
+    {
+      "name": "Rep. Sylvia Garcia",
+      "description": "Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston \u0026 Pasadena. Passionate about public service. Fighting for working people.",
+      "id": "1080587263132733442",
+      "username": "RepSylviaGarcia"
+    },
+    {
+      "name": "Rep. Anthony Brindisi",
+      "description": "Dad. Husband. Problem solver \u0026 independent voice for the working families of Upstate NY. Rep. of NY’s 22nd District. @VetAffairsDems @HouseAgDems @HASCDemocrats",
+      "id": "1080978331535896576",
+      "username": "RepBrindisi"
+    },
+    {
+      "name": "Sparta Twp. Schools",
+      "description": "Celebrating the amazing Sparta Learning Community! Official Twitter account for the Sparta Township Public Schools",
+      "id": "1022542291549020161",
+      "username": "Sparta_Schools"
+    },
+    {
+      "name": "Sparta High School",
+      "description": "Sparta High School is located in Sparta Township, NJ. Go Spartans!  #spartanpride #spartavalues",
+      "id": "1923541939",
+      "username": "Sparta_HS"
+    },
+    {
+      "name": "John Lewis",
+      "description": "Congressman, Georgia\u0027s Fifth Congressional District",
+      "id": "29450962",
+      "username": "repjohnlewis"
+    },
+    {
+      "name": "Jahana Hayes",
+      "description": "Mom, Educator, Congresswoman for CT-05 #HayesInTheHouse",
+      "id": "1082086081238102018",
+      "username": "RepJahanaHayes"
+    },
+    {
+      "name": "Rep. Ann Kirkpatrick",
+      "description": "Congresswoman representing Arizona\u0027s 2nd District, but my grandchildren call me \"Mumsy!\"",
+      "id": "1081240074946252801",
+      "username": "RepKirkpatrick"
+    },
+    {
+      "name": "Rep. Lucy McBath",
+      "description": "Mother. Fighter. Congresswoman. #GA06\n\nIf you need help with a federal agency, please call my office at (470) 773-6330 or visit https://t.co/z9i7IG2RFZ.",
+      "id": "1082380458976051202",
+      "username": "RepLucyMcBath"
+    },
+    {
+      "name": "NJBIZ",
+      "description": "All Business. All New Jersey.",
+      "id": "20524105",
+      "username": "NJBIZ"
+    },
+    {
+      "name": "????????????????????????????????",
+      "description": "?2023??????????17?????????????????????????? #???? #???? #??? #?? #???? #??? #????",
+      "id": "27675227",
+      "username": "ghigih111"
+    },
+    {
+      "name": "Jackie Burns",
+      "description": "Team @mikiesherrill ? | Alum @philmurphynj | Jersey Forever",
+      "id": "403770714",
+      "username": "jackieaburns"
+    },
+    {
+      "name": "House Gun Task Force",
+      "description": "House Gun Violence Prevention Task Force",
+      "id": "747853673917747200",
+      "username": "HouseGVP"
+    },
+    {
+      "name": "Eliot Engel",
+      "description": "Former Chairman of the House of Representatives Foreign Affairs Committee and Congressman from NY\u0027s 16th Congressional District.",
+      "id": "164007407",
+      "username": "RepEliotEngel"
+    },
+    {
+      "name": "Robin Kelly",
+      "description": "Official Twitter for Rep Robin Kelly #IL02 Vice Chair @EnergyCommerce, Member @OversightDems, Co-Chair @CBWGCAUCUS \u0026 Chair of @TheBlackCaucus Health Braintrust",
+      "id": "1339931490",
+      "username": "RepRobinKelly"
+    },
+    {
+      "name": "Chatham High School",
+      "description": "Chatham High School, Chatham NJ",
+      "id": "365487717",
+      "username": "ChathamHS"
+    },
+    {
+      "name": "Steny Hoyer",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland\u0027s Fifth Congressional District.",
+      "id": "22012091",
+      "username": "LeaderHoyer"
+    },
+    {
+      "name": "Archived: Rep. Harley Rouda",
+      "description": "Archived account of the office of U.S. Congressmember Harley E. Rouda of California\u0027s 48th District.",
+      "id": "1075080722241736704",
+      "username": "RepHarley"
+    },
+    {
+      "name": "Rep. Steven Horsford",
+      "description": "Official Twitter account of Congressman Steven Horsford. Proudly representing the people of Nevada\u0027s Fourth Congressional District. #NV04",
+      "id": "389840566",
+      "username": "RepHorsford"
+    },
+    {
+      "name": "U.S. Rep. Stephanie Murphy",
+      "description": "Fighting for progress and proudly representing Seminole \u0026 Orange Counties in the U.S. House of Representatives.",
+      "id": "796183515998068736",
+      "username": "RepStephMurphy"
+    },
+    {
+      "name": "Rep. Lois Frankel",
+      "description": "Representative from Florida\u0027s 21st Congressional District. Co-Chair of @DemWomenCaucus. Follow me on Facebook \u0026 Instagram @ RepLoisFrankel",
+      "id": "1077121945",
+      "username": "RepLoisFrankel"
+    },
+    {
+      "name": "Jackie Speier",
+      "description": "Fighter for women’s equality, our troops, LGBTQ+ rights \u0026 the underrepresented. Proud mom of 2 kids \u0026 2 pups, wife, \u0026 Rep of CA-14 biotech \u0026 social media hub.",
+      "id": "24913074",
+      "username": "RepSpeier"
+    },
+    {
+      "name": "Congressman Jared Golden",
+      "description": "Proud dad. Resident of Lewiston. Raised in Leeds and trained in the Marines. U.S. Congressman putting Mainers first.",
+      "id": "1080891667308298240",
+      "username": "RepGolden"
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "description": "Representing New York’s 9th Congressional District. Brooklyn bred.",
+      "id": "240812994",
+      "username": "RepYvetteClarke"
+    },
+    {
+      "name": "Rep. Nadler",
+      "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+      "id": "40302336",
+      "username": "RepJerryNadler"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "description": "Brooklyn \u0026 Queens Congressman. Chair @HouseDemocrats. Speak truth. Do the work. Change America.",
+      "id": "467823431",
+      "username": "RepJeffries"
+    },
+    {
+      "name": "Rep. Andy Levin",
+      "description": "Honored to represent #MI09 in Congress. Member of @EdLaborCmte and @HouseForeign. Democrat raising the standard of living for working people.",
+      "id": "1080277407867772930",
+      "username": "RepAndyLevin"
+    },
+    {
+      "name": "Rep. Kim Schrier, M.D.",
+      "description": "Proudly representing the people of Washington State’s 8th District. Pediatrician. Mom.",
+      "id": "1080462532815532032",
+      "username": "RepKimSchrier"
+    },
+    {
+      "name": "Jewish Community Relations Council of JFedGMW",
+      "description": "The Jewish Community Relations Council (JCRC) is the advocacy and public affairs arm of Jewish Federation of Greater MetroWest NJ.",
+      "id": "1049678508732092417",
+      "username": "JCRCofGMW"
+    },
+    {
+      "name": "Riverdale, NJ",
+      "description": "Official Twitter Page of the Borough of Riverdale, NJ. (973) 835-4060. Website: https://t.co/Aohl8vgLrJ. #RiverdaleNJ",
+      "id": "211531816",
+      "username": "RiverdaleNJ"
+    },
+    {
+      "name": "AFGE",
+      "description": "Official Twitter Page for the American Federation of Government Employees — the largest federal employee union, representing 700,000 workers. RTs ? endorsement.",
+      "id": "47402168",
+      "username": "AFGENational"
+    },
+    {
+      "name": "AFGE Local 2369",
+      "description": "AFGE Local 2369 represents all Social Security field office and teleservice center employees in New Jersey",
+      "id": "1012472226870939649",
+      "username": "AFGElocal2369"
+    },
+    {
+      "name": "Township of Verona",
+      "description": "Official page of the Township of Verona, NJ 2019. https://t.co/Z6TA9vP0F9 remains the primary internet presence. Social Media Policy: https://t.co/tWe0Q2U5AB",
+      "id": "1095983808",
+      "username": "VeronaTownship"
+    },
+    {
+      "name": "Fairleigh Dickinson University",
+      "description": "Official Twitter of Fairleigh Dickinson University. Faculty, students \u0026 alumni do the hard work and we get to talk about it. Use the hashtag #myfdu!",
+      "id": "62850528",
+      "username": "FDUWhatsNew"
+    },
+    {
+      "name": "William Westhoven",
+      "description": "@DailyRecord @NorthJersey reporter. Author of novels \"One-Hit Willie\" \u0026 \"The Puddingstone Well.\"  https://t.co/BullaBLiLJ DJ. Former Crazy Eddie store manager.",
+      "id": "397400969",
+      "username": "wwesthoven"
+    },
+    {
+      "name": "Madison Eagle",
+      "description": "Your source for news about Madison. https://t.co/5dd2Br0mcT, gherzog@newjerseyhills.com",
+      "id": "485052236",
+      "username": "MadisonEagleNJ"
+    },
+    {
+      "name": "Morristown, NJ",
+      "description": "The official Morristown, NJ Government Twitter account. Find news, events and more!",
+      "id": "2881442392",
+      "username": "NJMorristown"
+    },
+    {
+      "name": "Hanover Eagle",
+      "description": "Your source for news about East Hanover and Hanover. https://t.co/RLO1nUOXyu, jlent@newjerseyhills.com",
+      "id": "488518369",
+      "username": "HanoverEagle"
+    },
+    {
+      "name": "Morristown TAP",
+      "description": "TAPinto Morristown\u0027s an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/OXY70aOiZS",
+      "id": "2657236789",
+      "username": "MorristownTAP"
+    },
+    {
+      "name": "Morris NewsBee",
+      "description": "Your source for news about Morristown, Morris Township, and Morris Plains. https://t.co/OO0WyhgdvG, jlent@newjerseyhills.com",
+      "id": "476173499",
+      "username": "MorrisNewsBee"
+    },
+    {
+      "name": "Morris Arts",
+      "description": "Established in 1973, Morris Arts\u0027 mission is to engage and build community through the arts.",
+      "id": "59538680",
+      "username": "MorrisArtsNJ"
+    },
+    {
+      "name": "Morris Museum",
+      "description": "Interpreting the past, discovering the future, through Art, Sound, and Motion.",
+      "id": "78406492",
+      "username": "MorrisMuseumNJ"
+    },
+    {
+      "name": "Essex County College",
+      "description": "Where all roads begin...",
+      "id": "71366787",
+      "username": "EssexCountyNwk"
+    },
+    {
+      "name": "Morris NJ Chamber",
+      "description": "The Morris County Chamber of Commerce supports strong economic growth \u0026 promotes a vibrant business community in NJ, 800 members strong.  http://t.co/ZWIVaVfs",
+      "id": "1132055449",
+      "username": "MorrisChamberNJ"
+    },
+    {
+      "name": "Tony Iacono",
+      "description": "Tony Iacono is the President of County College of Morris. This site is used to share and/or celebrate all things related to CCM, teaching and learning.",
+      "id": "820805674636640256",
+      "username": "CCMProud"
+    },
+    {
+      "name": "NJ.com/morris",
+      "description": "Morris County news on http://t.co/BKEeCkHv. Email tips to morris@nj.com.",
+      "id": "726247543",
+      "username": "NJ_Morris"
+    },
+    {
+      "name": "Morris County NJ",
+      "description": "NJ County Government General Information. @AlertMorris for emergency info.",
+      "id": "32009466",
+      "username": "MorrisCountyNJ"
+    },
+    {
+      "name": "County College of Morris",
+      "description": "County College of Morris serves the greater Morris County region and provides students with an outstanding education and a commitment to lifelong learning.",
+      "id": "195832745",
+      "username": "CCM_edu"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "description": "Official Twitter account for the U.S. Coast Guard. If in distress, use VHF channel 16 or dial 911.\n\n(RT, follows ? endorsements)",
+      "id": "15113565",
+      "username": "USCG"
+    },
+    {
+      "name": "U.S. Marines",
+      "description": "The official Twitter account of the United States Marine Corps. \n\nThe appearance of links does not constitute endorsement.",
+      "id": "10126672",
+      "username": "USMC"
+    },
+    {
+      "name": "National Guard",
+      "description": "Official tweets from National Guard Bureau. National Guard: America\u0027s First Military Responders. (Following, RTs \u0026 links ? endorsement.)",
+      "id": "31310158",
+      "username": "USNationalGuard"
+    },
+    {
+      "name": "U.S. Army",
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links ? endorsement)",
+      "id": "8775672",
+      "username": "USArmy"
+    },
+    {
+      "name": "U.S. Air Force",
+      "description": "Official U.S. Air Force Twitter (Following, RTs \u0026 links ? endorsement) #AimHigh",
+      "id": "19611483",
+      "username": "usairforce"
+    },
+    {
+      "name": "Office of the Secretary of the Air Force",
+      "description": "The official Twitter account for the Office of the Secretary of the @USAirForce \u0026 @SpaceForceDoD. Following \u0026 retweet does not equal or imply endorsement.",
+      "id": "847137140043583488",
+      "username": "SecAFOfficial"
+    },
+    {
+      "name": "Rep. Haley Stevens",
+      "description": "Congresswoman for Michigan\u0027s 11th District. Chair, Research and Technology Subcommittee, House Science. Education and Labor Committee.",
+      "id": "1076161611033968640",
+      "username": "RepHaleyStevens"
+    },
+    {
+      "name": "Rep. Veronica Escobar",
+      "description": "Tejana. Fronteriza. Proudly representing the 16th Congressional District of Texas in the U.S. House of Representatives.",
+      "id": "1075517806551154689",
+      "username": "RepEscobar"
+    },
+    {
+      "name": "Congressman TJ Cox",
+      "description": "Engineer, dad, small businessman. Served with @HouseAgDems to grow opportunity in #CA21.",
+      "id": "1080875913926139910",
+      "username": "RepTjCox"
+    },
+    {
+      "name": "Rep. Sharice Davids",
+      "description": "Proud to represent #KS03 in the United States Congress.",
+      "id": "1080516116395499522",
+      "username": "RepDavids"
+    },
+    {
+      "name": "Angie Craig",
+      "description": "Mom of four boys, Mimi to Noah, wife to Cheryl and U.S. Representative for Minnesota’s 2nd District. Your voice matters and it’s an honor to serve you.",
+      "id": "1080222360643485698",
+      "username": "RepAngieCraig"
+    },
+    {
+      "name": "Rep. Mike Levin",
+      "description": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",
+      "id": "1072134139560620033",
+      "username": "RepMikeLevin"
+    },
+    {
+      "name": "Joe Morelle",
+      "description": "Always getting my steps in. Proud grandfather, Democrat, and Congressman representing #NY25. Black belt. Go @Cardinals.",
+      "id": "1064595993222615040",
+      "username": "RepJoeMorelle"
+    },
+    {
+      "name": "Rep. Deb Haaland",
+      "description": "She/Her, Former #NM CD1 Rep., One of the 1st Native American women in Congress. Laguna Pueblo. Single mom. Marathon runner. Follow @SecDebHaaland for updates",
+      "id": "1080695666760929280",
+      "username": "RepDebHaaland"
+    },
+    {
+      "name": "Ann McLane Kuster",
+      "description": "Honored to serve the people of New Hampshire’s Second District in Congress.",
+      "id": "1058717720",
+      "username": "RepAnnieKuster"
+    },
+    {
+      "name": "Congresswoman Julia Brownley",
+      "description": "Fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee \u0026 #WomenVetsTaskForce. Member of @TransportDems, @ClimateCrisis, and @NRDems.",
+      "id": "1243902714",
+      "username": "RepBrownley"
+    },
+    {
+      "name": "Rep. Susie Lee",
+      "description": "Congresswoman proudly serving the folks in Nevada\u0027s 3rd District. Bipartisan Leader. Education Advocate. Mom to two great kids.",
+      "id": "1079061579973439488",
+      "username": "RepSusieLee"
+    },
+    {
+      "name": "Dr. Phil Roe",
+      "description": "Official Account of former Congressman Phil Roe, MD.",
+      "id": "52503751",
+      "username": "DrPhilRoe"
+    },
+    {
+      "name": "Hubble",
+      "description": "The official Twitter account for the NASA Hubble Space Telescope, managed and operated by NASA\u0027s Goddard Space Flight Center.",
+      "id": "14091091",
+      "username": "NASAHubble"
+    },
+    {
+      "name": "NASA",
+      "description": "There\u0027s space for everybody. ?",
+      "id": "11348282",
+      "username": "NASA"
+    },
+    {
+      "name": "Archived: Rep. Xochitl Torres Small",
+      "description": "116th Congress: Rep. for #NM02. Pronounced So-cheel. NM grown. Public lands lover. Hunter. Runner. Podcast junkie \u0026 fmr. band nerd. The only q is: red or green?",
+      "id": "1080830346915209216",
+      "username": "RepTorresSmall"
+    },
+    {
+      "name": "BG Vincent F. Malone II",
+      "description": "This is the official account for the Commanding General at Picatinny Arsenal. (Following, RTs \u0026 links ? endorsement) Account managed by Picatinny Public Affairs",
+      "id": "818806604623650816",
+      "username": "PicatinnyCG"
+    },
+    {
+      "name": "Picatinny Arsenal",
+      "description": "Picatinny Arsenal: The Joint Center of Excellence for Armaments and Munitions. Note: Following does not \u003d endorsement.",
+      "id": "25372418",
+      "username": "Picatinny_NJ"
+    },
+    {
+      "name": "Navy Athletics",
+      "description": "The official Twitter of the Naval Academy Athletic Association. Follow all of your favorite Midshipmen teams here! #GoNavy",
+      "id": "36352119",
+      "username": "NavyAthletics"
+    },
+    {
+      "name": "U.S. Naval Academy",
+      "description": "Official Twitter account of #USNA. Dedicated to the #MoralMentalPhysical development of @USNavy #Midshipmen since 1845 (Following/RTs ? endorsement).",
+      "id": "18090660",
+      "username": "NavalAcademy"
+    },
+    {
+      "name": "U.S. Navy",
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links ? endorsement)",
+      "id": "54885400",
+      "username": "USNavy"
+    },
+    {
+      "name": "Rep. Lizzie Fletcher",
+      "description": "Honored and proud to represent Texas\u0027 7th Congressional District in Houston, where inclusion, innovation, and collaboration thrive. #TX07",
+      "id": "1075904377221722113",
+      "username": "RepFletcher"
+    },
+    {
+      "name": "Rep. Cindy Axne",
+      "description": "Proud to serve as the U.S. Representative from Iowa\u0027s Third Congressional District. Fighting for Iowa families and communities on @HouseAgDems \u0026 @FSCDems. #IA03",
+      "id": "1080865917377097728",
+      "username": "RepCindyAxne"
+    },
+    {
+      "name": "Lori Trahan",
+      "description": "Congresswoman proudly representing Massachusetts\u0027 Third District. @EnergyCommerce member. She/Hers. ? (978) 459-0101",
+      "id": "1079802482640019456",
+      "username": "RepLoriTrahan"
+    },
+    {
+      "name": "Rep. Lauren Underwood",
+      "description": "Representing #IL14. Nurse, health enthusiast, advocate for the working families of Illinois. Member of @AppropsDems and @VetAffairsDems.",
+      "id": "1080539438508400642",
+      "username": "RepUnderwood"
+    },
+    {
+      "name": "Archive: Nita Lowey",
+      "description": "Former Congresswoman from New York.\nRTs/follows ? endorsements.",
+      "id": "221792092",
+      "username": "NitaLowey"
+    },
+    {
+      "name": "Democratic Women\u0027s Caucus",
+      "description": "The 93-member Democratic Women\u0027s Caucus advocates for issues important to women \u0026 families\n\n@RepLawrence @RepSpeier @RepLoisFrankel @RepEscobar @RepSylviaGarcia",
+      "id": "890675418780618753",
+      "username": "DemWomenCaucus"
+    },
+    {
+      "name": "Archived: Rep. Joe Cunningham",
+      "description": "This account has been archived. Joe Cunningham proudly represented South Carolina\u0027s Lowcountry in Congress from Jan 2019 - January 2021.",
+      "id": "1080198683713507335",
+      "username": "RepCunningham"
+    },
+    {
+      "name": "Kendra Horn",
+      "description": "Proud 5th Gen. Oklahoman, former Congresswoman, candidate for US Senate, Girl Scout, living the Oklahoma Standard, ? my family \u0026 dog, Ellie.",
+      "id": "1083019402046513152",
+      "username": "VoteKendraOK"
+    },
+    {
+      "name": "Parsippany-Troy Hills",
+      "description": "Official Twitter account for the Township of Parsippany-Troy Hills.",
+      "id": "473996336",
+      "username": "ParTroyHills"
+    },
+    {
+      "name": "Morris Patch",
+      "description": "Morris Patch is Morris Plains and Morris Township\u0027s hyperlocal news source.",
+      "id": "203175916",
+      "username": "MorrisPatch"
+    },
+    {
+      "name": "morristowngreen",
+      "description": "Where Greater Morristown gathers",
+      "id": "15308272",
+      "username": "morristowngreen"
+    },
+    {
+      "name": "Morristown Patch",
+      "description": "Morristown Patch is your source for local news and community conversation.",
+      "id": "158144077",
+      "username": "MorristownPatch"
+    },
+    {
+      "name": "ROI-NJ",
+      "description": "New Jersey business media company and the source for news and connections impacting the state.",
+      "id": "902989876227911680",
+      "username": "ROINJNews"
+    },
+    {
+      "name": "Charles Stile",
+      "description": "Columnist, The Record of Bergen County, NJ",
+      "id": "19615832",
+      "username": "PoliticalStile"
+    },
+    {
+      "name": "Michael Aron",
+      "description": "Chief Political Correspondent of public television\u0027s NJSpotlightnews program",
+      "id": "341811281",
+      "username": "MichaelAronNJ"
+    },
+    {
+      "name": "Herb Jackson",
+      "description": "Politics editor/@RollCall \u0026 @CQNow | @PressClubDC board |Alum of @NorthJersey, @AsburyParkPress, @AP, @daily_targum\nRetweets not endorsements",
+      "id": "15824967",
+      "username": "HerbNJDC"
+    },
+    {
+      "name": "tom moran",
+      "description": "Editorial page editor/columnist for @StarLedger in Newark, drenched in Jersey politics for a century, roughly.",
+      "id": "196370955",
+      "username": "tomamoran"
+    },
+    {
+      "name": "Rep. Tom Malinowski",
+      "description": "The official Twitter account of the office of Congressman Tom Malinowski (D-NJ). Tweets come from press office unless signed “-TM”.",
+      "id": "1080898026418384897",
+      "username": "RepMalinowski"
+    },
+    {
+      "name": "Montclair TAP",
+      "description": "TAPinto Montclair is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/b4KPx1v6Pt",
+      "id": "2559640992",
+      "username": "MontclairTAP"
+    },
+    {
+      "name": "Michael Venezia",
+      "description": "Mayor of Bloomfield, love politics, social media sports, Miami Dolphins, NY Mets",
+      "id": "19430261",
+      "username": "michaelvenezia"
+    },
+    {
+      "name": "07003schools",
+      "description": "#bloomfieldbengalpride #bloomfieldbengalslife",
+      "id": "1148289704",
+      "username": "07003schools"
+    },
+    {
+      "name": "TAPintoNutley",
+      "description": "TAPinto Nutley is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/YpUmnDU9hr",
+      "id": "765254321114144769",
+      "username": "TAPintoNutley"
+    },
+    {
+      "name": "TAPinto Bloomfield",
+      "description": "TAPinto Bloomfield is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/5wbmjD982G",
+      "id": "761227377594789889",
+      "username": "BloomfieldTAP"
+    },
+    {
+      "name": "West Orange TAP",
+      "description": "TAPinto West Orange is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/tiEEBPY0gS",
+      "id": "1322717418",
+      "username": "WestOrangeTAP"
+    },
+    {
+      "name": "Livingston TAP",
+      "description": "TAPinto Livingston is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/grbJHDdgfL",
+      "id": "1299489606",
+      "username": "LivingstonTAP"
+    },
+    {
+      "name": "The Caldwells Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Caldwells.",
+      "id": "95129891",
+      "username": "caldwellspatch"
+    },
+    {
+      "name": "WestEssexHS",
+      "description": "",
+      "id": "2873774003",
+      "username": "WestEssexHS"
+    },
+    {
+      "name": "The Progress",
+      "description": "Your source for news about Roseland, Essex Fells, Fairfield and the Caldwells. https://t.co/XGOKPX0NVP, kshwiff@newjerseyhills.com",
+      "id": "180578566",
+      "username": "TheProgressNJ"
+    },
+    {
+      "name": "TAP into West Essex",
+      "description": "TAPinto West Essex is an objective, online local news site and digital marketing platform.  Get your local news in your inbox for free:  https://t.co/4JWwwCg3GR",
+      "id": "2541890772",
+      "username": "TAPWestEssex"
+    },
+    {
+      "name": "County of Sussex",
+      "description": "Official News from Sussex County Government, NJ.  This site is not monitored 24/7.  In an emergency please call 911.",
+      "id": "41618439",
+      "username": "sussexnj"
+    },
+    {
+      "name": "New Jersey Herald",
+      "description": "The New Jersey Herald, a daily newspaper in Newton NJ, covers Sussex County and surrounding areas.",
+      "id": "102751218",
+      "username": "NJHerald"
+    },
+    {
+      "name": "Montclair, NJ",
+      "description": "Township of Montclair, New Jersey\nSocial Media Policy: https://t.co/pVPf93RFR9",
+      "id": "384350981",
+      "username": "MontclairNJGov"
+    },
+    {
+      "name": "The Montclair Times",
+      "description": "Covering Montclair News. Best Large Weekly. Part of @NorthJersey. Got a news tip? Email porterm@northjersey.com",
+      "id": "349228273",
+      "username": "MontclairTimes"
+    },
+    {
+      "name": "baristanet",
+      "description": "Your Local Online Community Since 2004 - Serving Montclair, Bloomfield, Glen Ridge...and Essex County.",
+      "id": "14768046",
+      "username": "baristanet"
+    },
+    {
+      "name": "Montclair Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Montclair.",
+      "id": "158041689",
+      "username": "MontclairPatch"
+    },
+    {
+      "name": "The Record",
+      "description": "North Jersey\u0027s trusted source for news, sports and entertainment. Become a subscriber today: http://t.co/BUWpV8HxwD.",
+      "id": "38735700",
+      "username": "TheRecordNJ"
+    },
+    {
+      "name": "Daily Record",
+      "description": "The Daily Record, part of the @USAToday Network, is your primary source for Morris County news. For local sports news, follow @dailyrecordspts.",
+      "id": "19609379",
+      "username": "dailyrecord"
+    },
+    {
+      "name": "The Star-Ledger",
+      "description": "Real-time news from The Star-Ledger, New Jersey\u0027s largest daily newspaper.",
+      "id": "11877492",
+      "username": "starledger"
+    },
+    {
+      "name": "NJ Spotlight News",
+      "description": "News division of @MyNJPBS. Issue-driven reporting \u0026 events for/about NJ. Online all day \u0026 on air weeknight newscast at 6, 7:30 \u0026 11pm. RTs? endorsements.",
+      "id": "35778956",
+      "username": "NJSpotlightNews"
+    },
+    {
+      "name": "News12NJ",
+      "description": "24/7 Hyper-local breaking news, weather, traffic and more. Download our app or go to https://t.co/aRWPXCMDXI for updates. For news tips, call (732) 346-3270. #NewJersey",
+      "id": "18917882",
+      "username": "News12NJ"
+    },
+    {
+      "name": "NorthJersey.com",
+      "description": "The Record and https://t.co/4QSEPbCXpZ, part of the @USAToday Network. Celebrating 125 years as \"Friend of the People It Serves.\"",
+      "id": "34677788",
+      "username": "northjersey"
+    },
+    {
+      "name": "MyVeronaNJ",
+      "description": "The most comprehensive coverage of Verona, for folks who live here, folks who want to and folks far away who still think of it as home.",
+      "id": "94795769",
+      "username": "myveronanj"
+    },
+    {
+      "name": "Dr. Rui Dionisio",
+      "description": "Father to 3 beautiful children, devoted husband, friend, dream maker \u0026 Ramapo Indian Hills Superintendent of Schools, Tweets my own ??",
+      "id": "2654177700",
+      "username": "RIHSuper"
+    },
+    {
+      "name": "???? ???????",
+      "description": "??????, ???????, \u0026 ????????? ?? ?????? ???? ??????",
+      "id": "3341266451",
+      "username": "PrincipalVerona"
+    },
+    {
+      "name": "Science Committee",
+      "description": "News from the U.S. House of Representatives Committee on Science, Space, and Technology - May not represent the views of Members of the Committee",
+      "id": "22053641",
+      "username": "HouseScience"
+    },
+    {
+      "name": "Congressman Donald Norcross ????",
+      "description": "Honored to serve NJ-01\nElectrician • Husband, Dad, Granddad\nCo-chair: @Labor_Caucus\nMember: @EdLaborCmte, @HASCDemocrats TAL Chair, @HouseScience",
+      "id": "3122099613",
+      "username": "DonaldNorcross"
+    },
+    {
+      "name": "Mikie Sherrill",
+      "description": "Former Navy Pilot. Former federal prosecutor. Mom of four. Congresswoman for #NJ11",
+      "id": "1577754348",
+      "username": "MikieSherrill"
+    },
+    {
+      "name": "Rep. Dean Phillips ??",
+      "description": "“Normally affable” - @NYTimes. Radical pragmatist, common sense enthusiast, and bipartisan believer. Devoted to the rule of law, freedom, civility, and America.",
+      "id": "1061310112013434882",
+      "username": "RepDeanPhillips"
+    },
+    {
+      "name": "Congressman Antonio Delgado",
+      "description": "Proud to represent the people of New York\u0027s 19th Congressional District.",
+      "id": "1080485692298444800",
+      "username": "repdelgado"
+    },
+    {
+      "name": "Fox5NY",
+      "description": "We cover breaking news in #NYC Comments \u0026 photos shared here or using #Fox5NY could be used on any FOX platforms.",
+      "id": "9229672",
+      "username": "fox5ny"
+    },
+    {
+      "name": "House Armed Services Democrats",
+      "description": "Oversight and funding of the @DeptofDefense, the U.S. Armed Forces, and portions of the Department of @ENERGY. Chairman: @RepAdamSmith.",
+      "id": "74294786",
+      "username": "HASCDemocrats"
+    },
+    {
+      "name": "Matt Friedman",
+      "description": "Author of NJ Playbook. Tallest member of POLITICO\u0027s Trenton bureau.  https://t.co/GCjZ4y3pHT",
+      "id": "242939330",
+      "username": "MattFriedmanNJ"
+    },
+    {
+      "name": "Insider NJ",
+      "description": "To be an Insider, you have to read like an Insider.",
+      "id": "839112528881979393",
+      "username": "INSIDER__NJ"
+    },
+    {
+      "name": "njdotcom",
+      "description": "N.J.\u0027s #1 news website. #TrueJersey\n? Support our journalism: https://t.co/Ld0bRNUxss\n?? Submit news tips: https://t.co/uw1FGG3u5M\n? NJ Cannabis Insider: https://t.co/t6YKDdgge0",
+      "id": "14179819",
+      "username": "njdotcom"
+    },
+    {
+      "name": "Parsippany Police Department",
+      "description": "The Official Twitter Site of the Parsippany-Troy Hills Police Department",
+      "id": "36722548",
+      "username": "ParPolice"
+    },
+    {
+      "name": "Parsippany Focus",
+      "description": "All Local, All Parsippany",
+      "id": "240497813",
+      "username": "parsippanyfocus"
+    },
+    {
+      "name": "WNYC ?",
+      "description": "Independent news, culture and courageous conversation. \n? 93.9 FM | AM 820 | https://t.co/CSGinZNmkE\n@BrianLehrer, @AllOfItWNYC, @TheTakeaway, @Radiolab, @OnTheMedia \u0026 more",
+      "id": "6576492",
+      "username": "WNYC"
+    },
+    {
+      "name": "Rep Jose E. Serrano",
+      "description": "Former member of congress from The Bronx, NY 1990-2020. Member of NYS Assembly 1975-1990. Proud Dad \u0026 Grandpa.",
+      "id": "33563161",
+      "username": "RepJoseSerrano"
+    },
+    {
+      "name": "Rep. Nydia Velazquez",
+      "description": "Represents New York\u0027s 7th Congressional District in the U.S. House of Representatives. Chair of House Small Business Committee. \n\nFollow us @HouseSmallBiz.",
+      "id": "164369297",
+      "username": "NydiaVelazquez"
+    },
+    {
+      "name": "Congressman Donald M. Payne, Jr.",
+      "description": "The NRA gave me an F because I want to end gun violence. Father of triplets. Son of Newark. Proudly serving New Jersey\u0027s 10th Congressional District.",
+      "id": "1155335864",
+      "username": "RepDonaldPayne"
+    },
+    {
+      "name": "Albio Sires",
+      "description": "U.S. Representative for New Jersey\u0027s 8th Congressional District. \nFor help with unemployment or other inquiries email NJ8inquiries@mail.house.gov",
+      "id": "18696134",
+      "username": "RepSires"
+    },
+    {
+      "name": "Bill Pascrell, Jr. ????",
+      "description": "?? New Jersey’s Congressman, representing the Ninth District???? Chairman, Ways \u0026 Means Oversight Subcommittee",
+      "id": "74508260",
+      "username": "BillPascrell"
+    },
+    {
+      "name": "Carolyn B. Maloney",
+      "description": "Chair of @OversightDems. Progressive fmr teacher fighting for #Manhattan, #Brooklyn \u0026 #Queens (#NY12). Proud to wear FDNY coat to #renew911VCF! DMs open She/Her",
+      "id": "258900199",
+      "username": "RepMaloney"
+    },
+    {
+      "name": "Adriano Espaillat",
+      "description": "Former undocumented immigrant turned progressive Congressman. Proudly fighting #ForThePeople of NY-13. ??",
+      "id": "817076257770835968",
+      "username": "RepEspaillat"
+    },
+    {
+      "name": "Rep. Elaine Luria",
+      "description": "Navy Veteran, former small business owner, and mom. Proud to serve the people of Virginia’s 2nd Congressional District!",
+      "id": "1080292515939565568",
+      "username": "RepElaineLuria"
+    },
+    {
+      "name": "Congresswoman Mary Gay Scanlon",
+      "description": "Representing Pennsylvania\u0027s 5th Congressional District. Vice Chair of @HouseAdm_Dems. Member of @HouseJudiciary @RulesDemocrats.",
+      "id": "1067541214671577093",
+      "username": "RepMGS"
+    },
+    {
+      "name": "Rep. Chris Pappas",
+      "description": "Member of Congress serving New Hampshire\u0027s 1st District | Life-long Manchester Resident, former Executive Councilor for District 4 | #NH01",
+      "id": "1067748650485497862",
+      "username": "RepChrisPappas"
+    },
+    {
+      "name": "Rep. David Trone",
+      "description": "Representing MD-06. Fighting the opioid \u0026 mental health crises. Member of @AppropsDems, @VetAffairsDems, @JECDems. Husband, Father, Grandfather, Business Owner.",
+      "id": "1080573351914061825",
+      "username": "RepDavidTrone"
+    },
+    {
+      "name": "Rep. Joe Neguse",
+      "description": "Dad. Husband. Attorney. Proudly serving Colorado’s 2nd Congressional District. Chair of @NRDems Public Lands Subcommittee \u0026 Co-Chair of @HouseDPCC.",
+      "id": "1078749802765139968",
+      "username": "RepJoeNeguse"
+    },
+    {
+      "name": "Rep. Katie Hill",
+      "description": "Congresswoman serving the Antelope, Simi \u0026 Santa Clarita Valleys in #CA25. But call me Katie. Let’s get to work.",
+      "id": "1068273911224094721",
+      "username": "RepKatieHill"
+    },
+    {
+      "name": "Rep. Jason Crow",
+      "description": "Dad. Little League Baseball Coach. Army Ranger. Westerner \u0026 Whiskey Enthusiast. Congressman Serving CO-06. ?",
+      "id": "1080191866509901826",
+      "username": "RepJasonCrow"
+    },
+    {
+      "name": "Rep. Jennifer Wexton",
+      "description": "Mom to two boys \u0026 two rescue labs. Former state Senator, prosecutor, and advocate for abused children. Congresswoman serving the people of #VA10.",
+      "id": "1017819745880543238",
+      "username": "RepWexton"
+    },
+    {
+      "name": "Rep. Elissa Slotkin",
+      "description": "Congresswoman for Michigan\u0027s 8th Congressional District. Proud Michigander. Former Acting Assistant Secretary of Defense, CIA analyst.",
+      "id": "1078401427347857408",
+      "username": "RepSlotkin"
+    },
+    {
+      "name": "Rep. Colin Allred",
+      "description": "Official Twitter of Rep. Colin Allred #TX32. Civil rights attorney. Former Obama HUD and NFL player. Member of @transportDems, @houseforeign \u0026 @vetaffairsdems.",
+      "id": "1078355119920562176",
+      "username": "RepColinAllred"
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "description": "Air Force veteran, engineer, entrepreneur, educator and the first woman ever to represent Pennsylvania\u0027s 6th District in Congress.",
+      "id": "1052896620797460481",
+      "username": "RepHoulahan"
+    },
+    {
+      "name": "Archived: Rep. Max Rose",
+      "description": "This account has been archived. Max Rose proudly served Staten Island \u0026 South Brooklyn as the Representative from New York’s 11th District in the 116th Congress",
+      "id": "1078692057940742144",
+      "username": "RepMaxRose"
+    },
+    {
+      "name": "Rep. Abigail Spanberger",
+      "description": "Proudly serving Virginia’s 7th District in the U.S. House of Representatives. Former CIA officer. Former federal law enforcement officer. Mom of 3.",
+      "id": "1078771401497161728",
+      "username": "RepSpanberger"
+    },
+    {
+      "name": "New Democrat Coalition (NDC)",
+      "description": "The NDC is made up of 98 forward-thinking Dems who are committed to pro-economic growth, pro-innovation \u0026 fiscally responsible policies. Chaired by @RepDelBene.",
+      "id": "761783018",
+      "username": "NewDemCoalition"
+    },
+    {
+      "name": "NJ TRANSIT",
+      "description": "NJ’s statewide transit provider. Monitored 6AM-10PM M-F, 10AM-6PM Sat/Sun. Equal employment opportunity employer. https://t.co/uIxc8i15or…",
+      "id": "18136692",
+      "username": "NJTRANSIT"
+    },
+    {
+      "name": "Committee on Transportation and Infrastructure",
+      "description": "Chair @RepPeterDeFazio | House Committee on Transportation and Infrastructure",
+      "id": "21684013",
+      "username": "TransportDems"
+    },
+    {
+      "name": "Energy and Commerce Committee",
+      "description": "Official Twitter of the House Committee on Energy and Commerce. Chaired by @FrankPallone.",
+      "id": "30929600",
+      "username": "EnergyCommerce"
+    },
+    {
+      "name": "Blue Dog Coalition",
+      "description": "Official Twitter Page for the Democratic Blue Dog Coalition, an official caucus in the U.S. House of Representatives.",
+      "id": "224685124",
+      "username": "HouseBlueDogs"
+    },
+    {
+      "name": "Rep. Cheri Bustos",
+      "description": "Serving Illinois’ 17th District. Former reporter working in Congress #ForThePeople. Athlete, wife and mother of three sons. Facebook \u0026 Instagram: RepCheri.",
+      "id": "1092979962",
+      "username": "RepCheri"
+    },
+    {
+      "name": "Rep. Peter DeFazio",
+      "description": "Representing the 4th Congressional District in Oregon | Chair of @TransportDems",
+      "id": "252249233",
+      "username": "RepPeterDeFazio"
+    },
+    {
+      "name": "Rep. Bonnie Watson Coleman",
+      "description": "Proudly serving the people of New Jersey’s 12th Congressional District. Proud #BlackWoman. @USProgressives vice-chair. Co-Chair of @CBWGCaucus. She/her.",
+      "id": "2968451607",
+      "username": "RepBonnie"
+    },
+    {
+      "name": "Rep. Frank Pallone",
+      "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D) of New Jersey\u0027s 6th district, Chairman of @EnergyCommerce Committee.",
+      "id": "31801993",
+      "username": "FrankPallone"
+    },
+    {
+      "name": "The Office of Congressman Andy Kim",
+      "description": "Husband to my college sweetheart. Father to two troublemaking baby boys. Congressman for New Jersey\u0027s Third District. All tweets from Congressman Kim signed –AK",
+      "id": "1078771848882593793",
+      "username": "RepAndyKimNJ"
+    },
+    {
+      "name": "Rep Josh Gottheimer",
+      "description": "Honored to serve NJ-5 | Co-Chair @ProbSolveCaucus | Financial Services \u0026 Homeland Security Committees | Working across the aisle for lower taxes \u0026 Jersey Values",
+      "id": "815310506596691968",
+      "username": "RepJoshG"
+    },
+    {
+      "name": "Library of Congress",
+      "description": "World’s largest library. Explore collections, services \u0026 plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+      "id": "7152572",
+      "username": "librarycongress"
+    },
+    {
+      "name": "Carla Hayden",
+      "description": "Official twitter account of the 14th Librarian of Congress. Let\u0027s explore @LibraryCongress and #makehistory together.",
+      "id": "774337933893636096",
+      "username": "LibnOfCongress"
+    },
+    {
+      "name": "Congressdotgov",
+      "description": "Tweets by @LawLibCongress about https://t.co/QsBNw4qeRK, the U.S. legislative information system. https://t.co/QsBNw4qeRK replaced THOMAS.",
+      "id": "288308178",
+      "username": "congressdotgov"
+    }
+  ],
+  "id": "1080569698536878081",
+  "username": "RepSherrill"
+}

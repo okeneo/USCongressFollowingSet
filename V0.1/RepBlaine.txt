@@ -1,0 +1,2052 @@
+{
+  "following": [
+    {
+      "name": "Sylvan Lane",
+      "description": "Covering finance and the economy for @TheHill. Former @DallasNews, @BostonGlobe. Forever @Mets. Usually craving a sandwich. He/him.",
+      "id": "162225194",
+      "username": "SylvanLane"
+    },
+    {
+      "name": "Olivia Beavers",
+      "description": "@Politico Congress reporter. Uva Wahoo. Paid to pry. Almost funny sources say...Tips? Leak it to Beavers: obeavers@politico(dot)com. RTs?endorsements",
+      "id": "3565248672",
+      "username": "Olivia_Beavers"
+    },
+    {
+      "name": "The U.S. Capitol Police",
+      "description": "Defending Congress, the U.S. Capitol, and democracy since 1828.",
+      "id": "16503916",
+      "username": "CapitolPolice"
+    },
+    {
+      "name": "Brendan Pedersen",
+      "description": "I write about money and Congress for @PunchbowlNews. chicago has my heart. prev: @AmerBanker, @DePaulJOUR. he/him. #finreg",
+      "id": "307451855",
+      "username": "BrendanPedersen"
+    },
+    {
+      "name": "Consumer Bankers Association",
+      "description": "The Consumer Bankers Association (CBA) is the only member-driven trade association focused exclusively on #RetailBanking.",
+      "id": "60954073",
+      "username": "ConsumerBankers"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "The world’s largest business organization. We advocate, connect, inform, and fight for business growth and America’s success.",
+      "id": "85606078",
+      "username": "USChamber"
+    },
+    {
+      "name": "Ken Sweet",
+      "description": "I cover the nation\u0027s big banks, financial discrimination and the Consumer Financial Protection Bureau for the @AP. My DMs are open. Email is ksweet@ap.org.",
+      "id": "17010390",
+      "username": "kensweet"
+    },
+    {
+      "name": "Bill Melugin",
+      "description": "National correspondent for @foxnews based in L.A. 4x EMMY winner, 3x Edward R. Murrow winner, 4x RTNA Golden Mike winner. @Cronkite_ASU grad \u0026 SoCal native.",
+      "id": "1071585991",
+      "username": "BillFOXLA"
+    },
+    {
+      "name": "Clean Fuels Alliance America",
+      "description": "This is the spot for accurate biodiesel, renewable diesel and sustainable aviation fuel news \u0026 information. Content is provided by Clean Fuels Alliance America.",
+      "id": "25097470",
+      "username": "CleanFuelsAA"
+    },
+    {
+      "name": "Pete Schroeder",
+      "description": "@Reuters correspondent, Notre Dame alum. Spelled like the Peanuts character, pronounced like Hank from \"Breaking Bad.\" pete.schroeder@thomsonreuters.com",
+      "id": "14659350",
+      "username": "peteschroeder"
+    },
+    {
+      "name": "Missouri Dept. of Ag",
+      "description": "Promoting and protecting Missouri\u0027s number one industry: agriculture. | #doMORE | #beMORE | Join us at https://t.co/ggxIICdwlT",
+      "id": "44930735",
+      "username": "MoAgriculture"
+    },
+    {
+      "name": "State of Missouri",
+      "description": "Get the latest news and information from the State of Missouri",
+      "id": "60323026",
+      "username": "MoGov"
+    },
+    {
+      "name": "consumerfinance.gov",
+      "description": "The Consumer Financial Protection Bureau. Making markets for consumer financial products and services work for Americans.",
+      "id": "234826866",
+      "username": "CFPB"
+    },
+    {
+      "name": "Missouri DNR",
+      "description": "Missouri Department of Natural Resources protects air, land and water; preserves unique places and provides recreational opportunities for all.",
+      "id": "245874349",
+      "username": "MoDNR"
+    },
+    {
+      "name": "Mike Emanuel ??",
+      "description": "New Jersey guy - from Westfield, Exit 135; Greek Orthodox Christian and loyal Rutgers alum; honorary Texan after my years there. Fox News since July 1997.",
+      "id": "129879105",
+      "username": "MikeEmanuelFox"
+    },
+    {
+      "name": "Kelly Laco",
+      "description": "Politics editor @FoxNews Digital.",
+      "id": "1296035989",
+      "username": "kelly_laco"
+    },
+    {
+      "name": "Doug Andres",
+      "description": "Press Secretary for @LeaderMcConnell",
+      "id": "62407876",
+      "username": "DougAndres"
+    },
+    {
+      "name": "Bryan Steil",
+      "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin’s 1st Congressional District. #WI01",
+      "id": "1075205691621720064",
+      "username": "RepBryanSteil"
+    },
+    {
+      "name": "Ashley Hinson",
+      "description": "Proud mom and wife. Representing IA-01 in Congress and bringing a dose of Iowa common sense to Washington.\n\nFB: https://t.co/ovQqAUsFrY",
+      "id": "1340783304304410625",
+      "username": "RepAshleyHinson"
+    },
+    {
+      "name": "Congressman Cliff Bentz",
+      "description": "Proudly serving Oregon\u0027s 2nd Congressional District #OR02",
+      "id": "1345788865911656454",
+      "username": "RepBentz"
+    },
+    {
+      "name": "Rep. Michelle Steel",
+      "description": "Korean-American wife, mother \u0026 tax fighter serving #CA48 in Congress. @TransportGOP \u0026 @EdLaborGOP. Living the American dream. ??",
+      "id": "1343740146630451200",
+      "username": "RepSteel"
+    },
+    {
+      "name": "Missouri SBDC",
+      "description": "The Missouri SBDC (Small Business Development Centers) helps entrepreneurs to confidently make decisions to start, grow, and sell their businesses.",
+      "id": "19036158",
+      "username": "MissouriSBDC"
+    },
+    {
+      "name": "Kaitlyn Schallhorn",
+      "description": "politics + city editor @ocregister/@SoCalNewsGroup | Taco Bell aficionado | Go Blue | kschallhorn@scng.com",
+      "id": "24972610",
+      "username": "K_Schallhorn"
+    },
+    {
+      "name": "Seung Min Kim",
+      "description": "White House reporter for @AP, covering Biden + the Hill. @CNN analyst, proud @washingtonpost @politico alum. Profile pic by @frankthorp Email: smkim@ap.org",
+      "id": "19186003",
+      "username": "seungminkim"
+    },
+    {
+      "name": "Melanie Zanona",
+      "description": "Capitol Hill reporter for @CNN. Alum of @politico @thehill \u0026 @cqrollcall. Chi till I die. My party trick is identifying lawmakers by the back of their heads.",
+      "id": "45265448",
+      "username": "MZanona"
+    },
+    {
+      "name": "Charles V Payne",
+      "description": "Trying to make sense of this world while becoming the man my mother raised- I give a damn, love my family and country...and making people $$$$",
+      "id": "19400611",
+      "username": "cvpayne"
+    },
+    {
+      "name": "Congressman Dan Meuser",
+      "description": "Proudly serving the hardworking taxpayers of Pennsylvania\u0027s 9th Congressional District.",
+      "id": "1080574793630527505",
+      "username": "RepMeuser"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Brian Cheung",
+      "description": "business and data reporter @nbcnews. ? ??: banking, economics, sneakers. via @yahoofinance @spgmarketintel @federalreserve. say hi: brian.cheung@nbcuni.com",
+      "id": "366744934",
+      "username": "bcheungz"
+    },
+    {
+      "name": "Senate Banking GOP",
+      "description": "Senate Banking Committee Republicans. Ranking Member @SenToomey.",
+      "id": "1242040290",
+      "username": "BankingGOP"
+    },
+    {
+      "name": "Senate Finance Committee",
+      "description": "News and information from the press office of Senate Finance Committee Ranking Member @MikeCrapo of Idaho",
+      "id": "701821488",
+      "username": "SenFinance"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "Senator McConnell Press",
+      "description": "The #Kentucky press office for U.S. Senate Republican Leader Mitch McConnell @LeaderMcConnell. For more information please visit his website:",
+      "id": "339822881",
+      "username": "McConnellPress"
+    },
+    {
+      "name": "Steven Dennis",
+      "description": "I ask senators questions in hallways for @Bloomberg. #FridayNightZillow for fun. Opinions mine. RTs ?. @Steventdennis@journa.host sdennis17@bloomberg.net",
+      "id": "46557945",
+      "username": "StevenTDennis"
+    },
+    {
+      "name": "Hugh Hewitt",
+      "description": "Syndicated Radio Host 6-9 AM EST on Salem Media  and network affiliates nationwide. Washington Post contributing columnist. Browns/Tribe/Cavs/Buckeyes",
+      "id": "15075999",
+      "username": "hughhewitt"
+    },
+    {
+      "name": "Job Creators Network",
+      "description": "JCN believes the best defense against bad government policy is a well-educated public. We are the voice of Main Street.",
+      "id": "815270461",
+      "username": "JobCreatorsUSA"
+    },
+    {
+      "name": "CUNA",
+      "description": "The Credit Union National Association is the most influential financial services trade association in America advocating on behalf of America\u0027s Credit Unions.",
+      "id": "82677928",
+      "username": "CUNA"
+    },
+    {
+      "name": "Rep. Burgess Owens",
+      "description": "Proudly serving Utah\u0027s 4th Congressional District. Member of @EdLaborGOP \u0026 @JudiciaryGOP.",
+      "id": "1344481217685692416",
+      "username": "RepBurgessOwens"
+    },
+    {
+      "name": "Congresswoman Beth Van Duyne",
+      "description": "Single mother. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",
+      "id": "1339633259349745670",
+      "username": "RepBethVanDuyne"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Ali (Pardo) Black",
+      "description": "Communications Director for @HouseGOP. Team @EliseStefanik. #FloridaMan. Amateur Mom \u0026 Northerner. Professional Dog Lover. @GW_Softball Alum.",
+      "id": "25339271",
+      "username": "aliblack"
+    },
+    {
+      "name": "Senator Roy Blunt",
+      "description": "Official account of U.S. Senator Roy Blunt. Honored to represent the great state of Missouri. Serves as @SenateRPC Chairman.",
+      "id": "21269970",
+      "username": "RoyBlunt"
+    },
+    {
+      "name": "Burgess Everett",
+      "description": "POLITICO congressional bureau chief. Photo by @frankthorp",
+      "id": "407013776",
+      "username": "burgessev"
+    },
+    {
+      "name": "Missouri Department of Health \u0026 Senior Services",
+      "description": "Working to improve health and quality of life for all Missourians.",
+      "id": "76761964",
+      "username": "HealthyLivingMo"
+    },
+    {
+      "name": "Rep. María Elvira Salazar",
+      "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP \u0026 @HSBCgop | #FL27?????",
+      "id": "1325928411689349120",
+      "username": "RepMariaSalazar"
+    },
+    {
+      "name": "Congressman Jim Hagedorn",
+      "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the First District of Minnesota.",
+      "id": "1083474782602125318",
+      "username": "RepHagedorn"
+    },
+    {
+      "name": "Richard Hudson",
+      "description": "Proudly representing North Carolina in the U.S. House ?? | @HouseGOP Conference Secretary \u0026 Member of @HouseCommerce",
+      "id": "935033864",
+      "username": "RepRichHudson"
+    },
+    {
+      "name": "Igor Bobic",
+      "description": "Senior politics reporter at HuffPost. California raised, Bosnia born. Former Chargers fan. igor.bobic@huffpost.com",
+      "id": "250492272",
+      "username": "igorbobic"
+    },
+    {
+      "name": "MSHSAA",
+      "description": "The official page for the Missouri State High School Activities Association! For more information about MSHSAA, visit us at https://t.co/f0c4gboXb6.",
+      "id": "39596548",
+      "username": "MSHSAAOrg"
+    },
+    {
+      "name": "Rep. Carlos A. Gimenez",
+      "description": "U.S. Congressman | Firefighter and former Mayor of Miami-Dade County | Member of @TransportGOP, @HomelandGOP \u0026 @HouseScienceGOP ?? #FL26",
+      "id": "1343679195034103808",
+      "username": "RepCarlos"
+    },
+    {
+      "name": "Congresswoman Kat Cammack",
+      "description": "Member of @HouseAgGOP, @HomelandGOP, @EconomyGOP | Youngest GOP woman in 117th Congress | Proudly representing #FL03 in the U.S. House ??",
+      "id": "1344325638983987201",
+      "username": "RepKatCammack"
+    },
+    {
+      "name": "Catherine Costakos",
+      "description": "Currently @EdelmanPR @EdelSmithfield | Formerly @RepBlaine @FinancialCmte | Rhode Islander at heart",
+      "id": "709760904884310016",
+      "username": "cmcostakos"
+    },
+    {
+      "name": "Rep. Claudia Tenney",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP \u0026 @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit https://t.co/dwIltL8lOk.",
+      "id": "797201048490430465",
+      "username": "RepTenney"
+    },
+    {
+      "name": "Young Kim",
+      "description": "Wife, mother, immigrant, small business owner, former CA Assemblywoman. Proud to represent #CA39 \u0026 serve on @HouseForeignGOP, @HSBCGOP \u0026 @HouseScienceGOP ??",
+      "id": "1344677401465397249",
+      "username": "RepYoungKim"
+    },
+    {
+      "name": "Rep. Jodey Arrington",
+      "description": "Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. @WaysandMeansGOP \u0026 @JECRepublicans.",
+      "id": "816284664658874368",
+      "username": "RepArrington"
+    },
+    {
+      "name": "Rep. Kevin Brady",
+      "description": "Dad. Husband. Top Republican @WaysandMeansGOP. Loves: Baseball, Texas, and Tax Reform.",
+      "id": "19926675",
+      "username": "RepKevinBrady"
+    },
+    {
+      "name": "Congressman Ted Budd",
+      "description": "Proudly serving the 13th district of North Carolina. Instagram: reptedbudd",
+      "id": "817138492614524928",
+      "username": "RepTedBudd"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "Rep. Mike Johnson",
+      "description": "Christian, husband, dad serving LA\u0027s 4th Congressional District since ‘17. Vice Chairman of House Republicans. Constitutional law attorney \u0026 small biz owner.",
+      "id": "827279765287559171",
+      "username": "RepMikeJohnson"
+    },
+    {
+      "name": "Punchbowl News",
+      "description": "Subscribe at https://t.co/7flNRPLqGA Power. People. Politics. #punchbowlnews",
+      "id": "1322868572113297410",
+      "username": "PunchbowlNews"
+    },
+    {
+      "name": "Rep Andy Biggs",
+      "description": "Representing Arizona\u0027s Fighting Fifth.",
+      "id": "816652616625168388",
+      "username": "RepAndyBiggsAZ"
+    },
+    {
+      "name": "Congressman William Timmons",
+      "description": "Congressman for Upstate SC. Member of @FinancialCmte and @ModernizeCmte. #SC04",
+      "id": "1079770852302958592",
+      "username": "RepTimmons"
+    },
+    {
+      "name": "Heather Caygle",
+      "description": "Managing Editor @punchbowlnews. Roll Tide ?",
+      "id": "78694788",
+      "username": "heatherscope"
+    },
+    {
+      "name": "Rep. Russ Fulcher",
+      "description": "The Official Account of Idaho\u0027s First District Congressman Russ Fulcher. #ID01",
+      "id": "1078741899572240384",
+      "username": "RepRussFulcher"
+    },
+    {
+      "name": "Tony Perkins",
+      "description": "President of @FRCdc. Host of Washington Watch. Former Chair @USCIRF. Married 36 years, grateful father of five. https://t.co/6P0qLi5Xjf | https://t.co/kXtUB0ybD6",
+      "id": "18958999",
+      "username": "tperkins"
+    },
+    {
+      "name": "Congressman Greg Murphy, M.D.",
+      "description": "Proudly representing North Carolina\u0027s Third District",
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy"
+    },
+    {
+      "name": "Rep. James Comer",
+      "description": "Republican Leader on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1",
+      "id": "1274852794206388225",
+      "username": "RepJamesComer"
+    },
+    {
+      "name": "Rep. Liz Cheney",
+      "description": "Official Page of Congresswoman Liz Cheney, proudly representing the people of Wyoming.",
+      "id": "816719802328715264",
+      "username": "RepLizCheney"
+    },
+    {
+      "name": "Rep. Scott Tipton",
+      "description": "Former representative of Colorado\u0027s 3rd Congressional District.",
+      "id": "242873057",
+      "username": "RepTipton"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Select Committee Republicans",
+      "description": "Select Subcommittee on the Coronavirus Crisis, Republicans | Est. 2020 | Ranking Member, @SteveScalise",
+      "id": "1261286876142604288",
+      "username": "SelectGOP"
+    },
+    {
+      "name": "Rep. Jim Jordan",
+      "description": "Proudly serving Ohio\u0027s beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "id": "18166778",
+      "username": "Jim_Jordan"
+    },
+    {
+      "name": "Rep. Mark Green",
+      "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee’s 7th District in Congress.",
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen"
+    },
+    {
+      "name": "Jackie Walorski",
+      "description": "Representing Indiana\u0027s 2nd Congressional District",
+      "id": "1065995022",
+      "username": "RepWalorski"
+    },
+    {
+      "name": "Missouri Bankers",
+      "description": "Serving Missouri banks since 1891.",
+      "id": "84688462",
+      "username": "mobankers"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "MU Health Care",
+      "description": "University of Missouri Health Care, the state’s premier academic health system, offers a spectrum of care, ranging from primary care to specialized treatments.",
+      "id": "45928911",
+      "username": "muhealth"
+    },
+    {
+      "name": "Michael Burgess, MD",
+      "description": "Congressman for Texas\u0027 26th District, M.D. (Ob/Gyn) in my former life",
+      "id": "15751083",
+      "username": "michaelcburgess"
+    },
+    {
+      "name": "Carl Quintanilla",
+      "description": "23 years @CNBC \u0026 @NBCNews / Peabody Award, Emmy, Murrow, duPont winner / @WSJ alum / “Optimism is not uncool; it is rebellious and daring and vital.\" - @realGDT",
+      "id": "114782468",
+      "username": "carlquintanilla"
+    },
+    {
+      "name": "Lt. Governor Mike Kehoe",
+      "description": "Official Account of the 48th Lieutenant Governor of the State of Missouri",
+      "id": "1010258457021337602",
+      "username": "LtGovMikeKehoe"
+    },
+    {
+      "name": "Governor Mike Parson",
+      "description": "Official account of the 57th Governor of the State of Missouri. #Missouri",
+      "id": "1003672320781807616",
+      "username": "GovParsonMO"
+    },
+    {
+      "name": "Phil Mattingly",
+      "description": "@CNN Chief White House Correspondent•Ohio raised•434•845•913•30•813•910•419•614•617•202•212•202. philip.mattingly@cnn.com/ philip.mattingly@protonmail.com",
+      "id": "104914594",
+      "username": "Phil_Mattingly"
+    },
+    {
+      "name": "Jake Sherman",
+      "description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+      "id": "21252618",
+      "username": "JakeSherman"
+    },
+    {
+      "name": "Jonathan Swan",
+      "description": "Reporter. jonathan@axios.com / jonathanvswan@protonmail.com / DM for Signal",
+      "id": "327862439",
+      "username": "jonathanvswan"
+    },
+    {
+      "name": "Congressman Fred Keller",
+      "description": "Taking the values of PA\u0027s 12th District to Congress. Member on @GOPoversight \u0026 @EdLaborGOP. Chair @BOPReformCaucus. Official House Twitter account. ??",
+      "id": "1136060761422405633",
+      "username": "RepFredKeller"
+    },
+    {
+      "name": "Former Members of Congress",
+      "description": "The official Twitter account for the U.S. Association of Former Members of Congress (FMC) and The Congressional Study Groups",
+      "id": "334127852",
+      "username": "usafmc"
+    },
+    {
+      "name": "HBCU Caucus",
+      "description": "Bipartisan, Bicameral Caucus advocating for Historically Black Colleges \u0026 Universities. Co-Chairs: @RepAdams, @RepFrenchHill, @SenatorTimScott, \u0026 @ChrisCoons.",
+      "id": "920382300638072833",
+      "username": "HBCUCaucus"
+    },
+    {
+      "name": "Kayla Tausche",
+      "description": "Senior White House correspondent and anchor, @CNBC. Wife, mama, Tar Heel, and former ATLien. DM for Signal/WhatsApp. Send secure tips: ktausche@protonmail.com",
+      "id": "30043148",
+      "username": "kaylatausche"
+    },
+    {
+      "name": "Bill Cassidy, M.D.",
+      "description": "Gastroenterologist currently serving the people of Louisiana in the U.S. Senate",
+      "id": "55677432",
+      "username": "BillCassidy"
+    },
+    {
+      "name": "Tim Farley",
+      "description": "Retired Host Morning Briefing POTUS (Sirius XM Radio - channel 124)",
+      "id": "16261445",
+      "username": "MorningBriefing"
+    },
+    {
+      "name": "Rep. Roger Williams",
+      "description": "Conservative fighting for lower taxes, less regulations and more freedom for Texans. Honored to serve TX-25. Member of @FinancialCmte and @HSBCgop",
+      "id": "1077446982",
+      "username": "RepRWilliams"
+    },
+    {
+      "name": "Carrie Tergin",
+      "description": "@CarriesHallmark Mayor of Jefferson City @MissouriState Bear! #MissouriState #MayorTergin #SelfiewiththeMayor #JeffCityMO #JCMO #CityofJefferson",
+      "id": "931237146",
+      "username": "CarrieTergin"
+    },
+    {
+      "name": "Ryan Tracy",
+      "description": "Reporter @WSJ covering tech policy. Tweeting what I\u0027m writing and reading.",
+      "id": "39564433",
+      "username": "ryanjtracy"
+    },
+    {
+      "name": "Andrew Ackerman",
+      "description": "How Washington oversees Wall Street for @wsj. andrew.ackerman@wsj.com. Signal/WhatsApp: +1-202-590-6178. DC via Atlanta \u0026 Orlando.",
+      "id": "9484732",
+      "username": "amacker"
+    },
+    {
+      "name": "Adient",
+      "description": "Adient is one of the world\u0027s largest, most comprehensive automotive seating and components suppliers.",
+      "id": "845236567",
+      "username": "Adient"
+    },
+    {
+      "name": "Sheriff Dave Marshak",
+      "description": "Tweets are my own \u0026 may be political. For the official Sheriff\u0027s Office page go to @JeffCoMoSheriff",
+      "id": "826789853593497600",
+      "username": "SheriffMarshak"
+    },
+    {
+      "name": "MPCA (MO Primary Care Association)",
+      "description": "Shaping policies and programs that improve access to high-quality, community-based, and affordable primary health services for all Missourians.",
+      "id": "831276065343434752",
+      "username": "MOPrimaryCare"
+    },
+    {
+      "name": "Chris Cillizza",
+      "description": "Lloyd Dobler wannabe. Pre-order my book here: https://t.co/WGdasbZ5ko\n\nInstagram: https://t.co/dmeG4zai8m | Pod: https://t.co/dOCgthcsN2 | Email: cillizzac@gmail.com",
+      "id": "14412533",
+      "username": "ChrisCillizza"
+    },
+    {
+      "name": "Sheena Chestnut Greitens",
+      "description": "China/Asia, dictatorship/democracy, \u0026 national security @UTAustin @TheLBJSchool @ClementsCenter @StraussCenter. Visiting Fellow @AEIfdp. RT?Endorse.",
+      "id": "4750866546",
+      "username": "SheenaGreitens"
+    },
+    {
+      "name": "Philip Joens",
+      "description": "@DMRegister Breaking News Reporter, FMR @columbiatribune, @NewsTribune Biz Reporter,@Pacbiztimes Tech reporter, Mizzou 2014, Writer, Poet, Umpire",
+      "id": "363502294",
+      "username": "Philip_Joens"
+    },
+    {
+      "name": "Rick W. Allen",
+      "description": "Proudly representing Georgia\u0027s 12th Congressional District",
+      "id": "2964287128",
+      "username": "RepRickAllen"
+    },
+    {
+      "name": "David Weigel",
+      "description": "Covering politics for @semafor. Formerly: @washingtonpost, @business, @slate. Email: daveweigel@gmail.com. Buy my book: https://t.co/6sWfZ4MNgH",
+      "id": "13524182",
+      "username": "daveweigel"
+    },
+    {
+      "name": "Archive: Rep. John Shimkus",
+      "description": "This account has been archived. Mr. Shimkus served as a Member of the U.S. House of Representatives from 1997-2021.",
+      "id": "15600527",
+      "username": "RepShimkus"
+    },
+    {
+      "name": "Komen Missouri",
+      "description": "Susan G. Komen® Missouri is dedicated to serving the breast health needs of all women, men \u0026 families in 38 Missouri and Illinois counties.",
+      "id": "130250603",
+      "username": "KomenMissouri"
+    },
+    {
+      "name": "The Missouri Times",
+      "description": "Missouri\u0027s leading political source.",
+      "id": "970574604",
+      "username": "MissouriTimes"
+    },
+    {
+      "name": "Kayleigh McEnany 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818927131883356161",
+      "username": "PressSec45"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Yuka Hayashi",
+      "description": "WSJ reporter covering trade and international economy. A Tokyo native in DC. Email me: yuka.hayashi@wsj.com",
+      "id": "113589987",
+      "username": "TokyoWoods"
+    },
+    {
+      "name": "Rob Tricchinelli",
+      "description": "Editor / team leader for litigation news at @blaw. Ex-@environment editor; finreg reporter. Crossword speed-solver. RPI, Maryland, Cornell.",
+      "id": "2250948913",
+      "username": "RobTricchinelli"
+    },
+    {
+      "name": "Marc Cox",
+      "description": "Political junkie. Recovering journalist. Talk radio host. Emanator of common sense. Views are my own, so get over it.",
+      "id": "3146471857",
+      "username": "MarcCox971"
+    },
+    {
+      "name": "Warren Davidson",
+      "description": "Former Army Ranger serving Ohio\u0027s 8th District in Congress. It\u0027s not compassionate to bankrupt America--financially or morally. Good governments defend freedom.",
+      "id": "742735530287304704",
+      "username": "WarrenDavidson"
+    },
+    {
+      "name": "Archive: Tom MacArthur",
+      "description": "Former Representative for New Jersey\u0027s Third Congressional District",
+      "id": "2962994194",
+      "username": "RepTomMacArthur"
+    },
+    {
+      "name": "Rep. Alex Mooney",
+      "description": "Husband, Father, Conservative Representing West Virginia\u0027s 2nd Congressional District. #wv02 #wvpol Member of @financialcmte",
+      "id": "2964526557",
+      "username": "RepAlexMooney"
+    },
+    {
+      "name": "Rep. Barry Loudermilk",
+      "description": "Representing Georgia\u0027s 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+      "id": "2914163523",
+      "username": "RepLoudermilk"
+    },
+    {
+      "name": "Dave Trott",
+      "description": "This is an archive account of former Representative for Michigan’s 11th Congressional District, Dave Trott.",
+      "id": "2869746172",
+      "username": "MIDaveTrott"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "Trey Hollingsworth",
+      "description": "Proudly serving my fellow Hoosiers of Indiana\u0027s 9th District. Member of the House Financial Services Committee.",
+      "id": "811986281177772032",
+      "username": "RepTrey"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "Alisa Nelson",
+      "description": "Missourinet news director writing about government, politics, education, the military, \u0026 criminal justice. Cuckoo over animals, a nice pantsuit \u0026 the Huskers.",
+      "id": "3045392113",
+      "username": "alisagbrnelson"
+    },
+    {
+      "name": "Chad Pergram",
+      "description": "Chad Pergram is the Senior Congressional Correspondent for Fox News. He\u0027s won an Edward R. Murrow Award \u0026 is a two-time recipient of the Joan Barone Award.",
+      "id": "16187637",
+      "username": "ChadPergram"
+    },
+    {
+      "name": "Brian Hauswirth",
+      "description": "News director at Columbia\u0027s KSSZ (FM 93.9 the Eagle) and part of \"Wake Up Mid-Missouri.\" 2022 is my 24th year as a Learfield college football scoreboard host.",
+      "id": "1194248568",
+      "username": "Brianontheair"
+    },
+    {
+      "name": "FOX Business",
+      "description": "The official Twitter page of FOX Business. Invested in You.",
+      "id": "56413858",
+      "username": "FoxBusiness"
+    },
+    {
+      "name": "Kyle McClellan",
+      "description": "Husband, Daddy, Outdoorsman, Team @druryoutdoors, @KMOXsports Radio, Born \u0026 Raised Stl, Founder \u0026 President of @Brace4impact46",
+      "id": "3214699953",
+      "username": "KyleMcClellan46"
+    },
+    {
+      "name": "KEI",
+      "description": "KEI is a resource for info on Korea and the US-ROK relationship | Blog: https://t.co/4CPaGHrF5F",
+      "id": "87532425",
+      "username": "KoreaEconInst"
+    },
+    {
+      "name": "The Hill Events",
+      "description": "Live journalism. @TheHill’s events are timely, exciting live experiences that tackle big-picture, of-the-moment issues with authority: https://t.co/Xky2wkogkw",
+      "id": "2730222072",
+      "username": "TheHillEvents"
+    },
+    {
+      "name": "Travis Fitzwater ??",
+      "description": "Jesus follower, #homeschool #girldad, #moleg State Senator-elect",
+      "id": "9486482",
+      "username": "travisfitzwater"
+    },
+    {
+      "name": "The Sparrow\u0027s Nest",
+      "description": "The Sparrow\u0027s Nest is a Christ centered maternity home for pregnant, parenting teens experiencing homelessness. We are a great beginning to a rough start.",
+      "id": "207825114",
+      "username": "TheSparrowNest"
+    },
+    {
+      "name": "Missouri National Guard",
+      "description": "The Missouri National Guard is comprised of 11,000-plus Citizen-Soldiers and Airmen who train to serve Missouri and the United States. #MoGuard #NationalGuard",
+      "id": "25332870",
+      "username": "Missouri_NG"
+    },
+    {
+      "name": "Nat\u0027l Assoc of EMTs",
+      "description": "The mission of the NAEMT is to represent and serve EMS practitioners  through advocacy, educational programs and research.",
+      "id": "481483697",
+      "username": "NAEMT_"
+    },
+    {
+      "name": "Will Hurd",
+      "description": "Common-sense Republican. Former Congressman. Business \u0026 tech leader. Author of American Reboot \u0026 The Brief. Rational takes on foreign policy, politics \u0026 tech.",
+      "id": "2963445730",
+      "username": "WillHurd"
+    },
+    {
+      "name": "Missouri Century",
+      "description": "Missouri Century Foundation is dedicated to advancing free-market initiatives to help ensure the health of our state’s economy throughout the 21st century.",
+      "id": "2970936454",
+      "username": "MissouriCentury"
+    },
+    {
+      "name": "Lori Ann LaRocco",
+      "description": "\"Trade War Containers Don\u0027t Lie: Navigating the Bluster\", Author, Senior Editor of Guests for CNBC. Trade Columnist for FreightWaves",
+      "id": "98912540",
+      "username": "loriannlarocco"
+    },
+    {
+      "name": "Tom Reed",
+      "description": "Owner of 3 dogs, lover of coffee, day job in Washington trying to help people.",
+      "id": "252819323",
+      "username": "TomReedNY23"
+    },
+    {
+      "name": "Melody Seiger",
+      "description": "",
+      "id": "2588784978",
+      "username": "Melody_Lepley"
+    },
+    {
+      "name": "Elijah Mayfield",
+      "description": "",
+      "id": "2473085710",
+      "username": "elijahmayf"
+    },
+    {
+      "name": "IJR Politics",
+      "description": "The politics vertical of @TheIJR, or Independent Journal Review. Experience the news. https://t.co/cLeJtQnBzY",
+      "id": "3107757899",
+      "username": "TheIJRPolitics"
+    },
+    {
+      "name": "Jennifer Schnieders",
+      "description": "",
+      "id": "2171177332",
+      "username": "jjschniedersPT"
+    },
+    {
+      "name": "Zach Warmbrodt",
+      "description": "Politico financial services editor. zwarmbrodt@politico.com zachary.warmbrodt@protonmail.com",
+      "id": "749303",
+      "username": "Zachary"
+    },
+    {
+      "name": "Medium",
+      "description": "We’re an open platform where readers find insightful thinking, and where creators can share their writing on any topic.",
+      "id": "571202103",
+      "username": "Medium"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness \u0026 @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "id": "208155240",
+      "username": "MariaBartiromo"
+    },
+    {
+      "name": "Paul Kane",
+      "description": "Washington Post congressional reporter, devotee of Philly sports, Springsteen and all things UD Fightin\u0027 Blue Hens.",
+      "id": "997684836",
+      "username": "pkcapitol"
+    },
+    {
+      "name": "Billy Long",
+      "description": "MO-7 Congressman, Springfield, Joplin, Branson. On the Energy \u0026 Commerce Committee. Subs. Health, Telecomm \u0026 Oversight",
+      "id": "21572351",
+      "username": "auctnr1"
+    },
+    {
+      "name": "Paul Ryan",
+      "description": "Office of the 54th Speaker of the House, Paul Ryan.",
+      "id": "18916432",
+      "username": "SpeakerRyan"
+    },
+    {
+      "name": "Scott Wong",
+      "description": "Senior congressional reporter @NBCNews | Alum of The Hill, Politico and Arizona Republic | @UCLA Bruin | Bay Area born and raised #DubNation",
+      "id": "136550204",
+      "username": "scottwongDC"
+    },
+    {
+      "name": "Manu Raju",
+      "description": "Chief Congressional Correspondent, @CNN. Roaming the Capitol halls, covering the Hill and politics. Die-hard Chicago sports fan. Wisconsin Badger for life.",
+      "id": "39155029",
+      "username": "mkraju"
+    },
+    {
+      "name": "Lacy Clay MO1st",
+      "description": "Verified Account of former Congressman Lacy Clay US Rep, Missouri 1st District. R/Ts \u0026 links are not endorsements.",
+      "id": "584912320",
+      "username": "LacyClayMO1"
+    },
+    {
+      "name": "Alex Pappas",
+      "description": "I acquire and edit nonfiction books on politics, the military, faith and American conservatism for @CenterStreet at @HachetteUS.",
+      "id": "20957491",
+      "username": "AlexPappas"
+    },
+    {
+      "name": "Holt Athletics",
+      "description": "",
+      "id": "1668635653",
+      "username": "HoltADOffice"
+    },
+    {
+      "name": "THS Football",
+      "description": "The official account for Timberland Wolves football - Head Coach Ed Gilreath. Wentzville, MO",
+      "id": "1151756220",
+      "username": "FootballTHS"
+    },
+    {
+      "name": "Randy Neugebauer",
+      "description": "Former U.S. Representative of the 19th District of Texas, proud husband, father and grandfather, and avid fisherman.",
+      "id": "34340464",
+      "username": "RandyNeugebauer"
+    },
+    {
+      "name": "Reid Wilson",
+      "description": "Founder and Editor, @PluribusNews / @reidwilson@ieji.de on Mastodon / @reidwilson on https://t.co/o8x7uAnpdW",
+      "id": "12272322",
+      "username": "PoliticsReid"
+    },
+    {
+      "name": "Kevin Cirilli",
+      "description": "always #delco ?? | @YahooFinance contributor",
+      "id": "15570213",
+      "username": "kevcirilli"
+    },
+    {
+      "name": "Michael Lear",
+      "description": "5 girls\u0027 dad; MO House Comms @mohousecomm; former @Missourinet Bureau Chief; Missouri State Penitentiary guide @MissouriPenTour; @showmemurder podcast host.",
+      "id": "39798632",
+      "username": "Michael_Lear"
+    },
+    {
+      "name": "Rebecca McClanahan",
+      "description": "Chair @MONurses PAC \u0026 Former President. Former legislator, Retired nurse educator, BoyMom, GMa to coastal GKids. Casting LOVE, Mongering HOPE, Hoarding JOY.",
+      "id": "21093635",
+      "username": "RMcClanahan"
+    },
+    {
+      "name": "Missouri GOP",
+      "description": "Official twitter account of the Missouri Republican Party.",
+      "id": "30875418",
+      "username": "MissouriGOP"
+    },
+    {
+      "name": "Rep. Mike Bost",
+      "description": "Proudly representing IL-12 in Congress. Lead Republican on @HouseVetAffairs \u0026 member of @TransportGOP. Find me on FB at https://t.co/KNuvZ7dbsu",
+      "id": "2964877294",
+      "username": "RepBost"
+    },
+    {
+      "name": "America\u0027s 1st Freedom",
+      "description": "America\u0027s 1st Freedom provides a wealth of news and features that keep you abreast of the latest in gun rights — political to social, global to local.",
+      "id": "3161536692",
+      "username": "NRAA1F"
+    },
+    {
+      "name": "Crider Health Center",
+      "description": "Crider Health Center is a Federally Qualified Health Center that serves the medically underserved in Franklin, Lincoln, Warren and St. Charles counties.",
+      "id": "3288761686",
+      "username": "CriderHealth"
+    },
+    {
+      "name": "Mike Coffman",
+      "description": "@USMC Combat Vet | FB: RepMikeCoffman",
+      "id": "19407835",
+      "username": "RepMikeCoffman"
+    },
+    {
+      "name": "Red Alert Politics",
+      "description": "The @dcexaminer\u0027s Right Take on Campus. Edited by @Brad_Polumbo.",
+      "id": "418991627",
+      "username": "RedAlert"
+    },
+    {
+      "name": "Rachael Bade",
+      "description": "Author of \"UNCHECKED\" \u0026 @Politico @PlaybookDC. @CNN Political Analyst.  WaPo alum. Ex-ballerina. Email tips: RBade@politico.com",
+      "id": "167024520",
+      "username": "rachaelmbade"
+    },
+    {
+      "name": "NSSF—The Firearm Industry Trade Association",
+      "description": "NSSF leads the way in advocating for the firearm industry and its businesses and jobs. Owner of @nssfshotshow. #GUNVOTE #SHOTBusiness #SHOTShow",
+      "id": "18085974",
+      "username": "NSSF"
+    },
+    {
+      "name": "Keith Beardslee",
+      "description": "Former Hill Flack. News Junkie. @Royals fan. Opinions are my own.",
+      "id": "474280324",
+      "username": "KeithBeardslee"
+    },
+    {
+      "name": "MIBA",
+      "description": "The official twitter account of the Missouri Independent Bankers Association. We represent Missouri Community Banks.",
+      "id": "2340922826",
+      "username": "theMIBA"
+    },
+    {
+      "name": "Rep. Brett Guthrie",
+      "description": "Fighting for conservative values in Washington while representing the people of Kentucky\u0027s 2nd Congressional District",
+      "id": "1908143071",
+      "username": "RepGuthrie"
+    },
+    {
+      "name": "Missouri Broadcasters Association",
+      "description": "Promoting the Success \u0026 Prosperity of Missouri\u0027s Broadcasters!",
+      "id": "90905473",
+      "username": "MOBroadcasters"
+    },
+    {
+      "name": "Lynn Farrell",
+      "description": "",
+      "id": "1244160222",
+      "username": "LynnFarrell53"
+    },
+    {
+      "name": "Windsor High",
+      "description": "Welcome to the official Twitter site of Windsor High School - Home of the Owls!!!",
+      "id": "771987055",
+      "username": "WindsorHighOwls"
+    },
+    {
+      "name": "WSJ Tech",
+      "description": "The Wall Street Journal\u0027s (@WSJ) home for global technology news, analysis and reviews.",
+      "id": "28172926",
+      "username": "WSJTech"
+    },
+    {
+      "name": "Rep. Frank Guinta",
+      "description": "Proud to represent the people of New Hampshire\u0027s First Congressional District!",
+      "id": "236960387",
+      "username": "RepFrankGuinta"
+    },
+    {
+      "name": "National Association of Broadcasters",
+      "description": "NAB is the premier trade association for America’s radio and TV broadcasters, who provide the most popular programming, important news and unparalleled service.",
+      "id": "148491506",
+      "username": "nabtweets"
+    },
+    {
+      "name": "Scott Connell on KSDK",
+      "description": "KSDK Meteorologist working for over 30 years forecasting St. Louis\u0027 crazy and always changing weather!",
+      "id": "33923043",
+      "username": "scottontvKSDK"
+    },
+    {
+      "name": "Megyn Kelly",
+      "description": "Happily married to Doug, crazy in love with my children Yates, Yardley, and Thatcher, journalist.",
+      "id": "110445334",
+      "username": "megynkelly"
+    },
+    {
+      "name": "WashMO Chamber",
+      "description": "Your source for all things WashMO!  We oversee the License Office, Town \u0026 Country Fair, Tourism Department, and Chamber.",
+      "id": "80400599",
+      "username": "washmochamber"
+    },
+    {
+      "name": "Rep. Ed Whitfield",
+      "description": "Representative Ed Whitfield of Kentucky’s First Congressional District and Chairman of the House Subcommittee on Energy and Power.",
+      "id": "234906311",
+      "username": "RepEdWhitfield"
+    },
+    {
+      "name": "Joni Ernst",
+      "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+      "id": "2856787757",
+      "username": "SenJoniErnst"
+    },
+    {
+      "name": "House Committee on Small Business Republicans",
+      "description": "We\u0027re the Committee in the House of Representatives fighting on behalf of America\u0027s small businesses, entrepreneurs, and innovators. Ranking Member @RepBlaine.",
+      "id": "2978291435",
+      "username": "HSBCgop"
+    },
+    {
+      "name": "Archive: Rep. Bradley Byrne",
+      "description": "Represented Alabama’s First Congressional District from 2014-2020.",
+      "id": "2253968388",
+      "username": "RepByrne"
+    },
+    {
+      "name": "Brian Babin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space \u0026 Aeronautics Subcmte, Border Sec co-chair \u0026 serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "id": "2929491549",
+      "username": "RepBrianBabin"
+    },
+    {
+      "name": "French Hill",
+      "description": "Official account of Rep. French Hill. 9th generation Arkansan. @FinancialCmte Subcommittee Ranking Member. Proudly representing AR-02.",
+      "id": "2953974395",
+      "username": "RepFrenchHill"
+    },
+    {
+      "name": "Rep. Bruce Poliquin",
+      "description": "Proudly Serving Maine\u0027s Second Congressional District",
+      "id": "2932617195",
+      "username": "RepPoliquin"
+    },
+    {
+      "name": "The Daily Signal",
+      "description": "Committed to news coverage that is accurate, fair, and trustworthy.\n\nDo you think it’s time to restore journalism? Join us!",
+      "id": "2361224263",
+      "username": "DailySignal"
+    },
+    {
+      "name": "US Rep Rodney Davis",
+      "description": "Proudly representing #IL13 and marginalized Nickelback fans everywhere. Leader of @HouseAdmnGOP and member of @TransportGOP and @HouseAgGOP.",
+      "id": "993153006",
+      "username": "RodneyDavis"
+    },
+    {
+      "name": "Dave Hinson",
+      "description": "",
+      "id": "394069105",
+      "username": "dave_hinson"
+    },
+    {
+      "name": "Rep. Bruce Westerman",
+      "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+      "id": "2852998461",
+      "username": "RepWesterman"
+    },
+    {
+      "name": "CFSA",
+      "description": "The Community Financial Services Association of America (CFSA) is the voice of the short-term credit industry repesenting non-bank lenders and service providers",
+      "id": "97071431",
+      "username": "cfsaa"
+    },
+    {
+      "name": "Kelsey Bolar (Harkness)",
+      "description": "@IWF, @DailySignal, @FDRLST, \u0026 @Steamboat_Institute.",
+      "id": "216506034",
+      "username": "kelseybolar"
+    },
+    {
+      "name": "ThePeoplesSpeaker™?",
+      "description": "From the Halls of Justice, to the House of Reps, to the Mighty Microphone! Feared \u0026 loathed by arrogant elitists \u0026 the rage mob. Daily - @933KWTO \u0026 @NewsTalkSTL",
+      "id": "26774751",
+      "username": "SpeakerTimJones"
+    },
+    {
+      "name": "U.S. Fish and Wildlife Service",
+      "description": "The U.S. Fish and Wildlife Service (USFWS) is dedicated to the conservation, protection, and enhancement of fish, wildlife, plants, and their habitats. ?? ?",
+      "id": "57625403",
+      "username": "USFWS"
+    },
+    {
+      "name": "David Jolly",
+      "description": "Honored to have served as U.S. Representative for Florida\u0027s 13th Congressional District. This account now inactive. Follow me on personal account @DavidJollyFL.",
+      "id": "2482022082",
+      "username": "USRepDavidJolly"
+    },
+    {
+      "name": "Jennifer Kerns",
+      "description": "NEW BOOK! “The Real War on Women”| Frmr Spokeswoman: California GOP | Host @AllAmercanRadio | Frenchie mom |Presidential Debate whisperer ??",
+      "id": "432973716",
+      "username": "AllAmericanJen"
+    },
+    {
+      "name": "Jim McNichols",
+      "description": "Conservative First, Last and Always. Veteran of Multiple Political Campaigns and Principled Skeptic of Liberal \u0027Do-Gooderism\u0027. RTs DO NOT Equal Endorsements.",
+      "id": "378776885",
+      "username": "JimMcNichols1"
+    },
+    {
+      "name": "NRATV",
+      "description": "America’s Most Patriotic Team on a Mission to Take Back The Truth.",
+      "id": "17564591",
+      "username": "NRATV"
+    },
+    {
+      "name": "Missouri Soybeans",
+      "description": "Working to promote the interests of Missouri soybean farmers",
+      "id": "44436205",
+      "username": "missourisoybean"
+    },
+    {
+      "name": "Dodd Frank Update",
+      "description": "Ensuring compliance in the marketplace - Receive Free Email Updates or a Free Edition at https://t.co/Hu0jlKsz9R!",
+      "id": "256198997",
+      "username": "DoddFrankUpdate"
+    },
+    {
+      "name": "Michael Sean Kelley",
+      "description": "Wine \u0026 Common Sense, KMOX, FOX2",
+      "id": "28205442",
+      "username": "mskstl"
+    },
+    {
+      "name": "John Hancock",
+      "description": "Christian, Husband, Father, Paw Paw, Committed Conservative, GOP operative, snooker player, piano player.",
+      "id": "23126986",
+      "username": "johnrhancock"
+    },
+    {
+      "name": "Mark Reardon",
+      "description": "@971FMTALK Talk Show Host/Movie Critic,@DietCoke addict, music fanatic. @mizzou alum. I wear headphones for a living. @criticschoice/@sagaftra/@stlfilmcritics",
+      "id": "18614130",
+      "username": "MarkReardonKFTK"
+    },
+    {
+      "name": "Fred Bodimer",
+      "description": "I\u0027m a 37-year veteran of KMOX Radio St. Louis. I cover the religion and health beats and executive produce the Mark Reardon Show. My views are my own.",
+      "id": "473118604",
+      "username": "FredBodimerKMOX"
+    },
+    {
+      "name": "Dan Engemann",
+      "description": "Christian.  Husband to Amanda.  Father to Blake, Atalie and Haley.  Tweets are my own.",
+      "id": "2595642319",
+      "username": "DanEngemann"
+    },
+    {
+      "name": "Matt Fuller",
+      "description": "Washington Bureau Chief for The Daily Beast. We must not allow a mineshaft gap.",
+      "id": "398088661",
+      "username": "MEPFuller"
+    },
+    {
+      "name": "Republican Cloakroom",
+      "description": "This feed provides live Floor and voting updates. Operated by the Republican Leader’s Office.",
+      "id": "1137600571",
+      "username": "RepCloakroom"
+    },
+    {
+      "name": "Oversight Committee Republicans",
+      "description": "House Oversight Committee Republicans | Est. 1814 \nRanking Member @RepJamesComer",
+      "id": "22508473",
+      "username": "GOPoversight"
+    },
+    {
+      "name": "StopTheChoke",
+      "description": "#OperationChokePoint – Bypassing Congress. Destroying the free market.",
+      "id": "2252474744",
+      "username": "StopTheChoke"
+    },
+    {
+      "name": "KTJJ KREI KJFF",
+      "description": "Your home for today\u0027s top Country music \u0026 local news, wx \u0026 sports in southeast Missouri. \nListen: ?J98: https://t.co/VDzOFPJeZy ?KREI: https://t.co/2uYkbcEILy",
+      "id": "38803980",
+      "username": "MyMoInfo"
+    },
+    {
+      "name": "John Bresnahan",
+      "description": "Co-Founder of Punchbowl News. Yankees fan forever. john @ https://t.co/yV4Kr3yM96",
+      "id": "217550862",
+      "username": "bresreports"
+    },
+    {
+      "name": "Ray McCarty",
+      "description": "President of Associated Industries of Missouri, general business trade group for all employers in the Mo. Capitol since 1919 https://t.co/pIl8BzUq2k @AIMTWEET13",
+      "id": "40147590",
+      "username": "raymccarty"
+    },
+    {
+      "name": "Cam and Company",
+      "description": "Catch a new show every afternoon at https://t.co/6qmaz9hccB, or subscribe here: https://t.co/unX9NSSd3f",
+      "id": "325897784",
+      "username": "CamAndCompany"
+    },
+    {
+      "name": "Tom Basile ??",
+      "description": "Host of \u0027America Right Now\u0027 on @Newsmax, @washtimes Columnist. Husband, Father, Author, Bush Admin Alum. Fmr Exec Dir NYSGOP",
+      "id": "32133295",
+      "username": "Tom_Basile"
+    },
+    {
+      "name": "USCC",
+      "description": "The US Consumer Coalition (USCC) is a consumer advocacy organization that promotes expanded consumer choice and freedom.",
+      "id": "2361452546",
+      "username": "USConsumers"
+    },
+    {
+      "name": "Arnold Patch",
+      "description": "Local news, alerts, events and more. We\u0027re your source for all things Arnold.",
+      "id": "227788317",
+      "username": "ArnoldPatch"
+    },
+    {
+      "name": "St. Peters Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things St. Peters.",
+      "id": "159480202",
+      "username": "StPetersPatch"
+    },
+    {
+      "name": "Newt Gingrich",
+      "description": "Husband, father, grandfather, citizen, small businessman, author, former Speaker of the House.",
+      "id": "20713061",
+      "username": "newtgingrich"
+    },
+    {
+      "name": "StLCountyRepublicans",
+      "description": "St. Louis County Republicans. Happenings and More. Retweet if you like. Grassroots. News and information. You decide. We back the blue. Law and Order!",
+      "id": "1967939816",
+      "username": "StLCountyRepub"
+    },
+    {
+      "name": "St. Charles YRs",
+      "description": "The St. Charles Young Republicans exist to promote the Republican Party and to get young people involved in Republican politics.",
+      "id": "133502135",
+      "username": "StCharlesYRs"
+    },
+    {
+      "name": "Cole County YRs",
+      "description": "Young Republicans group for Central Missouri based in Cole County. #MOGOP #GOP #jcmo #mizzou #tcot",
+      "id": "96486821",
+      "username": "colecoyrs"
+    },
+    {
+      "name": "City of O\u0027Fallon",
+      "description": "This message delivered by O\u0027Fallon PR Dept. Profanity, racist language, etc. \u0026 political, commercial, spam tweets are prohibited. Violators will be blocked.",
+      "id": "61232127",
+      "username": "cityofofallon"
+    },
+    {
+      "name": "Kevin Yoder",
+      "description": "Former Member of Congress from Kansas who served on @HouseAppropsGOP as Chairman of Homeland Security \u0026 Legislative Branch.",
+      "id": "252819642",
+      "username": "kevinyoder"
+    },
+    {
+      "name": "Wentzville Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Wentzville.",
+      "id": "159218197",
+      "username": "WentzvillePatch"
+    },
+    {
+      "name": "HBA of St. Louis",
+      "description": "Trade association promoting and protecting the viability of the building industry by serving members who strive to meet the housing needs of our neighbors.",
+      "id": "52401898",
+      "username": "STLHBA"
+    },
+    {
+      "name": "LindenwoodUniversity",
+      "description": "Official Twitter feed of Lindenwood University, a dynamic four-year institution dedicated to excellence in higher education. #RealExperience #RealSuccess",
+      "id": "82115899",
+      "username": "LindenwoodU"
+    },
+    {
+      "name": "Missouri State Parks",
+      "description": "Official Twitter page for Missouri State Parks, a division of the Missouri Department of Natural Resources.",
+      "id": "97135016",
+      "username": "mostateparks"
+    },
+    {
+      "name": "Downtown Washington, Inc.",
+      "description": "Preserving our past while working for our future.\n#downtownwashmo",
+      "id": "70721666",
+      "username": "downtownwashmo"
+    },
+    {
+      "name": "Troy,MO Chamber/CVB",
+      "description": "Chamber of Commerce, Economic Development and Tourism Agency for one of Missouri\u0027s Fastest Growing Communities - Troy.",
+      "id": "48473643",
+      "username": "TroyChamber"
+    },
+    {
+      "name": "Callaway County",
+      "description": "Local news about Callaway County (Missouri)",
+      "id": "113845365",
+      "username": "yoloneco1696"
+    },
+    {
+      "name": "St. Charles County, Missouri Government",
+      "description": "Welcome to the Twitter page of #StCharlesCounty, Missouri Government! Visit us online: https://t.co/wwzlSuuUGP. Account not monitored 24/7.",
+      "id": "29195774",
+      "username": "sccmo"
+    },
+    {
+      "name": "Visit Jefferson City",
+      "description": "The official guide for all things Jefferson City. Use #VisitJCMO to be featured. To see even more of JCMO, follow us on Instagram.",
+      "id": "20095947",
+      "username": "VisitJCMO"
+    },
+    {
+      "name": "The Lake Today",
+      "description": "Since November 2008, we\u0027ve taken the Lake by storm with our high-end, full-color newspaper arriving in Lake Area mailboxes each Wednesday.",
+      "id": "208055275",
+      "username": "The_Lake_Today"
+    },
+    {
+      "name": "City of Saint Charles, MO",
+      "description": "Official Twitter Page for the City of Saint Charles, Missouri. Keep up with City news, services, programs, free events and emergency notifications.",
+      "id": "263875838",
+      "username": "SaintCharlesMo"
+    },
+    {
+      "name": "City of Wentzville",
+      "description": "Wentzville is a growing community of neighbors working together to build a better future. City social media policy: https://t.co/NRbc2zFaeu",
+      "id": "48683351",
+      "username": "WentzvilleMo"
+    },
+    {
+      "name": "Jim Dyke",
+      "description": "Owns Cottonstone Art Gallery \u0026 Frame Shop, 116 E. High, Jefferson City, Mo; Painter, caricature artist for events, singer, songwriter, editorial cartoonist",
+      "id": "410698520",
+      "username": "JimDykeartist"
+    },
+    {
+      "name": "Missouri PTA",
+      "description": "The largest volunteer child advocacy association in Missouri, Parent Teacher Association or PTA.",
+      "id": "822616964",
+      "username": "MissouriPTA"
+    },
+    {
+      "name": "Missouri NEA",
+      "description": "32,000 public school employees, affiliated with the 3 million-member NEA",
+      "id": "29552986",
+      "username": "MissouriNEA"
+    },
+    {
+      "name": "Missouri Corn",
+      "description": "Missouri Corn Growers Association \u0026 Missouri Corn Merchandising Council. Dedicated to increasing opportunities for Missouri corn farmers.",
+      "id": "116784750",
+      "username": "MissouriCorn"
+    },
+    {
+      "name": "Blake Hurst",
+      "description": "husband, father, grandfather, farmer, former president of Missouri Farm Bureau",
+      "id": "605076156",
+      "username": "HurstBlake"
+    },
+    {
+      "name": "Garrett Hawkins",
+      "description": "President of Missouri Farm Bureau. RTs, follows and links do not necesssarily equal endorsement.",
+      "id": "1077730135",
+      "username": "JGarrettHawkins"
+    },
+    {
+      "name": "Missouri Beef Industry Council",
+      "description": "Everything you want to know about beef, from the farm to the fork. Nutrition, fitness, and cooking tips included.",
+      "id": "40165375",
+      "username": "mobeefcouncil"
+    },
+    {
+      "name": "Missouri Farm Bureau",
+      "description": "Advocating for farmers, the rural way of life, and all Missourians.",
+      "id": "423630200",
+      "username": "MOFarmBureau"
+    },
+    {
+      "name": "Missouri Cattlemen\u0027s",
+      "description": "MCA is a not-for-profit, grassroots organization focused on the protection \u0026 promotion of the MO beef cattle industry. We\u0027ve been at it for more than 100 years.",
+      "id": "275725571",
+      "username": "MoCattle"
+    },
+    {
+      "name": "U.S. House",
+      "description": "",
+      "id": "2340967118",
+      "username": "USHouse"
+    },
+    {
+      "name": "William Woods Univ.",
+      "description": "The official Twitter page of William Woods University -where students learn best through hands-on experience, and through the giving of hearts, minds and talent",
+      "id": "62559215",
+      "username": "WilliamWoodsU"
+    },
+    {
+      "name": "Westminster College",
+      "description": "The official Twitter account of Westminster College, located in Fulton, Missouri!",
+      "id": "34390143",
+      "username": "WestminsterMO"
+    },
+    {
+      "name": "Jason Smith",
+      "description": "Farm kid from Salem. Christian, Rancher, Small Business Owner, PROUD American. Champion of the working class, the unborn, veterans, families, \u0026 gun owners #MO8",
+      "id": "26653478",
+      "username": "JasonSmithMO"
+    },
+    {
+      "name": "R. Bowen Loftin",
+      "description": "Retired",
+      "id": "2247765384",
+      "username": "bowtieger"
+    },
+    {
+      "name": "LakeNewsOnline.com",
+      "description": "Official account for the Lake Sun and Lake News Online. Covering the Lake of the Ozarks since 1879. #LakeoftheOzarks",
+      "id": "69433229",
+      "username": "LakeNewsOnline"
+    },
+    {
+      "name": "Rep. Jason Smith",
+      "description": "@housebudgetGOP Leader | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08",
+      "id": "1623308912",
+      "username": "RepJasonSmith"
+    },
+    {
+      "name": "Ann Wagner",
+      "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+      "id": "1051446626",
+      "username": "RepAnnWagner"
+    },
+    {
+      "name": "Chris Kellogg",
+      "description": "Chris Kellogg is co-host of Coast 93.3\u0027s Leslie \u0026 Chris in the Morning in Northwest Florida: Fort Walton Beach / Destin / Navarre / Niceville / Crestview.",
+      "id": "144665830",
+      "username": "KelloggFL"
+    },
+    {
+      "name": "JOHN RICE/KTUI RADIO",
+      "description": "employed at KTUI Sullivan Mo.",
+      "id": "103060838",
+      "username": "JOHNCRICE"
+    },
+    {
+      "name": "97.1 FM Talk",
+      "description": "St. Louis’ home for conservative talk. Always live on the free @Audacy app.",
+      "id": "38711343",
+      "username": "971FMTalk"
+    },
+    {
+      "name": "America\u0027s National Churchill Museum",
+      "description": "America’s National Churchill Museum at @WestminsterMO, site of Winston Churchill’s 1946 Iron Curtain speech. #thinkchurchill",
+      "id": "201753602",
+      "username": "ChurchillMuseum"
+    },
+    {
+      "name": "NewsRadio 1120 KMOX",
+      "description": "The Voice of St. Louis",
+      "id": "18481981",
+      "username": "KMOX"
+    },
+    {
+      "name": "Charlie Brennan",
+      "description": "Charlie Brennan Author of \"Only in St. Louis!\" Thursday nights on @Donnybrookstl. KMOX alum. https://t.co/vmyPUMEHdI",
+      "id": "46154017",
+      "username": "charliekmox"
+    },
+    {
+      "name": "Doug Allen",
+      "description": "VP at Dukas Linden. Financial PR pro. Fly fishing, sailing, skiing, cycling, \u0026 labradoodle enthusiast. Opinions not necessarily @DukasLindenPR\u0027s.",
+      "id": "52264600",
+      "username": "DFAllenIII"
+    },
+    {
+      "name": "craasch - author of \"Imperfect Union\"",
+      "description": "South Dakota-born Journalist, author of \"Imperfect Union.\" American. Retweets mean noteworthy or newsy, not endorsement.",
+      "id": "5931862",
+      "username": "craasch"
+    },
+    {
+      "name": "Tom Price",
+      "description": "Former U.S. Representative for Georgia\u0027s 6th Congressional District \u0026 served as the 23rd U.S. Secretary of @HHSGov. This and @SecPriceMD are archived accounts.",
+      "id": "6577802",
+      "username": "RepTomPrice"
+    },
+    {
+      "name": "Matthew Easley",
+      "description": "Father, husband \u0026 public servant. Star Wars, @MissouriYAG \u0026 NPS geek! My opinions are my own.",
+      "id": "198595399",
+      "username": "MattEasley"
+    },
+    {
+      "name": "U.S. House History",
+      "description": "U.S. House History is the official Twitter account of the History, Art \u0026 Archives of the U.S. House of Representatives",
+      "id": "906782533",
+      "username": "USHouseHistory"
+    },
+    {
+      "name": "Rep. Steve Womack",
+      "description": "Proud to serve the folks of Arkansas\u0027s 3rd District. Member of @HouseAppropsGOP.",
+      "id": "234469322",
+      "username": "rep_stevewomack"
+    },
+    {
+      "name": "Congressman Robert Pittenger",
+      "description": "Official Twitter of former U.S. Congressman Robert Pittenger.  Chairman, Parliamentary Intelligence-Security Forum",
+      "id": "950328072",
+      "username": "RepPittenger"
+    },
+    {
+      "name": "American Foundation for Suicide Prevention",
+      "description": "Preventing suicide through research, advocacy, and education. Account not monitored 24/7. Thoughts of suicide? Call 988 or text TALK to 741741.",
+      "id": "19775920",
+      "username": "afspnational"
+    },
+    {
+      "name": "Dean Heller",
+      "description": "Official Account for Nevada U.S. Senator @DeanHeller. #HomeMeansNevada",
+      "id": "266133081",
+      "username": "SenDeanHeller"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "I Know Everything",
+      "description": "IKnowEverything is an integrated effort that prepares teens to be safe behind the wheel and reiterates parental influence on teens’ driving behaviors.",
+      "id": "1347119180",
+      "username": "IKnowEverything"
+    },
+    {
+      "name": "GOP Job Bank",
+      "description": "Updates on U.S. House Republican #Jobs and #Internships, provided by The Republican Conference.",
+      "id": "602997805",
+      "username": "GOPJobBank"
+    },
+    {
+      "name": "Robert Costa",
+      "description": "Chief Election \u0026 Campaign Correspondent for @CBSNews, co-author of “Peril” with @realBobWoodward, @Center4Politics Scholar at the University of Virginia",
+      "id": "86129724",
+      "username": "costareports"
+    },
+    {
+      "name": "Congressman Doc Hastings (Archived)",
+      "description": "This account has been archived. Doc Hastings proudly represented Central Washington in Congress (1995-2015) and served as Chairman of @NatResources (2011-2014).",
+      "id": "402029058",
+      "username": "DocHastings"
+    },
+    {
+      "name": "Rep. Steve Chabot",
+      "description": "Husband, Dad, Grandpa \u0026 proud Cincinnatian. Dean of Ohio GOP Delegation, Ranking Member on @HouseForeignGOP Asia Subcommittee \u0026 senior member on @JudiciaryGOP.",
+      "id": "237750442",
+      "username": "RepSteveChabot"
+    },
+    {
+      "name": "Sullivan Journal",
+      "description": "The news source for east-central Missouri.",
+      "id": "23826726",
+      "username": "sullivanjournal"
+    },
+    {
+      "name": "NEWS MAKER",
+      "description": "America\u0027s #1 NEWS MAKER.\n\"...and I\u0027m all out of bubblegum.\"\nhttps://t.co/HJjVKQgs5J",
+      "id": "14669951",
+      "username": "NEWS_MAKER"
+    },
+    {
+      "name": "Fox News",
+      "description": "Follow America\u0027s #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "id": "1367531",
+      "username": "FoxNews"
+    },
+    {
+      "name": "Rep. Randy Hultgren",
+      "description": "Member of Congress proudly representing IL-14. Member: @HouseScience @FinancialCmte Committees. Co-Chairman: @TLHumanRights. FB profile: http://t.co/cAzY81jGee",
+      "id": "237814920",
+      "username": "RepHultgren"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "POLITICO",
+      "description": "Nobody knows politics and policy like POLITICO. \nCongress nerds ? @politicongress \nAll 2022 race calls ? @politicoelex\nGot a news tip? ? https://t.co/JBzpu5pJz6",
+      "id": "9300262",
+      "username": "politico"
+    },
+    {
+      "name": "U.S. House Updates",
+      "description": "A @GovTop Project. #US #HouseofRepresentatives updates. Also: @USHouseNews, @SenateFloor, @SenateNews, @USSupremeCourt, @GovTop",
+      "id": "7402662",
+      "username": "HouseFloor"
+    },
+    {
+      "name": "Roll Call",
+      "description": "Breaking news, reporter tweets and analysis from the Source for News on Capitol Hill since 1955. Instagram: https://t.co/ZFMIdCppoH",
+      "id": "15922214",
+      "username": "rollcall"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what\u0027s happening in Washington, breaking news and retweets of our reporters.",
+      "id": "1917731",
+      "username": "thehill"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Patrick McHenry",
+      "description": "I represent the citizens of North Carolina’s 10th District in the United States Congress.",
+      "id": "27676828",
+      "username": "PatrickMcHenry"
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "description": "Mom, grandmother x 7, wife, runner (#26.2!), and eternal optimist. Proudly serving West Virginia in the United States Senate.",
+      "id": "193794406",
+      "username": "SenCapito"
+    },
+    {
+      "name": "Lynn Westmoreland",
+      "description": "Former U.S. Representative for Georgia\u0027s Third Congressional District.",
+      "id": "137407124",
+      "username": "Westmoreland_GA"
+    },
+    {
+      "name": "Rep. Andy Barr",
+      "description": "KY-06 District Congressman \u0026 Member of House Foreign Affairs \u0026 Financial Services Committees.",
+      "id": "1089334250",
+      "username": "RepAndyBarr"
+    },
+    {
+      "name": "Spencer Bachus",
+      "description": "U.S. Congressman, AL-06",
+      "id": "78431501",
+      "username": "BachusAL06"
+    },
+    {
+      "name": "Keith Rothfus",
+      "description": "Thank you for visiting my Twitter account. From 1/3/2013 through 1/3/2019, I was privileged to serve PA’s 12th Congressional District.",
+      "id": "1155212191",
+      "username": "KeithRothfus"
+    },
+    {
+      "name": "Tom Cotton",
+      "description": "U.S. Senator proudly serving the state of Arkansas.",
+      "id": "968650362",
+      "username": "SenTomCotton"
+    },
+    {
+      "name": "Ed Royce",
+      "description": "Proudly serving California\u0027s 39th Congressional District (#CA39). Chairman of the @HouseForeign Affairs Committee.",
+      "id": "246769138",
+      "username": "RepEdRoyce"
+    },
+    {
+      "name": "Rep. Bill Huizenga",
+      "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+      "id": "233949261",
+      "username": "RepHuizenga"
+    },
+    {
+      "name": "Stephen Fincher",
+      "description": "Congressman, Farmer, and Gospel Singer proudly serving the people of the 8th district of the great state of Tennessee.",
+      "id": "249219716",
+      "username": "RepFincherTN08"
+    },
+    {
+      "name": "Mike Fitzpatrick",
+      "description": "Proudly representing #PA8 in the US House of Representatives. Husband. Dad. @Eagles fan.      #BetterJobsMoreOpportunity",
+      "id": "237944147",
+      "username": "RepFitzpatrick"
+    },
+    {
+      "name": "Sean Duffy",
+      "description": "Devoted husband of one, proud father of nine, former U.S. Rep.for Wisconsin\u0027s 7th District, FOX News Contributor and Senior Counsel at BGR Group. #GoPackGo ??",
+      "id": "234022257",
+      "username": "SeanDuffyWI"
+    },
+    {
+      "name": "Frank Lucas",
+      "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma’s Third Congressional District.",
+      "id": "242772524",
+      "username": "RepFrankLucas"
+    },
+    {
+      "name": "Kevin Seifert",
+      "description": "",
+      "id": "69340269",
+      "username": "KCSeifert"
+    },
+    {
+      "name": "Eric Cantor",
+      "description": "Vice Chair and Managing Director, @Moelis; former House Majority Leader. Working to build #AnAmericaThatWorks, #AnAmericaThatLeads. Tweets are my own.",
+      "id": "18891923",
+      "username": "EricCantor"
+    },
+    {
+      "name": "Archive: Rep. Vicky Hartzler",
+      "description": "The archived tweets of Vicky Hartzler, fmr Representative for Missouri\u0027s 4th District. This account is inactive. You can now follow Vicky at @VickyHartzlerMO.",
+      "id": "237763317",
+      "username": "RepHartzler"
+    },
+    {
+      "name": "CathyMcMorrisRodgers",
+      "description": "Proudly serving Washington\u0027s beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "id": "17976923",
+      "username": "cathymcmorris"
+    },
+    {
+      "name": "Rep. Vern Buchanan",
+      "description": "Serving Florida\u0027s 16th Congressional District",
+      "id": "20467163",
+      "username": "VernBuchanan"
+    },
+    {
+      "name": "Archive: Rep. Jeb Hensarling",
+      "description": "Former Representative for the 5th Congressional District of Texas (2003-2018) and Chairman of the House Financial Services Committee (2013-2018).",
+      "id": "18566912",
+      "username": "RepHensarling"
+    },
+    {
+      "name": "Creve Coeur Patch",
+      "description": "Local news, alerts, events and more. We’re your source for all things Creve Coeur.",
+      "id": "159483478",
+      "username": "CreveCoeurPatch"
+    },
+    {
+      "name": "St. Louis Public Radio",
+      "description": "A non-profit media organization, delivering accuracy and understanding through storytelling that brings context and humanity to the issues affecting the region.",
+      "id": "13829772",
+      "username": "stlpublicradio"
+    },
+    {
+      "name": "Rep. Sam Graves",
+      "description": "Proudly representing Missouri\u0027s Sixth Congressional District",
+      "id": "29766367",
+      "username": "RepSamGraves"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+      "id": "3108351",
+      "username": "WSJ"
+    },
+    {
+      "name": "Fox News",
+      "description": "Breaking news headlines from http://t.co/4iVPufAwyB.  But, remember to follow our sister Twitter account @foxnews to jump into our public town hall",
+      "id": "103060329",
+      "username": "foxheadlines"
+    },
+    {
+      "name": "The Associated Press",
+      "description": "Advancing the power of facts, globally ?",
+      "id": "51241574",
+      "username": "AP"
+    },
+    {
+      "name": "Bill Lambrecht",
+      "description": "Partner, New Bay Books. Former STL Post-Dispatch and Hearst Newspapers DC. Books: Dinner at the New Gene Cafe; Big Muddy Blues.",
+      "id": "15938122",
+      "username": "blambrecht"
+    },
+    {
+      "name": "The Missourian",
+      "description": "The official twitter page of the Washington Missourian newspaper. Note: Following does not indicate endorsement or support.",
+      "id": "29737277",
+      "username": "Emissourian"
+    },
+    {
+      "name": "Eldon Advertiser",
+      "description": "Locally Owned, Award Winning Newspaper in Eldon Missouri",
+      "id": "399460871",
+      "username": "EldonAdvertiser"
+    },
+    {
+      "name": "Fulton Sun",
+      "description": "The Fulton Sun has served Callaway County communities since 1875. For expanded coverage, start newspaper home delivery by clicking Subscribe on our website!",
+      "id": "203616641",
+      "username": "fultonsun"
+    },
+    {
+      "name": "KJFF Radio",
+      "description": "We are #JeffcoMO\u0027s only daily medium chronicling area news and information. Follow @KJFFNEWS and @KJFFSPORTS. We are an @ABCNewsRadio affiliate.",
+      "id": "305042704",
+      "username": "KJFF1400AM"
+    },
+    {
+      "name": "News/Talk KRMS",
+      "description": "News/Talk KRMS, The Voice of the Lake of the Ozarks. 1150am, 97.5fm \u0026 103.3fm",
+      "id": "73916451",
+      "username": "krmsradio"
+    },
+    {
+      "name": "KTUI Radio",
+      "description": "",
+      "id": "153537832",
+      "username": "KTUIRadio"
+    },
+    {
+      "name": "KLPW",
+      "description": "All Talk Radio 1220 AM",
+      "id": "301163735",
+      "username": "alltalk1220"
+    },
+    {
+      "name": "KFTK 97.1 FM News",
+      "description": "FM NEWS TALK 97.1!",
+      "id": "130866351",
+      "username": "KFTK"
+    },
+    {
+      "name": "Soft Rock 101.5 KPLA",
+      "description": "Today\u0027s Hits and Yesterday\u0027s Favorites for Mid-Missouri - A Cumulus Media Station",
+      "id": "314594659",
+      "username": "1015KPLA"
+    },
+    {
+      "name": "Elsberry Democrat",
+      "description": "To provide our readers and businesses with the most up-to-date local news, sports, education and much more.",
+      "id": "20593149",
+      "username": "ElsberryDem"
+    },
+    {
+      "name": "LincolnCountyJournal",
+      "description": "The Lincoln County Journal is the news provider in Lincoln County, MO.",
+      "id": "20593255",
+      "username": "LincolnCounty"
+    },
+    {
+      "name": "Chris Blank",
+      "description": "I am a former reporter for The Associated Press.",
+      "id": "454939537",
+      "username": "ChrisBlank2"
+    },
+    {
+      "name": "ABC 17 News",
+      "description": "Mid-Missouri\u0027s source for breaking news, weather \u0026 sports. ABC 17 News is a product of NPG of Missouri, LLC https://t.co/ajIO87CBzh",
+      "id": "78898839",
+      "username": "ABC17News"
+    },
+    {
+      "name": "News Radio KWOS",
+      "description": "News, Talk, and Sports for Missouri\u0027s Capital City!",
+      "id": "292379073",
+      "username": "KWOSNewsRadio"
+    },
+    {
+      "name": "Jefferson City News Tribune",
+      "description": "Mid-Missouri news and tweets from the Jefferson City News Tribune newspaper and https://t.co/bWUD1LCf7t",
+      "id": "29539256",
+      "username": "NewsTribune"
+    },
+    {
+      "name": "KOMU 8 News",
+      "description": "This is KOMU 8\u0027s tweet hub. We\u0027re tracking community \u0026 breaking news! #MidMO #CoMo #JCMO",
+      "id": "7166582",
+      "username": "KOMUnews"
+    },
+    {
+      "name": "KRCG 13",
+      "description": "Mid-Missouri\u0027s News Leader. #LiveonKRCG13",
+      "id": "20709978",
+      "username": "KRCG13"
+    },
+    {
+      "name": "KMOX St. Louis News",
+      "description": "Always live on the free @audacy app",
+      "id": "22990962",
+      "username": "kmoxnews"
+    },
+    {
+      "name": "KMOV",
+      "description": "Bringing you the latest St. Louis news, weather, traffic and sports on your computer or mobile device. For more download the KMOV mobile app.",
+      "id": "28390516",
+      "username": "KMOV"
+    },
+    {
+      "name": "KPLR11",
+      "description": "The official Twitter page for KPLR11 in St. Louis, MO. News, sports, weather, entertainment and more! Follow our reporters for more updates.",
+      "id": "7612242",
+      "username": "KPLR11"
+    },
+    {
+      "name": "St. Louis Business Journal",
+      "description": "The official account for the St. Louis Business Journal.",
+      "id": "194235592",
+      "username": "stlouisbiz"
+    },
+    {
+      "name": "FOX2now",
+      "description": "The official Twitter page for KTVI FOX 2 News St. Louis. Breaking news, #STL stories, video, photo galleries. Follow our reporters for more.",
+      "id": "11265832",
+      "username": "FOX2now"
+    },
+    {
+      "name": "KSDK News",
+      "description": "We\u0027re 5 On Your Side for breaking news, weather and sports. #BeOn5 #TISL\nFollow on Facebook: https://t.co/ghtwIRjEKw\nInstagram:https://t.co/4rxZPxwj0p",
+      "id": "42921216",
+      "username": "ksdknews"
+    },
+    {
+      "name": "St. Louis Post-Dispatch",
+      "description": "St. Louis Post-Dispatch news, sports, business, features, entertainment, photos and video. @Weatherbird is the Twitter ambassador for the P-D.",
+      "id": "6039302",
+      "username": "stltoday"
+    },
+    {
+      "name": "Missourinet",
+      "description": "Missouri news and sports.",
+      "id": "8836512",
+      "username": "Missourinet"
+    },
+    {
+      "name": "Political Fix",
+      "description": "St. Louis political news from the St. Louis Post-Dispatch political reporting team. More headlines: https://t.co/j2MTWhCHgf",
+      "id": "15288936",
+      "username": "stlpolitics"
+    },
+    {
+      "name": "PoliticMo",
+      "description": "Missouri politics, analysis and news. Formerly from @eyokley, now in Washington.",
+      "id": "152363873",
+      "username": "PoliticMo"
+    },
+    {
+      "name": "Jo Mannies",
+      "description": "Semi-retired political reporter for St. Louis Public Radio. Formerly wrote 32 years for St. Louis Post-Dispatch, 5 for STL Beacon. RT isn\u0027t an endorsement.",
+      "id": "15937952",
+      "username": "jmannies"
+    },
+    {
+      "name": "David Lieb",
+      "description": "Correspondent  The Associated Press  Jefferson City, Missouri.    Government and political reporter.",
+      "id": "20241874",
+      "username": "DavidALieb"
+    },
+    {
+      "name": "Missouri Roundtable",
+      "description": "Missouri Roundtable For Life is a non-profit, pro-life advocacy organization. \r\nFacebook: https://t.co/c1OQA0aOKK",
+      "id": "1220442259",
+      "username": "Roundtable4life"
+    },
+    {
+      "name": "Jonathan Shorman",
+      "description": "Lead Political Reporter at The Kansas City Star. KU graduate. Kansas native. DM. Signal. jshorman@kcstar.com",
+      "id": "21344549",
+      "username": "jonshorman"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "RSC",
+      "description": "The Republican Study Committee (RSC) is the largest conservative caucus in the House of Representatives. Chaired by @RepJimBanks (IN-03).",
+      "id": "22528309",
+      "username": "RepublicanStudy"
+    },
+    {
+      "name": "Jason Rosenbaum",
+      "description": "Political correspondent @stlpublicradio. Married to @theltodd. A-, B- \u0026 D-Baum’s dad.",
+      "id": "14364006",
+      "username": "jrosenbaum"
+    },
+    {
+      "name": "Financial Services GOP",
+      "description": "U.S. House Committee on Financial Services Republicans – Ranking Member @PatrickMcHenry",
+      "id": "42924141",
+      "username": "FinancialCmte"
+    },
+    {
+      "name": "U.S. Rep. Billy Long",
+      "description": "Representing Missouri’s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+      "id": "1444015610",
+      "username": "USRepLong"
+    }
+  ],
+  "id": "1849261916",
+  "username": "RepBlaine"
+}

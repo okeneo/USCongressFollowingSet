@@ -1,0 +1,378 @@
+{
+  "following": [
+    {
+      "name": "Rep. Dan Bishop",
+      "description": "U.S. Congressman Proudly Representing the Eighth District of North Carolina",
+      "id": "1176522535531360257",
+      "username": "RepDanBishop"
+    },
+    {
+      "name": "Second Harvest Heartland",
+      "description": "Midwest’s largest hunger-relief org. supporting more than 813K neighbors through food distribution, partnership, advocacy, innovation. Join us in ending hunger.",
+      "id": "15910642",
+      "username": "2harvest"
+    },
+    {
+      "name": "Faribault Daily News",
+      "description": "The latest news and information from Faribault, Minnesota",
+      "id": "11339192",
+      "username": "FboNews"
+    },
+    {
+      "name": "National Guard",
+      "description": "Official tweets from National Guard Bureau. National Guard: America\u0027s First Military Responders. (Following, RTs \u0026 links ? endorsement.)",
+      "id": "31310158",
+      "username": "USNationalGuard"
+    },
+    {
+      "name": "Congressman Jim Baird",
+      "description": "Lifelong Hoosier proudly representing the 4th Congressional District.",
+      "id": "1086316494450032640",
+      "username": "RepJimBaird"
+    },
+    {
+      "name": "AACC",
+      "description": "Better health through laboratory medicine",
+      "id": "19662097",
+      "username": "_AACC"
+    },
+    {
+      "name": "St.James Plaindealer",
+      "description": "St. James and Watonwan County news in 140 characters or less.",
+      "id": "1377404953",
+      "username": "SJPlaindealer"
+    },
+    {
+      "name": "mtu solutions",
+      "description": "Under the product \u0026 solution brand mtu, the @RollsRoyce business unit @rrpowersystems provides world-class power solutions and complete life-cycle support.",
+      "id": "199631538",
+      "username": "mtusolutions"
+    },
+    {
+      "name": "AmericanAmbulanceAsc",
+      "description": "Caring for people—first! #AlwaysOpen #StarsofLife #Ambucon23 #MobileHealthcare #SupportEMS #EMS #NotJustaRide #TreatmentInPlace",
+      "id": "25343996",
+      "username": "amerambassoc"
+    },
+    {
+      "name": "MN State Southeast",
+      "description": "Trades \u0026 technology, health care, creative arts—it’s all here at Minnesota State College Southeast in Red Wing \u0026 Winona, MN. Apply today - https://t.co/qiYx4uNIZc",
+      "id": "360159454",
+      "username": "MSCSoutheast"
+    },
+    {
+      "name": "U.S. Marines",
+      "description": "The official Twitter account of the United States Marine Corps. \n\nThe appearance of links does not constitute endorsement.",
+      "id": "10126672",
+      "username": "USMC"
+    },
+    {
+      "name": "Rochester Community and Technical College",
+      "description": "Rochester Community and Technical College in Rochester, Minnesota.",
+      "id": "39595938",
+      "username": "RochesterCTC"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Dakota Gold",
+      "description": "POET Nutrition markets Dakota Gold (DDGS). As part of POET™, we\u0027re backed by the strength and resources of America\u0027s most innovative ethanol company.",
+      "id": "23763552",
+      "username": "poetnutrition"
+    },
+    {
+      "name": "POET",
+      "description": "For 35 years, we’ve been changing the world through sustainable, plant-based biofuels and bioproducts — and we’re just getting started.",
+      "id": "48377252",
+      "username": "POETbiofuels"
+    },
+    {
+      "name": "Gillette Children\u0027s",
+      "description": "We are a global beacon of care for patients with brain, bone and movement conditions. Founded 1897.",
+      "id": "25350830",
+      "username": "GilletteChildrn"
+    },
+    {
+      "name": "New Ulm Medical Ctr",
+      "description": "New Ulm Medical Center is a nonprofit hospital and clinic serving the region in and around Brown County located in south central Minnesota.",
+      "id": "2579154038",
+      "username": "NewUlmMedicalCt"
+    },
+    {
+      "name": "Mankato Clinic",
+      "description": "The Mankato Clinic is one of Minnesota\u0027s largest physician owned, multi-specialty practices. We bring quality healthcare services close to home.",
+      "id": "270851434",
+      "username": "MankatoClinic"
+    },
+    {
+      "name": "ABC 6 News - KAAL TV",
+      "description": "@ABC affiliate in southern MN \u0026 northern Iowa, covering news, weather, and sports in Rochester, Austin, Albert Lea, Mason City.",
+      "id": "24736682",
+      "username": "ABC6NEWS"
+    },
+    {
+      "name": "Congressional App Challenge",
+      "description": "We are the U.S. House of Representative\u0027s official coding competition. We promote STEM by inspiring our nation’s youth coding talent.??????",
+      "id": "1225814342",
+      "username": "CongressionalAC"
+    },
+    {
+      "name": "The Sugar Association",
+      "description": "As the scientific voice of the sugar industry, we’re here to help you get to know real sugar \u0026 understand its role in a balanced lifestyle.",
+      "id": "124534282",
+      "username": "MoreToSugar"
+    },
+    {
+      "name": "Committee on Education \u0026 Labor",
+      "description": "Building an America where everyone can succeed. Chairman @BobbyScott.",
+      "id": "7004382",
+      "username": "EdLaborCmte"
+    },
+    {
+      "name": "ACS CAN Minnesota",
+      "description": "Together we CAN fight back against cancer in MN and across the country. RTs/being followed does not equal endorsement.",
+      "id": "252188173",
+      "username": "ACSCANMN"
+    },
+    {
+      "name": "Minnesota Farm Bureau",
+      "description": "An advocate for agriculture driven by the beliefs and policies of our members.",
+      "id": "97286436",
+      "username": "MNFarmBureau"
+    },
+    {
+      "name": "AAOS",
+      "description": "The American Academy of Orthopaedic Surgeons is the go to source of musculoskeletal info for health care professionals, the media and the general public.",
+      "id": "31409605",
+      "username": "AAOS1"
+    },
+    {
+      "name": "Minnesota Pork Producers",
+      "description": "The Minnesota Pork Producers Association advocates for pig farmers and is a voice connecting them to St. Paul \u0026 Washington D.C. Tweet/Retweet not endoresement.",
+      "id": "126040197",
+      "username": "MinnesotaPork"
+    },
+    {
+      "name": "Rep. Michelle Fischbach",
+      "description": "Proudly representing Minnesota\u0027s 7th District in the U.S. House of Representatives. Serving on @HouseAgGOP, @JudiciaryGOP \u0026 @RulesReps.",
+      "id": "1344375287484723205",
+      "username": "RepFischbach"
+    },
+    {
+      "name": "ACEC/MN",
+      "description": "ACEC/MN is the leading business practice and policy advocate for consulting engineering firms in Minnesota. RTs are not endorsements.\n#EngineeringGoFigure",
+      "id": "351062722",
+      "username": "ACECMN"
+    },
+    {
+      "name": "Livestock Mktg Assoc",
+      "description": "The Livestock Marketing Association is committed to the support and protection of local livestock auction markets and the livestock marketing industry.",
+      "id": "108324580",
+      "username": "sellatauction"
+    },
+    {
+      "name": "Minnesota\u0027s Credit Unions",
+      "description": "Minnesota\u0027s credit unions are not for profit financial institutions that give back to their members in the forms of lower fees and higher interest rates.",
+      "id": "60956766",
+      "username": "mncreditunions"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Rep. James Comer",
+      "description": "Republican Leader on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1",
+      "id": "1274852794206388225",
+      "username": "RepJamesComer"
+    },
+    {
+      "name": "Glenn \"GT\" Thompson",
+      "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania\u0027s 15th Congressional District. #PA15",
+      "id": "18967498",
+      "username": "CongressmanGT"
+    },
+    {
+      "name": "Jimmy\u0027s Dressings",
+      "description": "Jimmy\u0027s Salad Dressings offers a complete line of refrigerated gourmet salad dressings and dips to suit every taste, find us in your grocer\u0027s produce department",
+      "id": "414601257",
+      "username": "JimmysDressings"
+    },
+    {
+      "name": "Ag Partners",
+      "description": "Farmer owned cooperative serving crop and livestock producers in Southern Minnesota and Western Wisconsin",
+      "id": "236861150",
+      "username": "AgPartnersMN"
+    },
+    {
+      "name": "AEMAdvocacy",
+      "description": "AEM represents 1000+ equipment manufacturers in N. America. We support 2.8M jobs that add $288B a year to the economy. Learn how we drive the industry forward.",
+      "id": "1151205165153828866",
+      "username": "AEMAdvocacy"
+    },
+    {
+      "name": "City of Stewartville",
+      "description": "This is the official Twitter page of the City of Stewartville. For more information see website or call: 507-533-4745. Social Media disclaimer on Facebook.",
+      "id": "2249350706",
+      "username": "StewartvilleMN"
+    },
+    {
+      "name": "WCCO - CBS Minnesota",
+      "description": "Thanks for your interest in WCCO | CBS News Minnesota - the place for local news updates! Want more? Head to https://t.co/ecqUasilwr or our WCCO-TV Facebook page.",
+      "id": "13000872",
+      "username": "WCCO"
+    },
+    {
+      "name": "KTOE News",
+      "description": "Mankato\u0027s News - Sports - Talk",
+      "id": "305835679",
+      "username": "ktoenews"
+    },
+    {
+      "name": "SouthCentral College",
+      "description": "Follow us for school news, events, and more.",
+      "id": "443968243",
+      "username": "SCCollege"
+    },
+    {
+      "name": "Nidec Motor Corporation",
+      "description": "Official Twitter account of Nidec Motor Corp., manufacturer of U.S. MOTORS branded motors. Part of the Nidec family, creating everything that spins and moves",
+      "id": "983815555944714240",
+      "username": "NidecMotorCorp"
+    },
+    {
+      "name": "DaVita",
+      "description": "Improving the quality of life for patients through clinical innovation and integrated, personalized care. Creating a community where everyone feels they belong.",
+      "id": "28676469",
+      "username": "DaVita"
+    },
+    {
+      "name": "Blue Earth County",
+      "description": "Official tweet of Blue Earth County, Minnesota.",
+      "id": "816146906",
+      "username": "BlueEarthCounty"
+    },
+    {
+      "name": "Ellingson",
+      "description": "Ellingson Co. specializes in Farm Drainage, Directional Drilling, CIPP, Community Sewer Systems, \u0026 Trenchless Technology.",
+      "id": "467842902",
+      "username": "EllingsonCo"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "Pete Stauber",
+      "description": "Proud to represent Minnesota\u0027s 8th Congressional District.",
+      "id": "1075830599007510535",
+      "username": "RepPeteStauber"
+    },
+    {
+      "name": "House Ag GOP",
+      "description": "The reliable voice for #RuralAmerica. News and updates from House Agriculture Committee Republicans led by @CongressmanGT.",
+      "id": "234573331",
+      "username": "HouseAgGOP"
+    },
+    {
+      "name": "Michelle Fischbach",
+      "description": "Campaign account of Michelle Fischbach, Congresswoman for western Minnesota’s 7th District. Proven Conservative, Proven Leader. #MN07",
+      "id": "1159929043816460288",
+      "username": "FischbachMN7"
+    },
+    {
+      "name": "Governor Tim Walz",
+      "description": "Dad, husband, teacher, coach, veteran. Governor of Minnesota. Working to move our state forward as #OneMinnesota.",
+      "id": "1064603540956565504",
+      "username": "GovTimWalz"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "NEWSMAX",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "id": "20545835",
+      "username": "NEWSMAX"
+    },
+    {
+      "name": "KARE 11",
+      "description": "KARE 11 News, https://t.co/yzDe0XAKOQ and the KARE 11 app are the places to go for all your news, weather, sports and traffic. Part of #teamTEGNA",
+      "id": "13001192",
+      "username": "kare11"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Reuters",
+      "description": "Top and breaking news, pictures and videos from Reuters. For more breaking business news, follow @ReutersBiz.",
+      "id": "1652541",
+      "username": "Reuters"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "GOP",
+      "description": "Text FREEDOM to 80810 to receive exclusive updates from the Republican National Committee!",
+      "id": "11134252",
+      "username": "GOP"
+    },
+    {
+      "name": "Star Tribune",
+      "description": "Minnesota\u0027s top choice for news. https://t.co/1lOWKpK3lo Journalists: https://t.co/4caODBCybP Behind the scenes: @btstartribune ? https://t.co/3PwVWJmvfC",
+      "id": "17348525",
+      "username": "StarTribune"
+    },
+    {
+      "name": "Amy Klobuchar",
+      "description": "U.S. Senator from Minnesota.",
+      "id": "33537967",
+      "username": "amyklobuchar"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Fox News",
+      "description": "Follow America\u0027s #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "id": "1367531",
+      "username": "FoxNews"
+    },
+    {
+      "name": "KSTP",
+      "description": "KSTP-TV, the home of 5 Eyewitness News and ABC in the Twin Cities.  KSTP-TV is a station of Hubbard Broadcasting, Inc., a pioneering broadcast company.",
+      "id": "17278675",
+      "username": "KSTP"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    }
+  ],
+  "id": "1563316176717246464",
+  "username": "repfinstad"
+}

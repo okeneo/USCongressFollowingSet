@@ -1,0 +1,2958 @@
+{
+  "following": [
+    {
+      "name": "RSC",
+      "description": "The Republican Study Committee (RSC) is the largest conservative caucus in the House of Representatives. Chaired by @RepJimBanks (IN-03).",
+      "id": "22528309",
+      "username": "RepublicanStudy"
+    },
+    {
+      "name": "Congressman Drew Ferguson",
+      "description": "Proudly serving the good folks of Georgia’s Third Congressional District. @WaysandMeansGOP \u0026 @GOPDoctors Caucus member. Chief Deputy Whip for @HouseGOP.",
+      "id": "806583915012046854",
+      "username": "RepDrewFerguson"
+    },
+    {
+      "name": "Texas Bankers Association",
+      "description": "We are the largest and oldest state association of bankers in the nation, and we\u0027re proud to represent the banks of Texas. #StrongBanks #StrongerCommunities",
+      "id": "50676668",
+      "username": "texasbankers"
+    },
+    {
+      "name": "Rep. Claudia Tenney",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP \u0026 @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit https://t.co/dwIltL8lOk.",
+      "id": "797201048490430465",
+      "username": "RepTenney"
+    },
+    {
+      "name": "Blockchain Caucus",
+      "description": "Official Twitter for the bipartisan Blockchain Caucus, chaired by @RepTomEmmer, @RepDarrenSoto, @RepDavid, and @RepBillFoster",
+      "id": "1432441903262355462",
+      "username": "BlockCaucus"
+    },
+    {
+      "name": "Rep. María Elvira Salazar",
+      "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP \u0026 @HSBCgop | #FL27?????",
+      "id": "1325928411689349120",
+      "username": "RepMariaSalazar"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "VisitFriscoTX",
+      "description": "Official Frisco info from Visit Frisco. Home to sports, shopping, food \u0026 fun. Tag your tweets #FriscoTX!",
+      "id": "15357456",
+      "username": "visitfriscotx"
+    },
+    {
+      "name": "The Faulkner Focus",
+      "description": "Watch weekdays at 11am ET on Fox News Channel.",
+      "id": "912759481766957057",
+      "username": "FaulknerFocus"
+    },
+    {
+      "name": "Rep. Scott Fitzgerald",
+      "description": "Official account for Congressman Scott Fitzgerald, proudly serving Wisconsin’s Fifth District. #WI05",
+      "id": "1004891731",
+      "username": "RepFitzgerald"
+    },
+    {
+      "name": "AARP Texas",
+      "description": "Dedicated to empowering Texans to choose how they live as they age aarptx@aarp.org",
+      "id": "44137955",
+      "username": "AARPTX"
+    },
+    {
+      "name": "Jim Banks",
+      "description": "Father. Husband. US Navy/Afghanistan Veteran. Indiana Congressman.",
+      "id": "816131319033950208",
+      "username": "RepJimBanks"
+    },
+    {
+      "name": "Rep. Jerry Carl",
+      "description": "I’m proud to represent Alabama’s 1st Congressional District in Congress. Currently serving on @HASCRepublicans and @NatResources.",
+      "id": "1341091420439015424",
+      "username": "RepJerryCarl"
+    },
+    {
+      "name": "Rep Andy Biggs",
+      "description": "Representing Arizona\u0027s Fighting Fifth.",
+      "id": "816652616625168388",
+      "username": "RepAndyBiggsAZ"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "Congresswoman Debbie Lesko",
+      "description": "Proudly representing Arizona\u0027s 8th Congressional District in Congress. Member of @HouseCommerce. #AZ08",
+      "id": "996094929733652481",
+      "username": "RepDLesko"
+    },
+    {
+      "name": "Rep. Mike Johnson",
+      "description": "Christian, husband, dad serving LA\u0027s 4th Congressional District since ‘17. Vice Chairman of House Republicans. Constitutional law attorney \u0026 small biz owner.",
+      "id": "827279765287559171",
+      "username": "RepMikeJohnson"
+    },
+    {
+      "name": "Markie Martin",
+      "description": "@newsnation Correspondent | Pilot | Traveler | Word Nerd | Food + Fitness Enthusiast",
+      "id": "2213302458",
+      "username": "MarkieMartin"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "description": "Brooklyn \u0026 Queens Congressman. Chair @HouseDemocrats. Speak truth. Do the work. Change America.",
+      "id": "467823431",
+      "username": "RepJeffries"
+    },
+    {
+      "name": "Congressman Scott Franklin",
+      "description": "Proudly representing Florida\u0027s 15th Congressional District. \n\"Not for self, but for country.\"",
+      "id": "1343664721384398849",
+      "username": "RepFranklin"
+    },
+    {
+      "name": "Rep. Jack Bergman",
+      "description": "U.S. Rep for #Mi01, Lt. General, USMC (ret), Yooper, Pilot, Proud Grandfather. Serving on VA and Armed Services Committees.",
+      "id": "815241612154417152",
+      "username": "RepJackBergman"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "description": "Serving #IL16 as a Member of Congress \u0026 as a pilot in the Air National Guard. Proud to stand up for democracy \u0026 truth. #CountryFirst",
+      "id": "219429281",
+      "username": "RepKinzinger"
+    },
+    {
+      "name": "Kai Kahele",
+      "description": "https://t.co/lqIvb22ioW",
+      "id": "4863545294",
+      "username": "kaikahele"
+    },
+    {
+      "name": "Rob Finnerty",
+      "description": "Don\u0027t give up. Don\u0027t ever give up. HOST OF WAKE UP AMERICA ON NEWSMAX??",
+      "id": "195773944",
+      "username": "RobFinnertyUSA"
+    },
+    {
+      "name": "NEWSMAX",
+      "description": "Real News for Real People. \n\nWatch NEWSMAX, an independent news network with a conservative perspective, available in 100M+ U.S. homes: https://t.co/rs8XZDalW3",
+      "id": "20545835",
+      "username": "NEWSMAX"
+    },
+    {
+      "name": "Patrick McHenry",
+      "description": "I represent the citizens of North Carolina’s 10th District in the United States Congress.",
+      "id": "27676828",
+      "username": "PatrickMcHenry"
+    },
+    {
+      "name": "Rep. Bill Huizenga",
+      "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+      "id": "233949261",
+      "username": "RepHuizenga"
+    },
+    {
+      "name": "Archive: Steve Stivers",
+      "description": "The archived tweets of Steve Stivers, Representative for Ohio\u0027s 15th Congressional District from January 3, 2011 to May 17, 2021.",
+      "id": "211420609",
+      "username": "RepSteveStivers"
+    },
+    {
+      "name": "Rep. Scott Tipton",
+      "description": "Former representative of Colorado\u0027s 3rd Congressional District.",
+      "id": "242873057",
+      "username": "RepTipton"
+    },
+    {
+      "name": "Ann Wagner",
+      "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+      "id": "1051446626",
+      "username": "RepAnnWagner"
+    },
+    {
+      "name": "Rep. Andy Barr",
+      "description": "KY-06 District Congressman \u0026 Member of House Foreign Affairs \u0026 Financial Services Committees.",
+      "id": "1089334250",
+      "username": "RepAndyBarr"
+    },
+    {
+      "name": "Rep. Barry Loudermilk",
+      "description": "Representing Georgia\u0027s 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+      "id": "2914163523",
+      "username": "RepLoudermilk"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Rep. Alex Mooney",
+      "description": "Husband, Father, Conservative Representing West Virginia\u0027s 2nd Congressional District. #wv02 #wvpol Member of @financialcmte",
+      "id": "2964526557",
+      "username": "RepAlexMooney"
+    },
+    {
+      "name": "Congressman Ted Budd",
+      "description": "Proudly serving the 13th district of North Carolina. Instagram: reptedbudd",
+      "id": "817138492614524928",
+      "username": "RepTedBudd"
+    },
+    {
+      "name": "Rep. David Kustoff",
+      "description": "Official news and updates from Congressman David Kustoff, Proudly serving the 8th District of Tennessee",
+      "id": "816012124505931780",
+      "username": "RepDavidKustoff"
+    },
+    {
+      "name": "Trey Hollingsworth",
+      "description": "Proudly serving my fellow Hoosiers of Indiana\u0027s 9th District. Member of the House Financial Services Committee.",
+      "id": "811986281177772032",
+      "username": "RepTrey"
+    },
+    {
+      "name": "Maxine Waters",
+      "description": "Proudly serving the people of California\u0027s 43rd District in Congress. Chairwoman of the House Financial Services Committee (@FSCDems).",
+      "id": "36686040",
+      "username": "RepMaxineWaters"
+    },
+    {
+      "name": "French Hill",
+      "description": "Official account of Rep. French Hill. 9th generation Arkansan. @FinancialCmte Subcommittee Ranking Member. Proudly representing AR-02.",
+      "id": "2953974395",
+      "username": "RepFrenchHill"
+    },
+    {
+      "name": "Rep. Burgess Owens",
+      "description": "Proudly serving Utah\u0027s 4th Congressional District. Member of @EdLaborGOP \u0026 @JudiciaryGOP.",
+      "id": "1344481217685692416",
+      "username": "RepBurgessOwens"
+    },
+    {
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa\u0027s Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "id": "1345807954604412929",
+      "username": "RepMMM"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "Rep. Mike Bost",
+      "description": "Proudly representing IL-12 in Congress. Lead Republican on @HouseVetAffairs \u0026 member of @TransportGOP. Find me on FB at https://t.co/KNuvZ7dbsu",
+      "id": "2964877294",
+      "username": "RepBost"
+    },
+    {
+      "name": "Rep. Jimmy Panetta",
+      "description": "I am honored to represent California\u0027s new 19th congressional district in the U.S. House of Representatives.",
+      "id": "796736612554117120",
+      "username": "RepJimmyPanetta"
+    },
+    {
+      "name": "Rep. Gallagher Press Office",
+      "description": "Tweets from the staff of Rep. Gallagher. For more information visit his website.",
+      "id": "815966620300480514",
+      "username": "RepGallagher"
+    },
+    {
+      "name": "Rep. Salud Carbajal",
+      "description": "Father, husband and veteran proudly representing California’s 24th District. Working to protect the environment, improve our economy, and support our veterans.",
+      "id": "816157667882373120",
+      "username": "RepCarbajal"
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "description": "Air Force veteran, engineer, entrepreneur, educator and the first woman ever to represent Pennsylvania\u0027s 6th District in Congress.",
+      "id": "1052896620797460481",
+      "username": "RepHoulahan"
+    },
+    {
+      "name": "Rep. Jason Crow",
+      "description": "Dad. Little League Baseball Coach. Army Ranger. Westerner \u0026 Whiskey Enthusiast. Congressman Serving CO-06. ?",
+      "id": "1080191866509901826",
+      "username": "RepJasonCrow"
+    },
+    {
+      "name": "Rep. Elaine Luria",
+      "description": "Navy Veteran, former small business owner, and mom. Proud to serve the people of Virginia’s 2nd Congressional District!",
+      "id": "1080292515939565568",
+      "username": "RepElaineLuria"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Rep. Peter Meijer",
+      "description": "Former Afghanistan aid worker, Iraq Veteran, and subsidiarity proponent proudly representing West Michigan #MI03 in Congress. https://t.co/dOUskSS89O",
+      "id": "1334164871420796928",
+      "username": "RepMeijer"
+    },
+    {
+      "name": "Rep. Henry Cuellar",
+      "description": "Proudly representing the 28th Congressional District of Texas.",
+      "id": "210926192",
+      "username": "RepCuellar"
+    },
+    {
+      "name": "Judge Carter",
+      "description": "U.S. Congressman proudly serving #TX31 \u0026 @forthood. Former Judge. Proud @TexasTech #RedRaider.",
+      "id": "18030431",
+      "username": "JudgeCarter"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "description": "Representing communities from San Antonio to Austin. Chairman of the Health Subcommittee on the House Ways \u0026 Means Committee.",
+      "id": "153944899",
+      "username": "RepLloydDoggett"
+    },
+    {
+      "name": "Rep. Kay Granger",
+      "description": "Representing the 12th District of Texas. Ranking Member of the House Appropriations Committee. #TX12",
+      "id": "161743731",
+      "username": "RepKayGranger"
+    },
+    {
+      "name": "Rep. Eddie Bernice Johnson",
+      "description": "Representing Texas’s 30th Congressional District. Chairwoman of @HouseScience. Dean of the Texas Delegation. First Registered Nurse elected to Congress.",
+      "id": "168502762",
+      "username": "RepEBJ"
+    },
+    {
+      "name": "Rep. Lloyd Doggett",
+      "description": "U.S. Representative, Running to represent ATX, the only place I\u0027ve ever called home. #TX37 Onward! #Worksforus",
+      "id": "170111219",
+      "username": "LloydDoggettTX"
+    },
+    {
+      "name": "Rep. Marc Veasey",
+      "description": "Represent Dallas-Fort Worth | Assistant Whip | @energycommerce | @HASCDemocrats | #GunViolencePrevention Taskforce Whip | Voting Rights Caucus + @bluecollardems",
+      "id": "1074129612",
+      "username": "RepVeasey"
+    },
+    {
+      "name": "Rep. Roger Williams",
+      "description": "Conservative fighting for lower taxes, less regulations and more freedom for Texans. Honored to serve TX-25. Member of @FinancialCmte and @HSBCgop",
+      "id": "1077446982",
+      "username": "RepRWilliams"
+    },
+    {
+      "name": "US Rep. Filemon Vela",
+      "description": "U.S. Congressman for the 34th District of Texas - Privileged to represent South Texans.",
+      "id": "1083448909",
+      "username": "RepFilemonVela"
+    },
+    {
+      "name": "Brian Babin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space \u0026 Aeronautics Subcmte, Border Sec co-chair \u0026 serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "id": "2929491549",
+      "username": "RepBrianBabin"
+    },
+    {
+      "name": "Rep. Vicente Gonzalez",
+      "description": "Proudly representing the 15th District of Texas in U.S. Congress #VaccinesWork #TX15",
+      "id": "818536152588238849",
+      "username": "RepGonzalez"
+    },
+    {
+      "name": "Rep. Veronica Escobar",
+      "description": "Tejana. Fronteriza. Proudly representing the 16th Congressional District of Texas in the U.S. House of Representatives.",
+      "id": "1075517806551154689",
+      "username": "RepEscobar"
+    },
+    {
+      "name": "Rep. Sylvia Garcia",
+      "description": "Member of Congress, TX-29. Includes Houston, Galena Park, Jacinto City, South Houston \u0026 Pasadena. Passionate about public service. Fighting for working people.",
+      "id": "1080587263132733442",
+      "username": "RepSylviaGarcia"
+    },
+    {
+      "name": "Rep. Chip Roy Press Office",
+      "description": "This is a staff account to provide updates to our constituents in Texas\u0027 21st District.",
+      "id": "1082790600292925440",
+      "username": "RepChipRoy"
+    },
+    {
+      "name": "Ronny Jackson",
+      "description": "Congressman for #TX13 | Former White House Physician \u0026 Retired Navy Rear Admiral | Texan, Veteran, Physician, Leader",
+      "id": "1201953403099893760",
+      "username": "RonnyJacksonTX"
+    },
+    {
+      "name": "Ronny Jackson",
+      "description": "Proudly serving the people of #TX13 in Congress.",
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson"
+    },
+    {
+      "name": "Congressman Troy Nehls",
+      "description": "Proudly serving the people of Texas\u0027 22nd Congressional District in the United States House of Representatives. @freedomcaucus",
+      "id": "1347318288850825217",
+      "username": "RepTroyNehls"
+    },
+    {
+      "name": "Lavon Police Department",
+      "description": "Welcome to the OFFICIAL page of the Lavon Police Department. This page is NOT monitored 24/7, please call 911 if you have an emergency.",
+      "id": "990281161565003781",
+      "username": "LavonPolice"
+    },
+    {
+      "name": "Prosper Fire Rescue",
+      "description": "Welcome to the official Twitter page of the Prosper Fire Department. For immediate assistance, please call 9-1-1.",
+      "id": "3301552531",
+      "username": "ProsperFireDept"
+    },
+    {
+      "name": "mckinneyfire",
+      "description": "The McKinney Fire Department promotes and protects the health and safety of the community. \nUser Guidelines: https://t.co/I5sdoUFkPi",
+      "id": "952599771742601218",
+      "username": "mckinneytxfire"
+    },
+    {
+      "name": "Texas Insider",
+      "description": "Keeping you up to date with insider politics from the Lone Star State.",
+      "id": "17563655",
+      "username": "texasinsider"
+    },
+    {
+      "name": "Spectrum News 1 Texas",
+      "description": "Spectrum News 1 is a 24-hour local news channel exclusively available to Spectrum customers in Texas.",
+      "id": "16318652",
+      "username": "SpectrumNews1TX"
+    },
+    {
+      "name": "Texas Observer @TexasObserver.Social ?",
+      "description": "A nonprofit progressive investigative outlet covering Texas since 1954. Subscribe: https://t.co/skfZ4iY1Z3\nMastodon: @texasobserver@texasobserver.social",
+      "id": "15021918",
+      "username": "TexasObserver"
+    },
+    {
+      "name": "Karen Borta",
+      "description": "Wife \u0026 mom of three, Native Texan, and for the past 25+ years have anchored the news at CBS 11. Love reading, writing, and just being w/my family and friends.",
+      "id": "127976956",
+      "username": "CBS11Karen"
+    },
+    {
+      "name": "Jack Fink",
+      "description": "Political reporter at KTVT-TV CBS-11 in Dallas-Fort Worth. RTs not endorsements.",
+      "id": "408845142",
+      "username": "cbs11jack"
+    },
+    {
+      "name": "Deborah Ferguson",
+      "description": "Host of NBC5 Today, weekday mornings 4:30-7. Opinions are my own. RT are not endorsements.",
+      "id": "21681351",
+      "username": "DeborahNBC5"
+    },
+    {
+      "name": "Ken Kalthoff",
+      "description": "Reporter NBC5 KXAS TV. Opinions are my own, retweets and links are not endorsements. Dallas and DFW area news. (Reporter since 1980, Gosh a long time!)",
+      "id": "425189805",
+      "username": "KenKalthoffNBC5"
+    },
+    {
+      "name": "Jobin Panicker",
+      "description": "Emmy Award winning WFAA-ABC Reporter in Dallas. Wife, two boys, and a girl. Love the Lakers, Gonzaga, and the show The Office. Views are my own.",
+      "id": "868849578",
+      "username": "jobinpnews"
+    },
+    {
+      "name": "Brandon Todd",
+      "description": "Morning Anchor for FOX 4\u0027s Good Day..Husband, Dad, cookie enthusiast..trying to make every tweet count.",
+      "id": "33750647",
+      "username": "BrandonToddFOX4"
+    },
+    {
+      "name": "Tanya Eiserer",
+      "description": "@wfaa investigative reporter. Veteran police and criminal justice journalist. Mom. Wine aficionado. Email: teiserer@wfaa.com.",
+      "id": "270952890",
+      "username": "tanyaeiserer"
+    },
+    {
+      "name": "ScottGordonNBC5",
+      "description": "News reporter for NBC 5 in Dallas-Fort Worth. Opinions are mine. Re-tweets are not endorsements. Email me @ Scott.Gordon@NBC.com",
+      "id": "18174031",
+      "username": "ScottGordonNBC5"
+    },
+    {
+      "name": "Brian Curtis",
+      "description": "6 \u0026 10 p.m. anchor at NBC 5 in DFW. News junkie. Olympics nerd. Dog dad. Occasionally broadcast from my garage. M-I-Z!",
+      "id": "195959366",
+      "username": "BrianCurtisNBC5"
+    },
+    {
+      "name": "Jason Wheeler",
+      "description": "News anchor/reporter @wfaa.  I\u0027m also a passionate traveler, amateur chef, tennis player, husband, dad \u0026 optimist.      https://t.co/uHnDSRi5Tl",
+      "id": "19599449",
+      "username": "jasonwheelertv"
+    },
+    {
+      "name": "Houston Chronicle",
+      "description": "Documenting life in #Houston, Texas and beyond.",
+      "id": "8940342",
+      "username": "HoustonChron"
+    },
+    {
+      "name": "Texas Tribune",
+      "description": "A member-supported, nonprofit and nonpartisan newsroom informing \u0026 engaging Texans on state politics \u0026 policy. Sign up for our daily email: https://t.co/mhtlCsZCYs",
+      "id": "44513878",
+      "username": "TexasTribune"
+    },
+    {
+      "name": "Fort Worth Star-Telegram",
+      "description": "Fort Worth and Tarrant County\u0027s source for breaking news, analysis and sports. Submit a news tip: https://t.co/XGY4yc0Jmz",
+      "id": "15615783",
+      "username": "startelegram"
+    },
+    {
+      "name": "1080 KRLD",
+      "description": "? DFW\u0027s most trusted source for news, weather, and traffic. \n? Always LIVE on the free @Audacy app",
+      "id": "16950863",
+      "username": "KRLD"
+    },
+    {
+      "name": "Dallas Business Journal",
+      "description": "The No. 1 source for business news and events in North Texas. Part of the @bizjournals network.",
+      "id": "26307302",
+      "username": "DallasBizNews"
+    },
+    {
+      "name": "Austin Statesman",
+      "description": "The Austin American-Statesman is the leading source of daily news for Austin, Texas. Support local news and become a subscriber: https://t.co/M2w6phSoda",
+      "id": "5692542",
+      "username": "statesman"
+    },
+    {
+      "name": "Texas Monthly",
+      "description": "Covering Texas news, politics, food, culture, travel, and more. RTs not endorsements. Tweets by @tayloraprewitt. Subscribe: https://t.co/pEPK7BcJ90",
+      "id": "16365305",
+      "username": "TexasMonthly"
+    },
+    {
+      "name": "TDHCA",
+      "description": "The Texas Department of Housing and Community Affairs: Building Homes. Strengthening Communities. #AffordableHousing https://t.co/q2EWYo12cM",
+      "id": "199688288",
+      "username": "TDHCA"
+    },
+    {
+      "name": "Texas DFPS",
+      "description": "Child Protective Services/Adult Protective Services/Services for Families/Foster Care/Adoption/Abuse-Neglect Prevention/Investigations",
+      "id": "250710465",
+      "username": "TexasDFPS"
+    },
+    {
+      "name": "PUC of Texas",
+      "description": "The mission of the Public Utility Commission of Texas is to protect customers, foster competition, and promote high quality utility infrastructure.",
+      "id": "71323306",
+      "username": "PUCTX"
+    },
+    {
+      "name": "Rep. Tony Gonzales",
+      "description": "Husband to Angel, father x 6, @USNavy Master Chief (Ret.) \u0026 former cryptologist. Proudly serving Texas’ 23rd District on @HouseAppropsGOP ??",
+      "id": "1343627416120532992",
+      "username": "RepTonyGonzales"
+    },
+    {
+      "name": "Congresswoman Beth Van Duyne",
+      "description": "Single mother. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",
+      "id": "1339633259349745670",
+      "username": "RepBethVanDuyne"
+    },
+    {
+      "name": "Rep. August Pfluger",
+      "description": "US Air Force Colonel (Res.), F-22 Fighter Pilot, Husband, Father, and Congressman for the 11th District of Texas.",
+      "id": "1341120751399809026",
+      "username": "RepPfluger"
+    },
+    {
+      "name": "Congressman Al Green",
+      "description": "Proud to represent TX-09 in the U.S. House of Representatives \n• https://t.co/Lcfa10jIfH • https://t.co/MXGp8OLtZm \n#First58 #Historic66 #Noble95",
+      "id": "156333623",
+      "username": "RepAlGreen"
+    },
+    {
+      "name": "Louie Gohmert",
+      "description": "Former Capt., Asst. DA, Judge, Chief Justice \u0026 Congressman \nTruth Teller",
+      "id": "22055226",
+      "username": "replouiegohmert"
+    },
+    {
+      "name": "Rep. Kevin Brady",
+      "description": "Dad. Husband. Top Republican @WaysandMeansGOP. Loves: Baseball, Texas, and Tax Reform.",
+      "id": "19926675",
+      "username": "RepKevinBrady"
+    },
+    {
+      "name": "Pete Sessions",
+      "description": "Proudly Representing the 17th Congressional District of Texas.",
+      "id": "24735461",
+      "username": "PeteSessions"
+    },
+    {
+      "name": "McKinney CDC",
+      "description": "MCDC funds community and economic development projects to promote and preserve the quality of life in McKinney. https://t.co/qAGrl0e0ET",
+      "id": "602124263",
+      "username": "mckinneycdc"
+    },
+    {
+      "name": "PlanoChamber",
+      "description": "We work to promote local economic growth, foster business-friendly public policies and serve members through exceptional programs, benefits and services.",
+      "id": "1198426766",
+      "username": "PlanoTXChamber"
+    },
+    {
+      "name": "WylieFireRescue",
+      "description": "The Official Twitter page for Wylie Fire Rescue - For Casual Interest only.",
+      "id": "68444860",
+      "username": "WylieFireRescue"
+    },
+    {
+      "name": "Wylie EDC",
+      "description": "This is the Wylie Economic Development Corporation (WEDC) Official Twitter Account. Contact us directly for more information about Wylie, TX!  972-442-7901",
+      "id": "1049325851026837504",
+      "username": "WylieEDC"
+    },
+    {
+      "name": "North Texas PIO",
+      "description": "The mission of the North Texas PIO Group is to partner with media outlets and other stakeholders to keep the public informed.",
+      "id": "1491512137",
+      "username": "NorthTXPIO"
+    },
+    {
+      "name": "Richardson Police Recruiting",
+      "description": "The Richardson Police Department is hiring! Contact a recruiter at 972-744-4845 or RPDrecruiting@cor.gov for more info. See website for more info!",
+      "id": "1044975314466680832",
+      "username": "RPD_Recruiting"
+    },
+    {
+      "name": "Dallas Fire Rescue Incidents",
+      "description": "Active incidents from the Dallas Fire-Rescue Department. For news and safety tips follow @DallasFireRes_q",
+      "id": "21171175",
+      "username": "dfrincidents"
+    },
+    {
+      "name": "NBCDFWCommunity",
+      "description": "Welcome to the NBC DFW Community Affairs Twitter page.",
+      "id": "4120556734",
+      "username": "NBCDFWCommunity"
+    },
+    {
+      "name": "Frisco PD SRO Unit",
+      "description": "Frisco, TX Police Dept. School Resource Officer division. Officers assigned to 11 HS, DAEP, CTE, \u0026 15 MS in Frisco. NASRO trained. *not monitored 24/7*",
+      "id": "756839372456996864",
+      "username": "FriscoPD_SRO"
+    },
+    {
+      "name": "Richardson Today",
+      "description": "“Richardson Today” is a monthly newsletter produced by the City of Richardson that is the City’s main conduit for news about City services and events.",
+      "id": "390411281",
+      "username": "RichardsonToday"
+    },
+    {
+      "name": "Texas Highway Patrol",
+      "description": "Official Twitter feed of the Texas Highway Patrol, a division of the @TxDPS. FOR EMERGENCIES, CALL 9-1-1.",
+      "id": "1071163109241487360",
+      "username": "TexasHwyPatrol"
+    },
+    {
+      "name": "Good Day",
+      "description": "Good Day Fox 4 Dallas Fort Worth",
+      "id": "37987388",
+      "username": "GoodDayFox4"
+    },
+    {
+      "name": "City of Wylie OEM",
+      "description": "Wylie, TX, Collin County",
+      "id": "71376148",
+      "username": "WylieOEM"
+    },
+    {
+      "name": "Valerie Wigglesworth",
+      "description": "A journalist, a mom, avid reader, fan of writing \u0026 movies, a sucker for cute animal pics",
+      "id": "16046063",
+      "username": "vlwigg"
+    },
+    {
+      "name": "Frisco Fire Dept",
+      "description": "Official Twitter of the Frisco Fire Department | Feed not monitored 24/7 | Emergencies call 911 | Non-emergencies 972-292-6300",
+      "id": "755860544377061376",
+      "username": "FriscoFFD"
+    },
+    {
+      "name": "Plano Magazine",
+      "description": "The Guide to the Good Stuff in Plano, TX: food \u0026 drink, art, live music, locally made products, events and more. #PlanoGoodStuff",
+      "id": "2980785986",
+      "username": "PlanoMagazine"
+    },
+    {
+      "name": "CDC Emergency",
+      "description": "The handle for CDC\u0027s Center for Preparedness and Response (CPR). We tweet ways to #PrepYourHealth, abt public health preparedness, \u0026 during emergency responses.",
+      "id": "19658936",
+      "username": "CDCemergency"
+    },
+    {
+      "name": "McKinney ISD",
+      "description": "",
+      "id": "105158040",
+      "username": "mckinneyisd"
+    },
+    {
+      "name": "Collin County News",
+      "description": "What\u0027s happening in Collin County... news, events, places and even police reports. Follow us and find out what\u0027s happening in our area.",
+      "id": "220359228",
+      "username": "Collin_County"
+    },
+    {
+      "name": "Community Impact McKinney",
+      "description": "McKinney edition — Our mission is to build communities of informed citizens and thriving businesses through the collaboration of a passionate team.",
+      "id": "3056884500",
+      "username": "impactnews_mck"
+    },
+    {
+      "name": "Melissa Area Chamber",
+      "description": "Joining the Melissa Chamber is good business ..... and good for business!  Let us start promoting your business today!",
+      "id": "95488307",
+      "username": "MelissaTX_MACC"
+    },
+    {
+      "name": "American Red Cross Greater North Texas",
+      "description": "Official TW for the American Red Cross North Texas Region serving 121 counties from Amarillo - Texarkana \u0026 everywhere between!\nhttps://t.co/3zHZV7e1Hl",
+      "id": "17983739",
+      "username": "RedCrossNTX"
+    },
+    {
+      "name": "Texas State Parks",
+      "description": "Official Twitter for #TexasStateParks, managed by the Texas Parks \u0026 Wildlife Department. Your adventure begins here, https://t.co/2i1SXf5rK2.",
+      "id": "62527063",
+      "username": "TPWDparks"
+    },
+    {
+      "name": "NTX Poison Center",
+      "description": "Free, confidential poison help 24/7 by calling 1-800-222-1222. \nFunded in part by HRSA. For details, visit: https://t.co/rH4uTzsAkm",
+      "id": "82684605",
+      "username": "NTXPoisonCenter"
+    },
+    {
+      "name": "TxDOT Dallas",
+      "description": "Official TxDOT Dallas District: Dallas, Denton, Collin, Rockwall, Kaufman, Ellis \u0026 Navarro counties. View traffic at https://t.co/AY5eibfwIg; call 911 to report hazards.",
+      "id": "63829781",
+      "username": "TxDOTDallas"
+    },
+    {
+      "name": "CBS11",
+      "description": "This account *not* monitored 24/7. For news tweets/tips: @CBSDFW",
+      "id": "213501060",
+      "username": "CBS11"
+    },
+    {
+      "name": "Collin County DA",
+      "description": "The official page of the Collin County Criminal District Attorney\u0027s Office. #PursuingJustice #ProtectingOurCommunity #CollinCountyDA",
+      "id": "798895988505268224",
+      "username": "collincountyda"
+    },
+    {
+      "name": "The Sachse News",
+      "description": "The Sachse News has been covering Sachse, Texas for over 15 years. To subscribe call 972.442.5515, x34.",
+      "id": "74541780",
+      "username": "TheSachseNews"
+    },
+    {
+      "name": "Sachse High School",
+      "description": "Sachse High School is a 9th - 12th grade campus in Garland ISD.",
+      "id": "749423473",
+      "username": "SHS_Mustangs"
+    },
+    {
+      "name": "Garland ISD",
+      "description": "The official account of Garland ISD, which serves 54,000 students throughout the North Texas communities of Garland, Rowlett \u0026 Sachse. #TheGISDEffect",
+      "id": "143449957",
+      "username": "gisdnews"
+    },
+    {
+      "name": "City of Princeton",
+      "description": "",
+      "id": "2811510368",
+      "username": "Princeton_Texas"
+    },
+    {
+      "name": "Prosper Economic Development Corporation",
+      "description": "The Official page of the Prosper, Texas Economic Development Corporation. 972.569.1170",
+      "id": "1380313050",
+      "username": "ProsperTXEDC"
+    },
+    {
+      "name": "Richardson ISD",
+      "description": "RISD - Where all students connect, learn, grow and succeed. #RISDBelieves #RISDProud #RISDGrown",
+      "id": "34403882",
+      "username": "RichardsonISD"
+    },
+    {
+      "name": "Farmersville Fire Department-Texas",
+      "description": "Official Twitter for the Farmersville Fire Department. This account is not monitored 24/7. Emergencies Dial 911. Non-Emergency (972)782-6093",
+      "id": "3059963779",
+      "username": "FarmersvilleFD"
+    },
+    {
+      "name": "City of Carrollton",
+      "description": "Official City of Carrollton Texas twitter. The City of Carrollton is not responsible for any comments or personal views of our followers. Not monitored 24/7.",
+      "id": "22685335",
+      "username": "CarrolltonTX"
+    },
+    {
+      "name": "City Of Blue Ridge TX",
+      "description": "",
+      "id": "1148608094169161731",
+      "username": "CityRidge"
+    },
+    {
+      "name": "Texas Department of Insurance",
+      "description": "Official Texas Department of Insurance (TDI) Twitter account. ?? Help Line: 800-252-3439 | M-F, 8am-5pm CST. ? Social media policy: https://t.co/7Z8CdNyX5C",
+      "id": "2174897336",
+      "username": "TexasTDI"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "Rep. Lizzie Fletcher",
+      "description": "Honored and proud to represent Texas\u0027 7th Congressional District in Houston, where inclusion, innovation, and collaboration thrive. #TX07",
+      "id": "1075904377221722113",
+      "username": "RepFletcher"
+    },
+    {
+      "name": "Rep. Pat Fallon",
+      "description": "Proudly representing the people of Texas\u0027 4th Congressional District in the United States House of Representatives.",
+      "id": "1343258042704527362",
+      "username": "RepPatFallon"
+    },
+    {
+      "name": "Blaine Luetkemeyer",
+      "description": "Proudly serving Missouri\u0027s 3rd Congressional District. Ranking Member on @HSBCgop and @FinancialCmte Consumer Protection \u0026 Financial Institutions Subcommittee.",
+      "id": "1849261916",
+      "username": "RepBlaine"
+    },
+    {
+      "name": "Oncor",
+      "description": "Oncor delivers more than just electricity. For more than 100 years, we’ve built a reputation of caring about the communities \u0026 more than 10M Texans we serve.",
+      "id": "20518600",
+      "username": "oncor"
+    },
+    {
+      "name": "ERCOT",
+      "description": "We manage the flow of electric power to more than 26 million Texas customers -- representing 90 percent of the state\u0027s electric load.",
+      "id": "250222966",
+      "username": "ERCOT_ISO"
+    },
+    {
+      "name": "Madison Sawyer",
+      "description": "@CBSDFW Anchor \u0026 Reporter, @Baylor University Alumna, @CityOfFortWorth Native, Sports Enthusiast",
+      "id": "613165665",
+      "username": "MadisonSawyerTV"
+    },
+    {
+      "name": "Tim Sporcic",
+      "description": "Father, USAF Veteran, Photographer and Technology Nerd || Java Grognard || Director of Engineering in Payments Technology",
+      "id": "6145332",
+      "username": "TimSporcic"
+    },
+    {
+      "name": "Plano Emergency Management",
+      "description": "Welcome to the City of Plano Department of Emergency Management page! Report emergencies to 911. Terms: https://t.co/rHWVai6Geo…",
+      "id": "20600991",
+      "username": "PlanoEM"
+    },
+    {
+      "name": "NBCDFW Weather",
+      "description": "Local forecasts and weather updates from NBCDFW\u0027s team of meteorologists. Send us your weather photos via Twitter or to iSee@nbcdfw.com.",
+      "id": "236336591",
+      "username": "NBCDFWWeather"
+    },
+    {
+      "name": "NWS Fort Worth",
+      "description": "Official Twitter account for the National Weather Service Fort Worth. Details: http://t.co/KKTK7cZlhK",
+      "id": "589123768",
+      "username": "NWSFortWorth"
+    },
+    {
+      "name": "kendis",
+      "description": "Storyteller. Formerly MSNBC and ABC. IG: https://t.co/lirEEUbujB",
+      "id": "169156588",
+      "username": "kendisgibson"
+    },
+    {
+      "name": "Lindsey Reiser",
+      "description": "Wife to @kcnnyc. Mom to Harlen Rachel. @MSNBC anchor. Runner, reader, knitter. Arizona native. ?",
+      "id": "26930792",
+      "username": "LindseyReiser"
+    },
+    {
+      "name": "Congressman Jared Golden",
+      "description": "Proud dad. Resident of Lewiston. Raised in Leeds and trained in the Marines. U.S. Congressman putting Mainers first.",
+      "id": "1080891667308298240",
+      "username": "RepGolden"
+    },
+    {
+      "name": "Chris Blake",
+      "description": "Podcasts \u0026 multimedia @KRLD Past: @NBCDFW, @SNYtv, @cchooks. Sports, politics, coffee, music. @TCU alum #GoFrogs. Opinions are my own. RTs, links ? endorsements",
+      "id": "290761716",
+      "username": "ChrisCBlake"
+    },
+    {
+      "name": "Chase Oaks Church",
+      "description": "We inspire people to follow Jesus and together change our world for good. #ChaseOaks",
+      "id": "47539301",
+      "username": "chaseoaks"
+    },
+    {
+      "name": "Support Our Scrubs",
+      "description": "Our Mission is to help feed, provide PPE \u0026 support Our Medical Frontline Heroes \u0026 Community - Helping restaurants \u0026 local businesses keep their doors open",
+      "id": "1274037368136368129",
+      "username": "ScrubsSupport"
+    },
+    {
+      "name": "Scottish Rite for Children",
+      "description": "Scottish Rite for Children is a nonprofit pediatric orthopedic hospital in Dallas, Texas. 214-559-5000",
+      "id": "2727074503",
+      "username": "SRChildren_"
+    },
+    {
+      "name": "Hugs Cafe",
+      "description": "Non-profit cafe employing and empowering adults with special needs in North Texas.",
+      "id": "1539047496",
+      "username": "HugsCafe"
+    },
+    {
+      "name": "Minnies Food Pantry",
+      "description": "Minnie\u0027s Food Pantry is a non-profit organization that provides healthy meals, educational resources and red-carpet treatment to families in need.",
+      "id": "785366329",
+      "username": "minniespantry"
+    },
+    {
+      "name": "Justice Emily Miskel",
+      "description": "5th Court of Appeals, TX. Stanford Mech Eng, Harvard Law School. Double Board Certified. Rehnquist Award \u002720. Political advertising by Emily Miskel.",
+      "id": "14637767",
+      "username": "emilymiskel"
+    },
+    {
+      "name": "Congressman Fred Keller",
+      "description": "Taking the values of PA\u0027s 12th District to Congress. Member on @GOPoversight \u0026 @EdLaborGOP. Chair @BOPReformCaucus. Official House Twitter account. ??",
+      "id": "1136060761422405633",
+      "username": "RepFredKeller"
+    },
+    {
+      "name": "Frank Lucas",
+      "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma’s Third Congressional District.",
+      "id": "242772524",
+      "username": "RepFrankLucas"
+    },
+    {
+      "name": "Rep. Greg Pence",
+      "description": "Official twitter account of Congressman Greg Pence, representing #IN06. Proudly advocating for conservative Hoosier values as a member of @HouseCommerce.",
+      "id": "1082369392229400576",
+      "username": "RepGregPence"
+    },
+    {
+      "name": "Rep. Kevin Hern",
+      "description": "Representing Oklahoma\u0027s 1st Congressional District in Congress",
+      "id": "1067818539179024386",
+      "username": "repkevinhern"
+    },
+    {
+      "name": "Rep. Russ Fulcher",
+      "description": "The Official Account of Idaho\u0027s First District Congressman Russ Fulcher. #ID01",
+      "id": "1078741899572240384",
+      "username": "RepRussFulcher"
+    },
+    {
+      "name": "Congressman Jim Baird",
+      "description": "Lifelong Hoosier proudly representing the 4th Congressional District.",
+      "id": "1086316494450032640",
+      "username": "RepJimBaird"
+    },
+    {
+      "name": "North Texas Performing Arts",
+      "description": "North Texas’ premier children’s theatre. NTPA is a unique place that specializes in developing characters on stage and off.",
+      "id": "120830815",
+      "username": "NTPAOfficial"
+    },
+    {
+      "name": "Officer Centeno",
+      "description": "LFC SRO. A-UP!",
+      "id": "3351319693",
+      "username": "SROChristian"
+    },
+    {
+      "name": "U.S. Census Bureau",
+      "description": "The nation\u0027s leading, trusted source of quality data about its people \u0026 economy. Comment/Privacy Policy: https://t.co/4cPzu6qkcj",
+      "id": "23092890",
+      "username": "uscensusbureau"
+    },
+    {
+      "name": "Heritage High School",
+      "description": "The official Twitter account for Heritage High School. We are...HERITAGE!",
+      "id": "2710168058",
+      "username": "HHSCoyotes"
+    },
+    {
+      "name": "Julie Fine",
+      "description": "Political Reporter NBC 5 Dallas/Fort Worth. Co-Host of Lone Star Politics. It is free to be kind. Retweets and links are not endorsements. Opinions are my own",
+      "id": "71421886",
+      "username": "JulieFineNBC5"
+    },
+    {
+      "name": "Plano Fire-Rescue",
+      "description": "The Official Twitter page for the City of Plano Fire-Rescue",
+      "id": "41380733",
+      "username": "PlanoFireRescue"
+    },
+    {
+      "name": "Theodoric Meyer",
+      "description": "@washingtonpost national political reporter and co-author of the Early 202 newsletter. Tips, praise, complaints: theodoric.meyer@washpost.com.",
+      "id": "184143817",
+      "username": "theodoricmeyer"
+    },
+    {
+      "name": "Allison Harris",
+      "description": "White House Correspondent @newsnation",
+      "id": "92057831",
+      "username": "allison__news"
+    },
+    {
+      "name": "Adam Tempkin",
+      "description": "Director of Communications at KBRA. Formerly with Bloomberg, BlackRock, Thomson Reuters, and S\u0026P. All things Structured Finance...and Rock n\u0027 Roll!",
+      "id": "262733718",
+      "username": "AdamTempkinNYC"
+    },
+    {
+      "name": "USACE HQ",
+      "description": "Welcome to the official Twitter page for the U.S. Army Corps of Engineers Headquarters. Following does not equal endorsement.",
+      "id": "161329769",
+      "username": "USACEHQ"
+    },
+    {
+      "name": "Jon-David Wells",
+      "description": "Host: The Wells Report…News, Analysis, Commentary, Debate….Truth",
+      "id": "34969929",
+      "username": "TheWellsReport"
+    },
+    {
+      "name": "Rep. James Comer",
+      "description": "Republican Leader on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1",
+      "id": "1274852794206388225",
+      "username": "RepJamesComer"
+    },
+    {
+      "name": "Railroad Commission of Texas",
+      "description": "Official Twitter account for the Railroad Commission of Texas. We lead Texas Energy through oil \u0026 gas, pipeline safety, SMRD, and AltFuels Regulation. #txenergy",
+      "id": "3289025779",
+      "username": "txrrc"
+    },
+    {
+      "name": "Sheila Jackson Lee",
+      "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas\u0027 18th Congressional District in the U.S. House of Representatives.",
+      "id": "80612021",
+      "username": "JacksonLeeTX18"
+    },
+    {
+      "name": "Military Times",
+      "description": "Your trusted, independent source for news on issues affecting U.S. military members \u0026 families. Sign up for our newsletters: https://t.co/kTaLCJUS80",
+      "id": "27027979",
+      "username": "MilitaryTimes"
+    },
+    {
+      "name": "The Associated Press",
+      "description": "Advancing the power of facts, globally ?",
+      "id": "51241574",
+      "username": "AP"
+    },
+    {
+      "name": "National Guard",
+      "description": "Official tweets from National Guard Bureau. National Guard: America\u0027s First Military Responders. (Following, RTs \u0026 links ? endorsement.)",
+      "id": "31310158",
+      "username": "USNationalGuard"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "City of Dallas",
+      "description": "Official Twitter account for the City of Dallas. View the City’s Comment Posting Disclaimer. https://t.co/7e4wFrgMwW",
+      "id": "47737282",
+      "username": "CityOfDallas"
+    },
+    {
+      "name": "Tim Scott",
+      "description": "Just a South Carolinian living his mama’s American Dream.",
+      "id": "217543151",
+      "username": "SenatorTimScott"
+    },
+    {
+      "name": "Disaster Distress Helpline",
+      "description": "Disaster Distress Helpline, program of @samhsagov \u0026 @vibrantforall. Call or text 1-800-985-5990 if in emotional distress from disaster, 24/7/365.",
+      "id": "211543116",
+      "username": "distressline"
+    },
+    {
+      "name": "Rep. Guy Reschenthaler",
+      "description": "Proudly representing the people of Pennsylvania’s 14th District in the U.S. House of Representatives ??",
+      "id": "4205133682",
+      "username": "GReschenthaler"
+    },
+    {
+      "name": "News CollinCountyTX",
+      "description": "We share local success stories and Collin County DFW Texas area news. 6877 For official county business, go to https://t.co/4PaaQwkwu6",
+      "id": "327169882",
+      "username": "CollinCountyDFW"
+    },
+    {
+      "name": "Med City McKinney",
+      "description": "Medical City of McKinney is a state-of-the-art hospital in McKinney, TX",
+      "id": "101000208",
+      "username": "MedCityMcKinney"
+    },
+    {
+      "name": "Rep. Abigail Spanberger",
+      "description": "Proudly serving Virginia’s 7th District in the U.S. House of Representatives. Former CIA officer. Former federal law enforcement officer. Mom of 3.",
+      "id": "1078771401497161728",
+      "username": "RepSpanberger"
+    },
+    {
+      "name": "IRS Small Biz",
+      "description": "The IRS does not collect comments or messages on this site. Privacy Policy at https://t.co/cC8Im1FCAK. RT/MT?endorsement.",
+      "id": "222110357",
+      "username": "IRSsmallbiz"
+    },
+    {
+      "name": "IRS Tax Pros",
+      "description": "IRS news and guidance for tax professionals.  IRS does not collect comments or messages on this site.  Please see our privacy policy at https://t.co/u5qaQtPMcu.",
+      "id": "26805062",
+      "username": "IRStaxpros"
+    },
+    {
+      "name": "U.S. Department of Labor",
+      "description": "Led by @SecMartyWalsh, the Department of Labor serves America\u0027s workers, job seekers and retirees.",
+      "id": "20179628",
+      "username": "USDOL"
+    },
+    {
+      "name": "Gromer M. Jeffers",
+      "description": "Political writer for @dallasnews. Fan of baseball, blues, gospel and hard soul. My hometown @cubs will win the World Series. I’ve got the first round.",
+      "id": "270060679",
+      "username": "gromerjeffers"
+    },
+    {
+      "name": "Dallas Friday Group",
+      "description": "",
+      "id": "2969929087",
+      "username": "DFGDallas"
+    },
+    {
+      "name": "Problem Solvers Caucus",
+      "description": "The Problem Solvers Caucus is a bipartisan group in Congress comprised of 58 members – equally divided between Democrats and Republicans.",
+      "id": "1129472178041364480",
+      "username": "ProbSolveCaucus"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "U.S. Air Force",
+      "description": "Official U.S. Air Force Twitter (Following, RTs \u0026 links ? endorsement) #AimHigh",
+      "id": "19611483",
+      "username": "usairforce"
+    },
+    {
+      "name": "Thunderbirds",
+      "description": "The @USAirForce’s premier air demonstration team.\nCome fly with us: https://t.co/2bqisDeAWz",
+      "id": "20238886",
+      "username": "AFThunderbirds"
+    },
+    {
+      "name": "Blue Angels",
+      "description": "Navy Flight Demonstration Squadron\u0027s official Twitter site. Instagram: @USNavyBlueAngels Facebook: U.S. Navy Blue Angels",
+      "id": "89539134",
+      "username": "BlueAngels"
+    },
+    {
+      "name": "U.S. Navy",
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links ? endorsement)",
+      "id": "54885400",
+      "username": "USNavy"
+    },
+    {
+      "name": "IRSnews",
+      "description": "Helping you understand and meet your tax responsibilities. \nIRS doesn\u0027t collect comments on this site. \nPrivacy Policy: https://t.co/2FwiuqHorO",
+      "id": "72631996",
+      "username": "IRSnews"
+    },
+    {
+      "name": "Allen STEAM Center",
+      "description": "Inclusive Innovation for @Allen_ISD students! @allenhs_eagles",
+      "id": "960573716471087105",
+      "username": "AllenSTEAM"
+    },
+    {
+      "name": "Allen Fairview Chamber",
+      "description": "Building relationships that enable our members to prosper in #Allen and #Fairview",
+      "id": "144928777",
+      "username": "AllenFairview"
+    },
+    {
+      "name": "City of Allen",
+      "description": "Official City of Allen, TX government Twitter page \n\n? the corner of down home and downright awesome.\n\nSocial Media Policy: https://t.co/fzjVpJ136C",
+      "id": "2888936443",
+      "username": "CityofAllenTX"
+    },
+    {
+      "name": "Melissa ISD",
+      "description": "Telling our story. Follow our schools: @MRECCardinals, @WWECardinals, @HMECardinals, @NCECardinals, @SGCCardinals, @MMSCardinals, and @MHSCards. #MelissaSchools",
+      "id": "274569136",
+      "username": "melissaisd"
+    },
+    {
+      "name": "Murphy Messenger",
+      "description": "Providing Murphy, Texas with a free community newspaper since 2004. Distributing to all +7,000 homes and businesses in 75094 zip code.\n(469) 907-4114",
+      "id": "831579040079343616",
+      "username": "MurphMessenger"
+    },
+    {
+      "name": "Murphy, Texas",
+      "description": "Murphy Texas: Life Lived At Your Pace",
+      "id": "87004048",
+      "username": "murphytex"
+    },
+    {
+      "name": "GreaterAnnaChamber",
+      "description": "The Greater Anna Chamber of Commerce, serving the Anna, TX area, advocates and represents business\u0027 interests and issues affecting the community.",
+      "id": "413172339",
+      "username": "AnnaChamber"
+    },
+    {
+      "name": "Anna ISD",
+      "description": "The official Twitter account of the Anna Independent School District.",
+      "id": "2848762685",
+      "username": "Anna_ISD"
+    },
+    {
+      "name": "City of Anna, Texas",
+      "description": "Anna is the front porch of Collin County and a community of neighbors. Welcome to our town. Official government account.\n#AnnaTx\n#AnnaTexasBuildingCommunity",
+      "id": "84397343",
+      "username": "CityofAnna"
+    },
+    {
+      "name": "City of Wylie",
+      "description": "Keeping you informed about City of Wylie events and activities.",
+      "id": "2573565517",
+      "username": "WylieTexas"
+    },
+    {
+      "name": "Texas DPS",
+      "description": "Official Twitter feed of the Texas Department of Public Safety. FOR EMERGENCIES, CALL 9-1-1",
+      "id": "16651871",
+      "username": "TxDPS"
+    },
+    {
+      "name": "Texas Comptroller",
+      "description": "Texan | State Agency | Fueled by raw data and a balanced budget | Follow @Glenn_Hegar for personal updates",
+      "id": "21622232",
+      "username": "txcomptroller"
+    },
+    {
+      "name": "Texas DSHS",
+      "description": "Texas Department of State Health Services. The state health department of Texas. #COVID19TX data, info and vaccines: https://t.co/9lfVeKSpNA #HealthyTexas",
+      "id": "68412042",
+      "username": "TexasDSHS"
+    },
+    {
+      "name": "TX Parks \u0026 Wildlife",
+      "description": "Official news feed from the Texas Parks and Wildlife Department. See all of our social media accounts at https://t.co/oCUNajx0rA #BetterOutside",
+      "id": "17199075",
+      "username": "TPWDnews"
+    },
+    {
+      "name": "Texas Division of Emergency Management",
+      "description": "Official Account of the Texas Division of Emergency Management (TDEM). Emergency Preparedness and Disaster Information for Texas. Publisher of @DomPrep Journal.",
+      "id": "1071205484",
+      "username": "TDEM"
+    },
+    {
+      "name": "Ted Cruz",
+      "description": "Father of two, @heidiscruz\u0027s husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "id": "23022687",
+      "username": "tedcruz"
+    },
+    {
+      "name": "Eric Hogue",
+      "description": "Husband, Dad, \"Pops\" to the best grandson ever, Entrepreneur, Real Estate Agent, Author, Motivator, and Magician!",
+      "id": "823637311418077184",
+      "username": "theEricHogue"
+    },
+    {
+      "name": "NorthTexasGivingDay",
+      "description": "North Texas Giving Day is the largest one-day giving event in the country. In 2022, North Texans gave $62 million to 3,200 local nonprofits!",
+      "id": "38692784",
+      "username": "NTxGivingDay"
+    },
+    {
+      "name": "Play Frisco - Parks \u0026 Recreation",
+      "description": "We help you create a sense of well-being through play. Recreation, parks, nature, arts, culture, community events, and more. How will you play today?",
+      "id": "1830582823",
+      "username": "PlayFrisco"
+    },
+    {
+      "name": "Community Impact Frisco",
+      "description": "Frisco edition — Our mission is to build communities of informed citizens and thriving businesses through the collaboration of a passionate team.",
+      "id": "1467638094",
+      "username": "impactnews_frs"
+    },
+    {
+      "name": "Jeff Cheney",
+      "description": "Mayor of Frisco, TX. Founder of award-winning The Cheney Group with Monument Realty. Texas Ex ?",
+      "id": "22138538",
+      "username": "JeffCheney"
+    },
+    {
+      "name": "HHS.gov",
+      "description": "News and information from the U.S. Department of Health \u0026 Human Services (HHS). Privacy policy: https://t.co/2fvEGkrCJN.",
+      "id": "44783853",
+      "username": "HHSGov"
+    },
+    {
+      "name": "NIH",
+      "description": "Official Twitter account of the National Institutes of Health.\nNIH...Turning Discovery Into Health®.  \nPrivacy Policy: https://t.co/wOGwZ2ZlDc\nEngagement ? endorsement",
+      "id": "15134240",
+      "username": "NIH"
+    },
+    {
+      "name": "World Health Organization (WHO)",
+      "description": "We are the #UnitedNations’ health agency - #HealthForAll.\n?? Always check our latest tweets on #COVID19 for updated advice/information.",
+      "id": "14499829",
+      "username": "WHO"
+    },
+    {
+      "name": "CDC",
+      "description": "CDC\u0027s official Twitter source for daily credible health \u0026 safety updates from Centers for Disease Control \u0026 Prevention. Privacy policy: https://t.co/9LbZmE3Wzg",
+      "id": "146569971",
+      "username": "CDCgov"
+    },
+    {
+      "name": "Meals on Wheels Collin County",
+      "description": "MOWCC prepares and serves about 1,200 nutritious meals every day, Mondays through Fridays, to disabled and older adults right here in Collin County.",
+      "id": "2339541584",
+      "username": "MOWCollinCounty"
+    },
+    {
+      "name": "CollinCountyAnimals",
+      "description": "Networking adoptable animals at Collin County Animal Services in McKinney, TX for adoption/rescue.",
+      "id": "581487923",
+      "username": "CCASMcKinneyTX"
+    },
+    {
+      "name": "Texas HHSC",
+      "description": "Official Twitter Account of the Texas Health and Human Services Commission",
+      "id": "3141724450",
+      "username": "TexasHHSC"
+    },
+    {
+      "name": "Texas Workforce Commission",
+      "description": "#Texas State Agency | #Unemployment | #EmploymentRate | Stronger Texas #Workforce | #WorkInTexas #JobsYall | FB: https://t.co/UubNH3mZU2",
+      "id": "196659774",
+      "username": "TXWorkforce"
+    },
+    {
+      "name": "Texas Hospital Association ?",
+      "description": "Trade association representing hospitals and health care systems in Texas.",
+      "id": "22835920",
+      "username": "texashospitals"
+    },
+    {
+      "name": "Allen EDC",
+      "description": "Committed to enriching the lives of those around us by attracting, growing, and serving businesses in the #Allen, Texas community.",
+      "id": "160673631",
+      "username": "AllenTXEDC"
+    },
+    {
+      "name": "Treasury Department",
+      "description": "Executive agency responsible for promoting economic prosperity \u0026 ensuring financial security of the United States | Follow @SecYellen \u0026 @TreasuryDepSec for more",
+      "id": "120176950",
+      "username": "USTreasury"
+    },
+    {
+      "name": "City of McKinney #McKinneyTexas",
+      "description": "Official City of McKinney\u0027s Twitter. #McKinneyTx is 30 miles north of Dallas. Account not monitored 24/7. User Guidelines: https://t.co/c4D19FZuzu",
+      "id": "43159584",
+      "username": "CityOfMcKinney"
+    },
+    {
+      "name": "Jacki",
+      "description": "Jacki talks energy on @TheBlaze , on the dial in TX \u0026 podcasts on iHeart, iTunes \u0026 Stitcher. Likes/RT are not endorsements.",
+      "id": "399025364",
+      "username": "JackiDailyHost"
+    },
+    {
+      "name": "Plano East Senior High School Panthers",
+      "description": "The official twitter account for Plano East Senior High School.",
+      "id": "1114660160549609473",
+      "username": "EastPanthers1"
+    },
+    {
+      "name": "Caroline Briscoe",
+      "description": "@RepTiffany comms. Cat Mom to Sammy G. Currently DC livin’ and Montana dreamin’. Hook’em.",
+      "id": "488108123",
+      "username": "carolinebriscoe"
+    },
+    {
+      "name": "Plano East NHS",
+      "description": "Stay connected with posts, reminders, and shout-outs with #pantherswithhonor. Tweets managed by the 2020-21 Plano East National Honor Society officers.",
+      "id": "901889521381494786",
+      "username": "NHSPesh"
+    },
+    {
+      "name": "NASN, Inc.",
+      "description": "The mission of the National Association of School Nurses (NASN) is to optimize student health and learning by advancing the practice of school nursing.",
+      "id": "70250595",
+      "username": "schoolnurses"
+    },
+    {
+      "name": "Aldridge Ocelots",
+      "description": "",
+      "id": "2770468532",
+      "username": "AldridgeOcelots"
+    },
+    {
+      "name": "Pacific Marines",
+      "description": "The official account of U.S. Marine Corps Forces, Pacific. Find more on https://t.co/PlfF1A5kSP or IG: @pacificmarines",
+      "id": "2216405453",
+      "username": "PacificMarines"
+    },
+    {
+      "name": "III MEF Marines",
+      "description": "Official III Marine Expeditionary Force | Forward deployed Marine Air Ground Task Force based in Okinawa, Japan. \n\nRT \u0026 Follow\n\nInstagram: iiimef_marines",
+      "id": "3252386060",
+      "username": "IIIMEF"
+    },
+    {
+      "name": "Marine Corps Reserve",
+      "description": "The appearance of links does not constitute endorsement. \nCommunity Guidelines: https://t.co/rh4Z87v4Dj",
+      "id": "80568825",
+      "username": "MarForRes"
+    },
+    {
+      "name": "Garland Police PIO",
+      "description": "Official Twitter feed of the Garland Police Department. Not monitored 24/7. Dial 911 for emergencies. For non-emergencies call 972-485-4840.",
+      "id": "107199355",
+      "username": "GarlandPD"
+    },
+    {
+      "name": "Wylie Police Department",
+      "description": "Wylie Police Department - 972-442-8170",
+      "id": "1732526263",
+      "username": "WyliePD"
+    },
+    {
+      "name": "Richardson Police",
+      "description": "Not monitored 24/7, call 9-1-1 to report emergencies or situations in progress.",
+      "id": "3676318336",
+      "username": "RichardsonTX_PD"
+    },
+    {
+      "name": "Prosper Police Dept",
+      "description": "Official Twitter of the Prosper, TX Police Department. In case of emergency please call 911; Not monitored 24/7. Dispatch 972-347-2226\nRT\u0027s are not endorsements",
+      "id": "1209219374",
+      "username": "ProsperPD"
+    },
+    {
+      "name": "Anna Texas Police",
+      "description": "Official Anna TX Police Twitter page, not monitored 24/7. For emergencies dial 911. SUBMIT ANONYMOUS CRIME TIPS AT https://t.co/jEPBLNWnZf.",
+      "id": "991693353443119104",
+      "username": "AnnaTXpolice"
+    },
+    {
+      "name": "Christopher C. Cuomo",
+      "description": "@newsnation 8p east M-F Instagram: chrisccuomo",
+      "id": "22799750",
+      "username": "ChrisCuomo"
+    },
+    {
+      "name": "Y\u0027all-itics",
+      "description": "Y’all-itics is the unofficial political podcast of Texas from WFAA",
+      "id": "1194364009975336960",
+      "username": "Yallitics"
+    },
+    {
+      "name": "The Texan",
+      "description": "The Texan reports about what\u0027s happening in Texas politics and policy with focused coverage of the news that matters most to you and your pocketbook. #IAmTexan",
+      "id": "1114233619948691456",
+      "username": "TheTexanNews"
+    },
+    {
+      "name": "Texas Department of Information Resources",
+      "description": "Transforming How Texas Government Serves Texans",
+      "id": "485847391",
+      "username": "TexasDIR"
+    },
+    {
+      "name": "Center for Internet Security (CIS)",
+      "description": "CIS makes the connected world a safer place for people, businesses, and governments through our core competencies of collaboration and innovation.",
+      "id": "29292439",
+      "username": "CISecurity"
+    },
+    {
+      "name": "Congressman Michael Guest",
+      "description": "Rep. for the MS Third Congressional District in the U.S. House of Representatives. Vice Ranking Member on @HomelandGOP. Christian. Father. Husband.",
+      "id": "1081243468327018496",
+      "username": "RepMichaelGuest"
+    },
+    {
+      "name": "Plano Police (Texas)",
+      "description": "Official Twitter page for Plano Texas Police Dept. Emergency call or text 911.  Non-Emergency 972.424.5678  Tip line 972.941.2148 or text tip411 (847411)",
+      "id": "795109046",
+      "username": "PlanoPoliceDept"
+    },
+    {
+      "name": "Congressman Greg Steube",
+      "description": "Husband, father, veteran, proudly serving Florida’s 17th District on @JudiciaryGOP and @HouseForeignGOP ?? ? ? ?",
+      "id": "1083125649609506816",
+      "username": "RepGregSteube"
+    },
+    {
+      "name": "USGLC",
+      "description": "The U.S. Global Leadership Coalition unites business, military, faith, and political leaders to strengthen U.S. investments in global development and diplomacy.",
+      "id": "15603311",
+      "username": "USGLC"
+    },
+    {
+      "name": "Homeland Security",
+      "description": "With honor and integrity, we will safeguard the American people, our homeland, and our values. #WeAreDHS, led by @SecMayorkas and @DepSecTien.",
+      "id": "15647676",
+      "username": "DHSgov"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "description": "Official account for the nUSA Department of Homeland Security.  Tweets may be archived.\n\nNot affiliated with any real government agency.",
+      "id": "1135235130119917569",
+      "username": "nUSAHomeland"
+    },
+    {
+      "name": "AAO",
+      "description": "The American Academy of Ophthalmology is the world’s largest association of eye physicians and surgeons.",
+      "id": "26336959",
+      "username": "aao_ophth"
+    },
+    {
+      "name": "Rep. Doug Lamborn",
+      "description": "Honored to represent Colorado\u0027s 5th District | Member of @HASCRepublicans and @NatResources | Twitter user policy: https://t.co/iJctUiREMe",
+      "id": "584012853",
+      "username": "RepDLamborn"
+    },
+    {
+      "name": "Doug Collins",
+      "description": "Husband, Father, Air Force Chaplain, Iraq Veteran, attorney. Fighting for conservative values. The Doug Collins Podcast: https://t.co/oJeycuxfln",
+      "id": "1060487274",
+      "username": "RepDougCollins"
+    },
+    {
+      "name": "Mark Walker",
+      "description": "Former Member of Congress and Pastor. President, Advancing Hope, USA",
+      "id": "2966205003",
+      "username": "RepMarkWalker"
+    },
+    {
+      "name": "Rep. Ken Buck",
+      "description": "Congressman for Colorado’s 4th District. Ranking Member, Antitrust Subcommittee. Member, House Foreign Affairs Committee.",
+      "id": "2862577383",
+      "username": "RepKenBuck"
+    },
+    {
+      "name": "Rep. Tim Burchett",
+      "description": "Congressman representing Tennessee\u0027s 2nd District. Husband to Kelly. Father to Isabel. Serve on Transportation \u0026 Infrastructure and Foreign Affairs committees.",
+      "id": "1028854804087492613",
+      "username": "RepTimBurchett"
+    },
+    {
+      "name": "Rep. Mikie Sherrill",
+      "description": "Official Congressional account for Mikie Sherrill, proudly representing New Jersey\u0027s 11th District. Former Navy Pilot. Former Prosecutor. Mom of four.",
+      "id": "1080569698536878081",
+      "username": "RepSherrill"
+    },
+    {
+      "name": "Rep. Jodey Arrington",
+      "description": "Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. @WaysandMeansGOP \u0026 @JECRepublicans.",
+      "id": "816284664658874368",
+      "username": "RepArrington"
+    },
+    {
+      "name": "The Congressional Award",
+      "description": "U.S. Congress\u0027 only charity \u0026 award program for youth. Est. 1979. #EarnedIt",
+      "id": "34402366",
+      "username": "theaward"
+    },
+    {
+      "name": "Michael McCaul",
+      "description": "Representing the 10th District of Texas | Lead Republican of @houseforeigngop | Chairman of the @China_TaskForce",
+      "id": "26424123",
+      "username": "RepMcCaul"
+    },
+    {
+      "name": "Congressman Waltz Press",
+      "description": "Official account of Congressman Mike Waltz’s press shop",
+      "id": "1082416697380913152",
+      "username": "RepWaltzPress"
+    },
+    {
+      "name": "Tristan Hallman",
+      "description": "Chief of Staff for @DallasMayor. Former @dallasnews editor+reporter. Alum: @stedwardsu, @newmarkjschool. @Padres and @dallasmavs fan. Tweets are mine.",
+      "id": "82118597",
+      "username": "TristanHallman"
+    },
+    {
+      "name": "Mayor Eric Johnson",
+      "description": "Christian • Husband • Father of 3 • 60th @DallasMayor • @Harvard • @PrincetonSPIA • @PennLaw",
+      "id": "43467353",
+      "username": "Johnson4Dallas"
+    },
+    {
+      "name": "Resurrection Plano",
+      "description": "Episcopal Church Start Up in West Plano! Sundays 10:30 a.m. at Gulledge Elementary. Warrior Church, for Veterans \u0026 First Responders 0800-0900 Third Sundays",
+      "id": "751788154101731328",
+      "username": "ResPlano"
+    },
+    {
+      "name": "Lawfare",
+      "description": "Straight-shooting information and analysis at the intersection of national security, law, and  policy.\n@lawfare@mastodon.social",
+      "id": "186755547",
+      "username": "lawfareblog"
+    },
+    {
+      "name": "McKinney Chamber",
+      "description": "We are the voice for business in McKinney",
+      "id": "56482796",
+      "username": "McKinneyChamber"
+    },
+    {
+      "name": "USO",
+      "description": "The USO strengthens America’s military service members by keeping them connected to family, home and country. (Retweets, likes, follows \u0026 links ? endorsements.)",
+      "id": "36681590",
+      "username": "The_USO"
+    },
+    {
+      "name": "LFCEagles",
+      "description": "Lowery Freshman Center",
+      "id": "1852064478",
+      "username": "LFCEagles"
+    },
+    {
+      "name": "National Assoc. of Secondary School Principals",
+      "description": "We elevate \u0026 amplify voices of school leaders. Mission: to transform education through exceptional school leadership via @NASSP, @NatHonorSociety \u0026 @NatStuCo.",
+      "id": "15894074",
+      "username": "NASSP"
+    },
+    {
+      "name": "TASSP",
+      "description": "Texas Association of Secondary School Principals is a state affiliate of NASSP. Our motto: Above All, Students First",
+      "id": "369048273",
+      "username": "TASSP1"
+    },
+    {
+      "name": "PlanoISD PTA Council",
+      "description": "Plano ISD Council of PTAs serves 70 local-unit PTAs and more than 28,000 members throughout PISD.",
+      "id": "814184438",
+      "username": "PISDPTACouncil"
+    },
+    {
+      "name": "NationalPTA",
+      "description": "The largest volunteer child advocacy association in the nation. \n\nShare your PTA story ? #PTAProud #HowWePTA",
+      "id": "14407823",
+      "username": "NationalPTA"
+    },
+    {
+      "name": "TAMU College of Agriculture \u0026 Life Sciences",
+      "description": "The official Twitter account for the College of Agriculture and Life Sciences at @TAMU and @Agrilife.",
+      "id": "19309639",
+      "username": "aglifesciences"
+    },
+    {
+      "name": "Texas A\u0026M AgriLife Extension Service",
+      "description": "Texas A\u0026M AgriLife Extension Service offers practical, how-to education based on university research.\n\nhttps://t.co/tf872OspqR…",
+      "id": "34917790",
+      "username": "txextension"
+    },
+    {
+      "name": "Texas A\u0026M University",
+      "description": "Howdy! Welcome to the official Twitter account for Texas A\u0026M University! #tamu #12thMan",
+      "id": "17237540",
+      "username": "TAMU"
+    },
+    {
+      "name": "Brad Buckley",
+      "description": "State Representative, District 54. Veterinarian. Aggie. Rancher. Horseman. The Lord has blessed me with amazing family and friends.",
+      "id": "901207542780411904",
+      "username": "BradBuckleyDVM"
+    },
+    {
+      "name": "Candy Noble",
+      "description": "",
+      "id": "125178592",
+      "username": "candynoble"
+    },
+    {
+      "name": "State Representative Steve Allison",
+      "description": "Texas House District 121.",
+      "id": "987059309094866945",
+      "username": "stevefortx"
+    },
+    {
+      "name": "Senator Angela Paxton",
+      "description": "Texas Senator - SD8 | Keeping Our Future Free ??",
+      "id": "900091927521103877",
+      "username": "AngelaPaxtonTX"
+    },
+    {
+      "name": "Candy Noble",
+      "description": "",
+      "id": "915696818788421632",
+      "username": "CandyNobleHD89"
+    },
+    {
+      "name": "Scott Sanford",
+      "description": "Texas State Representative for District 70. Republican. Executive pastor of Cottonwood Creek Church.",
+      "id": "387707165",
+      "username": "Scott_SanfordTX"
+    },
+    {
+      "name": "Sarah Mitchell",
+      "description": "mom of 2 beautiful, athletic young ladies. wife. dietitian. Allen ISD School Board Secretary. @CBORD @AuburnU alum. #love #tennis #serenity #peace #bestill",
+      "id": "40049422",
+      "username": "snun1217"
+    },
+    {
+      "name": "Wylie ISD",
+      "description": "The OFFICIAL Twitter for the Wylie Independent School District--(Collin County). A district unified for excellence. Living and teaching the #WylieWay every day.",
+      "id": "1725447666",
+      "username": "WylieISD"
+    },
+    {
+      "name": "Plano ISD",
+      "description": "Official Twitter page for Plano ISD. Plano ISD will educate, inspire and empower every student to activate their unique potential in a dynamic world.",
+      "id": "73910310",
+      "username": "Plano_Schools"
+    },
+    {
+      "name": "Collin College",
+      "description": "Official Twitter page for the Collin County District in North Texas. #CollinCollege",
+      "id": "1073896320",
+      "username": "collincollege"
+    },
+    {
+      "name": "U.S. Army",
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links ? endorsement)",
+      "id": "8775672",
+      "username": "USArmy"
+    },
+    {
+      "name": "NAIFA",
+      "description": "The National Association for Insurance \u0026 Financial Advisors is the premier professional association for producers.",
+      "id": "15917384",
+      "username": "NAIFA"
+    },
+    {
+      "name": "John Wayne Walding",
+      "description": "",
+      "id": "2359057332",
+      "username": "JohnWayneWaldin"
+    },
+    {
+      "name": "Matt Shaheen",
+      "description": "Christ follower, Robyn’s husband, Dad to 3 awesome kids. Grandson of immigrants. TX State Rep District - 66 Collin County. Pol Ad Paid by Matt Shaheen Campaign",
+      "id": "57221416",
+      "username": "MattShaheen"
+    },
+    {
+      "name": "DFW Commercial R/E",
+      "description": "Up-To-The-Minute DFW Commercial Real Estate News",
+      "id": "1317785551",
+      "username": "DFWCommercialR3"
+    },
+    {
+      "name": "DMN Business",
+      "description": "We\u0027re The Dallas Morning News business news team ? Subscribe:: https://t.co/WRgUOMN2cI ? Newsletter: https://t.co/E58ceI7jSw ? LinkedIn: https://t.co/k5QVanMEir",
+      "id": "1949763854",
+      "username": "DMNBiz"
+    },
+    {
+      "name": "DMN Opinion",
+      "description": "Commentary from The Dallas Morning News Editorial Board. https://t.co/aH8Q5j4qnA",
+      "id": "588643237",
+      "username": "DMNOpinion"
+    },
+    {
+      "name": "McKinney Courier-Gazette",
+      "description": "The official account for the McKinney Courier-Gazette newspaper, which serves the community of McKinney, Texas.",
+      "id": "823959385",
+      "username": "CourierGazette"
+    },
+    {
+      "name": "Allen American",
+      "description": "The official Twitter account for the Allen American newspaper, which serves the community of Allen, Texas.",
+      "id": "1228339838",
+      "username": "allen_updates"
+    },
+    {
+      "name": "Mike Rogers",
+      "description": "I am proud to represent Alabama\u0027s Third Congressional District.",
+      "id": "33977070",
+      "username": "RepMikeRogersAL"
+    },
+    {
+      "name": "Rep. Bonnie Watson Coleman",
+      "description": "Proudly serving the people of New Jersey’s 12th Congressional District. Proud #BlackWoman. @USProgressives vice-chair. Co-Chair of @CBWGCaucus. She/her.",
+      "id": "2968451607",
+      "username": "RepBonnie"
+    },
+    {
+      "name": "Rep. Lauren Underwood",
+      "description": "Representing #IL14. Nurse, health enthusiast, advocate for the working families of Illinois. Member of @AppropsDems and @VetAffairsDems.",
+      "id": "1080539438508400642",
+      "username": "RepUnderwood"
+    },
+    {
+      "name": "Kathleen Rice",
+      "description": "U.S. Representative for #NY04 (Long Island). Former Nassau County DA.",
+      "id": "2970462034",
+      "username": "RepKathleenRice"
+    },
+    {
+      "name": "PHA",
+      "description": "Physician-Led Healthcare for America (PHA) is the united voice for physician-owned hospitals and other physician-led models. Former: Physician Hospitals America",
+      "id": "43274920",
+      "username": "physicianhosp"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "description": "Official twitter account of the Dallas Cowboys. World Champions VI, XII, XXVII, XXVIII, XXX. Spanish Content: @SomosCowboys",
+      "id": "8824902",
+      "username": "dallascowboys"
+    },
+    {
+      "name": "Graham MacGillivray",
+      "description": "Video Production at @atlanticcouncil | Alum: @CSIS, @RollCall, @CSPAN, @UofDenver \u0026 #NPFPaulMiller Reporting Fellowship | Left my heart in the Rockies",
+      "id": "605608408",
+      "username": "GWMacGillivray"
+    },
+    {
+      "name": "Heard on the Hill",
+      "description": "It’s not political - it’s personal | via @rollcall | Unburden your soul at hoh@rollcall.com (anonymity guaranteed) | https://t.co/f3zODJYS0V",
+      "id": "28652194",
+      "username": "HeardontheHill"
+    },
+    {
+      "name": "UT Dallas Research and Innovation",
+      "description": "@UT_Dallas has fostered a tradition of #research since 1961. Our office focuses on interdisciplinary research \u0026 innovation in HiEd, industry, and beyond.",
+      "id": "621055618",
+      "username": "UTDResearch"
+    },
+    {
+      "name": "UT Dallas News",
+      "description": "Latest research, leading experts and top news @UT_Dallas. Media Relations team tweeting. Journalists can email us at UTDallasNews@utdallas.edu.",
+      "id": "38020101",
+      "username": "UTDallasNews"
+    },
+    {
+      "name": "UT Dallas",
+      "description": "Official account of The University of Texas at Dallas ?  \n#futurecomet . #utdallas . #newdimensionsutd",
+      "id": "36989808",
+      "username": "UT_Dallas"
+    },
+    {
+      "name": "Rob Woodall",
+      "description": "Former U.S. Representative for the Seventh District of Georgia",
+      "id": "2382685057",
+      "username": "RepRobWoodall"
+    },
+    {
+      "name": "Eastwood High School",
+      "description": "Official Twitter page for Eastwood High School in El Paso, TX. Home of El Paso\u0027s Finest. Part of @YsletaISD.",
+      "id": "222678570",
+      "username": "EastwoodHQ"
+    },
+    {
+      "name": "North Texas Food Bank",
+      "description": "Remember, one meal makes a difference. Serving Dallas, Denton, Collin, Fannin, Rockwall, Hunt, Grayson, Kaufman, Ellis, Navarro, Lamar, Delta \u0026 Hopkins Counties",
+      "id": "16337374",
+      "username": "ntfb"
+    },
+    {
+      "name": "Frisco Library",
+      "description": "Browse our 3 floors of collections for adults, teens, children. Programs, events, free internet access computer lab, buy used books at our Book Shop.",
+      "id": "115421847",
+      "username": "friscolibrary"
+    },
+    {
+      "name": "The Star In Frisco",
+      "description": "The Star is the 91-acre campus that hosts the world headquarters of the @dallascowboys in Frisco, TX.",
+      "id": "776165159488192513",
+      "username": "thestarinfrisco"
+    },
+    {
+      "name": "Baylor Scott \u0026 White Dallas-Fort Worth",
+      "description": "@bswhealth in the Dallas-Forth Worth area. Visit us on the Web at https://t.co/JsqsFNwQlx",
+      "id": "18056078",
+      "username": "bswhealth_DFW"
+    },
+    {
+      "name": "Baylor Scott \u0026 White Health",
+      "description": "Largest not-for-profit healthcare system in Texas??. Changing Healthcare for the Better. ???? ???? ?",
+      "id": "3794863392",
+      "username": "bswhealth"
+    },
+    {
+      "name": "City of Melissa TX",
+      "description": "The City of Melissa is a fast growing family-friendly community in North Texas with a population of over 10K. Visit https://t.co/lfVzWCv6H8 for more info.",
+      "id": "93934524",
+      "username": "cityofmelissatx"
+    },
+    {
+      "name": "Brookshire\u0027s",
+      "description": "Superior service, quality products and competitive prices. Shop with us in-store or through Curbside pickup!",
+      "id": "540308155",
+      "username": "brookshires"
+    },
+    {
+      "name": "Katrina Smith (Boonzaier)",
+      "description": "Social Media Marketing/Communicatioms | Florida Gator Alumni: @uflorida ?",
+      "id": "2767350267",
+      "username": "katrina__smith"
+    },
+    {
+      "name": "Dallas Regional Chamber",
+      "description": "Together, we will help lead the Dallas Region to become the best place in the United States for all people to live, work, and do business.",
+      "id": "50724511",
+      "username": "DRC"
+    },
+    {
+      "name": "Raytheon Technologies",
+      "description": "174,000 employees, four businesses, 190+ years of innovation, one mission: The future of aerospace and defense.",
+      "id": "16017996",
+      "username": "RaytheonTech"
+    },
+    {
+      "name": "Collins Aerospace",
+      "description": "Collins Aerospace is a leader in technologically advanced and intelligent solutions for the global aerospace and defense industry. ?? #AlphaBravoCollins",
+      "id": "14163275",
+      "username": "CollinsAero"
+    },
+    {
+      "name": "Amichai Stein",
+      "description": "Correspondent at the @kann Diplomatic desk | Israeli public broadcasting corporation | ??? ????? ?????? ???? ????? | amichais@kan.org.il",
+      "id": "744601892",
+      "username": "AmichaiStein1"
+    },
+    {
+      "name": "DallasMetro",
+      "description": "Connecting anyone in the Dallas Metro Area - coming soon - a new blog dedicated to Local Small Business in greater DFW area. To be featured contact @GrowMap",
+      "id": "18625280",
+      "username": "DallasMetro"
+    },
+    {
+      "name": "Martha McSally",
+      "description": "Keynote Speaker. Executive Coach. Author. Corporate Board Director. First female fighter pilot to fly in combat.",
+      "id": "2964949642",
+      "username": "MarthaMcSally"
+    },
+    {
+      "name": "Rep. John Katko",
+      "description": "Official Twitter account of Rep. John Katko. Proudly representing New York\u0027s 24th Congressional District.",
+      "id": "2966765501",
+      "username": "RepJohnKatko"
+    },
+    {
+      "name": "Warren Davidson",
+      "description": "Former Army Ranger serving Ohio\u0027s 8th District in Congress. It\u0027s not compassionate to bankrupt America--financially or morally. Good governments defend freedom.",
+      "id": "742735530287304704",
+      "username": "WarrenDavidson"
+    },
+    {
+      "name": "Congressman Troy Balderson",
+      "description": "Proudly serving Ohio\u0027s 12th Congressional District.",
+      "id": "1037341536592310272",
+      "username": "RepBalderson"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Pro-Israel America",
+      "description": "Pro-Israel America works to strengthen support for the US-Israel relationship through promoting and supporting the election of pro-Israel candidates to Congress",
+      "id": "1102980008522469377",
+      "username": "ProIsraelAm"
+    },
+    {
+      "name": "Toyota Policy",
+      "description": "Sharing news and updates from @Toyota\u0027s Public Policy team",
+      "id": "967084459966148608",
+      "username": "ToyotaPolicy"
+    },
+    {
+      "name": "Toyota USA",
+      "description": "Official tweets from Toyota #LetsGoPlaces",
+      "id": "14219877",
+      "username": "Toyota"
+    },
+    {
+      "name": "Library of Congress",
+      "description": "World’s largest library. Explore collections, services \u0026 plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+      "id": "7152572",
+      "username": "librarycongress"
+    },
+    {
+      "name": "AIPAC",
+      "description": "Strengthening bipartisan support for the U.S.-Israel relationship.",
+      "id": "15987296",
+      "username": "AIPAC"
+    },
+    {
+      "name": "Texas.gov - State of Texas Official Website",
+      "description": "https://t.co/2zmHlZVTyX is the state\u0027s official website and digital government program. We provide easy, convenient, and secure online services for constituents statewide.",
+      "id": "18149266",
+      "username": "texasgov"
+    },
+    {
+      "name": "Trey Graham",
+      "description": "@treygraham@mastodon.lol Onetime culture vulture for @NPR, @wcp, etc. Now: tech and comms consulting, doing things with nephews.",
+      "id": "14345238",
+      "username": "treygraham"
+    },
+    {
+      "name": "Franklin Graham",
+      "description": "Official Twitter account for the President of Samaritan\u0027s Purse and the Billy Graham Evangelistic Association. Opinions stated are my own.",
+      "id": "44945327",
+      "username": "Franklin_Graham"
+    },
+    {
+      "name": "Allen Police Department",
+      "description": "Feed not monitored 24/7. Call 911 for emergencies. Non-Emergency 214-509-4321\n\nSocial Media Policy: https://t.co/GS0hvpDx9x",
+      "id": "93723461",
+      "username": "Allen_Police"
+    },
+    {
+      "name": "Darin LaHood",
+      "description": "Proudly representing the 18th District of Illinois. Member of @WaysandMeansGOP and the House Intelligence Committee.",
+      "id": "3686482216",
+      "username": "RepLaHood"
+    },
+    {
+      "name": "Rep. Anthony Gonzalez",
+      "description": "Representing #OH16 in Congress. Northeast Ohio born and raised, husband, dad and Cuban-American.",
+      "id": "1054381765224210432",
+      "username": "RepAGonzalez"
+    },
+    {
+      "name": "Rep. Don Bacon ??",
+      "description": "Serving the great people of NE-02 ??. Married to Angie, 4 kids, 7 grandkids. Brig Gen ?? USAF (Ret.) Policy questions? Visit://bacon.house.gov",
+      "id": "818975124460335106",
+      "username": "RepDonBacon"
+    },
+    {
+      "name": "AISD Superintendent",
+      "description": "",
+      "id": "2424216606",
+      "username": "AllenISDSupt"
+    },
+    {
+      "name": "Allen High School",
+      "description": "",
+      "id": "702912767989149696",
+      "username": "AllenHS_Eagles"
+    },
+    {
+      "name": "Allen ISD",
+      "description": "The official Twitter account of Allen Independent School District. Where Eagles Soar!",
+      "id": "902886984573702144",
+      "username": "Allen_ISD"
+    },
+    {
+      "name": "C-SPAN Cities Tour",
+      "description": "Our video journalists travel the country to profile the history and literary life of American cities, bringing each city to @BookTV and @CSPANhistory.",
+      "id": "1472962208",
+      "username": "CSPANCities"
+    },
+    {
+      "name": "American Legion Peter J Courcy Post 178",
+      "description": "Post 178 is named after Peter J. Courcy, a 2004 graduate of Frisco High School who was killed in combat in 2009, while serving in the US Army in Afghanistan.",
+      "id": "1086061478858371073",
+      "username": "FriscoLegion178"
+    },
+    {
+      "name": "Bill George",
+      "description": "Senior Fellow at Harvard Business School, former Medtronic CEO, and bestselling leadership author. True North Emerging Leader Edition available now!",
+      "id": "62522718",
+      "username": "Bill_George"
+    },
+    {
+      "name": "Blake Hanson",
+      "description": "@FOX4 Reporter \u0026 Anchor | Texan by marriage |?: Blake.Hanson@fox.com | MN ?? #MIZ??NOLA??CLT??TX",
+      "id": "19554094",
+      "username": "BlakeFox4News"
+    },
+    {
+      "name": "Steven Dial",
+      "description": "?Dallas @Fox4 Reporter • ??TL Native • Steven.dial@fox.com • @ClaflinUniv1869 #HBCU???? • ??? ??• Emmy ?Edward R. Murrow?",
+      "id": "303930546",
+      "username": "StevenDialFox4"
+    },
+    {
+      "name": "Dr Pepper",
+      "description": "see you at the tailgate",
+      "id": "19720019",
+      "username": "drpepper"
+    },
+    {
+      "name": "Randy Weber",
+      "description": "Representative for the 14th Congressional District of Texas | Parler: @reprandyweber | Facebook: TXRandy14 ?????",
+      "id": "1058051748",
+      "username": "TXRandy14"
+    },
+    {
+      "name": "CathyMcMorrisRodgers",
+      "description": "Proudly serving Washington\u0027s beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "id": "17976923",
+      "username": "cathymcmorris"
+    },
+    {
+      "name": "Joe Barton",
+      "description": "I work for the people of the 6th District of Texas and am honored to represent them in Washington.",
+      "id": "19929362",
+      "username": "RepJoeBarton"
+    },
+    {
+      "name": "Tom Reed",
+      "description": "Owner of 3 dogs, lover of coffee, day job in Washington trying to help people.",
+      "id": "252819323",
+      "username": "TomReedNY23"
+    },
+    {
+      "name": "Michael Burgess, MD",
+      "description": "Congressman for Texas\u0027 26th District, M.D. (Ob/Gyn) in my former life",
+      "id": "15751083",
+      "username": "michaelcburgess"
+    },
+    {
+      "name": "Longo Toyota of Prosper",
+      "description": "The Smart Way. One Price. Upfront. 0% Hassle. 100% Easy. Smart.       (866) 945-7201",
+      "id": "723307585034559488",
+      "username": "LongoProsper"
+    },
+    {
+      "name": "Collin County Govt",
+      "description": "Welcome to Collin County, one of the fastest growing counties in Texas and the nation. More than 1,000,000 people and growing. https://t.co/9rDjmAbHjm.",
+      "id": "51206947",
+      "username": "CollinCountyGov"
+    },
+    {
+      "name": "Town of Prosper",
+      "description": "Welcome to Official Twitter page of the Town of Prosper, Texas. @ProsperPD @ProsperFireDept Social Media User Guidelines: https://t.co/T7mAFlfnti",
+      "id": "2460337080",
+      "username": "Town_of_Prosper"
+    },
+    {
+      "name": "Craig Caplan",
+      "description": "@CSPAN Capitol Hill Producer. Reads Congressional Record every day. Former @RTCACapitolHill Chair. Philly fan since birth. @AmericanU. #FlyEaglesFly",
+      "id": "317980134",
+      "username": "CraigCaplan"
+    },
+    {
+      "name": "Susan Davis",
+      "description": "NPR Political Correspondent / Co-host of the NPR Politics Podcast",
+      "id": "151444950",
+      "username": "DaviSusan"
+    },
+    {
+      "name": "Frisco Police",
+      "description": "Official Twitter of the Frisco (TX) Police Dept | Account not monitored 24/7 | Emergency?911 | Non-emergency?972-292-6010 | Mental Health Crisis?988",
+      "id": "286209959",
+      "username": "FriscoPD"
+    },
+    {
+      "name": "Frisco ISD",
+      "description": "Official account for Frisco ISD - serving Frisco, Texas and areas of McKinney, Plano and Little Elm. Our mission is to know every student by name and need.",
+      "id": "24252117",
+      "username": "friscoisd"
+    },
+    {
+      "name": "City of Frisco,Texas",
+      "description": "The City of Frisco is committed to keeping residents informed on the latest happenings in their local government. Find coverage at http://t.co/qPduvfYPDJ.",
+      "id": "36391088",
+      "username": "CityOfFriscoTx"
+    },
+    {
+      "name": "Frisco EDC",
+      "description": "Frisco Economic Development Corporation: Our goal is to improve the economic opportunities and quality of life for all residents of Frisco.",
+      "id": "20248045",
+      "username": "FriscoTXEDC"
+    },
+    {
+      "name": "Frisco Chamber of Commerce",
+      "description": "Voice of Business and advocate for the business community while providing resources and making connections!",
+      "id": "60132108",
+      "username": "FriscoChamber"
+    },
+    {
+      "name": "FriscoSTYLE Magazine",
+      "description": "Community lifestyle magazine delivered to homes and businesses in Frisco, Prosper, Celina, McKinney, Little Elm and NW Plano.",
+      "id": "66746969",
+      "username": "FriscoSTYLE"
+    },
+    {
+      "name": "visitplano",
+      "description": "Official guide for everything to do, eat, stay, and play in Plano, TX! #VisitPlano ?Visitor Center 7600 Windrose Ste. G110 https://t.co/A3qByVmd0B",
+      "id": "52118400",
+      "username": "visitplano"
+    },
+    {
+      "name": "CollinCountyMagazine",
+      "description": "Things to do in #allentx #friscotx #mckinneytx #planotx 4779 For official county business, as always go to https://t.co/jnPw1CFNv5",
+      "id": "340599136",
+      "username": "CollinCountyMag"
+    },
+    {
+      "name": "Plano Parks \u0026 Rec",
+      "description": "Through a fun and innovative team, we enrich Plano by providing inviting spaces, caring service, outstanding value, and memorable experiences.",
+      "id": "70703812",
+      "username": "PlanoParksRec"
+    },
+    {
+      "name": "City of Plano",
+      "description": "#LovePlano Official City of Plano, TX govt. Known nationally for quality of life \u0026 favorable business conditions. Terms: https://t.co/8kt6qNp7lY",
+      "id": "16397030",
+      "username": "cityofplanotx"
+    },
+    {
+      "name": "Frisco Enterprise",
+      "description": "The official Twitter account for The Frisco Enterprise newspaper, which serves the community of Frisco, Texas.",
+      "id": "776753443",
+      "username": "friscoupdates"
+    },
+    {
+      "name": "Plano Star Courier",
+      "description": "The official account for the Plano Star Courier newspaper, which serves the community of Plano, Texas.",
+      "id": "824014742",
+      "username": "planonewspaper"
+    },
+    {
+      "name": "Star Local Media",
+      "description": "The official account for Star Local Media, which has newspapers serving communities in Collin, Denton, Dallas and Tarrant counties.",
+      "id": "823993891",
+      "username": "starlocalmedia"
+    },
+    {
+      "name": "CEA45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "866725756025667584",
+      "username": "WhiteHouseCEA45"
+    },
+    {
+      "name": "Air Line Pilots Association",
+      "description": "The official Twitter page for the Air Line Pilots Association, Int\u0027l, representing more than 67,000 pilots at 40 U.S. and Canadian airlines. RT ? Endorsement",
+      "id": "48366585",
+      "username": "ALPAPilots"
+    },
+    {
+      "name": "Todd J. Gillman",
+      "description": "Washington Bureau Chief @DallasNews. @WHCA board member. Non-random dude on Twitter.",
+      "id": "88750092",
+      "username": "toddgillman"
+    },
+    {
+      "name": "Joe Morelle",
+      "description": "Always getting my steps in. Proud grandfather, Democrat, and Congressman representing #NY25. Black belt. Go @Cardinals.",
+      "id": "1064595993222615040",
+      "username": "RepJoeMorelle"
+    },
+    {
+      "name": "American Rocketry Challenge",
+      "description": "The American Rocketry Challenge is the world\u0027s largest rocket contest! Proudly run by @AIASpeaks and @NARRockets #RocketContest23 #STEM",
+      "id": "76102085",
+      "username": "RocketContest"
+    },
+    {
+      "name": "Ed Gray",
+      "description": "Dallas/Ft Worth civic leader,Radio personality,political tv commentator, Historian,Sociologist, newspaper columnist ,Alpha,SMU Alumni,lecturer, PHD candidate",
+      "id": "22331629",
+      "username": "edgray1906"
+    },
+    {
+      "name": "Frisco Family Services",
+      "description": "Frisco Family Srvs helps members of our communities facing hunger, homelessness \u0026 other urgent needs improve their quality of life \u0026 achieve self-sufficiency.",
+      "id": "80388638",
+      "username": "friscofs"
+    },
+    {
+      "name": "Ericsson N. America",
+      "description": "Connecting a world where technology innovation is a positive and exciting force for good. Join the conversation! #ImaginePossible",
+      "id": "485789161",
+      "username": "EricssonNA"
+    },
+    {
+      "name": "VFW Post 2195",
+      "description": "Armistice Memorial Post 2195\nPete Hersom\nPost Commander",
+      "id": "887788713006301193",
+      "username": "vfw2195"
+    },
+    {
+      "name": "Ronda Kay Moreland",
+      "description": "Producer of @MarkDavis Show @660KSKY Faith, family, #stand4life #VolleyballMom #ULMBeach #BishopLynch #txlege #neverquit",
+      "id": "482419349",
+      "username": "ProducerRondaK"
+    },
+    {
+      "name": "Rep. Joe Neguse",
+      "description": "Dad. Husband. Attorney. Proudly serving Colorado’s 2nd Congressional District. Chair of @NRDems Public Lands Subcommittee \u0026 Co-Chair of @HouseDPCC.",
+      "id": "1078749802765139968",
+      "username": "RepJoeNeguse"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "North Texas Performing Arts",
+      "description": "",
+      "id": "935404428290609152",
+      "username": "OfficialNTPA"
+    },
+    {
+      "name": "Bowman Middle School",
+      "description": "",
+      "id": "712777890",
+      "username": "BowmanRaiders"
+    },
+    {
+      "name": "CASA Collin County",
+      "description": "One Voice Makes A Difference.",
+      "id": "44508777",
+      "username": "CASACollin"
+    },
+    {
+      "name": "Denver Riggleman",
+      "description": "Former VA Rep, USAF Intel, NSA, Data hawk, Whiskey Distiller. NY Times bestselling Author of THE BREACH and Bigfoot…It’s Complicated https://t.co/5uGLgX1lJY",
+      "id": "1080504024695222273",
+      "username": "RepRiggleman"
+    },
+    {
+      "name": "Congressman Dan Meuser",
+      "description": "Proudly serving the hardworking taxpayers of Pennsylvania\u0027s 9th Congressional District.",
+      "id": "1080574793630527505",
+      "username": "RepMeuser"
+    },
+    {
+      "name": "Congressman Jim Hagedorn",
+      "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the First District of Minnesota.",
+      "id": "1083474782602125318",
+      "username": "RepHagedorn"
+    },
+    {
+      "name": "Rep. Dusty Johnson",
+      "description": "South Dakota\u0027s lone U.S. Representative - husband, father, \u0026 proud South Dakotan. Member of @HouseAgGOP \u0026 @TransportGOP.",
+      "id": "1074782372594413569",
+      "username": "RepDustyJohnson"
+    },
+    {
+      "name": "Bryan Steil",
+      "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin’s 1st Congressional District. #WI01",
+      "id": "1075205691621720064",
+      "username": "RepBryanSteil"
+    },
+    {
+      "name": "Imagine Schools",
+      "description": "Developing Character, Enriching Minds",
+      "id": "1852303603",
+      "username": "ImagineCharters"
+    },
+    {
+      "name": "House Budget GOP",
+      "description": "U.S. House of Representatives Committee on the Budget. Working to get our fiscal house in order. Ranking Member @RepJasonSmith. https://t.co/Wxana3p9XP",
+      "id": "778700700696010754",
+      "username": "housebudgetGOP"
+    },
+    {
+      "name": "House Homeland GOP",
+      "description": "News \u0026 updates from U.S. House of Representatives Homeland Security Committee Republicans. Led by @RepJohnKatko (R-NY).",
+      "id": "239964567",
+      "username": "HomelandGOP"
+    },
+    {
+      "name": "Appropriations Republicans",
+      "description": "Members committed to reviewing the federal budget, conducting oversight, and making funding decisions, line-by-line. Ranking Member @RepKayGranger (TX)",
+      "id": "301549400",
+      "username": "HouseAppropsGOP"
+    },
+    {
+      "name": "Ways and Means GOP",
+      "description": "Official account of the Senior Committee, with jurisdiction over tax, trade, health care, welfare, and Social Security. ||  Republican Leader, @RepKevinBrady.",
+      "id": "12788332",
+      "username": "WaysandMeansGOP"
+    },
+    {
+      "name": "T\u0026I Committee Republicans",
+      "description": "Transportation \u0026 Infrastructure Committee:  Aviation, Maritime, Highway, Transit, Railroad, Pipeline, Hazmat, Water Resource. \nhttps://t.co/U77pFeIWjV",
+      "id": "35829796",
+      "username": "TransportGOP"
+    },
+    {
+      "name": "Financial Services GOP",
+      "description": "U.S. House Committee on Financial Services Republicans – Ranking Member @PatrickMcHenry",
+      "id": "42924141",
+      "username": "FinancialCmte"
+    },
+    {
+      "name": "Natural Resources GOP",
+      "description": "U.S. House Committee on Natural Resources Republicans, led by Ranking Member Bruce Westerman.",
+      "id": "41445718",
+      "username": "NatResources"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Sci, Space, \u0026 Tech GOP",
+      "description": "Official Twitter page of the Committee on Science, Space, and Technology Republicans. @RepFrankLucas, Ranking Member",
+      "id": "23103488",
+      "username": "housesciencegop"
+    },
+    {
+      "name": "House Judiciary GOP",
+      "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+      "id": "1131917492",
+      "username": "JudiciaryGOP"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Senate Republicans",
+      "description": "Breaking news + behind-the-scenes updates from United States Senate Republicans and their staff.",
+      "id": "14344823",
+      "username": "SenateGOP"
+    },
+    {
+      "name": "Judge Andrea Thompson",
+      "description": "Judge of the 416th District Court so an Aggie, politician \u0026 lawyer making me the punchline of every joke! Page is my personal opinions only. Like ? endorsment",
+      "id": "1090249400",
+      "username": "stroh92"
+    },
+    {
+      "name": "David H. Berger",
+      "description": "Official account of the 38th Commandant of @USMC. Likes, follows, retweets, or links do not constitute endorsement.",
+      "id": "3662430672",
+      "username": "CMC_MarineCorps"
+    },
+    {
+      "name": "U.S. Marines",
+      "description": "The official Twitter account of the United States Marine Corps. \n\nThe appearance of links does not constitute endorsement.",
+      "id": "10126672",
+      "username": "USMC"
+    },
+    {
+      "name": "Sean Hannity",
+      "description": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. https://t.co/0WmPPuxbkF Retweets, Follows NOT endorsements! Due to hackings, no DM’s!",
+      "id": "41634520",
+      "username": "seanhannity"
+    },
+    {
+      "name": "Mark R. Levin",
+      "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/LbO9BeMtMZ   Join me at https://t.co/ARrBQZKtMb",
+      "id": "38495835",
+      "username": "marklevinshow"
+    },
+    {
+      "name": "Allen West",
+      "description": "Executive Director of @The_ACRU, fmr candidate for TX Gov, former @TexasGOP Chair, former FL Rep, retired Army LTC, author. https://t.co/ULPDX08reK",
+      "id": "237403203",
+      "username": "AllenWest"
+    },
+    {
+      "name": "Coppell Patch",
+      "description": "Local news, alerts, events and more. We\u0027re your source for all things Coppell.",
+      "id": "894380645014786051",
+      "username": "CoppellPatch"
+    },
+    {
+      "name": "Texas Military Dept.",
+      "description": "Official account of the Texas National Guard (Army and Air) and the Texas State Guard. RT/Follow \u003d/\u003d endorsement.",
+      "id": "111598798",
+      "username": "TXMilitary"
+    },
+    {
+      "name": "Mede Nix",
+      "description": "Senior Editor of News @dallasnews. Lover of political sport and just plain sports. Grand Prairie High, Howard Payne grad, ex-UPI, DTH, FWST.",
+      "id": "202762476",
+      "username": "medenix"
+    },
+    {
+      "name": "Rep. Colin Allred",
+      "description": "Official Twitter of Rep. Colin Allred #TX32. Civil rights attorney. Former Obama HUD and NFL player. Member of @transportDems, @houseforeign \u0026 @vetaffairsdems.",
+      "id": "1078355119920562176",
+      "username": "RepColinAllred"
+    },
+    {
+      "name": "McKinney Police",
+      "description": "Official MPD Twitter. Not monitored 24/7. Rules: https://t.co/wEKYJgWTEX Sign up for crime alerts https://t.co/B31T6hecBV",
+      "id": "781935268806791168",
+      "username": "McKinneyPolice"
+    },
+    {
+      "name": "Collin Co. Sheriff",
+      "description": "Official Collin County Sheriff’s Office Twitter. Feed not monitored 24/7. Experiencing an emergency call 911. For non-emergency call 972-547-5100.",
+      "id": "4668290287",
+      "username": "CollinCoSO"
+    },
+    {
+      "name": "CollinCounty Sheriff",
+      "description": "",
+      "id": "53001220",
+      "username": "CollinCoSheriff"
+    },
+    {
+      "name": "Rep. Liz Cheney",
+      "description": "Official Page of Congresswoman Liz Cheney, proudly representing the people of Wyoming.",
+      "id": "816719802328715264",
+      "username": "RepLizCheney"
+    },
+    {
+      "name": "Rep. Clay Higgins",
+      "description": "Proudly representing #LA03 in the U.S. House of Representatives. Member of @HomelandGOP and @GOPOversight.",
+      "id": "843636970538618880",
+      "username": "RepClayHiggins"
+    },
+    {
+      "name": "John Joyce, M.D.",
+      "description": "Proudly serving Pennsylvania\u0027s 13th District in the U.S. House of Representatives.",
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce"
+    },
+    {
+      "name": "Congressman Kelly Armstrong",
+      "description": "Lifelong North Dakotan. U.S. House of Representatives. @housecommerce committee.",
+      "id": "1080515866255593472",
+      "username": "RepArmstrongND"
+    },
+    {
+      "name": "Jim Hagedorn",
+      "description": "Congressman, Minnesota’s First District",
+      "id": "1729773254",
+      "username": "JimHagedornMN"
+    },
+    {
+      "name": "Rep. Mark Green",
+      "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee’s 7th District in Congress.",
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen"
+    },
+    {
+      "name": "Congressman William Timmons",
+      "description": "Congressman for Upstate SC. Member of @FinancialCmte and @ModernizeCmte. #SC04",
+      "id": "1079770852302958592",
+      "username": "RepTimmons"
+    },
+    {
+      "name": "Pete Stauber",
+      "description": "Proud to represent Minnesota\u0027s 8th Congressional District.",
+      "id": "1075830599007510535",
+      "username": "RepPeteStauber"
+    },
+    {
+      "name": "Congressman Ben Cline",
+      "description": "Representing the 6th District of Virginia. Member of @housefreedomcaucus + @HouseAppropsGOP + @housebudgetGOP Committees.",
+      "id": "1072158357237174272",
+      "username": "RepBenCline"
+    },
+    {
+      "name": "Rep. Carol Miller",
+      "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia\u0027s 3rd Congressional District.",
+      "id": "1081318716573470720",
+      "username": "RepCarolMiller"
+    },
+    {
+      "name": "John Rose",
+      "description": "U.S. Representative serving Tennessee’s Sixth Congressional District. Proud husband to Chelsea and father to Guy and Sam. House @FinancialCmte Member.",
+      "id": "1081312310059253763",
+      "username": "RepJohnRose"
+    },
+    {
+      "name": "Congressman Michael Cloud",
+      "description": "Honored to represent the people of the 27th Congressional District of Texas.",
+      "id": "1039879658400112640",
+      "username": "RepCloudTX"
+    },
+    {
+      "name": "Ron Wright",
+      "description": "U.S. Congressman for Texas\u0027 6th District. Member of @HouseForeignGOP \u0026 @EdLaborGOP. Proud sixth generation resident of Tarrant County.",
+      "id": "1080854935535800320",
+      "username": "RepRonWright"
+    },
+    {
+      "name": "VA North Texas Health Care System",
+      "description": "Serving over 184,000 Veterans in 40 counties across Texas and Oklahoma. Following, shares, likes \u0026 links ? endorsement: https://t.co/4OEIN8rW4H.",
+      "id": "562165828",
+      "username": "VANorthTexas"
+    },
+    {
+      "name": "CBS DFW",
+      "description": "Your trusted home for the latest North Texas news, weather, traffic, and sports.",
+      "id": "10878852",
+      "username": "CBSDFW"
+    },
+    {
+      "name": "Bob Goodlatte",
+      "description": "Proudly representing the Sixth Congressional District of Virginia in the U.S. House of Representatives. Chair of @HouseJudiciary. #VA06",
+      "id": "37920978",
+      "username": "RepGoodlatte"
+    },
+    {
+      "name": "Senator Hatch Office",
+      "description": "Former U.S. Senator from Utah, writer of songs and laws. Lover of bacon, all you can eat buffets, and Costco hotdogs. Account inactive as of 1/3/2019. ??",
+      "id": "262756641",
+      "username": "senorrinhatch"
+    },
+    {
+      "name": "Trey Gowdy",
+      "description": "Husband, father, former prosecutor, South Carolinian for life.",
+      "id": "237348797",
+      "username": "TGowdySC"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "Lindsey Graham",
+      "description": "The official Twitter feed for United States Senator Lindsey Graham.",
+      "id": "432895323",
+      "username": "LindseyGrahamSC"
+    },
+    {
+      "name": "Senator John Cornyn",
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs \u003d/\u003d endorsements",
+      "id": "13218102",
+      "username": "JohnCornyn"
+    },
+    {
+      "name": "Point of View",
+      "description": "Point of View is a Christian nationwide daily, live, issues-oriented radio talk show hosted by @KerbyAnderson",
+      "id": "44475019",
+      "username": "PointofViewRTS"
+    },
+    {
+      "name": "Kerby Anderson",
+      "description": "Probe Ministries\r\nPoint of View",
+      "id": "33568900",
+      "username": "KerbyAnderson"
+    },
+    {
+      "name": "Trey Graham",
+      "description": "Author, columnist, radio host, speaker, senior pastor of First Melissa",
+      "id": "21891977",
+      "username": "Trey_Graham"
+    },
+    {
+      "name": "Committee on Education \u0026 Labor",
+      "description": "Building an America where everyone can succeed. Chairman @BobbyScott.",
+      "id": "7004382",
+      "username": "EdLaborCmte"
+    },
+    {
+      "name": "Secretary Robert Wilkie",
+      "description": "This is the archived account of former U.S. Department of Veterans Affairs Secretary Robert Wilkie (2018-2021).",
+      "id": "1024390184090181633",
+      "username": "SecWilkie"
+    },
+    {
+      "name": "NorthTexasCommission",
+      "description": "The North Texas Commission brings together businesses, government entities and higher education institutions to enhance the economic vitality of North Texas",
+      "id": "21421838",
+      "username": "NTxCommission"
+    },
+    {
+      "name": "Bud Kennedy / #ReadLocal",
+      "description": "Texan at large. @StarTelegram since \u002781, online since 12/21/92; wrote at FW Press, @Statesman, Times Herald, @DallasNews bud@budkennedy.com Dining: @EatsBeat",
+      "id": "15970567",
+      "username": "BudKennedy"
+    },
+    {
+      "name": "Jason Whitely",
+      "description": "Senior Reporter @ WFAA  jwhitely@wfaa.com | Instagram: @jasonwhitely",
+      "id": "20494730",
+      "username": "JasonWhitely"
+    },
+    {
+      "name": "Dallas Morning News",
+      "description": "The official Dallas Morning News Twitter account. Subscribe https://t.co/MqPw2ZUctn",
+      "id": "15679641",
+      "username": "dallasnews"
+    },
+    {
+      "name": "Boon Patriots",
+      "description": "",
+      "id": "1146027001",
+      "username": "BoonPatriots"
+    },
+    {
+      "name": "PSHS Publications",
+      "description": "The official news source of Plano Senior High School. Follow us for updates on everything Wildcat! Instagram: wildcattales",
+      "id": "284565398",
+      "username": "pshspub"
+    },
+    {
+      "name": "Wildcat Nation",
+      "description": "The offical page for all news regarding the student body of Plano Senior High School. Wildcat Nation aims to recognize and support sports and clubs at PSHS.",
+      "id": "2516596028",
+      "username": "PWildcatNation"
+    },
+    {
+      "name": "WFAA",
+      "description": "From our historic coverage of the JFK assassination to highlighting the biggest local stories of each day, WFAA has served North Texas for nearly 75 years.",
+      "id": "15694286",
+      "username": "wfaa"
+    },
+    {
+      "name": "Dallas Police Dept",
+      "description": "Official Twitter Account for the Dallas Police Department. THIS ACCT IS NOT MONITORED ON A 24 HOUR BASIS. FOR EMERGENCIES CALL 9-1-1.",
+      "id": "28758060",
+      "username": "DallasPD"
+    },
+    {
+      "name": "FOX 4 NEWS",
+      "description": "Breaking news \u0026 headlines from around North Texas on the official Twitter feed for KDFW FOX 4 NEWS and https://t.co/WIzOe7DbJY.",
+      "id": "16656350",
+      "username": "FOX4"
+    },
+    {
+      "name": "NBC DFW",
+      "description": "First TV ? station in #Texas \u0026 the best place in #DFW to go for exclusive local stories, the latest breaking news, weather updates and #NBC5Investigates.",
+      "id": "15933690",
+      "username": "NBCDFW"
+    },
+    {
+      "name": "House Ed \u0026 Labor Republicans",
+      "description": "Fostering the best opportunities for students to learn, workers to succeed, and job creators to thrive. Republican Leader Rep. @VirginiaFoxx.",
+      "id": "16424044",
+      "username": "EdLaborGOP"
+    },
+    {
+      "name": "Tom Malinowski",
+      "description": "Diplomat, father, former Assistant Secretary of State for Democracy, Human Rights and Labor. Congressman representing New Jersey\u0027s 7th district.",
+      "id": "811239440916054016",
+      "username": "Malinowski"
+    },
+    {
+      "name": "WBAP 24/7 NEWS",
+      "description": "WBAP News and Talk - A Cumulus Media Station\nThe News and Talk of Texas.\nWBAP 820 AM \u0026 99.5 HD2 and https://t.co/XgPiJY5awJ.",
+      "id": "29975548",
+      "username": "WBAP247NEWS"
+    },
+    {
+      "name": "KSEV 700 AM Radio",
+      "description": "",
+      "id": "2802421849",
+      "username": "KSEV700"
+    },
+    {
+      "name": "Dan Crenshaw",
+      "description": "Dan Crenshaw, Congressman, Lieutenant Commander (Ret), a former Navy SEAL.",
+      "id": "930552552302792705",
+      "username": "DanCrenshawTX"
+    },
+    {
+      "name": "USA Network Radio",
+      "description": "Creative Radio Advertising",
+      "id": "29889404",
+      "username": "USANetworkRadio"
+    },
+    {
+      "name": "JP, Kathy, \u0026 The Crew",
+      "description": "JP, Kathy, and the Crew come to you live Monday thru Friday 8 am - 9 am on 1160 am or on Facebook at john Edward payton or Kathy partridge ward! General News",
+      "id": "1002281500497375232",
+      "username": "JPKathyandCrew"
+    },
+    {
+      "name": "Marc A. Levin, Esq.????",
+      "description": "Chief Policy Counsel, @CouncilonCJ\nSenior Advisor, @RightonCrime\n@Politico 50\nPublications: https://t.co/EGpPsv2otf\nTweeting own views, mostly on justice",
+      "id": "180504021",
+      "username": "MarcALevin"
+    },
+    {
+      "name": "Rep. Brian Mast",
+      "description": "I love my wife, 4 rowdy kids and dog, America and my community. I would give my life for them all without regret. God bless, and thank you for letting me serve.",
+      "id": "814103950404239360",
+      "username": "RepBrianMast"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Lance Gooden",
+      "description": "Congressman from Texas | Husband | Father | America First ??",
+      "id": "1029094268542099457",
+      "username": "Lancegooden"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "President Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215679726100480",
+      "username": "POTUS45"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "660 AM The Answer",
+      "description": "660 AM The Answer is the one radio station in the DFW Metroplex talking about the issues that matter most to you. Listen online ?? https://t.co/cIabJQz4pH ???",
+      "id": "76793189",
+      "username": "660KSKY"
+    },
+    {
+      "name": "Mark Davis",
+      "description": "Talk host https://t.co/NFBz2INYQm Columns: @newsweek @DMNOpinion @startelegram @townhallcom Author of Upside Down, Lone Star America",
+      "id": "25916881",
+      "username": "MarkDavis"
+    },
+    {
+      "name": "George P. Bush",
+      "description": "Husband, Father, Attorney, Navy Vet \u0026 TX Land Commissioner #TexasFirst #LeadRight",
+      "id": "80136311",
+      "username": "georgepbush"
+    },
+    {
+      "name": "Jeff Leach",
+      "description": "Texas Forever.",
+      "id": "158715755",
+      "username": "leachfortexas"
+    },
+    {
+      "name": "Senator Ted Cruz",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "id": "1074480192",
+      "username": "SenTedCruz"
+    },
+    {
+      "name": "Gov. Greg Abbott",
+      "description": "Official news from the Office of Texas Governor Greg Abbott. You can follow the governor\u0027s personal feed @GregAbbott_TX",
+      "id": "19291441",
+      "username": "GovAbbott"
+    },
+    {
+      "name": "Greg Abbott",
+      "description": "Texas Governor Greg Abbott\u0027s Personal Twitter Feed",
+      "id": "90651198",
+      "username": "GregAbbott_TX"
+    },
+    {
+      "name": "Attorney General Ken Paxton",
+      "description": "Texas Attorney General Ken Paxton. Follow @TXAG for official state business and news from my office.",
+      "id": "45840174",
+      "username": "KenPaxtonTX"
+    },
+    {
+      "name": "Dan Patrick",
+      "description": "Lieutenant Governor of Texas | A preeminent voice for principled conservative policies both in Texas and across the nation",
+      "id": "17582355",
+      "username": "DanPatrick"
+    },
+    {
+      "name": "Alex Seitz-Wald",
+      "description": "Senior Digital Politics Reporter for @NBCNews.",
+      "id": "82167518",
+      "username": "aseitzwald"
+    },
+    {
+      "name": "Rebecca Shabad",
+      "description": "Politics Reporter @NBCNews. Alumna of Newhouse @syracuseu, CQ/Roll Call, @thehill and @cbsnews. Mom to goldendoodle Barrington. Rebecca.Shabad@nbcuni.com",
+      "id": "19195094",
+      "username": "RebeccaShabad"
+    },
+    {
+      "name": "Emily C. Singer",
+      "description": "Senior political reporter @AmerIndependent; @mic, @rollcall, #gwu, @mashable alum; mom to baby girls Rosie and Hallie \u0026 @wally_the_toy_poodle ??",
+      "id": "18825339",
+      "username": "CahnEmily"
+    },
+    {
+      "name": "Abby Livingston",
+      "description": "Almanac of American Politics scribe. Ex-Texas Tribune, Roll Call, CNNer, NBCer, soap opera intern. I ?? Springsteen, softball, Longhorns \u0026 America",
+      "id": "121795745",
+      "username": "abbyliv817"
+    },
+    {
+      "name": "Patrick Svitek",
+      "description": "Primary political correspondent, @TexasTribune | psvitek@texastribune.org",
+      "id": "280664117",
+      "username": "PatrickSvitek"
+    }
+  ],
+  "id": "1075040139351597056",
+  "username": "RepVanTaylor"
+}

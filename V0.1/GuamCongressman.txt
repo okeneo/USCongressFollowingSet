@@ -1,0 +1,864 @@
+{
+  "following": [
+    {
+      "name": "Senate Cloakroom",
+      "description": "Operated by Senate Republican Cloakroom Staff.",
+      "id": "372837125",
+      "username": "SenateCloakroom"
+    },
+    {
+      "name": "Democratic Cloakroom",
+      "description": "Daily floor updates and proceedings",
+      "id": "2557507771",
+      "username": "DemCloakroom"
+    },
+    {
+      "name": "Jerry McNerney",
+      "description": "Proudly representing California\u0027s 9th Congressional District. Learn more about my work in Congress at https://t.co/yRxs5trwtE",
+      "id": "385429543",
+      "username": "RepMcNerney"
+    },
+    {
+      "name": "Rep. Doris Matsui",
+      "description": "Representing California\u0027s 6th Congressional District. Member of the @EnergyCommerce Committee.",
+      "id": "38254095",
+      "username": "DorisMatsui"
+    },
+    {
+      "name": "Rep. Mike Thompson",
+      "description": "Rep. Mike Thompson represents California\u0027s 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+      "id": "303861808",
+      "username": "RepThompson"
+    },
+    {
+      "name": "Rep. Jim Costa",
+      "description": "Proudly representing California’s 16th Congressional District. This account is for official use only.",
+      "id": "245451804",
+      "username": "RepJimCosta"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "Rep. Lou Correa",
+      "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDems @HouseAgDems",
+      "id": "815985039485837312",
+      "username": "RepLouCorrea"
+    },
+    {
+      "name": "The Guam Daily Post",
+      "description": "A locally owned media company passionate about sharing local stories, making a positive impact in our community. #StayPOSTedGU",
+      "id": "474743801",
+      "username": "PostGuam"
+    },
+    {
+      "name": "John Silk",
+      "description": "Senator for Ebon, Republic of the Marshall Islands. Served as Foreign Minister from 2009-2011 and 2016-2020. Passionate about nuclear justice and climate change",
+      "id": "897678333206331393",
+      "username": "SenatorJSilk"
+    },
+    {
+      "name": "Dr. Hilda C. Heine",
+      "description": "Senator for Aur, Republic of the Marshall Islands. President from 2016-2020. First female leader in the Pacific. Education, women\u0027s rights and climate change.",
+      "id": "809377920242319360",
+      "username": "Senator_Heine"
+    },
+    {
+      "name": "Tommy Remengesau, Jr",
+      "description": "Alii and welcome to the official Twitter account for the former President of the Republic of #Palau-- Tommy E. Remengesau, Jr.!",
+      "id": "2349626330",
+      "username": "TommyRemengesau"
+    },
+    {
+      "name": "The Joint Staff ??",
+      "description": "Official Twitter account for #GenMilley, #AdmGrady and #SEAC4. \nFollowing, RTs, links, and likes ? @DeptofDefense endorsement.",
+      "id": "28576135",
+      "username": "thejointstaff"
+    },
+    {
+      "name": "FBI",
+      "description": "Official FBI Twitter. Submit tips at https://t.co/tGqFRcJykB. Public info may be used for authorized purposes: https://t.co/x6bfDUEYeJ.",
+      "id": "17629860",
+      "username": "FBI"
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "description": "Feed from http://t.co/WPEu5UoHST. For live tweets follow @USCG. This is not an emergency channel. If you are in distress, use VHF Ch. 16 or dial 911.",
+      "id": "17409240",
+      "username": "uscoastguard"
+    },
+    {
+      "name": "U.S. Army",
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links ? endorsement)",
+      "id": "8775672",
+      "username": "USArmy"
+    },
+    {
+      "name": "House Veterans\u0027 Affairs",
+      "description": "Chairman @RepMarkTakano | House Committee on Veterans’ Affairs",
+      "id": "151519500",
+      "username": "VetAffairsDems"
+    },
+    {
+      "name": "The American Legion",
+      "description": "Veterans strengthening America.\nSupporting veterans, the military \u0026 their families since 1919. \nLearn more: https://t.co/BY3DSrs6TU. RTs do not imply endorsement. #BeTheOne",
+      "id": "27048645",
+      "username": "AmericanLegion"
+    },
+    {
+      "name": "Senate VA Republicans",
+      "description": "News and updates from the U.S. Senate Committee on Veterans\u0027 Affairs Ranking Member, Sen. Jerry Moran (R-KS) @JerryMoran",
+      "id": "1009054656",
+      "username": "SVACGOP"
+    },
+    {
+      "name": "Veterans Benefits",
+      "description": "Official account for the Veterans Benefits Administration (VBA) Serving Veterans, Service members, and their families. Follows/Comments/RTs ? endorsement.",
+      "id": "83922884",
+      "username": "VAVetBenefits"
+    },
+    {
+      "name": "Armed Services GOP",
+      "description": "The House Armed Services Committee Republicans; Twitter feed of the latest committee news and updates. \n\nRanking Member: @RepMikeRogersAL",
+      "id": "20192403",
+      "username": "HASCRepublicans"
+    },
+    {
+      "name": "Senate Small Biz",
+      "description": "Official account for news and updates from Ranking Member @SenRandPaul and GOP members of the Senate Committee on Small Business \u0026 Entrepreneurship",
+      "id": "2932401927",
+      "username": "SmallBizCmteGOP"
+    },
+    {
+      "name": "House Committee on Small Business Republicans",
+      "description": "We\u0027re the Committee in the House of Representatives fighting on behalf of America\u0027s small businesses, entrepreneurs, and innovators. Ranking Member @RepBlaine.",
+      "id": "2978291435",
+      "username": "HSBCgop"
+    },
+    {
+      "name": "House Committee on Small Business",
+      "description": "Official Twitter Feed of the House Committee on Small Business, Chairwoman Nydia M. Velázquez (@NydiaVelazquez)",
+      "id": "861611548250394624",
+      "username": "HouseSmallBiz"
+    },
+    {
+      "name": "House Committee on Veterans\u0027 Affairs GOP",
+      "description": "U.S. House of Representatives Committee on Veterans’ Affairs, Republicans | Proudly serving America\u0027s veterans and their families | Ranking Member @RepBost",
+      "id": "282093902",
+      "username": "HouseVetAffairs"
+    },
+    {
+      "name": "Close Up Washington",
+      "description": "Non-profit, nonpartisan civic education organization informing, inspiring, and empowering young citizens since 1971.",
+      "id": "555473643",
+      "username": "CloseUp_DC"
+    },
+    {
+      "name": "IMF",
+      "description": "Breaking news and alerts from the International Monetary Fund.",
+      "id": "25098482",
+      "username": "IMFNews"
+    },
+    {
+      "name": "Rep. Ed Case",
+      "description": "Proudly representing Hawaii\u0027s First Congressional District.",
+      "id": "1081350574589833221",
+      "username": "RepEdCase"
+    },
+    {
+      "name": "Rep. David Kustoff",
+      "description": "Official news and updates from Congressman David Kustoff, Proudly serving the 8th District of Tennessee",
+      "id": "816012124505931780",
+      "username": "RepDavidKustoff"
+    },
+    {
+      "name": "Rep. Lisa Blunt Rochester",
+      "description": "Official Twitter page for U.S. Representative Lisa Blunt Rochester (D-DE).",
+      "id": "817050219007328258",
+      "username": "RepLBR"
+    },
+    {
+      "name": "House Foreign Affairs Committee",
+      "description": "House committee responsible for foreign policy legislation and oversight | @RepGregoryMeeks, Chairman (CM) | #HFAC",
+      "id": "61206798",
+      "username": "HouseForeign"
+    },
+    {
+      "name": "Rep. Veronica Escobar",
+      "description": "Tejana. Fronteriza. Proudly representing the 16th Congressional District of Texas in the U.S. House of Representatives.",
+      "id": "1075517806551154689",
+      "username": "RepEscobar"
+    },
+    {
+      "name": "Senate Democrats",
+      "description": "The only committee solely dedicated to protecting and expanding a Democratic Senate majority. Text “DEFEND” to 736283 to join the team.",
+      "id": "14466538",
+      "username": "dscc"
+    },
+    {
+      "name": "Rep. Frank Pallone",
+      "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D) of New Jersey\u0027s 6th district, Chairman of @EnergyCommerce Committee.",
+      "id": "31801993",
+      "username": "FrankPallone"
+    },
+    {
+      "name": "APAICS",
+      "description": "APAICS is a national non-profit dedicated to promoting Asian Pacific American participation and representation at all levels of the political process.",
+      "id": "117561682",
+      "username": "APAICS"
+    },
+    {
+      "name": "Congressman Antonio Delgado",
+      "description": "Proud to represent the people of New York\u0027s 19th Congressional District.",
+      "id": "1080485692298444800",
+      "username": "repdelgado"
+    },
+    {
+      "name": "Rep. Colin Allred",
+      "description": "Official Twitter of Rep. Colin Allred #TX32. Civil rights attorney. Former Obama HUD and NFL player. Member of @transportDems, @houseforeign \u0026 @vetaffairsdems.",
+      "id": "1078355119920562176",
+      "username": "RepColinAllred"
+    },
+    {
+      "name": "Senate Banking and Housing Democrats",
+      "description": "Senate Banking, Housing, \u0026 Urban Affairs Committee Majority. Chairman @SenSherrodBrown.",
+      "id": "104324860",
+      "username": "SenateBanking"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLisA | Got a tip? https://t.co/iXIigdOLPr | For WSJ customer support: https://t.co/DZgH9n4vAI",
+      "id": "3108351",
+      "username": "WSJ"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "The New York Times",
+      "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+      "id": "807095",
+      "username": "nytimes"
+    },
+    {
+      "name": "CNN",
+      "description": "It’s our job to #GoThere \u0026 tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6",
+      "id": "759251",
+      "username": "CNN"
+    },
+    {
+      "name": "Mike Allen",
+      "description": "? We wrote a book ... \"Smart Brevity: The Power of Saying More with Less.\"\n\nHow YOU can punch through the noise, be heard.\n\n? Link below to preorder ...",
+      "id": "14246001",
+      "username": "mikeallen"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "NPR Politics",
+      "description": "The latest on politics, policy, government and more from NPR. Check out the NPR Politics Podcast https://t.co/O5GCES2xXK and subscribe to our newsletter https://t.co/UDmhoic4zX",
+      "id": "5741722",
+      "username": "nprpolitics"
+    },
+    {
+      "name": "Axios",
+      "description": "Smart Brevity worthy of people\u0027s time, attention and trust. Subscribe to our newsletters: https://t.co/h9z0b25Uo1",
+      "id": "800707492346925056",
+      "username": "axios"
+    },
+    {
+      "name": "GuamChamber",
+      "description": "We are the strong collective voice of business for our island \u0026 united in our goals of advancing the general welfare and the prosperity of Guam. Follow us!",
+      "id": "325220164",
+      "username": "GUChamber"
+    },
+    {
+      "name": "U.S. Navy",
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links ? endorsement)",
+      "id": "54885400",
+      "username": "USNavy"
+    },
+    {
+      "name": "U.S. House Committee on Financial Services",
+      "description": "U.S. House Committee on Financial Services - Chairwoman: @RepMaxineWaters | Facebook: https://t.co/W7klVDyhWl | YouTube: https://t.co/KC93ZYgRJZ",
+      "id": "294084341",
+      "username": "FSCDems"
+    },
+    {
+      "name": "Maxine Waters",
+      "description": "Proudly serving the people of California\u0027s 43rd District in Congress. Chairwoman of the House Financial Services Committee (@FSCDems).",
+      "id": "36686040",
+      "username": "RepMaxineWaters"
+    },
+    {
+      "name": "Energy and Commerce Committee",
+      "description": "Official Twitter of the House Committee on Energy and Commerce. Chaired by @FrankPallone.",
+      "id": "30929600",
+      "username": "EnergyCommerce"
+    },
+    {
+      "name": "Stephanie Murphy",
+      "description": "Campaign account for U.S. Congresswoman Stephanie Murphy -- Fighting for families in Seminole \u0026 Orange Counties! #FL07",
+      "id": "745372686596120576",
+      "username": "MurphyforFL"
+    },
+    {
+      "name": "Darren Soto",
+      "description": "1st Puerto Rican Florida Congressman ????, attorney, musician @OrangeCreekRdrs and loving husband of Amanda Soto @Stemk5 - personal account",
+      "id": "1730030220",
+      "username": "DarrenSoto"
+    },
+    {
+      "name": "Congresswoman Julia Brownley",
+      "description": "Fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee \u0026 #WomenVetsTaskForce. Member of @TransportDems, @ClimateCrisis, and @NRDems.",
+      "id": "1243902714",
+      "username": "RepBrownley"
+    },
+    {
+      "name": "Congressman Brad Sherman",
+      "description": "Proudly serving California\u0027s San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+      "id": "30216513",
+      "username": "BradSherman"
+    },
+    {
+      "name": "Rep. Hank Johnson",
+      "description": "CBC Whip, Chairman of the Courts, IP \u0026 Internet Subcommittee, Senior Whip for 117th Congress; Champion for working people.",
+      "id": "24745957",
+      "username": "RepHankJohnson"
+    },
+    {
+      "name": "Rep. Alan Lowenthal",
+      "description": "Proudly serving California\u0027s 47th Congressional District. http://t.co/pHmhAyCM6J",
+      "id": "1055730738",
+      "username": "RepLowenthal"
+    },
+    {
+      "name": "Kyrsten Sinema",
+      "description": "Official Twitter feed of U.S. Senator Kyrsten Sinema, serving Arizona.",
+      "id": "1080844782",
+      "username": "SenatorSinema"
+    },
+    {
+      "name": "Ruben Gallego",
+      "description": "Proud representative of Arizona\u0027s 7th Congressional District. #AZ07",
+      "id": "2966570782",
+      "username": "RepRubenGallego"
+    },
+    {
+      "name": "Raul M. Grijalva",
+      "description": "Chair @NRDems; Chair Emeritus @USProgressives; Member @EdLaborCmte and #MustacheCaucus; Proudly representing the 3rd District of Arizona ???",
+      "id": "28602948",
+      "username": "RepRaulGrijalva"
+    },
+    {
+      "name": "House Appropriations",
+      "description": "Chair @rosadelauro and the House Appropriations Committee are investing in America’s working families. Updates from staff.",
+      "id": "30912937",
+      "username": "AppropsDems"
+    },
+    {
+      "name": "Natural Resources Committee",
+      "description": "Chair @RepRaulGrijalva is working to #ActOnClimate, defend Tribal rights \u0026 territories, advance #EnviroJusticeNow and protect public lands, oceans \u0026 wildlife",
+      "id": "247486443",
+      "username": "NRDems"
+    },
+    {
+      "name": "Barack Obama",
+      "description": "Dad, husband, President, citizen.",
+      "id": "813286",
+      "username": "BarackObama"
+    },
+    {
+      "name": "Guam Democrats",
+      "description": "Biba Guam!  Biba Democrats!",
+      "id": "2213468251",
+      "username": "GuamDemocrats"
+    },
+    {
+      "name": "POLITICO",
+      "description": "Nobody knows politics and policy like POLITICO. \nCongress nerds ? @politicongress \nAll 2022 race calls ? @politicoelex\nGot a news tip? ? https://t.co/JBzpu5pJz6",
+      "id": "9300262",
+      "username": "politico"
+    },
+    {
+      "name": "Congressional Hispanic Caucus",
+      "description": "The 36-Member Congressional Hispanic Caucus advocates for issues important to Hispanics via the legislative process in Congress.",
+      "id": "33530012",
+      "username": "HispanicCaucus"
+    },
+    {
+      "name": "National Council of Asian Pacific Americans",
+      "description": "#WhoWeAre: A coalition of 38 national AANHPI orgs. Providing a voice for AA \u0026 NHPI communities. RTs \u0026 follows ? endorsements",
+      "id": "507529506",
+      "username": "NCAPAtweets"
+    },
+    {
+      "name": "AAPCHO Policy",
+      "description": "Advocating for policies to improve #AANHPIhealth. Also follow us @AAPCHOtweets and @HepBpolicy!",
+      "id": "1096579981",
+      "username": "AAPCHOadvocates"
+    },
+    {
+      "name": "AAPCHO",
+      "description": "The Association of Asian Pacific Community Health Organizations—dedicated to promoting advocacy, collaboration and leadership to improve #AANHPIhealth.",
+      "id": "298199386",
+      "username": "AAPCHOtweets"
+    },
+    {
+      "name": "Rep. Juan Vargas",
+      "description": "Official Twitter account of Rep. Vargas, representing southern San Diego County, all of Imperial County and California\u0027s entire U.S.-Mexico border. #CA51",
+      "id": "1260172386",
+      "username": "RepJuanVargas"
+    },
+    {
+      "name": "Rep. Pete Aguilar",
+      "description": "Dad, husband, former mayor. Proud to be the Inland Empire’s voice in Congress representing #CA31. Vice Chair of @HouseDemocrats.",
+      "id": "3018670151",
+      "username": "RepPeteAguilar"
+    },
+    {
+      "name": "Rep. Bobby Scott",
+      "description": "Proudly representing Virginia\u0027s 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+      "id": "161791703",
+      "username": "BobbyScott"
+    },
+    {
+      "name": "U.S. Rep. Stephanie Murphy",
+      "description": "Fighting for progress and proudly representing Seminole \u0026 Orange Counties in the U.S. House of Representatives.",
+      "id": "796183515998068736",
+      "username": "RepStephMurphy"
+    },
+    {
+      "name": "Rep. Barbara Lee",
+      "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, \u0026 human rights. @ProChoiceCaucus Co-Chair.",
+      "id": "248735463",
+      "username": "RepBarbaraLee"
+    },
+    {
+      "name": "Congressman Raja Krishnamoorthi",
+      "description": "Official Twitter account of Congressman Raja Krishnamoorthi, serving on @HouseIntel and @OversightDems, and representing Illinois\u0027 8th Congressional District.",
+      "id": "814179031956488192",
+      "username": "CongressmanRaja"
+    },
+    {
+      "name": "Rep. Ro Khanna",
+      "description": "Silicon Valley\u0027s CA-17. New economic patriotism \u0026 restoring American manufacturing. Pro working families. Ending endless wars. No PAC $. He/Him.",
+      "id": "816298918468259841",
+      "username": "RepRoKhanna"
+    },
+    {
+      "name": "Rep. Pramila Jayapal",
+      "description": "Congresswoman, lifelong organizer, mom. Proudly serving WA-07. Chair of @USProgressives, Member of @HouseJudiciary, @EdLaborCmte \u0026 @HouseBudgetDems. She/her.",
+      "id": "815733290955112448",
+      "username": "RepJayapal"
+    },
+    {
+      "name": "Congressman Al Green",
+      "description": "Proud to represent TX-09 in the U.S. House of Representatives \n• https://t.co/Lcfa10jIfH • https://t.co/MXGp8OLtZm \n#First58 #Historic66 #Noble95",
+      "id": "156333623",
+      "username": "RepAlGreen"
+    },
+    {
+      "name": "Rep. Jimmy Gomez",
+      "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Committees: @WaysMeansCmte and @OversightDems",
+      "id": "2371339658",
+      "username": "RepJimmyGomez"
+    },
+    {
+      "name": "Former Rep. Tulsi Gabbard",
+      "description": "Former Rep. Tulsi Gabbard proudly represented Hawai‘i\u0027s 2nd Congressional District from the 113th through the 116th Congresses (Jan. 2013-Jan. 2021)",
+      "id": "1064206014",
+      "username": "TulsiPress"
+    },
+    {
+      "name": "Rep. Gil Cisneros",
+      "description": "Navy Veteran and Representative for California\u0027s 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+      "id": "1080986167003230208",
+      "username": "RepGilCisneros"
+    },
+    {
+      "name": "Ami Bera, M.D.",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "id": "950783972",
+      "username": "RepBera"
+    },
+    {
+      "name": "Senator Brian Schatz",
+      "description": "Tweets from the Office of U.S. Senator Brian Schatz, representing the great state of Hawai‘i.",
+      "id": "1262099252",
+      "username": "SenBrianSchatz"
+    },
+    {
+      "name": "Senator Mazie Hirono",
+      "description": "U.S. Senator Mazie K. Hirono - Proudly Serving the People of Hawaii",
+      "id": "92186819",
+      "username": "maziehirono"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "The Office of Congressman Andy Kim",
+      "description": "Husband to my college sweetheart. Father to two troublemaking baby boys. Congressman for New Jersey\u0027s Third District. All tweets from Congressman Kim signed –AK",
+      "id": "1078771848882593793",
+      "username": "RepAndyKimNJ"
+    },
+    {
+      "name": "Rep. Ted Lieu",
+      "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/8esik1vtix • https://t.co/bEP2qWfwBG",
+      "id": "3044993235",
+      "username": "RepTedLieu"
+    },
+    {
+      "name": "Rep. Lucille Roybal-Allard",
+      "description": "Representing California\u0027s 40th Congressional District. Chairwoman of the @AppropsDems Homeland Security Committee.",
+      "id": "479872233",
+      "username": "RepRoybalAllard"
+    },
+    {
+      "name": "Mark Takano",
+      "description": "Proudly Representing California\u0027s 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+      "id": "1037321378",
+      "username": "RepMarkTakano"
+    },
+    {
+      "name": "Grace Meng",
+      "description": "Representing NY\u0027s 6th Congressional District - Parts of West, Central and Northeast Queens.\n\nFor specific questions or concerns, please contact my office.",
+      "id": "1051127714",
+      "username": "RepGraceMeng"
+    },
+    {
+      "name": "CAPAC",
+      "description": "#AAPI. Representation. Congress. The official Twitter account of the Congressional Asian Pacific American Caucus (CAPAC). https://t.co/oxkNcaJoOD",
+      "id": "192955168",
+      "username": "CAPAC"
+    },
+    {
+      "name": "Judy Chu",
+      "description": "Proudly representing California\u0027s 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+      "id": "193732179",
+      "username": "RepJudyChu"
+    },
+    {
+      "name": "Rep. Stacey Plaskett",
+      "description": "Proudly representing the Virgin Islands of the United States",
+      "id": "2724095695",
+      "username": "StaceyPlaskett"
+    },
+    {
+      "name": "Jenniffer González",
+      "description": "Proudly representing the 3.2 million U.S. citizens of Puerto Rico in Congress. Member of @NatResources, @TransportGOP and @HouseGOP.",
+      "id": "819744763020775425",
+      "username": "RepJenniffer"
+    },
+    {
+      "name": "Eleanor #DCStatehood Holmes Norton",
+      "description": "Member of Congress, representing the District of Columbia.",
+      "id": "23600262",
+      "username": "EleanorNorton"
+    },
+    {
+      "name": "Rep. Aumua Amata??",
+      "description": "Congresswoman proudly representing American Samoa. Serving on the @NatResources and @HouseVetAffairs",
+      "id": "3026622545",
+      "username": "RepAmata"
+    },
+    {
+      "name": "Del. Kilili Sablan",
+      "description": "US Delegate for the Northern Mariana Islands ??. Member of @EdLaborCmte, @NRDems, @VetAffairsDems, @HouseAgDems, @CAPAC \u0026 @HispanicCaucus",
+      "id": "926446070812602371",
+      "username": "Kilili_Sablan"
+    },
+    {
+      "name": "Rep. Mike Levin",
+      "description": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",
+      "id": "1072134139560620033",
+      "username": "RepMikeLevin"
+    },
+    {
+      "name": "Rep. Joe Neguse",
+      "description": "Dad. Husband. Attorney. Proudly serving Colorado’s 2nd Congressional District. Chair of @NRDems Public Lands Subcommittee \u0026 Co-Chair of @HouseDPCC.",
+      "id": "1078749802765139968",
+      "username": "RepJoeNeguse"
+    },
+    {
+      "name": "Archived: Rep. Joe Cunningham",
+      "description": "This account has been archived. Joe Cunningham proudly represented South Carolina\u0027s Lowcountry in Congress from Jan 2019 - January 2021.",
+      "id": "1080198683713507335",
+      "username": "RepCunningham"
+    },
+    {
+      "name": "Rep. Deb Haaland",
+      "description": "She/Her, Former #NM CD1 Rep., One of the 1st Native American women in Congress. Laguna Pueblo. Single mom. Marathon runner. Follow @SecDebHaaland for updates",
+      "id": "1080695666760929280",
+      "username": "RepDebHaaland"
+    },
+    {
+      "name": "Daemon",
+      "description": "to know. to dare. to will. to be silent.",
+      "id": "55416299",
+      "username": "iamthehermit"
+    },
+    {
+      "name": "Josh Tyquiengco",
+      "description": "Josh Tyquiengco is an island boy from Guam on a journey to become the best version of himself, live a fulfilling life and help others along the way.",
+      "id": "37364975",
+      "username": "justjosh2000"
+    },
+    {
+      "name": "Michelle Obama",
+      "description": "Girl from the South Side and former First Lady. Wife, mother, dog lover. Always hugger-in-chief. #TheLightWeCarry",
+      "id": "409486555",
+      "username": "MichelleObama"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "description": "U.S. Senator, Massachusetts. She/her/hers. Official Senate account.",
+      "id": "970207298",
+      "username": "SenWarren"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "Tina Okada",
+      "description": "This is the first, wildest, and wisest thing I know, that the soul exists, and that it is built entirely out of attention.\r\n\r\n- Mary Oliver",
+      "id": "36767230",
+      "username": "OreoDust"
+    },
+    {
+      "name": "T\u0027Nelta Nelson Mori",
+      "description": "don’t mind me, I have no idea how to work this app?",
+      "id": "773363172359016450",
+      "username": "tneltasnelsita"
+    },
+    {
+      "name": "Mike Crisostomo",
+      "description": "",
+      "id": "1340962380",
+      "username": "671Bejong"
+    },
+    {
+      "name": "Melissa Bettis",
+      "description": "Ajax\u0027s mom",
+      "id": "1682037638",
+      "username": "MeliBeti"
+    },
+    {
+      "name": "Louise Rivera",
+      "description": "Vice-Mayor of Tamuning-Tumon and Harmon. With 23 years of Public Service, I am running for Mayor this upcoming election and I am humbly seeking your support.",
+      "id": "162297849",
+      "username": "weezierivera"
+    },
+    {
+      "name": "Julian Guam",
+      "description": "",
+      "id": "383700411",
+      "username": "JulianGuam"
+    },
+    {
+      "name": "Julian",
+      "description": "human rights lawyer, founder of Blue Ocean Law, author of No Country for Eight-Spot Butterflies, 2022 Pulitzer Prize Finalist in Commentary",
+      "id": "3481799533",
+      "username": "julian_aguon"
+    },
+    {
+      "name": "Carlos S. Barretto",
+      "description": "DP/Production Director @SSPGuam. \"Striving to help raise the bar in our Event Industry\".",
+      "id": "2197095032",
+      "username": "Carlos6871272"
+    },
+    {
+      "name": "Bobby Shringi",
+      "description": "",
+      "id": "840513986575585280",
+      "username": "BobbyShringi"
+    },
+    {
+      "name": "Santino Sgambelluri",
+      "description": "proud father and happy husband / aspiring spelunker / musician / former golfer",
+      "id": "27129549",
+      "username": "tinowantsagig"
+    },
+    {
+      "name": "Clynt Ridgell",
+      "description": "Senator 36th Guam Legislature",
+      "id": "36022625",
+      "username": "ClyntRidgell"
+    },
+    {
+      "name": "Agana Shopping Center",
+      "description": "Over 70 Ways to Shop, Dine \u0026 Relax! | ? 11AM-8PM (Mon-Sat) • 11AM-6PM (Sun) | ?? (671) 472-5027/8",
+      "id": "245664738",
+      "username": "AganaCenter"
+    },
+    {
+      "name": "Naval Base Guam",
+      "description": "Naval Base Guam\u0027s mission is to support the forces of the US Pacific Fleet, and the Sailors, commands and families on NBG  that  support the fleet.",
+      "id": "85228888",
+      "username": "nbguam"
+    },
+    {
+      "name": "Judiciary of Guam",
+      "description": "Get news and information about the Supreme and Superior Courts of Guam",
+      "id": "395142239",
+      "username": "guamcourts"
+    },
+    {
+      "name": "Kyle Mandapat",
+      "description": "Morning Blender, Power 98; Vice President of Radio Operations, SMG; keleguen killer",
+      "id": "35877576",
+      "username": "kylemandapat"
+    },
+    {
+      "name": "Hit Radio 100 Guam",
+      "description": "Guam\u0027s # 1 Hit Music Station! ????????? IG/FB : @hitradio100guam CALL? (671) 477-1003 ??? TEXT US! (671) 688-KOKU",
+      "id": "45724199",
+      "username": "HitRadio100Guam"
+    },
+    {
+      "name": "Power 98 Guam ??",
+      "description": "Free Streaming App ? Request Text Line 671-797-0098 ? Like + Follow IG \u0026 FB (power98guam) ?? ??",
+      "id": "125496322",
+      "username": "Power98Guam"
+    },
+    {
+      "name": "Jermaine Alerta",
+      "description": "CHamoru??/Filipino??. Guam is home. I like to post funny things. And serious things. And retweet. Tweets and RTs reflect my opinions ALONE.",
+      "id": "52215860",
+      "username": "jermainealerta"
+    },
+    {
+      "name": "Lawrence Jay Alcairo",
+      "description": "",
+      "id": "357325118",
+      "username": "ljalcairo"
+    },
+    {
+      "name": "Pacific News Center",
+      "description": "News You Can Trust! | Delivering the news to your TVs and mobile devices nightly starting at 5:30 p.m. | Facebook \u0026 Instagram: @pncguam",
+      "id": "35636289",
+      "username": "PNCGuam"
+    },
+    {
+      "name": "Dawn Maka",
+      "description": "",
+      "id": "1342960478",
+      "username": "auntyama2002"
+    },
+    {
+      "name": "CJ Hattori",
+      "description": "Familia Titang. UCSD 2019. FDMS 2015",
+      "id": "72790284",
+      "username": "chattori13"
+    },
+    {
+      "name": "Adam Carbullido",
+      "description": "Director of Policy and Advocacy @AAPCHOadvocates @AAPCHOtweets | Former Chief of Staff to @repbordallo | #CHamoru | @notredame alum | Views are my own",
+      "id": "51117809",
+      "username": "apcarbullido"
+    },
+    {
+      "name": "????? ??????????",
+      "description": "Family, Golden Knights Hockey, Vikings Football, Wool, GoT, Earth",
+      "id": "414070064",
+      "username": "CurlyCoconuts"
+    },
+    {
+      "name": "Aaron Tamayo",
+      "description": "“You can’t fuck with the truth”\n-Patrice O’Neal",
+      "id": "869258839",
+      "username": "atamayo84"
+    },
+    {
+      "name": "Debbie Quinata",
+      "description": "",
+      "id": "143642931",
+      "username": "dquinata"
+    },
+    {
+      "name": "Katrin Graggaber",
+      "description": "Mother of Feli. Wife. Experienced PE and startup exec. @harvardhbs \u0026 @lsealumni, @fcbayern, and Dog lover.",
+      "id": "189183835",
+      "username": "KGraggaber"
+    },
+    {
+      "name": "Sabrina Salas Matanane",
+      "description": "",
+      "id": "19753355",
+      "username": "SabrinaMatanane"
+    },
+    {
+      "name": "Robert Hofmann",
+      "description": "Mayor of Sinajana",
+      "id": "25966262",
+      "username": "MahotRobert"
+    },
+    {
+      "name": "Mindy Aguon",
+      "description": "Asst. News Director",
+      "id": "34554855",
+      "username": "mindyaguon"
+    },
+    {
+      "name": "Travis Coffman",
+      "description": "",
+      "id": "18044262",
+      "username": "BigshowGuam"
+    },
+    {
+      "name": "Ray Gibson",
+      "description": "Partner and Co-owner of Choice Broadcasting LLC on Guam",
+      "id": "14942482",
+      "username": "raygibson"
+    },
+    {
+      "name": "KUAM News",
+      "description": "Guam\u0027s News Network | https://t.co/rb2im2m9mW| https://t.co/3GeINS9LVL| Stay Connected ?????",
+      "id": "3822121",
+      "username": "kuamnews"
+    },
+    {
+      "name": "ABC7 Guam",
+      "description": "Guam\u0027s Own- ABC7 starts here!",
+      "id": "67578554",
+      "username": "abc7guam"
+    },
+    {
+      "name": "Guam PDN",
+      "description": "The official account of Pacific Daily News, providing Guam\u0027s complete source of news. News tips? Share them to news@guampdn.com or 671-472-1PDN.",
+      "id": "15997135",
+      "username": "GuamPDN"
+    }
+  ],
+  "id": "346509049",
+  "username": "GuamCongressman"
+}

@@ -1,0 +1,36 @@
+{
+  "following": [
+    {
+      "name": "Rep. David Valadao",
+      "description": "Proudly Representing California\u0027s 21st Congressional District.",
+      "id": "1128514404",
+      "username": "RepDavidValadao"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Cellar Dweller Initiative",
+      "description": "We expose the radical political appointees in the Biden Admin who are driving America into a ditch. A project of TAF.\nNever forget: Personnel is Policy!",
+      "id": "1531702966524198915",
+      "username": "CellarDweller46"
+    },
+    {
+      "name": "Natural Resources GOP",
+      "description": "U.S. House Committee on Natural Resources Republicans, led by Ranking Member Bruce Westerman.",
+      "id": "41445718",
+      "username": "NatResources"
+    },
+    {
+      "name": "Western Caucus Foundation",
+      "description": "Our mission is to inform and educate policy makers and the public on federal policy issues distinctive to western and rural communities.",
+      "id": "3232812487",
+      "username": "WestCaucusFound"
+    }
+  ],
+  "id": "1544718378987933703",
+  "username": "RepConnieConway"
+}

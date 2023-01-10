@@ -1,0 +1,1314 @@
+{
+  "following": [
+    {
+      "name": "Rep. Ed Perlmutter",
+      "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+      "id": "20552026",
+      "username": "RepPerlmutter"
+    },
+    {
+      "name": "Suzanne Bonamici",
+      "description": "Representing Oregon\u0027s 1st District. Working to strengthen #PublicEducation, support #WorkingFamilies, \u0026 #ActOnClimate. Proud mom of two grown kids. She/her.",
+      "id": "558769636",
+      "username": "RepBonamici"
+    },
+    {
+      "name": "Jake Sherman",
+      "description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+      "id": "21252618",
+      "username": "JakeSherman"
+    },
+    {
+      "name": "January 6th Committee",
+      "description": "Select Committee to Investigate the January 6th Attack on the United States Capitol | Representative @BennieGThompson, Chairman",
+      "id": "1415384176593883137",
+      "username": "January6thCmte"
+    },
+    {
+      "name": "Rep. Joe Neguse",
+      "description": "Dad. Husband. Attorney. Proudly serving Colorado’s 2nd Congressional District. Chair of @NRDems Public Lands Subcommittee \u0026 Co-Chair of @HouseDPCC.",
+      "id": "1078749802765139968",
+      "username": "RepJoeNeguse"
+    },
+    {
+      "name": "Congresswoman Cori Bush",
+      "description": "Doing the most for MO-01 (STL)—starting with those with the greatest need. Politician + Activist \u003d Politivist. Member, @HouseJudiciary, @OversightDems. She/her.",
+      "id": "1002630999052865536",
+      "username": "RepCori"
+    },
+    {
+      "name": "Rep. Ritchie Torres",
+      "description": "Congressman for #NY15 (South Bronx). Bronx native, product of public housing. Fighting every day for the essential borough. He/him. Official House account.",
+      "id": "1276403757224546304",
+      "username": "RepRitchie"
+    },
+    {
+      "name": "Rep. Jake Auchincloss",
+      "description": "Dad. Marine. Former Newton City Councilor. Congressman representing MA-04. Vice-Chair of @FSCDems and member of @TransportDems.",
+      "id": "1330278736554582016",
+      "username": "RepAuchincloss"
+    },
+    {
+      "name": "Congresswoman Kathy Manning",
+      "description": "Congresswoman representing #NC06. Member of @EdLaborCmte \u0026 @HouseForeign\n#ncpol",
+      "id": "1337115670161608712",
+      "username": "RepKManning"
+    },
+    {
+      "name": "Congresswoman Marie Newman",
+      "description": "Mother and former Member of Congress. Fighter for stronger infrastructure and an economy that works for everyone.",
+      "id": "1343578440977494018",
+      "username": "RepMarieNewman"
+    },
+    {
+      "name": "Rep. Carolyn Bourdeaux",
+      "description": "Proudly representing #GA07. Advocate for Georgia families and a big fan of budgets. Before Congress, I taught at @aysps — go Panthers!",
+      "id": "1343620645452595200",
+      "username": "RepBourdeaux"
+    },
+    {
+      "name": "Congresswoman Marilyn Strickland",
+      "description": "Proudly representing #WA10. Fighting for a nation that is safe, just and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",
+      "id": "1343646545955213312",
+      "username": "RepStricklandWA"
+    },
+    {
+      "name": "Congressman Jamaal Bowman",
+      "description": "Humbled to serve New York\u0027s 16th Congressional District. Vice Chair, @EdLaborCmte \u0026 Member, @HouseScience. Providing updates on services and legislation.",
+      "id": "1344389506963808264",
+      "username": "RepBowman"
+    },
+    {
+      "name": "Congresswoman Sara Jacobs",
+      "description": "Representing #CA53 and a new generation of leaders. She/Her. Member of House Dem Steering and Policy Committee, @HouseForeign, @HASCDemocrats \u0026 @FairGrowthCmte.",
+      "id": "1345103905869455361",
+      "username": "RepSaraJacobs"
+    },
+    {
+      "name": "Rep. Teresa Leger Fernández",
+      "description": "Working to protect what we love. Mom of 3. Proudly serving New Mexico’s 3rd Congressional District. She/her/ella.",
+      "id": "1345147845926670337",
+      "username": "RepTeresaLF"
+    },
+    {
+      "name": "Congresswoman Nikema Williams",
+      "description": "Working for the people #OutLoudOnPurpose. Proudly representing #GA05?. Member of @FSCDems and @TransportDems. 117th Congress Freshman Class President. She/Her",
+      "id": "1345461797361504259",
+      "username": "RepNikema"
+    },
+    {
+      "name": "Rep. Mondaire Jones",
+      "description": "Congressman, NY-17. Member, @HouseJudiciary, @EdLaborCmte, \u0026 @CongressEthics. Deputy Whip, @USProgressives. Co-Chair, @LGBTEqCaucus. He/Him. Official account.",
+      "id": "1345883634046279681",
+      "username": "RepMondaire"
+    },
+    {
+      "name": "Rep. Frank J. Mrvan",
+      "description": "Congressman Frank J. Mrvan represents Indiana\u0027s First Congressional District in the U.S. House of Representatives.",
+      "id": "1346205046036377601",
+      "username": "RepMrvan"
+    },
+    {
+      "name": "Congresswoman Deborah Ross",
+      "description": "Proudly serving North Carolina’s 2nd District. Former civil rights attorney and NC state legislator.\nCommittees: @HouseJudiciary, @RulesDemocrats, @HouseScience",
+      "id": "1348683154815655940",
+      "username": "RepDeborahRoss"
+    },
+    {
+      "name": "Douglas Emhoff",
+      "description": "Second Gentleman of the United States. Devoted dad. Proud husband to @VP Kamala Harris.",
+      "id": "1349175483989188608",
+      "username": "SecondGentleman"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Karine Jean-Pierre",
+      "description": "35th White House Press Secretary",
+      "id": "1349170292564905988",
+      "username": "PressSec"
+    },
+    {
+      "name": "dell cameron",
+      "description": "Next: @WIRED // @dell@journa.host",
+      "id": "103392633",
+      "username": "dellcam"
+    },
+    {
+      "name": "AARP California",
+      "description": "Advocacy, news, and research that matters to Californians 50+, shared with humor and style. We\u0027re where our members are! https://t.co/Sf4cgnbWLm",
+      "id": "19665271",
+      "username": "AARPCA"
+    },
+    {
+      "name": "San José Fire Dept.",
+      "description": "City of San José Fire Department\u0027s Official Twitter account.  To report an emergency call 9-1-1.  This account is not monitored 24/7.",
+      "id": "19085773",
+      "username": "SJFD"
+    },
+    {
+      "name": "SantaClaraCoSheriff",
+      "description": "Official Twitter page for the Santa Clara County Sheriff\u0027s Office. Account not monitored 24/7. To report emergency, call 9-1-1 or 408-299-2311.",
+      "id": "1341628620",
+      "username": "SCCoSheriff"
+    },
+    {
+      "name": "World Health Organization (WHO)",
+      "description": "We are the #UnitedNations’ health agency - #HealthForAll.\n?? Always check our latest tweets on #COVID19 for updated advice/information.",
+      "id": "14499829",
+      "username": "WHO"
+    },
+    {
+      "name": "CDC",
+      "description": "CDC\u0027s official Twitter source for daily credible health \u0026 safety updates from Centers for Disease Control \u0026 Prevention. Privacy policy: https://t.co/9LbZmE3Wzg",
+      "id": "146569971",
+      "username": "CDCgov"
+    },
+    {
+      "name": "CA Public Health",
+      "description": "The California Department of Public Health is dedicated to optimizing the health and well-being of Californians. Retweets ? endorsements",
+      "id": "33934492",
+      "username": "CAPublicHealth"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "Healthy SCC",
+      "description": "Health news and tips from the Public Health Department for the County of Santa Clara, California",
+      "id": "500069464",
+      "username": "HealthySCC"
+    },
+    {
+      "name": "MSNBC",
+      "description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+      "id": "2836421",
+      "username": "MSNBC"
+    },
+    {
+      "name": "NBC News",
+      "description": "News updates from around the ?, all day, every day.",
+      "id": "14173315",
+      "username": "NBCNews"
+    },
+    {
+      "name": "Sarah D. Wire",
+      "description": "Justice Dept \u0026 national security reporter @latimes focused on Jan. 6/ extremism. FOIA nerd. @pressclubDC Board @MUJSchool grad RT?endorse sarah.wire@latimes.com",
+      "id": "15704971",
+      "username": "sarahdwire"
+    },
+    {
+      "name": "Stephen Sanchez",
+      "description": "Now: @NBCNews \u0026 @NBCNewsNow. Emmy award-winning journalist. Political and sports junkie. Then: @CBSNews \u0026 @News4SA. ? stephen.sanchez@nbcuni.com",
+      "id": "957025192605306880",
+      "username": "SSanchezTV"
+    },
+    {
+      "name": "Anderson Cooper 360°",
+      "description": "A behind the scenes look at Anderson Cooper 360°. Watch AC360° M-F at 8pm/ET on @CNN and follow Anderson on twitter: @AndersonCooper.",
+      "id": "227837742",
+      "username": "AC360"
+    },
+    {
+      "name": "Congressional App Challenge",
+      "description": "We are the U.S. House of Representative\u0027s official coding competition. We promote STEM by inspiring our nation’s youth coding talent.??????",
+      "id": "1225814342",
+      "username": "CongressionalAC"
+    },
+    {
+      "name": "Covered California",
+      "description": "A free service that connects Californians with brand-name health insurance, and offers financial help if you qualify. Support available in English \u0026 Español.",
+      "id": "915514734",
+      "username": "CoveredCA"
+    },
+    {
+      "name": "Ilhan Omar",
+      "description": "Mom, Refugee and Congresswoman for #MN05. Progressive Caucus Whip. Fighting for a more just world. Grassroots funded progressive ? https://t.co/u6aQiJB0hs ?",
+      "id": "783792992",
+      "username": "IlhanMN"
+    },
+    {
+      "name": "Center for Democracy \u0026 Technology",
+      "description": "The Center for Democracy \u0026 Technology. Shaping technology policy and architecture, with a focus on equity and justice. @CDTEU for our EU-based team.",
+      "id": "16228337",
+      "username": "CenDemTech"
+    },
+    {
+      "name": "Democratic Coalition",
+      "description": "We helped run #TheResistance against Trump and established the #ImpeachmentTaskForce. We campaign for Dems and have an aggressive online organizing program.",
+      "id": "713839291210792960",
+      "username": "TheDemCoalition"
+    },
+    {
+      "name": "Maria Sacchetti",
+      "description": "@WashingtonPost National #immigration, DHS reporter. Reportera, cubro migración maria.sacchetti@washpost.com",
+      "id": "27058347",
+      "username": "mariasacchetti"
+    },
+    {
+      "name": "MPAC",
+      "description": "The Muslim Public Affairs Council (MPAC) improves public understanding and policies that impact American Muslims by engaging our government, media \u0026 communities",
+      "id": "33741541",
+      "username": "mpac_national"
+    },
+    {
+      "name": "OxfamAmerica",
+      "description": "We’re fighting global inequality to end poverty \u0026 injustice, so that everyone can thrive, not just survive. Demand an equal future with us. https://t.co/IqlLToXiUC",
+      "id": "11695602",
+      "username": "OxfamAmerica"
+    },
+    {
+      "name": "NPNA",
+      "description": "NPNA represents the nation\u0027s 60 largest immigrant coalitions in 40 states. Immigrants power our work to create an inclusive America.",
+      "id": "469708047",
+      "username": "npnewamericans"
+    },
+    {
+      "name": "Sam Liccardo",
+      "description": "Mayor of San José. Despite being 60% water, I’m a big eater. Cycling geek. @SteveCarell’s less evil twin. Better half: @kohl_garcia. He/Him.",
+      "id": "61822673",
+      "username": "sliccardo"
+    },
+    {
+      "name": "STEMsolutions",
+      "description": "@USNews #STEMSolve National Leadership Conference exploring solutions in #STEM #workforce \u0026 #workforcedevelopment. The 2020 Event has been canceled.",
+      "id": "479998051",
+      "username": "STEMsolutions"
+    },
+    {
+      "name": "STEM Education Coalition",
+      "description": "A broad alliance of business, education, and professional organizations advocating to improve STEM education at every level.",
+      "id": "242727646",
+      "username": "StemEdCoalition"
+    },
+    {
+      "name": "SEARAC",
+      "description": "A national civil rights organization that empowers Cambodian, Laotian, and Vietnamese American communities to create a socially just and equitable society.",
+      "id": "133836828",
+      "username": "SEARAC"
+    },
+    {
+      "name": "Ted Lieu",
+      "description": "Husband of Betty, the love of my life. Father of two great kids. USAF veteran. Member of Congress. In that order. Also, empathy is good.",
+      "id": "21059255",
+      "username": "tedlieu"
+    },
+    {
+      "name": "Human Rights First",
+      "description": "We exist to actualize free and equal societies, leading actions that hold oppressors accountable and free people from injustice. RTs are not endorsements.",
+      "id": "35803565",
+      "username": "humanrights1st"
+    },
+    {
+      "name": "Katherine Clark",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. Defender of women, kids \u0026 justice. She/Her",
+      "id": "2293131060",
+      "username": "RepKClark"
+    },
+    {
+      "name": "CAPAC",
+      "description": "#AAPI. Representation. Congress. The official Twitter account of the Congressional Asian Pacific American Caucus (CAPAC). https://t.co/oxkNcaJoOD",
+      "id": "192955168",
+      "username": "CAPAC"
+    },
+    {
+      "name": "Rashida Tlaib",
+      "description": "Unbossed Congresswoman. Detroiter, Palestinian American, Muslima. #RootedInCommunity",
+      "id": "435331179",
+      "username": "RashidaTlaib"
+    },
+    {
+      "name": "Ro Khanna",
+      "description": "A new economic patriotism. Let’s make it here. Invent it, produce it, \u0026 buy it in America. Trade surplus again. Pro worker \u0026 family. Dignity in a Digital Age ?",
+      "id": "771152516",
+      "username": "RoKhanna"
+    },
+    {
+      "name": "EPIC",
+      "description": "The Electronic Privacy Information Center (EPIC) was established in 1994 to protect privacy, freedom of expression, \u0026 democratic values in the information age.",
+      "id": "105197819",
+      "username": "EPICprivacy"
+    },
+    {
+      "name": "Public Knowledge",
+      "description": "Public Knowledge promotes an open internet, accessible communications tools, and balanced copyright laws. \nRT\u0027s do not necessarily indicate endorsement.",
+      "id": "14139811",
+      "username": "publicknowledge"
+    },
+    {
+      "name": "CAP Action",
+      "description": "Holding our leaders accountable and fighting alongside @Amprog to improve the lives of all Americans through bold, progressive policies.",
+      "id": "15554922",
+      "username": "CAPAction"
+    },
+    {
+      "name": "Rep. Pramila Jayapal",
+      "description": "Congresswoman, lifelong organizer, mom. Proudly serving WA-07. Chair of @USProgressives, Member of @HouseJudiciary, @EdLaborCmte \u0026 @HouseBudgetDems. She/her.",
+      "id": "815733290955112448",
+      "username": "RepJayapal"
+    },
+    {
+      "name": "WOLA",
+      "description": "The Washington Office on Latin America (WOLA) is a leading research and advocacy organization advancing human rights in the Americas.",
+      "id": "133048642",
+      "username": "WOLA_org"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "description": "US Representative,NY-14 (BX \u0026 Queens). In a modern, moral, \u0026 wealthy society, no American should be too poor to live. ?% People-Funded, no lobbyist?. She/her.",
+      "id": "138203134",
+      "username": "AOC"
+    },
+    {
+      "name": "Ezra Klein",
+      "description": "Columnist, @NYTOpinion\nAuthor, \"Why We\u0027re Polarized\"\nHost of \"The Ezra Klein Show\" podcast",
+      "id": "18622869",
+      "username": "ezraklein"
+    },
+    {
+      "name": "Manu Raju",
+      "description": "Chief Congressional Correspondent, @CNN. Roaming the Capitol halls, covering the Hill and politics. Die-hard Chicago sports fan. Wisconsin Badger for life.",
+      "id": "39155029",
+      "username": "mkraju"
+    },
+    {
+      "name": "Stephanie Miller",
+      "description": "Host of The Stephanie Miller Show. Monday-Friday 6-9AM PT/9-12PM ET.  @SXMProgress 127, @FreeSpeechTV / https://t.co/5uBT88jmCa, IHeartRadio, Progressive Voices, TuneIn.",
+      "id": "80944550",
+      "username": "StephMillerShow"
+    },
+    {
+      "name": "Rep. Lou Correa",
+      "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDems @HouseAgDems",
+      "id": "815985039485837312",
+      "username": "RepLouCorrea"
+    },
+    {
+      "name": "jennycohn@toad.social ?? ?",
+      "description": "I write about elections \u0026 the dangers of the Christian Right for @buckscobeacon; Mastodon \u003d jennycohn@toad.social; Support my work: https://t.co/QWvBn9cIom",
+      "id": "4541535439",
+      "username": "jennycohn1"
+    },
+    {
+      "name": "Dan Rather",
+      "description": "Journalist, storyteller, lifelong reader. Texan by birth and by choice. Author of STEADY https://t.co/X9tSkEFrIv and WHAT UNITES US #WhatUnitesUs",
+      "id": "36711022",
+      "username": "DanRather"
+    },
+    {
+      "name": "Congresswoman Mary Gay Scanlon",
+      "description": "Representing Pennsylvania\u0027s 5th Congressional District. Vice Chair of @HouseAdm_Dems. Member of @HouseJudiciary @RulesDemocrats.",
+      "id": "1067541214671577093",
+      "username": "RepMGS"
+    },
+    {
+      "name": "Matt Fuller",
+      "description": "Washington Bureau Chief for The Daily Beast. We must not allow a mineshaft gap.",
+      "id": "398088661",
+      "username": "MEPFuller"
+    },
+    {
+      "name": "California Farm Bureau",
+      "description": "Non-governmental, non-profit, voluntary membership, protecting and promoting agricultural interests throughout California.",
+      "id": "75375556",
+      "username": "CAFarmBureau"
+    },
+    {
+      "name": "National Milk Producers Federation",
+      "description": "Representing farmer-owned #dairy cooperatives on Capitol Hill since 1916",
+      "id": "61847314",
+      "username": "nmpf"
+    },
+    {
+      "name": "National Farmers Union",
+      "description": "National Farmers Union has been working since 1902 to protect and enhance the quality of life of American family farmers and ranchers and their communities.",
+      "id": "109302025",
+      "username": "NFUDC"
+    },
+    {
+      "name": "Dolores Huerta",
+      "description": "Founder \u0026 President, @DoloresHuertaFD; Co-founder, United Farm Workers. Watch Now: https://t.co/11YXM5tNyr",
+      "id": "263879706",
+      "username": "DoloresHuerta"
+    },
+    {
+      "name": "United Farm Workers",
+      "description": "UFW: Fighting for farm worker rights since 1962. Si Se Puede! ® RT?Endorsement",
+      "id": "16316895",
+      "username": "UFWupdates"
+    },
+    {
+      "name": "UFW Foundation",
+      "description": "Si Se Puede! ® ?? \nOur purpose is to empower communities to ensure human dignity. \nNo political endorsements.",
+      "id": "284296658",
+      "username": "ufwfoundation"
+    },
+    {
+      "name": "House Veterans\u0027 Affairs",
+      "description": "Chairman @RepMarkTakano | House Committee on Veterans’ Affairs",
+      "id": "151519500",
+      "username": "VetAffairsDems"
+    },
+    {
+      "name": "SCC Democratic Party",
+      "description": "Santa Clara County Democratic Party",
+      "id": "35779645",
+      "username": "SCCDP"
+    },
+    {
+      "name": "House Gun Task Force",
+      "description": "House Gun Violence Prevention Task Force",
+      "id": "747853673917747200",
+      "username": "HouseGVP"
+    },
+    {
+      "name": "House DPCC",
+      "description": "The House Democratic Policy \u0026 Communications Committee is Co-Chaired by @RepCartwright, @RepDebDingell, @RepTedLieu, \u0026 @RepJoeNeguse #PeopleOverPolitics",
+      "id": "3027286779",
+      "username": "HouseDPCC"
+    },
+    {
+      "name": "Chris Hayes",
+      "description": "Dad to Ryan, David and Anya.\nProud husband of @kateashaw1\nHost: @allinwithchris on MSNBC, weeknights 8pm. \n#WITHPod Host\nBronx boy; Cubs fan\ngram: chrislhayes",
+      "id": "4207961",
+      "username": "chrislhayes"
+    },
+    {
+      "name": "Human Rights Campaign",
+      "description": "HRC is the nation’s largest LGBTQ+ civil rights organization. We envision a world where LGBTQ+ people are ensured equality at home, at work \u0026 in every community",
+      "id": "19608297",
+      "username": "HRC"
+    },
+    {
+      "name": "Jonathan Van Ness",
+      "description": "JVN Hair Blowout Styling Milk Out Now https://t.co/lFtYRhrfC6",
+      "id": "1512446430",
+      "username": "jvn"
+    },
+    {
+      "name": "Tim Farley",
+      "description": "Retired Host Morning Briefing POTUS (Sirius XM Radio - channel 124)",
+      "id": "16261445",
+      "username": "MorningBriefing"
+    },
+    {
+      "name": "SiriusXM P.O.T.U.S.",
+      "description": "Politics of the United States for the People of the United States. @SiriusXM (ch. 124). Retweets are not agreement or endorsement.",
+      "id": "344864408",
+      "username": "SXMPOTUS"
+    },
+    {
+      "name": "Kyle Griffin",
+      "description": "Executive Producer. MSNBC\u0027s @AymanMSNBC and @MehdiHasanShow. Opinions mine. Do not congratulate.   https://t.co/4WQ1aNuXLs",
+      "id": "32871086",
+      "username": "kylegriffin1"
+    },
+    {
+      "name": "Congressional Hispanic Caucus",
+      "description": "The 36-Member Congressional Hispanic Caucus advocates for issues important to Hispanics via the legislative process in Congress.",
+      "id": "33530012",
+      "username": "HispanicCaucus"
+    },
+    {
+      "name": "Barack Obama",
+      "description": "Dad, husband, President, citizen.",
+      "id": "813286",
+      "username": "BarackObama"
+    },
+    {
+      "name": "Tim Cook",
+      "description": "Apple CEO ? Auburn ? ? Duke ? National Parks ?? “Life\u0027s most persistent and urgent question is, \u0027What are you doing for others?\u0027” - MLK. he/him",
+      "id": "1636590253",
+      "username": "tim_cook"
+    },
+    {
+      "name": "Rep. Nydia Velazquez",
+      "description": "Represents New York\u0027s 7th Congressional District in the U.S. House of Representatives. Chair of House Small Business Committee. \n\nFollow us @HouseSmallBiz.",
+      "id": "164369297",
+      "username": "NydiaVelazquez"
+    },
+    {
+      "name": "Rep. Ilhan Omar",
+      "description": "Representing Minnesota\u0027s 5th District in the People\u0027s House. @USProgressives Whip.",
+      "id": "1082334352711790593",
+      "username": "Ilhan"
+    },
+    {
+      "name": "Elijah E. Cummings",
+      "description": "U.S. Representative from Maryland\u0027s 7th District, dedicated to serving and empowering the people I’m sworn to represent. RT\u0027s and Follows are not endorsements.",
+      "id": "787373558",
+      "username": "RepCummings"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "description": "U.S. Senator, former teacher. Wife, mom (Amelia, Alex, Bailey, @CFPB), grandmother, and Okie. She/her. Official campaign account.",
+      "id": "357606935",
+      "username": "ewarren"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "Steny Hoyer",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland\u0027s Fifth Congressional District.",
+      "id": "22012091",
+      "username": "LeaderHoyer"
+    },
+    {
+      "name": "Rep. Salud Carbajal",
+      "description": "Father, husband and veteran proudly representing California’s 24th District. Working to protect the environment, improve our economy, and support our veterans.",
+      "id": "816157667882373120",
+      "username": "RepCarbajal"
+    },
+    {
+      "name": "Alyssa Milano",
+      "description": "?? Check out @sorrynotsorry @PatNotPart and @NoRA4USA Please follow my other accounts for career updates @AlyssaDotCom @TouchByAM Text Me: (323)396-9923",
+      "id": "26642006",
+      "username": "Alyssa_Milano"
+    },
+    {
+      "name": "Santa Clara County Office of Emergency Management",
+      "description": "Our mission is to promote, facilitate \u0026 support the County of Santa Clara \u0026 the Op area in efforts to prepare for, respond to \u0026 recover from disasters. #SCCSAFE",
+      "id": "3431854829",
+      "username": "SCCOEM"
+    },
+    {
+      "name": "San José Spotlight",
+      "description": "San José Spotlight is the city’s first nonprofit newsroom dedicated to independent political and business reporting. https://t.co/bmcCewWdz1",
+      "id": "1019598820009750529",
+      "username": "SJSpotlight"
+    },
+    {
+      "name": "Ramona Giwargis",
+      "description": "Co-founder @SJSpotlight. @SPJ_NorCal board. Past: @reviewjournal, @mercnews, @mercedsunstar. I\u0027m Assyrian, @SJSU grad, animal lover, MJ fan \u0026 I keep God first.",
+      "id": "130432806",
+      "username": "RamonaGiwargis"
+    },
+    {
+      "name": "Elizabeth Mendez",
+      "description": "Producer @nightline. || Previously VICE, CNN, NBC, Telemundo, Al-Jazeera.",
+      "id": "46762221",
+      "username": "izziemae"
+    },
+    {
+      "name": "Senator Dick Durbin",
+      "description": "Serving the people of Illinois. Majority Whip and Chair of the Senate Judiciary Committee @JudiciaryDems.",
+      "id": "247334603",
+      "username": "SenatorDurbin"
+    },
+    {
+      "name": "Chuck Schumer",
+      "description": "Official Account of Senator Chuck Schumer, New York’s Senator and the Senate Majority Leader.",
+      "id": "17494010",
+      "username": "SenSchumer"
+    },
+    {
+      "name": "Gilroy Police",
+      "description": "Providing excellent public safety in partnership with the community.",
+      "id": "31260020",
+      "username": "GilroyPD"
+    },
+    {
+      "name": "Rep. Mike Levin",
+      "description": "Proud husband/dad, SoCal native, clean energy advocate, environmental attorney, Stanford/Duke alum. U.S. Representative for CA-49. Official account.",
+      "id": "1072134139560620033",
+      "username": "RepMikeLevin"
+    },
+    {
+      "name": "Congressman TJ Cox",
+      "description": "Engineer, dad, small businessman. Served with @HouseAgDems to grow opportunity in #CA21.",
+      "id": "1080875913926139910",
+      "username": "RepTjCox"
+    },
+    {
+      "name": "Rep. Josh Harder",
+      "description": "Pam’s husband. Lillian’s dad. Proudly serving the Central Valley in Congress.",
+      "id": "1080851152151953410",
+      "username": "RepJoshHarder"
+    },
+    {
+      "name": "Rep. Gil Cisneros",
+      "description": "Navy Veteran and Representative for California\u0027s 39th District. Member of @VetAffairsDems, @HASCDemocrats, @HispanicCaucus, @CAPAC. Ready to serve.",
+      "id": "1080986167003230208",
+      "username": "RepGilCisneros"
+    },
+    {
+      "name": "Rep. Katie Porter",
+      "description": "Minivan-driving single mom, law professor, consumer advocate ????? Usually carrying a whiteboard, always bringing the receipts ?",
+      "id": "1081222837459996672",
+      "username": "RepKatiePorter"
+    },
+    {
+      "name": "Rep. Katie Hill",
+      "description": "Congresswoman serving the Antelope, Simi \u0026 Santa Clarita Valleys in #CA25. But call me Katie. Let’s get to work.",
+      "id": "1068273911224094721",
+      "username": "RepKatieHill"
+    },
+    {
+      "name": "Archived: Rep. Harley Rouda",
+      "description": "Archived account of the office of U.S. Congressmember Harley E. Rouda of California\u0027s 48th District.",
+      "id": "1075080722241736704",
+      "username": "RepHarley"
+    },
+    {
+      "name": "Rep. Jimmy Gomez",
+      "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Committees: @WaysMeansCmte and @OversightDems",
+      "id": "2371339658",
+      "username": "RepJimmyGomez"
+    },
+    {
+      "name": "Rep. Jimmy Panetta",
+      "description": "I am honored to represent California\u0027s new 19th congressional district in the U.S. House of Representatives.",
+      "id": "796736612554117120",
+      "username": "RepJimmyPanetta"
+    },
+    {
+      "name": "Nanette D. Barragán",
+      "description": "Honored to represent CA\u0027s 44th Congressional District, #CA44. Member of @EnergyCommerce @HomelandDems @HispanicCaucus @USProgressives. @Dodgers fan.",
+      "id": "816833925456789505",
+      "username": "RepBarragan"
+    },
+    {
+      "name": "Rep. Ro Khanna",
+      "description": "Silicon Valley\u0027s CA-17. New economic patriotism \u0026 restoring American manufacturing. Pro working families. Ending endless wars. No PAC $. He/Him.",
+      "id": "816298918468259841",
+      "username": "RepRoKhanna"
+    },
+    {
+      "name": "echofon",
+      "description": "Twitter app for iOS and Android.",
+      "id": "58166411",
+      "username": "echofon"
+    },
+    {
+      "name": "CNN",
+      "description": "It’s our job to #GoThere \u0026 tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6",
+      "id": "759251",
+      "username": "CNN"
+    },
+    {
+      "name": "Tom Jawetz",
+      "description": "Most recently Deputy General Counsel, DHS. Previously @amprog @HouseJudDems @aclu @AmeriCorpsNCCC All views my own. He/Him/His",
+      "id": "852096720",
+      "username": "TomJawetz"
+    },
+    {
+      "name": "VoicesAgainstTheBan",
+      "description": "Highlighting the voices of those against @realDonaldTrump\u0027s #MuslimBan and those affected by it.",
+      "id": "831913562075447302",
+      "username": "VoicesOfTheBan"
+    },
+    {
+      "name": "SCOTUS Nom (NARA)",
+      "description": "This is an archive of an Obama Administration account and is maintained by the National Archives and Records Administration (NARA).",
+      "id": "708072909114318848",
+      "username": "SCOTUSnom"
+    },
+    {
+      "name": "NARAL Pro-Choice California",
+      "description": "Fighting for reproductive freedom w/our 371,000 members by electing pro-choice champions \u0026 passing pro-choice, pro-women, pro-LGBTQ laws in CA ??",
+      "id": "159169355",
+      "username": "ProChoiceCA"
+    },
+    {
+      "name": "White House Archived",
+      "description": "This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "30313925",
+      "username": "ObamaWhiteHouse"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "La Casa Blanca 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818925774493405188",
+      "username": "LaCasaBlanca45"
+    },
+    {
+      "name": "La Casa Blanca NARA",
+      "description": "Esto es un archivo de una cuenta de la Administración de Obama y esta mantenido por la Administración Nacional de Archivos y Registros (NARA).",
+      "id": "78138151",
+      "username": "LaCasaBlanca44"
+    },
+    {
+      "name": "Senate Democrats",
+      "description": "We are the Senate Democratic Majority. It is past time for a Senate that works for everyone.",
+      "id": "73238146",
+      "username": "SenateDems"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "Rep. Scott Peters",
+      "description": "Proudly serving #CA52 \u0026 the U.S. Constitution\n\n@EnergyCommerce\n@HouseBudgetDems\n@JECDems\n@NewDemCoalition\n\n#science #climate #vets #border #natsec #tourism",
+      "id": "1135486501",
+      "username": "RepScottPeters"
+    },
+    {
+      "name": "Rep. Juan Vargas",
+      "description": "Official Twitter account of Rep. Vargas, representing southern San Diego County, all of Imperial County and California\u0027s entire U.S.-Mexico border. #CA51",
+      "id": "1260172386",
+      "username": "RepJuanVargas"
+    },
+    {
+      "name": "Rep. Alan Lowenthal",
+      "description": "Proudly serving California\u0027s 47th Congressional District. http://t.co/pHmhAyCM6J",
+      "id": "1055730738",
+      "username": "RepLowenthal"
+    },
+    {
+      "name": "Loretta Sanchez",
+      "description": "Former Congresswoman from California\u0027s 46th District",
+      "id": "108376246",
+      "username": "LorettaSanchez"
+    },
+    {
+      "name": "Janice Hahn",
+      "description": "Chair of the Los Angeles County Board of Supervisors. Proudly serving the 4th District. //Tuits en español en hilo.",
+      "id": "339852137",
+      "username": "SupJaniceHahn"
+    },
+    {
+      "name": "Maxine Waters",
+      "description": "Proudly serving the people of California\u0027s 43rd District in Congress. Chairwoman of the House Financial Services Committee (@FSCDems).",
+      "id": "36686040",
+      "username": "RepMaxineWaters"
+    },
+    {
+      "name": "Mark Takano",
+      "description": "Proudly Representing California\u0027s 41st District. Chairman: @VetAffairsDems. Member: @EdLaborCmte, @USProgressives, @LGBTEqCaucus, and @CAPAC.",
+      "id": "1037321378",
+      "username": "RepMarkTakano"
+    },
+    {
+      "name": "Rep. Lucille Roybal-Allard",
+      "description": "Representing California\u0027s 40th Congressional District. Chairwoman of the @AppropsDems Homeland Security Committee.",
+      "id": "479872233",
+      "username": "RepRoybalAllard"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "Congressmember Bass",
+      "description": "Representing California\u0027s 37th District, which includes Los Angeles, South LA, \u0026 Culver City. https://t.co/m5lE3N5mBP",
+      "id": "239949176",
+      "username": "RepKarenBass"
+    },
+    {
+      "name": "Congressman Raul Ruiz, M.D.",
+      "description": "Emergency medicine physician and public servant. Proudly serving California\u0027s 36th Congressional District. @HispanicCaucus Chairman.",
+      "id": "1089859058",
+      "username": "RepRaulRuizMD"
+    },
+    {
+      "name": "Rep. Norma Torres",
+      "description": "U.S. Representative for California\u0027s 35th District. @AppropsDems @RulesDemocrats",
+      "id": "236279233",
+      "username": "NormaJTorres"
+    },
+    {
+      "name": "Rep. Ted Lieu",
+      "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/8esik1vtix • https://t.co/bEP2qWfwBG",
+      "id": "3044993235",
+      "username": "RepTedLieu"
+    },
+    {
+      "name": "Rep.Grace Napolitano",
+      "description": "Congresswoman from California\u0027s 32nd Congressional District in the US House of Representatives",
+      "id": "161411080",
+      "username": "gracenapolitano"
+    },
+    {
+      "name": "Rep. Pete Aguilar",
+      "description": "Dad, husband, former mayor. Proud to be the Inland Empire’s voice in Congress representing #CA31. Vice Chair of @HouseDemocrats.",
+      "id": "3018670151",
+      "username": "RepPeteAguilar"
+    },
+    {
+      "name": "Congressman Brad Sherman",
+      "description": "Proudly serving California\u0027s San Fernando Valley in the U.S. Congress. Admission: Some tweets are prepared by my staff on my behalf. RTs are not an endorsement.",
+      "id": "30216513",
+      "username": "BradSherman"
+    },
+    {
+      "name": "Rep. Tony Cárdenas",
+      "description": "Husband, father and grandfather. Proud to represent #CA29 - the San Fernando Valley - in The People’s House. Member of @EnergyCommerce @HispanicCaucus",
+      "id": "1222257180",
+      "username": "RepCardenas"
+    },
+    {
+      "name": "Adam Schiff",
+      "description": "Representing California\u0027s 28th Congressional District. Chairman of the House Intelligence Committee (@HouseIntel).",
+      "id": "29501253",
+      "username": "RepAdamSchiff"
+    },
+    {
+      "name": "Judy Chu",
+      "description": "Proudly representing California\u0027s 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+      "id": "193732179",
+      "username": "RepJudyChu"
+    },
+    {
+      "name": "Congresswoman Julia Brownley",
+      "description": "Fighting for Ventura County. Chairwoman of @VetAffairsDems Health Subcommittee \u0026 #WomenVetsTaskForce. Member of @TransportDems, @ClimateCrisis, and @NRDems.",
+      "id": "1243902714",
+      "username": "RepBrownley"
+    },
+    {
+      "name": "Rep. Anna G. Eshoo",
+      "description": "Representing California\u0027s 18th Congressional District – the heart of Silicon Valley.\n\n?Sign up for weekly legislative updates at my website",
+      "id": "249348006",
+      "username": "RepAnnaEshoo"
+    },
+    {
+      "name": "Rep. Jim Costa",
+      "description": "Proudly representing California’s 16th Congressional District. This account is for official use only.",
+      "id": "245451804",
+      "username": "RepJimCosta"
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "description": "Representing CA-11. Member of @transportdems @EdLaborCmte @oversightdems @RulesDemocrats. Dad, amateur historian, marathon runner \u0026 former small business owner.",
+      "id": "2968007206",
+      "username": "RepDeSaulnier"
+    },
+    {
+      "name": "Ami Bera, M.D.",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "id": "950783972",
+      "username": "RepBera"
+    },
+    {
+      "name": "Rep. Mike Thompson",
+      "description": "Rep. Mike Thompson represents California\u0027s 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+      "id": "303861808",
+      "username": "RepThompson"
+    },
+    {
+      "name": "John Garamendi",
+      "description": "Congressman for California\u0027s 3rd Congressional District, former Lieutenant Governor, Insurance Commissioner, Deputy Interior Secretary, state legislator",
+      "id": "88806753",
+      "username": "RepGaramendi"
+    },
+    {
+      "name": "Rep. Jared Huffman",
+      "description": "Congressman for California\u0027s North Coast. On Facebook at https://t.co/QA1MSke01S.",
+      "id": "1071102246",
+      "username": "RepHuffman"
+    },
+    {
+      "name": "Edward Snowden",
+      "description": "I used to work for the government. Now I work for the public. Author of Permanent Record (https://t.co/3PR1rD6CkQ)",
+      "id": "2916305152",
+      "username": "Snowden"
+    },
+    {
+      "name": "SCOTUSblog",
+      "description": "Independent news and analysis on the U.S. Supreme Court since 2002. Follow us on TikTok! ?: SCOTUStalk. ?: scotus_blog. DMs are open.",
+      "id": "16228479",
+      "username": "SCOTUSblog"
+    },
+    {
+      "name": "President Obama",
+      "description": "This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "1536791610",
+      "username": "POTUS44"
+    },
+    {
+      "name": "President Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215679726100480",
+      "username": "POTUS45"
+    },
+    {
+      "name": "KQED",
+      "description": "The Bay Area\u0027s @NPR and @PBS station.\n\nWhere facts matter, stories empower and bold conversations begin.",
+      "id": "9677372",
+      "username": "KQED"
+    },
+    {
+      "name": "House Judiciary GOP",
+      "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+      "id": "1131917492",
+      "username": "JudiciaryGOP"
+    },
+    {
+      "name": "Committee on House Admn. Democrats",
+      "description": "Committee w/ oversight of @Smithsonian, @librarycongress, @CapitolPolice, @FEC, @EACgov, @uscapitol, @USGPO \u0026 federal elections. | Chair @RepZoeLofgren",
+      "id": "19716781",
+      "username": "HouseAdm_Dems"
+    },
+    {
+      "name": "House Judiciary Dems",
+      "description": "Proudly working to protect and defend the safety, privacy, consumer rights, civil rights and civil liberties of all Americans. Chairman @RepJerryNadler ?",
+      "id": "246357149",
+      "username": "HouseJudiciary"
+    },
+    {
+      "name": "Magdalena Carrasco",
+      "description": "Mother of four amazing children, Councilmember \u0026 Fmr Vice Mayor of San José, representing the East Side.",
+      "id": "2229105296",
+      "username": "CM_Magdalena"
+    },
+    {
+      "name": "Dave Cortese",
+      "description": "Senator State of California, Elected Official; Silicon Valley/",
+      "id": "37144376",
+      "username": "DaveCortese"
+    },
+    {
+      "name": "Mike Wasserman",
+      "description": "Proudly serving our nearly 1.9 million residents as President on the Santa Clara County Board of Supervisors.",
+      "id": "74858756",
+      "username": "Mike__Wasserman"
+    },
+    {
+      "name": "Cindy Chavez",
+      "description": "Member of the Santa Clara County Board of Supervisors representing East San Jose, Downtown San Jose, Little Saigon, Little Portugal \u0026 Japantown",
+      "id": "2163248328",
+      "username": "SupCindyChavez"
+    },
+    {
+      "name": "Archive: Rep. Ron Kind",
+      "description": "Archived Account: Proud Wisconsinite. ????? I work for the people of Wisconsin’s Third Congressional District. Go Badgers! Go Brewers! Go Pack!",
+      "id": "112740986",
+      "username": "RepRonKind"
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "description": "Mom to Theo, Henry and dog Maple. Wife to Jonathan. U.S. Senator for New York. Not “very polite.” She/her.",
+      "id": "72198806",
+      "username": "SenGillibrand"
+    },
+    {
+      "name": "Kamala Harris",
+      "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+      "id": "30354991",
+      "username": "KamalaHarris"
+    },
+    {
+      "name": "Gavin Newsom",
+      "description": "Husband to @JenSiebelNewsom and father. 40th Governor of California. Former Lt. Governor of California. Former San Francisco Mayor. Personal account.",
+      "id": "11347122",
+      "username": "GavinNewsom"
+    },
+    {
+      "name": "Jerry Brown",
+      "description": "Governor of California, 1975-83 \u0026 2011-19. Executive Chair @BulletinAtomic. Chair @CalChinaClimate. Member @NTI_WMD \u0026 @CouncilonCJ. Age quod agis.",
+      "id": "19418459",
+      "username": "JerryBrownGov"
+    },
+    {
+      "name": "Tom Harkin",
+      "description": "U.S. Senator from Iowa.  Chairman, Senate HELP Committee \u0026 the Appropriations Subcommittee on Health, Education, Labor.  For more info:  http://t.co/Z6EeatFGrp",
+      "id": "115733549",
+      "username": "SenatorHarkin"
+    },
+    {
+      "name": "Barbara Boxer",
+      "description": "Former Democratic U.S. Senator from California.",
+      "id": "15939889",
+      "username": "BarbaraBoxer"
+    },
+    {
+      "name": "Cory Booker",
+      "description": "U.S. Senator from New Jersey. Most tweets (and typos) are mine, some are my team’s. He/him.",
+      "id": "15808765",
+      "username": "CoryBooker"
+    },
+    {
+      "name": "Archive: Senator Tom Udall",
+      "description": "The archived tweets of the office of U.S. Senator Tom Udall, served from January 2009-January 2021. This is an inactive account.",
+      "id": "60828944",
+      "username": "SenatorTomUdall"
+    },
+    {
+      "name": "Senator Ben Ray Luján",
+      "description": "United States Senator for New Mexico",
+      "id": "19318314",
+      "username": "SenatorLujan"
+    },
+    {
+      "name": "Senator Dianne Feinstein",
+      "description": "United States Senator from California. On Facebook at: https://t.co/RVLkJPLS9Y",
+      "id": "476256944",
+      "username": "SenFeinstein"
+    },
+    {
+      "name": "Jared Polis",
+      "description": "father, entrepreneur,education policy, baseball, tech, politics, gaymer - Former member of Congress, current Governor of CO ?????????",
+      "id": "15361570",
+      "username": "jaredpolis"
+    },
+    {
+      "name": "Ron Wyden",
+      "description": "U.S. Senator from Oregon. @SenateFinance Chairman. Follow @WydenPress for updates from my staff. Instagram: https://t.co/F6XmPUnCO8. He/him.",
+      "id": "250188760",
+      "username": "RonWyden"
+    },
+    {
+      "name": "The App Association",
+      "description": "Where technology, innovation, and policy intersect.  Our members change how we work, live, and play through apps. Follow our members @actmembers",
+      "id": "40011881",
+      "username": "actonline"
+    },
+    {
+      "name": "TechNet",
+      "description": "The national, bipartisan network of technology CEOs \u0026 senior executives that promotes the growth of the innovation economy",
+      "id": "50128726",
+      "username": "TechNetUpdate"
+    },
+    {
+      "name": "WGNA",
+      "description": "The Willow Glen Neighborhood Association (WGNA) is a grassroots, non-profit community organization dedicated to improving our quality of life.",
+      "id": "876350460",
+      "username": "wgnasj"
+    },
+    {
+      "name": "Rep. Eric Swalwell",
+      "description": "Husband | Dad to Nelson, Cricket \u0026 Hank | Congressman | @HouseJudiciary @HouseIntel @HomelandDems | social media policy: https://t.co/47CTxGMvRW | #EndGunViolence",
+      "id": "942156122",
+      "username": "RepSwalwell"
+    },
+    {
+      "name": "Julia Preston",
+      "description": "Journalist covering immigration. Contributing writer, @MarshallProj .  Prior: National Immigration Correspondent, @nytimes . Civil debate \u003d good.",
+      "id": "599454226",
+      "username": "JuliaPrestonNow"
+    },
+    {
+      "name": "National Immigration Law Center",
+      "description": "Defending and advancing the rights and opportunities of low-income immigrants and their family members. #HomeIsHere #ProtectFamilies #ImmigrantsAreEssential",
+      "id": "369602017",
+      "username": "NILC"
+    },
+    {
+      "name": "America\u0027s Voice",
+      "description": "Harnessing the power of American voices to enact policy change that guarantees full labor, civil and political rights for immigrants and their families.",
+      "id": "16302354",
+      "username": "AmericasVoice"
+    },
+    {
+      "name": "Luis V. Gutiérrez",
+      "description": "Former Member of Congress from the 4th District of IL (1993 - 2019). \nFighting for American dream! Questions \u0026 Interview Request: info@luisgutierrez.org",
+      "id": "36948268",
+      "username": "RepGutierrez"
+    },
+    {
+      "name": "Netroots Nation",
+      "description": "The largest progressive gathering in the US. Netroots Nation 2023 will be July 13-15 in Chicago.",
+      "id": "14426645",
+      "username": "Netroots_Nation"
+    },
+    {
+      "name": "Morgan Hill Times",
+      "description": "Morgan Hill’s newspaper. #morganhill #siliconvalley #california #news",
+      "id": "48624862",
+      "username": "morganhilltimes"
+    },
+    {
+      "name": "Gilroy Dispatch",
+      "description": "South Valley’s longest running business has been delivering news from #gilroyca #gilroycalifornia for a century and a half",
+      "id": "46774667",
+      "username": "GilroyDispatch"
+    },
+    {
+      "name": "NARAL",
+      "description": "NARAL Pro-Choice America fights to protect and expand reproductive freedom for *every* body.",
+      "id": "17006036",
+      "username": "NARAL"
+    },
+    {
+      "name": "techdirt",
+      "description": "",
+      "id": "11382292",
+      "username": "techdirt"
+    },
+    {
+      "name": "OneLouder Apps",
+      "description": "Mobile Apps. Part of @PinsightMedia.",
+      "id": "17790274",
+      "username": "OneLouderApps"
+    },
+    {
+      "name": "Environment California",
+      "description": "Environment California is a policy and action group with one mission: to build a greener, healthier world.",
+      "id": "46729604",
+      "username": "EnvCalifornia"
+    },
+    {
+      "name": "San José State University",
+      "description": "Silicon Valley’s only public university—and the top supplier of talent to the world’s center of creativity and innovation. #SJSU #SpartanUp",
+      "id": "18948365",
+      "username": "SJSU"
+    },
+    {
+      "name": "EMILY\u0027s List",
+      "description": "We ignite change by getting Democratic pro-choice women elected to office. Text JOIN to 47717 to join us. Follow us on Instagram: (AT)emilys_list",
+      "id": "63262233",
+      "username": "emilyslist"
+    },
+    {
+      "name": "Health Partnership",
+      "description": "Consortium of health centers \u0026 clinics in Santa Clara \u0026 San Mateo counties. We advocate for affordable, accessible \u0026 patient centered health care for all!",
+      "id": "49056498",
+      "username": "CHPartnership"
+    },
+    {
+      "name": "Congressman Bob Brady",
+      "description": "@PHLDems Chairman, Leader of #WestPhilly’s 34th Ward, @America250 Commissioner, 22-Year @Penn Professor, 53-Year Carpenter, Ret. U.S. Congressman. #FlyEaglesFly",
+      "id": "148453195",
+      "username": "BobBradyPHL"
+    },
+    {
+      "name": "Paul Brandus - \u0026 on Post and Mastodon @PaulBrandus",
+      "description": "(see pinned tweet for bio)",
+      "id": "20182089",
+      "username": "WestWingReport"
+    },
+    {
+      "name": "AARP",
+      "description": "AARP is leading a revolution in the way people view and live life after 50",
+      "id": "80628196",
+      "username": "AARP"
+    },
+    {
+      "name": "NBC Bay Area",
+      "description": "Thank you for stopping by @NBCBayArea - the place to go for exclusive local stories, breaking news, weather and sports. Facebook: https://t.co/EID86FEaiH",
+      "id": "20097362",
+      "username": "nbcbayarea"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "ActionNewsSF",
+      "description": "Breaking News, Traffic, Muni, BART alerts for the San Francisco Bay Area. Follow @actionnews510 for East Bay Updates",
+      "id": "19884282",
+      "username": "actionnewssf"
+    },
+    {
+      "name": "KTVU",
+      "description": "Complete Bay Area News Coverage. Thanks for following us! If you tweet us, we may use it on our digital platforms and TV.",
+      "id": "15652540",
+      "username": "KTVU"
+    },
+    {
+      "name": "Archive - Attorney General Becerra",
+      "description": "This is an archive of tweets from fmr California Attorney General Xavier Becerra. For new updates from the California Department of Justice, follow @AGRobBonta.",
+      "id": "133832049",
+      "username": "AGBecerra"
+    },
+    {
+      "name": "Charlie Gonzalez",
+      "description": "Congressman for the 20th Congressional District of Texas.",
+      "id": "245516606",
+      "username": "TX20CharlieG"
+    },
+    {
+      "name": "ThinkProgress",
+      "description": "Moving news forward since 2005.",
+      "id": "55355654",
+      "username": "thinkprogress"
+    },
+    {
+      "name": "Rep. Doris Matsui",
+      "description": "Representing California\u0027s 6th Congressional District. Member of the @EnergyCommerce Committee.",
+      "id": "38254095",
+      "username": "DorisMatsui"
+    },
+    {
+      "name": "Jerry McNerney",
+      "description": "Proudly representing California\u0027s 9th Congressional District. Learn more about my work in Congress at https://t.co/yRxs5trwtE",
+      "id": "385429543",
+      "username": "RepMcNerney"
+    },
+    {
+      "name": "Rep. Barbara Lee",
+      "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, \u0026 human rights. @ProChoiceCaucus Co-Chair.",
+      "id": "248735463",
+      "username": "RepBarbaraLee"
+    },
+    {
+      "name": "Rep.George Miller",
+      "description": "Representing Contra Costa County in Congress. Top priority \u003d creating new jobs. Also, avid reader and hiker.",
+      "id": "7356562",
+      "username": "askgeorge"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "Jackie Speier",
+      "description": "Fighter for women’s equality, our troops, LGBTQ+ rights \u0026 the underrepresented. Proud mom of 2 kids \u0026 2 pups, wife, \u0026 Rep of CA-14 biotech \u0026 social media hub.",
+      "id": "24913074",
+      "username": "RepSpeier"
+    },
+    {
+      "name": "Congressman Mike Honda",
+      "description": "Lived through the unjust Japanese Internment Camps, Retired Congressman for 17th District of Silicon Valley (2001-2017), Former DNC Vice Chair, Teacher, ?2020",
+      "id": "16583468",
+      "username": "RepMikeHonda"
+    },
+    {
+      "name": "Lois Capps",
+      "description": "Former Member of Congress from California\u0027s 24th Congressional District",
+      "id": "292990703",
+      "username": "RepLoisCapps"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "Los Angeles Times",
+      "description": "News from a West Coast perspective.",
+      "id": "16664681",
+      "username": "latimes"
+    },
+    {
+      "name": "SFGATE",
+      "description": "News. Culture. Sports. Opinion. All the journalism that matters from San Francisco \u0026 the Bay Area. • IG: https://t.co/xs0f0V8W55 • Mastodon: https://t.co/RUfMZPCb3n",
+      "id": "36511031",
+      "username": "SFGate"
+    },
+    {
+      "name": "Mercury News",
+      "description": "Latest Silicon Valley and San Francisco Bay Area news from reporters \u0026 columnists at The Mercury News.",
+      "id": "10433782",
+      "username": "mercnews"
+    }
+  ],
+  "id": "267938462",
+  "username": "RepZoeLofgren"
+}

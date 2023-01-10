@@ -1,0 +1,480 @@
+{
+  "following": [
+    {
+      "name": "DEA HQ",
+      "description": "Official Drug Enforcement Administration Twitter account. DEA does not collect comments or messages through this account. Learn more at http://t.co/xgQ5dcc9yt",
+      "id": "180815351",
+      "username": "DEAHQ"
+    },
+    {
+      "name": "FOX Business",
+      "description": "The official Twitter page of FOX Business. Invested in You.",
+      "id": "56413858",
+      "username": "FoxBusiness"
+    },
+    {
+      "name": "Tony Perkins",
+      "description": "President of @FRCdc. Host of Washington Watch. Former Chair @USCIRF. Married 36 years, grateful father of five. https://t.co/6P0qLi5Xjf | https://t.co/kXtUB0ybD6",
+      "id": "18958999",
+      "username": "tperkins"
+    },
+    {
+      "name": "TxDOT Pharr District",
+      "description": "Official information from the TxDOT-Pharr District. Serving Zapata, Jim Hogg, Brooks, Kenedy, Willacy, Cameron, Hidalgo, \u0026 Starr Counties.",
+      "id": "41839681",
+      "username": "TxDOTPharr"
+    },
+    {
+      "name": "Texas Association of Business",
+      "description": "TAB\u0027s purpose is to champion the best business climate in the world, unleashing the power of free enterprise to enhance lives for generations. https://www.txbiz",
+      "id": "43171801",
+      "username": "txbiz"
+    },
+    {
+      "name": "RGV Partnership",
+      "description": "The RGV Partnership fosters relationships and coordinates programs that advance regional economic development.",
+      "id": "48479798",
+      "username": "RGVPartnership"
+    },
+    {
+      "name": "Su Clinica",
+      "description": "We provide medical, dental, and health services through clinics in Brownsville, Harlingen, Raymondville, and Santa Rosa.",
+      "id": "984773922",
+      "username": "Su_Clinica"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "Brownsville Chamber",
+      "description": "The Brownsville Chamber of Commerce is a member driven business organization whose principal mission is to advance the business interests of its members.",
+      "id": "2320874586",
+      "username": "BTxChamber"
+    },
+    {
+      "name": "TX Southmost College",
+      "description": "Official Twitter of Texas Southmost College. We\u0027re YOUR community college. Most Affordable in RGV! Go Scorpions? #TSCscorpions",
+      "id": "1483475444",
+      "username": "TSC_Scorpions"
+    },
+    {
+      "name": "Gillian Turner",
+      "description": "Fox News correspondent | national security, foreign policy, cyber | National Security Council, Bush \u0026 Obama Admins | Opinions are my dog\u0027s",
+      "id": "2263438704",
+      "username": "GillianHTurner"
+    },
+    {
+      "name": "TSTC in Harlingen",
+      "description": "The Texas State Technical College System is a state-funded co-educational two-year institution of higher education.",
+      "id": "34629804",
+      "username": "TSTCHarlingen"
+    },
+    {
+      "name": "Brownsville PUB",
+      "description": "BPUB is the only full-service MOU in the Rio Grande Valley, Texas.  We proudly serve our community by providing quality water, wastewater and electric services.",
+      "id": "594216778",
+      "username": "BPUB_Tweets"
+    },
+    {
+      "name": "Glenn \"GT\" Thompson",
+      "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania\u0027s 15th Congressional District. #PA15",
+      "id": "18967498",
+      "username": "CongressmanGT"
+    },
+    {
+      "name": "Morgan Ortagus",
+      "description": "Proud Jewish Mama \u0026 Wife | Founder @polarisnatsec |Former: @StateDept Spox, @USTreasury @usaid “I was born for the storm, and a calm does not suit me.”",
+      "id": "19338927",
+      "username": "MorganOrtagus"
+    },
+    {
+      "name": "Rachel Campos-Duffy",
+      "description": "Co-Host FOX \u0026 Friends Weekend. Wife. Mom of 9. I ?? USA. Order “Paloma Wants to Be Lady Freedom” at https://t.co/Y7YNKUxdqG",
+      "id": "34793128",
+      "username": "RCamposDuffy"
+    },
+    {
+      "name": "Laura Ingraham",
+      "description": "Mom, author, host, The Ingraham Angle, 10p ET @FoxNews. Retweets do not \u003d Endorsements",
+      "id": "50769180",
+      "username": "IngrahamAngle"
+    },
+    {
+      "name": "?? La Mesa Caliente ??",
+      "description": "De lunes a viernes 3PM/2C por @telemundo",
+      "id": "1478776871408046084",
+      "username": "lamesacaliente"
+    },
+    {
+      "name": "ChiefRivera",
+      "description": "",
+      "id": "931113152",
+      "username": "JoelRiveraPhD"
+    },
+    {
+      "name": "Varney \u0026 Co.",
+      "description": "Airing Weekdays at 9AM ET on the Fox Business Network. Note: These tweets come from Varney \u0026 Co. production team, not Stuart himself.",
+      "id": "281610530",
+      "username": "Varneyco"
+    },
+    {
+      "name": "Fox News",
+      "description": "Follow America\u0027s #1 cable news network, delivering you breaking news, insightful analysis, and must-see videos. https://t.co/sXA1eVB5Gv",
+      "id": "1367531",
+      "username": "FoxNews"
+    },
+    {
+      "name": "HARRISFAULKNER",
+      "description": "Bestselling Author with NEW BOOK #faithstillmovesmountains; Network Anchor @FaulknerFocus and @OutnumberedFNC; 6-time Emmy award winning journalist",
+      "id": "18313747",
+      "username": "HARRISFAULKNER"
+    },
+    {
+      "name": "The Faulkner Focus",
+      "description": "Watch weekdays at 11am ET on Fox News Channel.",
+      "id": "912759481766957057",
+      "username": "FaulknerFocus"
+    },
+    {
+      "name": "FreedomWorks",
+      "description": "The Nation\u0027s premier grassroots advocacy group dedicated to freedom and small government.",
+      "id": "14730894",
+      "username": "FreedomWorks"
+    },
+    {
+      "name": "Sergio Sanchez",
+      "description": "Program Director and Show Host at NEWS TALK 710 KURV and https://t.co/SjxYTG0v2L",
+      "id": "82998906",
+      "username": "sergiotalk"
+    },
+    {
+      "name": "Mark R. Levin",
+      "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/LbO9BeMtMZ   Join me at https://t.co/ARrBQZKtMb",
+      "id": "38495835",
+      "username": "marklevinshow"
+    },
+    {
+      "name": "SundayMorningFutures",
+      "description": "@MariaBartiromo speaks w/ high-profile guests in business and politics. Sundays, 10am ET on @FoxNews Channel.",
+      "id": "2412738884",
+      "username": "SundayFutures"
+    },
+    {
+      "name": "CBP RGV",
+      "description": "Official Twitter account for U.S. Customs and Border Protection operations in the Rio Grande Valley.",
+      "id": "3666600563",
+      "username": "CBPRGV"
+    },
+    {
+      "name": "Maggi McClanahan",
+      "description": "Colossians 3:23 || @Baylor alumna || Texas \u0026 Washington D.C.",
+      "id": "1354889236751777803",
+      "username": "MaggiMcClanahan"
+    },
+    {
+      "name": "Joe Ballard",
+      "description": "@YAF Board of Governors | Roll Tide | #1 In-N-Out Fan | RT/Favorites?endorsements | Opinions are my own",
+      "id": "1340877798",
+      "username": "JoeBallard"
+    },
+    {
+      "name": "JCruzPerez_1",
+      "description": "New Account",
+      "id": "1538282418985132032",
+      "username": "JCruzperez_1"
+    },
+    {
+      "name": "Emma Rechenberg",
+      "description": "Co-host of \u0027National Report\u0027 on @newsmax ?? Watch weekday mornings, 9-12 EST on Newsmax TV or download the Newsmax App",
+      "id": "2770151426",
+      "username": "EmmaRechenberg"
+    },
+    {
+      "name": "Shaun Kraisman",
+      "description": "News Anchor on \u0027National Report\u0027 weekdays 9-12pm ET on @Newsmax. For appearances/bookings, contact Seth Mayeri at Napoli Management Group; smayeri@tvtalent.com",
+      "id": "24038596",
+      "username": "ShaunKraisman"
+    },
+    {
+      "name": "Rep. Jodey Arrington",
+      "description": "Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. @WaysandMeansGOP \u0026 @JECRepublicans.",
+      "id": "816284664658874368",
+      "username": "RepArrington"
+    },
+    {
+      "name": "Ildefonso Ortiz",
+      "description": "Award-winning journalist at Breitbart covering drugs cartels, public corruption \u0026 border issues; No Pasa Nada. Opinions mine. Love BJJ-MMA???",
+      "id": "29762617",
+      "username": "IldefonsoOrtiz"
+    },
+    {
+      "name": "FOX \u0026 friends",
+      "description": "America\u0027s #1 cable morning news show",
+      "id": "15513604",
+      "username": "foxandfriends"
+    },
+    {
+      "name": "Jesse Watters",
+      "description": "@TheFive \u0026 @JessePrimetime on Fox News Channel #1 NYT Best Selling Author of “How I Saved The World” ?",
+      "id": "56561449",
+      "username": "JesseBWatters"
+    },
+    {
+      "name": "Brian Kilmeade",
+      "description": "Co-anchor, Fox \u0026 Friends host, The Brian Kilmeade Show, One Nation host, NY Times Best Selling Author. Live Tour Tickets: https://t.co/KLJPsXxIpk",
+      "id": "43919633",
+      "username": "kilmeade"
+    },
+    {
+      "name": "UTRGV",
+      "description": "Official UTRGV™ Twitter account. #TheFutureOfTexas #VsUp",
+      "id": "1589586985",
+      "username": "utrgv"
+    },
+    {
+      "name": "Myrka Dellanos",
+      "description": "Emmy Award Winning Journalist, Producer \u0026 Writer/ Mom/ CEO/ Peacemaker/ Author/ Speaker/ Believer! For booking DM on IG: @MyrkaDellanos",
+      "id": "108657751",
+      "username": "Myrka_Dellanos"
+    },
+    {
+      "name": "City of San Juan",
+      "description": "The City of San Juan will begin utilizing Twitter as a social media outlet page to update citizens with current info.",
+      "id": "1112103518",
+      "username": "cityofsanjuan"
+    },
+    {
+      "name": "Julio Rosas",
+      "description": "U.S. Marine and Senior Writer @Townhallcom. \nAuthor: \"Fiery But Mostly Peaceful: The 2020 Riots and the Gaslighting of America\" ?? Order it in the link.",
+      "id": "1110434154",
+      "username": "Julio_Rosas11"
+    },
+    {
+      "name": "Dan Bongino",
+      "description": "Public Enemy #1",
+      "id": "232901331",
+      "username": "dbongino"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness \u0026 @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "id": "208155240",
+      "username": "MariaBartiromo"
+    },
+    {
+      "name": "Fox Nation",
+      "description": "Fox Nation is an entertainment streaming service with unmatched access to exclusive shows featuring your favorite Fox hosts. America is Streaming. Get the app.",
+      "id": "37764422",
+      "username": "foxnation"
+    },
+    {
+      "name": "Mornings with Maria",
+      "description": "Join @MariaBartiromo every weekday from 6-9 a.m. EST only on @FoxBusiness.\n\nMake sure to follow our show Instagram: @MorningsMaria",
+      "id": "2330590446",
+      "username": "MorningsMaria"
+    },
+    {
+      "name": "Food Bank RGV",
+      "description": "Food Bank RGV  provides healthy food for all those in need in the RGV. Close to 64k families served every week. $1\u003d 5 FULL meals.",
+      "id": "19739678",
+      "username": "foodbankrgv"
+    },
+    {
+      "name": "Andrew Wilkow",
+      "description": "Official acct for Andrew Wilkow. Host of the Wilkow Majority @SiriusXMPatriot channel 125 \u0026 WILKOW! on the https://t.co/WavqLipz0C",
+      "id": "44397959",
+      "username": "WilkowMajority"
+    },
+    {
+      "name": "Tenet Healthcare",
+      "description": "Diversified #healthcare services company with 110k employees; our care network includes @United_Surgical, 65 #hospitals, 500 other facilities \u0026 @ConiferHealth.",
+      "id": "91166086",
+      "username": "tenethealth"
+    },
+    {
+      "name": "Valley Baptist",
+      "description": "Valley Baptist Health System is focused on improving the lives of the people it serves. FB: https://t.co/OQT5jJe9es  IG: https://t.co/NaChD7aqzI",
+      "id": "100791679",
+      "username": "VBHS"
+    },
+    {
+      "name": "Federation of American Hospitals",
+      "description": "The Federation of American Hospitals (FAH) represents America\u0027s tax-paying community #hospitals and health systems. Social media policy is at the link below.",
+      "id": "1060860422",
+      "username": "FAHhospitals"
+    },
+    {
+      "name": "Univision Noticias",
+      "description": "Noticias de la comunidad hispana y el acontecer mundial, al instante.",
+      "id": "35785401",
+      "username": "UniNoticias"
+    },
+    {
+      "name": "Univision News",
+      "description": "The news that matters to US Latinos—in English. Y para leerlo en español: @UniNoticias.",
+      "id": "1596835069",
+      "username": "UnivisionNews"
+    },
+    {
+      "name": "Rep. Jason Smith",
+      "description": "@housebudgetGOP Leader | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08",
+      "id": "1623308912",
+      "username": "RepJasonSmith"
+    },
+    {
+      "name": "María Herrera Mellado",
+      "description": "PhD \u0026 Attorney ?? Chief Legal \u0026 Policy Analyst @VozMediaUSA Contributor @Univision @France24 @NTN24 @Americateve @ActualidadRadio Host en Estado de Alarma??",
+      "id": "62007387",
+      "username": "MariaHerreraMe"
+    },
+    {
+      "name": "Lisa Boothe ??",
+      "description": "? @FoxNews | ? The Truth with Lisa Boothe @iHeartradio",
+      "id": "121574367",
+      "username": "LisaMarieBoothe"
+    },
+    {
+      "name": "House Ag GOP",
+      "description": "The reliable voice for #RuralAmerica. News and updates from House Agriculture Committee Republicans led by @CongressmanGT.",
+      "id": "234573331",
+      "username": "HouseAgGOP"
+    },
+    {
+      "name": "Improve The Dream",
+      "description": "Youth-led organization advocating for Documented Dreamers who grow up as dependents of long-term visa holders, but age out and face self-deportation at 21.",
+      "id": "1107056460108828675",
+      "username": "ImproveTheDream"
+    },
+    {
+      "name": "Gov. Greg Abbott",
+      "description": "Official news from the Office of Texas Governor Greg Abbott. You can follow the governor\u0027s personal feed @GregAbbott_TX",
+      "id": "19291441",
+      "username": "GovAbbott"
+    },
+    {
+      "name": "Senator Ted Cruz",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "id": "1074480192",
+      "username": "SenTedCruz"
+    },
+    {
+      "name": "Senator John Cornyn",
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs \u003d/\u003d endorsements",
+      "id": "13218102",
+      "username": "JohnCornyn"
+    },
+    {
+      "name": "America\u0027s Newsroom",
+      "description": "Live on the FOX News Channel Every Weekday From 9-11 EST! #AmericasNewsroom",
+      "id": "312800783",
+      "username": "AmericaNewsroom"
+    },
+    {
+      "name": "House Homeland GOP",
+      "description": "News \u0026 updates from U.S. House of Representatives Homeland Security Committee Republicans. Led by @RepJohnKatko (R-NY).",
+      "id": "239964567",
+      "username": "HomelandGOP"
+    },
+    {
+      "name": "Fox News South Texas",
+      "description": "KFXV TV Fox News South Texas is the Fox Affiliate in Deep South Texas. Be sure to like us on facebook as well! https://t.co/b5287De0pb",
+      "id": "16470996",
+      "username": "rgvfox"
+    },
+    {
+      "name": "GOP en Español",
+      "description": "Somos la Conferencia Republicana en la Cámara de Representantes de los Estados Unidos | @HouseGOP",
+      "id": "1138688364",
+      "username": "GOPEspanol"
+    },
+    {
+      "name": "Daniel Bucheli",
+      "description": "Bilingual Communications Pro | Tweets are my own | America First, Always! | RTs?endorsements | ¡Hablemos Español!",
+      "id": "1217360874",
+      "username": "DanielCBucheli"
+    },
+    {
+      "name": "House Rules Republicans",
+      "description": "The official account for Republicans of the House Rules Committee. Ranking Republican @TomColeOK04.",
+      "id": "78369108",
+      "username": "RulesReps"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Kelly Phares",
+      "description": "Capitol Hill Producer @FoxNews | Chicago sports (+@colts) fan | RTs + likes not endorsements |",
+      "id": "383848666",
+      "username": "kellyfphares"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Casey Nelson",
+      "description": "@RepRonnyJackson / @RonnyJacksonTX comms. Former Trump 2020 comms. Roll Tide. Views are my own.",
+      "id": "996071446291107840",
+      "username": "caseynelson96"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "The Monitor",
+      "description": "The best source for news in the #RGV. Got a news tip? Our inbox and email (news@themonitor.com) are always open. Follow our staff: https://t.co/0VHhK3tts2",
+      "id": "16258543",
+      "username": "monitornews"
+    },
+    {
+      "name": "Rio Grande Guardian",
+      "description": "The Rio Grande Guardian provides in-depth news and analysis of the Texas-Mexico border region.",
+      "id": "19113795",
+      "username": "RioGGuardian"
+    },
+    {
+      "name": "Local23News",
+      "description": "Local 23 News #RGV, Local First\n\nSend your story ideas to KVEO-DigitalDesk@nexstar.tv",
+      "id": "43347283",
+      "username": "kveotv23"
+    },
+    {
+      "name": "KRGV CHANNEL 5 NEWS",
+      "description": "KRGV is committed to covering local news for the Rio Grande Valley. Follow: @KRGV_Weather for weather @KRGVSports for sports",
+      "id": "17288391",
+      "username": "krgv"
+    },
+    {
+      "name": "Valley Morning Star",
+      "description": "We covers the latest news from the Rio Grande Valley. Got a news tip? Our inbox (starnewsroom@valleystar.com) is always open.",
+      "id": "19919055",
+      "username": "valleystar"
+    },
+    {
+      "name": "The Brownsville Herald",
+      "description": "We covers the latest news from the Rio Grande Valley. Got a news tip? Our inbox (newsroom@brownsvilleherald.com) is always open.",
+      "id": "18004786",
+      "username": "BrownsvilleNews"
+    },
+    {
+      "name": "CBS 4 News",
+      "description": "CBS 4 News Rio Grande Valley, Working For You",
+      "id": "17141539",
+      "username": "cbs4rgv"
+    }
+  ],
+  "id": "1538990997769707523",
+  "username": "repmayraflores"
+}

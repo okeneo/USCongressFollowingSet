@@ -1,0 +1,3366 @@
+{
+  "following": [
+    {
+      "name": "Wanda Sykes",
+      "description": "Comic, producer, writer, stunt double, wife, mother, and know-it-all. Coming to a city near you...maybe. Check the website for tour dates.",
+      "id": "262799542",
+      "username": "iamwandasykes"
+    },
+    {
+      "name": "Felecia M. Nave",
+      "description": "20th and First Female President of Alcorn State University",
+      "id": "1450908025414463488",
+      "username": "AlcornPrez20"
+    },
+    {
+      "name": "Congressional App Challenge",
+      "description": "We are the U.S. House of Representative\u0027s official coding competition. We promote STEM by inspiring our nation’s youth coding talent.??????",
+      "id": "1225814342",
+      "username": "CongressionalAC"
+    },
+    {
+      "name": "Cybersecurity and Infrastructure Security Agency",
+      "description": "We lead the National effort to understand, manage, and reduce risk to our cyber and physical infrastructure. Likes, retweets, follows ? endorsements.",
+      "id": "964227358218649600",
+      "username": "CISAgov"
+    },
+    {
+      "name": "Gloria Borger",
+      "description": "CNN’s chief political analyst",
+      "id": "769641584",
+      "username": "GloriaBorger"
+    },
+    {
+      "name": "Congresswoman Marilyn Strickland",
+      "description": "Proudly representing #WA10. Fighting for a nation that is safe, just and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",
+      "id": "1343646545955213312",
+      "username": "RepStricklandWA"
+    },
+    {
+      "name": "Secretary Alejandro Mayorkas",
+      "description": "Husband, Dad, Immigrant. Serving as Secretary of Homeland Security under @POTUS Biden and @VP Harris.",
+      "id": "1363682447695765510",
+      "username": "SecMayorkas"
+    },
+    {
+      "name": "Secretary Tom Vilsack",
+      "description": "U.S. Secretary of Agriculture. Husband. Grandpa. Former Governor and Mayor.",
+      "id": "1364332024929148932",
+      "username": "SecVilsack"
+    },
+    {
+      "name": "Susan Rice",
+      "description": "Official Account: White House Domestic Policy Advisor",
+      "id": "1351293685493878786",
+      "username": "AmbRice46"
+    },
+    {
+      "name": "Rep. Ritchie Torres",
+      "description": "Congressman for #NY15 (South Bronx). Bronx native, product of public housing. Fighting every day for the essential borough. He/him. Official House account.",
+      "id": "1276403757224546304",
+      "username": "RepRitchie"
+    },
+    {
+      "name": "Bobby L. Rush",
+      "description": "Father, Grandfather, Pastor, Activist, and former Congressman.",
+      "id": "305216911",
+      "username": "BobbyLRush"
+    },
+    {
+      "name": "Congressman Troy A. Carter",
+      "description": "Proudly representing Louisiana’s 2nd Congressional District.                                Member, @TransportDems \u0026 @HouseSmallBiz #TheVoiceOfThePeople",
+      "id": "1352760304271241218",
+      "username": "RepTroyCarter"
+    },
+    {
+      "name": "dstinc1913",
+      "description": "The Official Twitter account of Delta Sigma Theta Sorority, Inc., a non-profit organization that provides community service throughout the world.",
+      "id": "454919764",
+      "username": "dstinc1913"
+    },
+    {
+      "name": "The Lead CNN",
+      "description": "The Lead with @jaketapper airs at 4pm ET on CNN.",
+      "id": "1176994477",
+      "username": "TheLeadCNN"
+    },
+    {
+      "name": "CNN Politics",
+      "description": "Political news, campaign stories and Washington coverage from CNN Politics.",
+      "id": "13850422",
+      "username": "CNNPolitics"
+    },
+    {
+      "name": "Jackson State Athletics",
+      "description": "Jackson State Athletics | 162 SWAC Championships (and counting)?and one ESPY award ? ? IG: gojsutigers",
+      "id": "155671536",
+      "username": "GoJSUTigers"
+    },
+    {
+      "name": "Tougaloo College",
+      "description": "Tougaloo College is a private, co-ed, historically black, liberal arts institution of higher education founded in 1869, in Madison Co. North of Jackson, MS, USA",
+      "id": "1284293148",
+      "username": "Tougaloo1869"
+    },
+    {
+      "name": "Spiel Times",
+      "description": "We post a lot of affiliate links and sometimes content. Follow for good deals and average content. As an Amazon Associate, I earn from qualifying purchases.",
+      "id": "1087959850917740546",
+      "username": "spieltimes"
+    },
+    {
+      "name": "Dr. Tommie Mabry",
+      "description": "Child of God! Husband \u0026 Father / National Consultant/Speaker \u0026 Author....Click on the link to watch my story https://t.co/pzDkmwa92b",
+      "id": "2413203102",
+      "username": "TommieMabry"
+    },
+    {
+      "name": "GovTrack.??",
+      "description": "Formerly the account for https://t.co/KOip7dKohB. We\u0027re now at https://t.co/zYUg8xmRaj. @GovTrack@mastodon.social",
+      "id": "52052011",
+      "username": "govtrack"
+    },
+    {
+      "name": "Marlon A. Walker",
+      "description": "Managing Editor, Local for @MarshallProj. #FAMU ‘05. Ex: @clarionledger @ajc @freep, etc. Tennis fanatic. You DO NOT refrigerate hot sauce. #ImportedFromDetroit",
+      "id": "182634029",
+      "username": "marlonawalker"
+    },
+    {
+      "name": "All 435 Reps",
+      "description": "Collecting and retweeting tweets by all members of the US House of Representatives. Archived at: https://t.co/pr8ZcQwGNu",
+      "id": "1124447266205503488",
+      "username": "All435Reps"
+    },
+    {
+      "name": "Jaclyn Rothenberg (she/her)",
+      "description": "FEMA Public Affairs Director and Spokesperson",
+      "id": "2794913876",
+      "username": "FEMAspox"
+    },
+    {
+      "name": "U.S. FDA",
+      "description": "Our tweets are FDA Approved! Privacy Policy - https://t.co/LbTJXYRXVP",
+      "id": "208120290",
+      "username": "US_FDA"
+    },
+    {
+      "name": "January 6th Committee",
+      "description": "Select Committee to Investigate the January 6th Attack on the United States Capitol | Representative @BennieGThompson, Chairman",
+      "id": "1415384176593883137",
+      "username": "January6thCmte"
+    },
+    {
+      "name": "Don Lemon",
+      "description": "? Co-Anchor #CNNThisMorning ? Author: This Is The Fire ??Buy My Book",
+      "id": "16051471",
+      "username": "donlemon"
+    },
+    {
+      "name": "The Cross Connection with Tiffany Cross",
+      "description": "Join @TiffanyDCross for The Cross Connection live on Saturdays at 10 a.m. ET on @MSNBC. #CrossConnection",
+      "id": "1338891401984094208",
+      "username": "CrossConnection"
+    },
+    {
+      "name": "Courtney Ann Jackson",
+      "description": "Award-winning WLBT/FOX 40 Anchor and Statewide Reporter. Ole Miss alum. Story ideas? Send to: courtneyann.jackson@wlbt.com.",
+      "id": "36156794",
+      "username": "courtneyannj"
+    },
+    {
+      "name": "Hallie Jackson Reports",
+      "description": "@HallieJackson Reports, Weekdays at 3 p.m. ET on @MSNBC.",
+      "id": "3047717838",
+      "username": "HallieOnMSNBC"
+    },
+    {
+      "name": "Senator Reverend Raphael Warnock",
+      "description": "United States Senator for Georgia. Pastor of Ebenezer Baptist Church.",
+      "id": "1352287997853622273",
+      "username": "SenatorWarnock"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "US Capitol Historical Society",
+      "description": "The US Capitol Historical Society is a 501(c)3 founded in 1962 \u0026 chartered by Congress in 1978 to educate the public on the history \u0026 heritage of the US Capitol",
+      "id": "52779839",
+      "username": "CapitolHistory"
+    },
+    {
+      "name": "OutFrontCNN",
+      "description": "Smart and entertaining, @ErinBurnett is always OutFront of the news. Erin Burnett OutFront airs weeknights at 7pm ET on @CNN and on @CNNi Saturdays \u0026 Sundays.",
+      "id": "361342191",
+      "username": "OutFrontCNN"
+    },
+    {
+      "name": "SCOTUSblog",
+      "description": "Independent news and analysis on the U.S. Supreme Court since 2002. Follow us on TikTok! ?: SCOTUStalk. ?: scotus_blog. DMs are open.",
+      "id": "16228479",
+      "username": "SCOTUSblog"
+    },
+    {
+      "name": "Hope Credit Union",
+      "description": "A community development credit union and winner of the 2018 Wall Street Journal Financial Inclusion Challenge. Federally insured by NCUA. Equal Housing Lender.",
+      "id": "287829583",
+      "username": "HopeCreditUnion"
+    },
+    {
+      "name": "Jackson Advocate",
+      "description": "The Jackson Advocate, founded in 1938, is the oldest Black newspaper in the state of Mississippi.",
+      "id": "175082708",
+      "username": "JacksonAdvocate"
+    },
+    {
+      "name": "Pam Chatman",
+      "description": "Tv Network Owner - National Speaker : booking - Yvonne Forbes. CEO Celebrity Publicist |917-242-6721 O: 516-469-0587 LabelleladivaPR@gmail.com",
+      "id": "292629126",
+      "username": "pchatman"
+    },
+    {
+      "name": "MDHS",
+      "description": "Mississippi Department of Human Services\n???????? ?????????????? ????? ??? ??? ???????? ???? ????? ?? ???",
+      "id": "53177915",
+      "username": "MS_DHS"
+    },
+    {
+      "name": "House Budget Committee",
+      "description": "Official account, U.S. House Budget Committee — Fighting for budget priorities that reflect the values of families across the country. Chairman @RepJohnYarmuth.",
+      "id": "151963505",
+      "username": "HouseBudgetDems"
+    },
+    {
+      "name": "Bobby Rush",
+      "description": "Grammy Winner, Blues Hall of Famer, and 13x BMA Winner. New album \"Rawer Than Raw\" Out now. Autobiography \"I Ain\u0027t Studdin\u0027 Ya\" available now",
+      "id": "2460043826",
+      "username": "BobbyRushBlues"
+    },
+    {
+      "name": "Amazon",
+      "description": "Delivering smiles one box at a time ??. Use @AmazonHelp for customer support and @AmazonNews for the latest.",
+      "id": "20793816",
+      "username": "amazon"
+    },
+    {
+      "name": "The Martin Luther King, Jr. Center",
+      "description": "The official living memorial to #MLK, founded by #CorettaScottKing to educate on nonviolence \u0026 create the #BelovedCommunity. #Nonviolence365 • CEO: @BerniceKing",
+      "id": "39547629",
+      "username": "TheKingCenter"
+    },
+    {
+      "name": "ECM",
+      "description": "The Electric Cooperatives of Mississippi serves as the unified voice of all electric cooperatives in Mississippi.",
+      "id": "3073511200",
+      "username": "electriccoopsms"
+    },
+    {
+      "name": "Rethink Mississippi",
+      "description": "Analysis \u0026 commentary about issues facing Mississippi\u0027s rising generation",
+      "id": "1247242453",
+      "username": "RethinkMS"
+    },
+    {
+      "name": "White House COVID-19 Response Team",
+      "description": "The Biden-Harris White House COVID-19 Response Team",
+      "id": "1352064843432472578",
+      "username": "WHCOVIDResponse"
+    },
+    {
+      "name": "House Judiciary Dems",
+      "description": "Proudly working to protect and defend the safety, privacy, consumer rights, civil rights and civil liberties of all Americans. Chairman @RepJerryNadler ?",
+      "id": "246357149",
+      "username": "HouseJudiciary"
+    },
+    {
+      "name": "Sheila Jackson Lee",
+      "description": "United States Congress",
+      "id": "4002888226",
+      "username": "sjl4hrc"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Congresswoman Deborah Ross",
+      "description": "Proudly serving North Carolina’s 2nd District. Former civil rights attorney and NC state legislator.\nCommittees: @HouseJudiciary, @RulesDemocrats, @HouseScience",
+      "id": "1348683154815655940",
+      "username": "RepDeborahRoss"
+    },
+    {
+      "name": "House DPCC",
+      "description": "The House Democratic Policy \u0026 Communications Committee is Co-Chaired by @RepCartwright, @RepDebDingell, @RepTedLieu, \u0026 @RepJoeNeguse #PeopleOverPolitics",
+      "id": "3027286779",
+      "username": "HouseDPCC"
+    },
+    {
+      "name": "Friends for Jeramey Anderson",
+      "description": "State Representative | Former Dem Candidate for U.S. Congress MS-04. | MS History maker | Managed by @PressSecHampton. Rep’s tweets signed -JDA",
+      "id": "925718116365164544",
+      "username": "JerameyForMS"
+    },
+    {
+      "name": "echofon",
+      "description": "Twitter app for iOS and Android.",
+      "id": "58166411",
+      "username": "echofon"
+    },
+    {
+      "name": "Rep. Dean Phillips ??",
+      "description": "“Normally affable” - @NYTimes. Radical pragmatist, common sense enthusiast, and bipartisan believer. Devoted to the rule of law, freedom, civility, and America.",
+      "id": "1061310112013434882",
+      "username": "RepDeanPhillips"
+    },
+    {
+      "name": "Meredith Lee Hill",
+      "description": "Food and ag reporter @POLITICO covering the Hill + Biden admin. Minnesota raised. meredithlee(at)politico(dot)com",
+      "id": "478180614",
+      "username": "meredithllee"
+    },
+    {
+      "name": "Kweisi Mfume",
+      "description": "Proudly Representing Maryland\u0027s 7th District. Vice-Chair of @HouseSmallBiz and Member of @OversightDems and @EdLaborCmte.",
+      "id": "1276209702322438148",
+      "username": "RepKweisiMfume"
+    },
+    {
+      "name": "Rep. Russ Fulcher",
+      "description": "The Official Account of Idaho\u0027s First District Congressman Russ Fulcher. #ID01",
+      "id": "1078741899572240384",
+      "username": "RepRussFulcher"
+    },
+    {
+      "name": "De\u0027Keither Stamps",
+      "description": "State Representative District #66 Mississippi Retired Combat Vet. #ManOnAMission #RevivingMiss",
+      "id": "20567646",
+      "username": "DeKeitherStamps"
+    },
+    {
+      "name": "Thad Fairley",
+      "description": "Be the change that you wish to see in the world! Views are my own, nobody else’s!",
+      "id": "1021431619100585984",
+      "username": "ThadFairley"
+    },
+    {
+      "name": "Mississippi Federation of Democratic Women",
+      "description": "https://t.co/UdZDHGuLEm",
+      "id": "1305640648717012999",
+      "username": "MSFedDemWomen"
+    },
+    {
+      "name": "Jordan M. Jefferson ??",
+      "description": "??? ? ??? • JSU Alumnus ?• Harvard Student• Former athlete?• PHA /G\\• Ig: PlanetJordan • Advocate •JXN, MS??Boston, MA",
+      "id": "3080881179",
+      "username": "PlanetJordanTv"
+    },
+    {
+      "name": "Rep. John Sarbanes",
+      "description": "Representing Maryland’s Third District. \nAuthor of #HR1. Cleaning up corruption #ForThePeople.  \nChair: @House_DRTF.\nMember: @EnergyCommerce \u0026 @OversightDems",
+      "id": "364415553",
+      "username": "RepSarbanes"
+    },
+    {
+      "name": "KatinasKlassroom",
+      "description": "Katina’s Klassroom - a 501c3 nonprofit that stands on a firm principle: With Books You Can Go Places. #READ",
+      "id": "2715196298",
+      "username": "KRsKlassroom"
+    },
+    {
+      "name": "Antjuan Seawright",
+      "description": "Blueprint Strategy |Sr Advisor @dccc•@SCSenateDems•@DNC | ? @CBSNews • ?@thehill •@BETNEWS •@AMEnews •@thirdwaytweet Sr Visiting Fellow • ? Farmer",
+      "id": "50334892",
+      "username": "antjuansea"
+    },
+    {
+      "name": "Carolyn B. Maloney",
+      "description": "Former teacher, orig. member of M4A caucus, orig. GND co-sponsor, taking on the big banks, #ERA activist, \u0026 mom. She/her. #NY12",
+      "id": "119250381",
+      "username": "CarolynBMaloney"
+    },
+    {
+      "name": "Mohammed Khader",
+      "description": "Foreign Policy Genius | Personal Account | Opinions Mine",
+      "id": "878628289501442049",
+      "username": "MohammedKhaderr"
+    },
+    {
+      "name": "LA",
+      "description": "MORE LIFE ??",
+      "id": "104050216",
+      "username": "LaDarionAmmons"
+    },
+    {
+      "name": "Carolyn B. Maloney",
+      "description": "Chair of @OversightDems. Progressive fmr teacher fighting for #Manhattan, #Brooklyn \u0026 #Queens (#NY12). Proud to wear FDNY coat to #renew911VCF! DMs open She/Her",
+      "id": "258900199",
+      "username": "RepMaloney"
+    },
+    {
+      "name": "Tyrone C. Hendrix",
+      "description": "Gen. Manager @cfa_united. Frmr.Ward 6 City Councilman, Jxn, MS. @BarackObama \u002708, @TheDemocrats, @JacksonStateU Alum. Proud husband \u0026 father of 2!",
+      "id": "30907284",
+      "username": "TyroneHendrix6"
+    },
+    {
+      "name": "Adriano Espaillat",
+      "description": "Former undocumented immigrant turned progressive Congressman. Proudly fighting #ForThePeople of NY-13. ??",
+      "id": "817076257770835968",
+      "username": "RepEspaillat"
+    },
+    {
+      "name": "Ray Mabus",
+      "description": "75th Secretary @USNavy under @BarackObama. Fmr. US Amb. to Saudi Arabia \u0026 Gov. of #Mississippi. Fellow @HarvardHBS. CEO @TheMabusGroup. Proud dad of 3 daughters",
+      "id": "821713466985684992",
+      "username": "SECNAV75"
+    },
+    {
+      "name": "Jan",
+      "description": "LSW, M.Ed., Public Servant",
+      "id": "293009340",
+      "username": "Jan403"
+    },
+    {
+      "name": "HEAVY B",
+      "description": "historian | this is a pickle stan account | 1908",
+      "id": "2374562750",
+      "username": "_braaaxxx24"
+    },
+    {
+      "name": "Stennis Institute",
+      "description": "Named for the honorable Senator John C. Stennis, the Stennis Institute is a public service and research organization housed on the campus of Mississippi State.",
+      "id": "160962304",
+      "username": "JCStennisInst"
+    },
+    {
+      "name": "EtaUpNupe",
+      "description": "Nupe. Eta Upsilon Chapter of Kappa Alpha Psi. #LakersNation #HowboutDemCowboys #HailState",
+      "id": "518911186",
+      "username": "YoDesire96"
+    },
+    {
+      "name": "Stennis Center",
+      "description": "The Stennis Center for Public Service is a federal agency created by Congress in 1988 to promote public service leadership in America.",
+      "id": "240795584",
+      "username": "StennisCenter"
+    },
+    {
+      "name": "Chris Hinton",
+      "description": "A resident of Raymond, MS, I currently work in Business \u0026 Economic Development for Entergy Mississippi, a subsidiary of Entergy Corporation.",
+      "id": "33016252",
+      "username": "Chris8102"
+    },
+    {
+      "name": "Mississippi Legislative Black Caucus",
+      "description": "The aim of The Mississippi Legislative Black Caucus is to serve the interests of the 1,200,000 African Americans in the State of MS. Retweet ? endorsement.",
+      "id": "1130964967845498880",
+      "username": "mlbcofficial"
+    },
+    {
+      "name": "Ayanna Pressley",
+      "description": "Your Congresswoman. Proudly representing the MA 7th. Here to break concrete ceilings \u0026 shake the table. Personal account. She/hers. #ChangeCantWait",
+      "id": "31013444",
+      "username": "AyannaPressley"
+    },
+    {
+      "name": "Marion County Dems",
+      "description": "Actually Verified\n\nDemocratic Party of Marion County, Oregon\n\n@OrDems @DNC \n\n#OrPol #OrLeg #HandsOffSocialSecurity",
+      "id": "2483168227",
+      "username": "MCoDems"
+    },
+    {
+      "name": "Mississippi Oncology Society",
+      "description": "MOS provides medical leadership to respond to the policy challenges of Oncologists \u0026 Hematologists \u0026 to support improved cancer care services to the community.",
+      "id": "2437499473",
+      "username": "MissOncoSociety"
+    },
+    {
+      "name": "Black With No Chaser",
+      "description": "Media | Your Blackness is safe here. IG: @blackwithnochaser | Facebook: Black With No Chaser | For media inquires: info@blackwithnochaser.com",
+      "id": "4033190301",
+      "username": "BlackNoChaser"
+    },
+    {
+      "name": "Cirilo R. Manego III",
+      "description": "CIO and Partner at @BeBlackNoChaser | My views are my own | IG: @cirilomanego3",
+      "id": "58034561",
+      "username": "cirilomanego3"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "description": "U.S. Senator, Massachusetts. She/her/hers. Official Senate account.",
+      "id": "970207298",
+      "username": "SenWarren"
+    },
+    {
+      "name": "msema",
+      "description": "The official Twitter account of the Mississippi Emergency Management Agency. The account is not monitored 24/7. In case of an emergency please dial 9-1-1.",
+      "id": "17395987",
+      "username": "MSEMA"
+    },
+    {
+      "name": "@MSA_HQ",
+      "description": "Mississippi Society of Anesthesiologists",
+      "id": "3242369285",
+      "username": "MSA_HQ"
+    },
+    {
+      "name": "Reggie A. McCrimmon",
+      "description": "Global Gov’t Affairs \u0026 Public Policy @Google. Formerly @Twitter @Policy.",
+      "id": "90456813",
+      "username": "ReggieMccrimmon"
+    },
+    {
+      "name": "Jerry McNerney",
+      "description": "Proudly representing California\u0027s 9th Congressional District. Learn more about my work in Congress at https://t.co/yRxs5trwtE",
+      "id": "385429543",
+      "username": "RepMcNerney"
+    },
+    {
+      "name": "NRHA Advocacy",
+      "description": "Advocacy side of @ruralhealth. NRHA is a nonprofit organization working to improve #ruralhealth and increase access in rural America.",
+      "id": "806297133926248448",
+      "username": "NRHA_Advocacy"
+    },
+    {
+      "name": "???(SONG, Young Gil)",
+      "description": "Official twitter for SONG, Young Gil / DEMOCRATIC PARTY OF KOREA / ?????? ??? ?? ??",
+      "id": "53031381",
+      "username": "Bulloger"
+    },
+    {
+      "name": "Lori Trahan",
+      "description": "Congresswoman proudly representing Massachusetts\u0027 Third District. @EnergyCommerce member. She/Hers. ? (978) 459-0101",
+      "id": "1079802482640019456",
+      "username": "RepLoriTrahan"
+    },
+    {
+      "name": "MSC NAACP",
+      "description": "MD State Conference, NAACP",
+      "id": "2458031906",
+      "username": "NAACPMD"
+    },
+    {
+      "name": "Katherine Clark",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. Defender of women, kids \u0026 justice. She/Her",
+      "id": "2293131060",
+      "username": "RepKClark"
+    },
+    {
+      "name": "Delta Strong",
+      "description": "Delta Strong is a regional branding, marketing, \u0026 business attraction program  aimed to bring manufacturing opportunities to the region managed by Delta Council",
+      "id": "769789446",
+      "username": "MSDeltaStrong"
+    },
+    {
+      "name": "Rep. Lauren Underwood",
+      "description": "Representing #IL14. Nurse, health enthusiast, advocate for the working families of Illinois. Member of @AppropsDems and @VetAffairsDems.",
+      "id": "1080539438508400642",
+      "username": "RepUnderwood"
+    },
+    {
+      "name": "Rosa DeLauro",
+      "description": "Proud to represent CT-03 in Congress. Chair of @AppropsDems. Italian-American, New Haven native, fierce advocate for a strong middle class \u0026 those in need.",
+      "id": "140519774",
+      "username": "rosadelauro"
+    },
+    {
+      "name": "Jalisa Washington Price",
+      "description": "",
+      "id": "302083418",
+      "username": "j_washingtonSC"
+    },
+    {
+      "name": "Jim Langevin",
+      "description": "U.S. Congressman for Rhode Island\u0027s Second District",
+      "id": "18909919",
+      "username": "JimLangevin"
+    },
+    {
+      "name": "Rep. Juan Vargas",
+      "description": "Official Twitter account of Rep. Vargas, representing southern San Diego County, all of Imperial County and California\u0027s entire U.S.-Mexico border. #CA51",
+      "id": "1260172386",
+      "username": "RepJuanVargas"
+    },
+    {
+      "name": "SMA at Miss. State",
+      "description": "Stennis Montgomery Association, a non-partisan student organization at Mississippi State, strives to provide student opportunities for professional development.",
+      "id": "66762167",
+      "username": "smamsu"
+    },
+    {
+      "name": "William Bonduris",
+      "description": "",
+      "id": "779350710",
+      "username": "WilliamBonduris"
+    },
+    {
+      "name": "Rep. Deb Haaland",
+      "description": "She/Her, Former #NM CD1 Rep., One of the 1st Native American women in Congress. Laguna Pueblo. Single mom. Marathon runner. Follow @SecDebHaaland for updates",
+      "id": "1080695666760929280",
+      "username": "RepDebHaaland"
+    },
+    {
+      "name": "Congressman Chuy García",
+      "description": "Progressive Chicagoan. Congressman for #IL04?. Vice Chair of @USProgressives and ? @NRDems. Member of ? @TransportDems and ? @FSCDems?. FB/IG: @RepChuyGarcia",
+      "id": "1082427779583541248",
+      "username": "RepChuyGarcia"
+    },
+    {
+      "name": "Rep. Lucy McBath",
+      "description": "Mother. Fighter. Congresswoman. #GA06\n\nIf you need help with a federal agency, please call my office at (470) 773-6330 or visit https://t.co/z9i7IG2RFZ.",
+      "id": "1082380458976051202",
+      "username": "RepLucyMcBath"
+    },
+    {
+      "name": "Dina Titus",
+      "description": "Congresswoman proudly representing the First District of Nevada in the U.S. House of Representatives.",
+      "id": "122174004",
+      "username": "repdinatitus"
+    },
+    {
+      "name": "Jan Schakowsky",
+      "description": "Official Twitter account for Rep. Jan Schakowsky, Illinois 9th Congressional District",
+      "id": "24195214",
+      "username": "janschakowsky"
+    },
+    {
+      "name": "CyberScoop",
+      "description": "CyberScoop, a @ScoopNewsGroup property, reports on news and events impacting technology and security.",
+      "id": "720664083767435264",
+      "username": "CyberScoopNews"
+    },
+    {
+      "name": "House Intelligence Committee",
+      "description": "Serving the American people through strong and effective oversight of the nation’s intelligence agencies. Chairman: @RepAdamSchiff",
+      "id": "1079854463211397120",
+      "username": "HouseIntel"
+    },
+    {
+      "name": "Christine Pelosi",
+      "description": "Mom Wife Daughter Sister?Attorney Author Activist ??",
+      "id": "15446551",
+      "username": "sfpelosi"
+    },
+    {
+      "name": "Adam Ganucheau",
+      "description": "Editor-in-chief @MSTodayNews.\nadam at mississippi today dot org",
+      "id": "312242807",
+      "username": "GanucheauAdam"
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "description": "US Representative,NY-14 (BX \u0026 Queens). In a modern, moral, \u0026 wealthy society, no American should be too poor to live. ?% People-Funded, no lobbyist?. She/her.",
+      "id": "138203134",
+      "username": "AOC"
+    },
+    {
+      "name": "Michael Steele",
+      "description": "Former RNC Chairman, Former Lt. Gov. Maryland, Political Analyst for MSNBC, Host of The Michael Steele Podcast @steele_podcast",
+      "id": "50317463",
+      "username": "MichaelSteele"
+    },
+    {
+      "name": "Dutch Ruppersberger",
+      "description": "US Congressman fighting for #Maryland and its Second District as @AppropsDems. Wielding a crab mallet since ’46. Go @Orioles, @Ravens.",
+      "id": "305620929",
+      "username": "Call_Me_Dutch"
+    },
+    {
+      "name": "National Journal",
+      "description": "We deliver insightful journalism, provide solutions and tools, and identify pathways between policy influencers to help govt affairs professionals navigate DC.",
+      "id": "15210284",
+      "username": "nationaljournal"
+    },
+    {
+      "name": "Mike Espy",
+      "description": "Father and grandfather. Former @USDA secretary. Mississippi’s first Black congressman since Reconstruction. Former US Senate candidate. ?",
+      "id": "981691454962749440",
+      "username": "MikeEspyMS"
+    },
+    {
+      "name": "NBWA",
+      "description": "The National Beer Wholesalers Association represents the interests of America\u0027s 3,000 licensed, independent beer and beverage distributors.\nhttps://t.co/SKs3yVLkLd",
+      "id": "46724483",
+      "username": "NBWA"
+    },
+    {
+      "name": "theGrio.com",
+      "description": "Black Culture Amplified ?????? Download theGrio streaming and mobile apps today   https://t.co/XbS3ClCmJj",
+      "id": "38228095",
+      "username": "theGrio"
+    },
+    {
+      "name": "Khorri A. Atkinson",
+      "description": "@blaw senior reporter covering labor \u0026 employment | @wabjdc pres | @nabj | @law360 @axios, @newmarkjschool alum| made in ??|katkinson@bloombergindustry.com ?",
+      "id": "369850187",
+      "username": "AtkinsonReports"
+    },
+    {
+      "name": "Jesse J. Holland",
+      "description": "@IPPYAwards winner @NAACPImageAward nominee. @CSPANWJ Sunday host. MSNBC columnist. Former @AP writer.  Need some cool books? Go here: https://t.co/LtHIYIth0V…",
+      "id": "16439882",
+      "username": "jessejholland"
+    },
+    {
+      "name": "Symone D. Sanders-Townsend",
+      "description": "SDT. Host of “SYMONE” on @MSNBC + @Peacock. Fmr Senior Advisor \u0026 Chief Spokesperson to @VP. Show: @SYMONEmsnbc. TXT ME: txt SYMONE to 402-251-8021",
+      "id": "2434051392",
+      "username": "SymoneDSanders"
+    },
+    {
+      "name": "Larrison Campbell",
+      "description": "journalist | reporter, writer, host Witnessed S4 fr @campsidemedia coming 2023 | ???? | writing about Mississippi even when I’m not writing about Mississippi",
+      "id": "43622084",
+      "username": "thisislarrison"
+    },
+    {
+      "name": "Jarrius Adams",
+      "description": "JD Candidate at Howard University School of Law l Alum of @BennieGThompson \u0026 @CBCFInc l Alum of Fair Fight @fairfightaction",
+      "id": "359020614",
+      "username": "jarriusadams"
+    },
+    {
+      "name": "Gerald Harris",
+      "description": "Politics @KHOU MS•TN•TX #TitanUp RT? endorsements (unless it’s @sugarlandmusic)",
+      "id": "262963761",
+      "username": "GeraldHarrisTV"
+    },
+    {
+      "name": "Nick Knudsen ??",
+      "description": "Executive Director @DemCastUSA ?? Writing: @HuffPost @PatNotPart. Democracy is neat. We have a lot of work to do. #DemCast",
+      "id": "798953701972938752",
+      "username": "NickKnudsenUS"
+    },
+    {
+      "name": "HBCU Buzz",
+      "description": "??? HBCU news, insights and editorials from the Black College community. Since 2011 | #HBCUBUZZ",
+      "id": "246519126",
+      "username": "HBCUBuzz"
+    },
+    {
+      "name": "Alexandra Watts",
+      "description": "audience engagement producer @CapitalBNews | @azcpodcasts + public radio alum, @NPR #nextgenradio + @lWMF Gwen Ifill Fellow ‘20 | she/her | ?",
+      "id": "31286062",
+      "username": "alexandrawatts_"
+    },
+    {
+      "name": "Rep. Val Demings",
+      "description": "U.S. Representative Florida\u0027s 10th Congressional District. Public Servant. Former Orlando Police Chief. Christian. Wife. Mother. Grandmother. Harley Enthusiast.",
+      "id": "798973032362606600",
+      "username": "RepValDemings"
+    },
+    {
+      "name": "Congressional Hispanic Caucus",
+      "description": "The 36-Member Congressional Hispanic Caucus advocates for issues important to Hispanics via the legislative process in Congress.",
+      "id": "33530012",
+      "username": "HispanicCaucus"
+    },
+    {
+      "name": "Steve Cohen",
+      "description": "Memphis | Chairman of Judiciary Subcommittee on the Constitution, Civil Rights \u0026 Civil Liberties | Transportation Committee | Co-Chairman of Helsinki Commission",
+      "id": "162069635",
+      "username": "RepCohen"
+    },
+    {
+      "name": "Al Lawson",
+      "description": "Husband. Father. Grandfather. Congressman. Official campaign page for Al Lawson for Congress. Vote November 8, 2022.",
+      "id": "88291132",
+      "username": "AlLawsonJr"
+    },
+    {
+      "name": "NOH8 Campaign",
+      "description": "Putting a face to the fight for equality! Join us in taking a stand against bullying and discrimination. #NOH8 #NOH8Worldwide",
+      "id": "32774989",
+      "username": "NOH8Campaign"
+    },
+    {
+      "name": "Waikinya J.S. Clanton",
+      "description": "God-fearing, Southern Black woman, fighting hate across the South, CRSJ Warrior, Gap Filler, fmr Sr Advisor @DNC \u0026 new MS Director @splcenter My Tweets My Views",
+      "id": "467801753",
+      "username": "WJSClanton"
+    },
+    {
+      "name": "GAMA",
+      "description": "The official account of the General Aviation Manufacturers Association (GAMA).",
+      "id": "4830655222",
+      "username": "GAManufacturers"
+    },
+    {
+      "name": "Patrick Magee",
+      "description": "Digital Content Editor for Sports at https://t.co/HFNg8H6Qz3 | The Times-Picayune. Mississippi native.",
+      "id": "16077022",
+      "username": "Patrick_Magee"
+    },
+    {
+      "name": "House Committee on Rules",
+      "description": "Official Twitter page for the U.S. House Rules Committee. Congressman @RepMcGovern Chairman. Retweets are not endorsements.",
+      "id": "855482971868069890",
+      "username": "RulesDemocrats"
+    },
+    {
+      "name": "House Agriculture Committee",
+      "description": "Official Twitter of the House Agriculture Committee. Find us on IG @HouseAgDems. Get our email alerts here: https://t.co/EY5zBuwv4U",
+      "id": "989317210463186946",
+      "username": "HouseAgDems"
+    },
+    {
+      "name": "Matt Prichard",
+      "description": "Reporting the news and weather in San Diego. Husband, journalist, runner of various distances ???? CA ?? GA ?? CO ?? DC ?? CA",
+      "id": "259100812",
+      "username": "MattPrichardTV"
+    },
+    {
+      "name": "Jeevan Vittal",
+      "description": "@SpecNews1HV Managing Editor | Former National Political Correspondent for @NY1/@SpectrumNewsDC | UNC Tar Heel | Spectrum Networks | DM for Signal/ProtonMail",
+      "id": "240506490",
+      "username": "JvittalTV"
+    },
+    {
+      "name": "Rep. Lou Correa",
+      "description": "Father. Public servant. Member of Congress. @HouseJudiciary @HomelandDems @HouseAgDems",
+      "id": "815985039485837312",
+      "username": "RepLouCorrea"
+    },
+    {
+      "name": "JacksonPublicSchools",
+      "description": "Official Jackson Public Schools Twitter page. Follow us for news and updates. Transforming lives through excellent education.  #1District1Direction #WeAreJPS",
+      "id": "593150313",
+      "username": "JPSDistrict"
+    },
+    {
+      "name": "U.S. Senator Cindy Hyde-Smith",
+      "description": "Office of U.S. Senator Cindy Hyde-Smith (R-Miss.).",
+      "id": "983348251972816896",
+      "username": "SenHydeSmith"
+    },
+    {
+      "name": "Phil McCausland",
+      "description": "@NBCNews reporter. Retweets \u003d ?",
+      "id": "782773376",
+      "username": "PhilMcCausland"
+    },
+    {
+      "name": "Rep. Tony Cárdenas",
+      "description": "Husband, father and grandfather. Proud to represent #CA29 - the San Fernando Valley - in The People’s House. Member of @EnergyCommerce @HispanicCaucus",
+      "id": "1222257180",
+      "username": "RepCardenas"
+    },
+    {
+      "name": "Toyota Policy",
+      "description": "Sharing news and updates from @Toyota\u0027s Public Policy team",
+      "id": "967084459966148608",
+      "username": "ToyotaPolicy"
+    },
+    {
+      "name": "AprilDRyan",
+      "description": "White House Correspondent @theGrio | Political Analyst for @CNN | Author |",
+      "id": "18018355",
+      "username": "AprilDRyan"
+    },
+    {
+      "name": "Dr. Erroll G. Southers",
+      "description": "Former FBI SWAT | @BrownUniversity | @USC double Trojan ?? | A?A ??| Antiracist | Opinions are my own",
+      "id": "3272016780",
+      "username": "esouthersHVE"
+    },
+    {
+      "name": "Michael Fletcher",
+      "description": "Senior writer for ESPN\u0027s enterprise team. Husband, father, grandfather and sports fan most interested in how policy affects the lives of everyday people.",
+      "id": "79244319",
+      "username": "Fletchpost"
+    },
+    {
+      "name": "Louise Slaughter",
+      "description": "Honored to serve the people of Rochester and Monroe County, NY. Only microbiologist in Congress and Ranking Member of the House Committee on Rules.",
+      "id": "63169388",
+      "username": "louiseslaughter"
+    },
+    {
+      "name": "Marcy Kaptur",
+      "description": "Honored to serve the hardworking families of Ohio\u0027s 9th District. Longest-serving woman in the House of Representatives. Chair of Energy \u0026 Water @AppropsDems.",
+      "id": "581141508",
+      "username": "RepMarcyKaptur"
+    },
+    {
+      "name": "MS Insurance Dept.",
+      "description": "MID regulates insurance in Mississippi. Mike Chaney serves as Commissioner. \nConsumer hotline: 1-800-562-2957. \nFollowing \u0026 RT ? endorsement.",
+      "id": "291781472",
+      "username": "MSInsuranceDept"
+    },
+    {
+      "name": "City of Greenville",
+      "description": "City of Greenville, Mississippi - the Heart and Soul of the Delta! Located on the Mississippi River, Greenville is the Hot Tamale Capital of the World!",
+      "id": "624713242",
+      "username": "cityofgvillems"
+    },
+    {
+      "name": "Synim Rivers, MPH",
+      "description": "Political Nerd ?, Xavierite ?, Social Engineer ?, PR Pro ?- working to make the world better communicators one talking point at a time. Tweets are my own.",
+      "id": "211530602",
+      "username": "SynimRivers"
+    },
+    {
+      "name": "DeMarco Morgan",
+      "description": "ABC News",
+      "id": "90278796",
+      "username": "DeMarcoReports"
+    },
+    {
+      "name": "Brandon Presley",
+      "description": "Populist, FDR-Billy McCoy Democrat, Northern Dist. Commissioner at the Mississippi Public Service Commission, former Mayor of Nettleton, Former President @NARUC",
+      "id": "175953481",
+      "username": "BrandonPresley"
+    },
+    {
+      "name": "Taylor Griffin",
+      "description": "@Spotify comms • Former press sec for @SpeakerPelosi • Board member of @chalsuccess • Bay Area native • @Georgetown grad • she/her • #BlackLivesMatter",
+      "id": "393005076",
+      "username": "Tay_Griffin14"
+    },
+    {
+      "name": "Natural Resources Committee",
+      "description": "Chair @RepRaulGrijalva is working to #ActOnClimate, defend Tribal rights \u0026 territories, advance #EnviroJusticeNow and protect public lands, oceans \u0026 wildlife",
+      "id": "247486443",
+      "username": "NRDems"
+    },
+    {
+      "name": "Natural Resources GOP",
+      "description": "U.S. House Committee on Natural Resources Republicans, led by Ranking Member Bruce Westerman.",
+      "id": "41445718",
+      "username": "NatResources"
+    },
+    {
+      "name": "Ashley Etienne",
+      "description": "Former senior advisor to Prez Obama and Biden, VP Harris and Speaker Pelosi. CBS News Political Contributor. Mommy to Vivian. Words are my own!",
+      "id": "839820670586470401",
+      "username": "AshleyEtienne09"
+    },
+    {
+      "name": "Marsha Thompson",
+      "description": "Award winning WLBT Anchor/ Investigative Reporter",
+      "id": "180876478",
+      "username": "WLBTMarsha"
+    },
+    {
+      "name": "Dems Digital",
+      "description": "Dems Digital (DDCSA) is a bicameral congressional staff association. Join us: https://t.co/VUouLrEXuo. RTs are not endorsements.",
+      "id": "844601832135671808",
+      "username": "DemsDigital"
+    },
+    {
+      "name": "Mississippi Library Commission",
+      "description": "MLC is committed – through leadership, advocacy, and service – to strengthening and enhancing libraries and library services for all Mississippians.",
+      "id": "61784369",
+      "username": "MSLibraryComm"
+    },
+    {
+      "name": "Amanda Brown Lierman",
+      "description": "Proud member of the @Supermajority. Dartmouth loyalist. Star Wars fan girl. +1 to @kyle_lierman. Mom to Belle, Leia, Hart, \u0026 ? JBL. Tweets are my own.",
+      "id": "337844446",
+      "username": "AmandaK_B"
+    },
+    {
+      "name": "Ryan Phillips",
+      "description": "Founder/Field Editor @TuscaloosaPatch. The Jesco White of local journalism. @StarkvilleDaily @AP @weatherchannel @bhambizjrnl alum. Opinions are my own.",
+      "id": "1290105937",
+      "username": "JournoRyan"
+    },
+    {
+      "name": "Burgess Everett",
+      "description": "POLITICO congressional bureau chief. Photo by @frankthorp",
+      "id": "407013776",
+      "username": "burgessev"
+    },
+    {
+      "name": "Rep. Alma Adams",
+      "description": "Congresswoman representing NC’s 12th District. Educator. Artist. Founder \u0026 Co-Chair of the Black Maternal Health @BMHCaucus and the Bipartisan @HBCUCaucus.",
+      "id": "2916086925",
+      "username": "RepAdams"
+    },
+    {
+      "name": "???",
+      "description": "MP born and raised? Tougaloo King? Florida Gator Fan? #228CoastBoy? #Dream2RealityMentor?",
+      "id": "42117796",
+      "username": "228Molden601"
+    },
+    {
+      "name": "Friends of MS Civil Rights",
+      "description": "The Friends of Mississippi Civil Rights Inc. is a diverse group of state residents and natives. We are not affiliated with the Mississippi Civil Rights Museum.",
+      "id": "954381229901697026",
+      "username": "civilrights_MS"
+    },
+    {
+      "name": "Rep. Tom O\u0027Halleran",
+      "description": "Proud husband, father, and grandfather. Fighting for #AZ01 families and co-chairing the @HouseBlueDogs Coalition.",
+      "id": "808416682972770304",
+      "username": "RepOHalleran"
+    },
+    {
+      "name": "POLITICO Live",
+      "description": "@POLITICOLive is a live extension of our journalism. We convene timely conversations with newsmakers on important national themes, policy \u0026 politics.",
+      "id": "479856992",
+      "username": "POLITICOLive"
+    },
+    {
+      "name": "Zachary Cohen",
+      "description": "National Security \u0026 Justice Reporter @CNN. Currently covering 1/6 investigation, among other things. Tips to zachary.cohen@cnn.com or zcohen12@protonmail.com.",
+      "id": "220412723",
+      "username": "ZcohenCNN"
+    },
+    {
+      "name": "Beth Alexander Reiss",
+      "description": "Former news reporter/Golden Eagle/wannabe chef. RT\u0027s are not endorsements blah blah blah",
+      "id": "2209636542",
+      "username": "BethAlexanderTV"
+    },
+    {
+      "name": "Laura Barrón-López",
+      "description": "White House Correspondent @newshour. CNN political analyst. Tips: LBarronLopez@newshour.org",
+      "id": "55896443",
+      "username": "lbarronlopez"
+    },
+    {
+      "name": "Rep. Nydia Velazquez",
+      "description": "Represents New York\u0027s 7th Congressional District in the U.S. House of Representatives. Chair of House Small Business Committee. \n\nFollow us @HouseSmallBiz.",
+      "id": "164369297",
+      "username": "NydiaVelazquez"
+    },
+    {
+      "name": "Jeff Vitter",
+      "description": "Computer science pioneer in #BigData, 17th chancellor of Mississippi\u0027s #Flagship, and passionate advocate for #HigherEd",
+      "id": "2231784332",
+      "username": "JeffVitter"
+    },
+    {
+      "name": "Barbara H. Whye",
+      "description": "? Apple VP of Inclusion \u0026 Diversity | Prev: @Intel Corporate VP and Chief Diversity \u0026 Inclusion Officer | PhD 2024 @akasorority1908 @linksinc | Vews are my own",
+      "id": "27529216",
+      "username": "barbarawhye"
+    },
+    {
+      "name": "Sean Patrick Maloney",
+      "description": "Representing NY’s 18th Cong’l Dist. Husband \u0026 dad w/ 3 amazing kids. Goal is to remain adult in Washington. Working on Intel to keep USA safe \u0026 free. ??????",
+      "id": "1072467470",
+      "username": "RepSeanMaloney"
+    },
+    {
+      "name": "CoHo ®",
+      "description": "The few, the proud, the Sip!",
+      "id": "35066841",
+      "username": "Co_Ho"
+    },
+    {
+      "name": "Rep. Adam Smith",
+      "description": "Proudly serving Washington State\u0027s 9th District. \nChairman of the House Armed Services Committee. @HASCDemocrats",
+      "id": "58928690",
+      "username": "RepAdamSmith"
+    },
+    {
+      "name": "Mark Warner",
+      "description": "U.S. Senator from Virginia. \nChairman, Senate Intel Committee.",
+      "id": "7429102",
+      "username": "MarkWarner"
+    },
+    {
+      "name": "Wolf Blitzer",
+      "description": "I anchor CNN\u0027s The Situation Room (@CNNSitRoom) Weekdays 6PM ET and have a front row seat to history.",
+      "id": "71294756",
+      "username": "wolfblitzer"
+    },
+    {
+      "name": "The Situation Room",
+      "description": "From the staff of The #SitRoom w/ @WolfBlitzer. Tune in 6 pm ET weekdays on @CNN.",
+      "id": "34310801",
+      "username": "CNNSitRoom"
+    },
+    {
+      "name": "Kelsey Betz",
+      "description": "Rarely tweeting journalist based in the Mississippi Delta | Reach me at kelseydavisbetz@gmail.com",
+      "id": "383546882",
+      "username": "kdavistwelve"
+    },
+    {
+      "name": "Can Can",
+      "description": "",
+      "id": "781492322",
+      "username": "candacescoleman"
+    },
+    {
+      "name": "Eugene Scott",
+      "description": "D.C. Native • National Political Reporter at the @WashingtonPost • \nAll politics is identity politics",
+      "id": "315331161",
+      "username": "Eugene_Scott"
+    },
+    {
+      "name": "MS Univ for Women",
+      "description": "Mississippi University for Women is a public, co-ed, regional university. We are committed to higher education being both personal and affordable.",
+      "id": "747443516",
+      "username": "MUWedu"
+    },
+    {
+      "name": "Gabriel Debenedetti",
+      "description": "Author, The Long Alliance. National Correspondent, @NYMag. gabriel.debenedetti@nymag.com",
+      "id": "230450027",
+      "username": "gdebenedetti"
+    },
+    {
+      "name": "Trent Kelly",
+      "description": "Proudly serving Mississippi\u0027s First Congressional District in the U.S. House of Representatives. \nRt\u0027s \u0026 likes ? Endorsements",
+      "id": "3317799825",
+      "username": "RepTrentKelly"
+    },
+    {
+      "name": "U.S. Rep. Al Lawson, Jr.",
+      "description": "Serving #Florida\u0027s Fifth District #ForThePeople l Member of @FSCDems and @HouseAgDems l Husband. Father. Grandfather l #FSU Seminole \u0026 #FAMU Rattler ?",
+      "id": "818472418620608512",
+      "username": "RepAlLawsonJr"
+    },
+    {
+      "name": "EEI",
+      "description": "EEI is the association of U.S. shareholder-owned electric companies.",
+      "id": "36953109",
+      "username": "Edison_Electric"
+    },
+    {
+      "name": "Derrick Johnson",
+      "description": "@NAACP 19th President \u0026 CEO, Activist, Leader \u0026 Mississippian",
+      "id": "1713118033",
+      "username": "DerrickNAACP"
+    },
+    {
+      "name": "HBCU Caucus",
+      "description": "Bipartisan, Bicameral Caucus advocating for Historically Black Colleges \u0026 Universities. Co-Chairs: @RepAdams, @RepFrenchHill, @SenatorTimScott, \u0026 @ChrisCoons.",
+      "id": "920382300638072833",
+      "username": "HBCUCaucus"
+    },
+    {
+      "name": "Democrats en Español",
+      "description": "Cuenta oficial del Caucus Demócrata de la Cámara de Representantes, @HouseDemocrats, en español. Presidente @RepJeffries, Vicepresidenta @RepKClark.",
+      "id": "892122027980726273",
+      "username": "DemsEspanol"
+    },
+    {
+      "name": "Katherine Gypson",
+      "description": "Congressional Correspondent \u0026 anchor \"The Inside Story\" @voanews \n2021 @PressClubDC award winner\nRT not endorsements, except for @Yankees Tweets",
+      "id": "34737729",
+      "username": "kgyp"
+    },
+    {
+      "name": "Comis",
+      "description": "Personal account",
+      "id": "491278721",
+      "username": "amcomis"
+    },
+    {
+      "name": "Rep. Donald McEachin",
+      "description": "Father, husband \u0026 Progressive Democrat. Proudly representing VA’s 4th Congressional District. Member of @EnergyCommerce, @NRDems, \u0026 @climatecrisis",
+      "id": "816181091673448448",
+      "username": "RepMcEachin"
+    },
+    {
+      "name": "Claire Taylor",
+      "description": "Louisiana native. Journalist with The Acadiana Advocate in Lafayette, Louisiana. Retweets not an endorsement.",
+      "id": "28668779",
+      "username": "ClaireTaylorACA"
+    },
+    {
+      "name": "Craig Caplan",
+      "description": "@CSPAN Capitol Hill Producer. Reads Congressional Record every day. Former @RTCACapitolHill Chair. Philly fan since birth. @AmericanU. #FlyEaglesFly",
+      "id": "317980134",
+      "username": "CraigCaplan"
+    },
+    {
+      "name": "Jenniffer González",
+      "description": "Proudly representing the 3.2 million U.S. citizens of Puerto Rico in Congress. Member of @NatResources, @TransportGOP and @HouseGOP.",
+      "id": "819744763020775425",
+      "username": "RepJenniffer"
+    },
+    {
+      "name": "New Democrat Coalition (NDC)",
+      "description": "The NDC is made up of 98 forward-thinking Dems who are committed to pro-economic growth, pro-innovation \u0026 fiscally responsible policies. Chaired by @RepDelBene.",
+      "id": "761783018",
+      "username": "NewDemCoalition"
+    },
+    {
+      "name": "Rep. Mike Thompson",
+      "description": "Rep. Mike Thompson represents California\u0027s 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+      "id": "303861808",
+      "username": "RepThompson"
+    },
+    {
+      "name": "The American Independent",
+      "description": "Reporting for Progress",
+      "id": "2467720274",
+      "username": "AmerIndependent"
+    },
+    {
+      "name": "Caleb Bedillion",
+      "description": "Local Reporting Network fellow @propublica and investigative reporter for @djournalnow. Focused on criminal justice system and government accountability.",
+      "id": "3421042515",
+      "username": "CalebBedillion"
+    },
+    {
+      "name": "NBC News THINK",
+      "description": "THINK is NBC News\u0027 home for fresh opinion, sharp analysis and powerful essays.",
+      "id": "905416143313219584",
+      "username": "NBCNewsTHINK"
+    },
+    {
+      "name": "Toluse Olorunnipa",
+      "description": "White House Bureau Chief for @washingtonpost. Co-author of \"His Name is George Floyd.” National Book Award finalist. Tips? toluse@washpost.com.",
+      "id": "168290603",
+      "username": "ToluseO"
+    },
+    {
+      "name": "Robin Kelly",
+      "description": "Official Twitter for Rep Robin Kelly #IL02 Vice Chair @EnergyCommerce, Member @OversightDems, Co-Chair @CBWGCAUCUS \u0026 Chair of @TheBlackCaucus Health Braintrust",
+      "id": "1339931490",
+      "username": "RepRobinKelly"
+    },
+    {
+      "name": "Atlanta Black Star",
+      "description": "Atlanta Black Star is a digital magazine that publishes narratives intentionally and specifically to change our world.",
+      "id": "565521611",
+      "username": "ATLBlackStar"
+    },
+    {
+      "name": "Deanne Criswell",
+      "description": "12th Administrator of the Federal Emergency Management Agency (@fema) since 4/26/2021.",
+      "id": "67378554",
+      "username": "FEMA_Deanne"
+    },
+    {
+      "name": "Mustafa Tameez",
+      "description": "Digital Advertising Guru @FOXNEWS @CNN @MSNBC Political Contributor, Former Consultant @DHSgov Loves Everything #Houston Chair @TagHouston",
+      "id": "60644777",
+      "username": "MustafaTameez"
+    },
+    {
+      "name": "Yamiche Alcindor",
+      "description": "Anchor and Moderator of @WashingtonWeek on @PBS. Washington Correspondent for @NBCNews.",
+      "id": "89887215",
+      "username": "Yamiche"
+    },
+    {
+      "name": "Heather Caygle",
+      "description": "Managing Editor @punchbowlnews. Roll Tide ?",
+      "id": "78694788",
+      "username": "heatherscope"
+    },
+    {
+      "name": "Rep. Danny K. Davis",
+      "description": "“The People’s Congressman” US House Representative for Illinois\u0027 7th District. Serving on the 117th Congress Committee on Ways and Means.",
+      "id": "789244177",
+      "username": "RepDannyDavis"
+    },
+    {
+      "name": "Darren Sands",
+      "description": "I’m writing a basketball book. Words in: BuzzFeed, Esquire, New York Times Magazine. Repped by my mama #ovo",
+      "id": "18810140",
+      "username": "darrensands"
+    },
+    {
+      "name": "David Kenney",
+      "description": "Public information officer for MDOT.",
+      "id": "21416429",
+      "username": "MDOT_DKenney"
+    },
+    {
+      "name": "Tom Perez",
+      "description": "Lifelong Democrat. Civil rights attorney. Former @thedemocrats chair. U.S. Labor Secretary for @barackobama. Proud son of immigrants ??. Dad of 3+Bubba ?",
+      "id": "4797361833",
+      "username": "TomPerez"
+    },
+    {
+      "name": "Washington Post Opinions",
+      "description": "Editorials, columns, guest op-eds and reader submissions from the @washingtonpost Opinions section.",
+      "id": "14345812",
+      "username": "PostOpinions"
+    },
+    {
+      "name": "Rep. Jamie Raskin",
+      "description": "Proudly serving MD’s 8th on @rulesdemocrats, @housejudiciary, @oversightdems \u0026 @houseadm_dems. Confronting violent extremism on the @January6thCmte.",
+      "id": "806906355214852096",
+      "username": "RepRaskin"
+    },
+    {
+      "name": "Elana Schor",
+      "description": "@politico deputy managing editor for Congress / online hype machine for the Capitol\u0027s best reporters. Proud alum of • @AP • @KSJatMIT • @eenewsupdates.",
+      "id": "46417885",
+      "username": "eschor"
+    },
+    {
+      "name": "Kimberly L. Campbell, Esq.",
+      "description": "Enjoy pics of my family! AARP MS State Dir., Former Legislator \u0026 Special Judge. Proud to be an AME~AKA~Links. #HailState #WarEagle #OleMSLaw. Tweets are my own!",
+      "id": "742546827858173953",
+      "username": "KimberlyLCampb3"
+    },
+    {
+      "name": "Arielle Dreher",
+      "description": "Covering health care for @axios | Formerly: @spokesmanreview @jxnfreepress | @columbiajourn + @azusapacific alum | Go M\u0027s + RIP Sonics",
+      "id": "299809248",
+      "username": "arielle_amara"
+    },
+    {
+      "name": "Josh Rogin",
+      "description": "Washington Post Columnist, CNN Political Analyst, @joshrogin on Insta \u0026 CH, Author of CHAOS UNDER HEAVEN. Tips: joshrogin@protonmail.com (he/him)",
+      "id": "15766082",
+      "username": "joshrogin"
+    },
+    {
+      "name": "AAUW",
+      "description": "????? Empowering women and girls since 1881. Become a member today!",
+      "id": "19719380",
+      "username": "AAUW"
+    },
+    {
+      "name": "John R Parkinson",
+      "description": "@ABC Reporter / Producer, husband to @salcary, daddy to J.J. \u0026 Graham ? #baraboo",
+      "id": "26596727",
+      "username": "jparkABC"
+    },
+    {
+      "name": "Joe Crowley",
+      "description": "A boy from Queens. Father, husband, former Congressman, and Springsteen fan.",
+      "id": "111635980",
+      "username": "JoeCrowleyNY"
+    },
+    {
+      "name": "Chuck Espy",
+      "description": "Mayor of MY hometown -- Clarksdale, MS! Former member of the MS State House / Information regarding the city, call 662-645-INFO — not for emergencies",
+      "id": "856253920649326593",
+      "username": "chuck_espy"
+    },
+    {
+      "name": "Hinds Co. Young Dems",
+      "description": "Providing updates and news to Young Democrats in Hinds County. #ABetterFutureNow",
+      "id": "837366207464488961",
+      "username": "youngdemshinds"
+    },
+    {
+      "name": "One Voice",
+      "description": "We enable civic engagement in the formation of public policy through leadership development, research support, training, and technical assistance.",
+      "id": "613025972",
+      "username": "OneVoiceMS"
+    },
+    {
+      "name": "MSHealthAdvocacyProg",
+      "description": "We strive to be a strong, effective voice for improved health care for all.",
+      "id": "20100914",
+      "username": "healthadvocacy"
+    },
+    {
+      "name": "Rickey Cole",
+      "description": "Katherine and Sonny\u0027s Poppa, Farmer, Son of the Mississippi Soil, Democrat",
+      "id": "19932400",
+      "username": "RickeyCole"
+    },
+    {
+      "name": "Young Dems of MS",
+      "description": "Political organization for Mississippi Democrats between the ages of 15 and 35.                   Donate here: https://t.co/i8VGSrnpu2",
+      "id": "188012246",
+      "username": "YoungDemsMS"
+    },
+    {
+      "name": "Jackson-Hinds",
+      "description": "Jackson-Hinds is the largest provider of primary healthcare services to the uninsured, underinsured and the under-served in Central Mississippi.",
+      "id": "753316093096300544",
+      "username": "JhchcMs"
+    },
+    {
+      "name": "Rep. Cheri Bustos",
+      "description": "Serving Illinois’ 17th District. Former reporter working in Congress #ForThePeople. Athlete, wife and mother of three sons. Facebook \u0026 Instagram: RepCheri.",
+      "id": "1092979962",
+      "username": "RepCheri"
+    },
+    {
+      "name": "Christina Wilkes",
+      "description": "#team46 // press sec @HUDgov // san franciscan // @USC alumna // personal account",
+      "id": "786207720",
+      "username": "xtinawilkes"
+    },
+    {
+      "name": "Rep. Ted Lieu",
+      "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/8esik1vtix • https://t.co/bEP2qWfwBG",
+      "id": "3044993235",
+      "username": "RepTedLieu"
+    },
+    {
+      "name": "Maggie Wade",
+      "description": "News Anchor, Wife, Mother, Grandmother, Avid Reader, Loves Pilates!",
+      "id": "705998078",
+      "username": "MaggieWade9"
+    },
+    {
+      "name": "Margaret-Ann Carter",
+      "description": "Fox Carolina Morning News Anchor\nEmmy Award winning journalist  \nProud Gamecock! #CharlestonStrong \nInstagram: margaretanncarter",
+      "id": "16935088",
+      "username": "MargaretAnnOnTV"
+    },
+    {
+      "name": "Rep. Lucille Roybal-Allard",
+      "description": "Representing California\u0027s 40th Congressional District. Chairwoman of the @AppropsDems Homeland Security Committee.",
+      "id": "479872233",
+      "username": "RepRoybalAllard"
+    },
+    {
+      "name": "Rep. Jimmy Gomez",
+      "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Committees: @WaysMeansCmte and @OversightDems",
+      "id": "2371339658",
+      "username": "RepJimmyGomez"
+    },
+    {
+      "name": "Alcorn State",
+      "description": "The Official Twitter of Alcorn State University - the Oldest Public HBCU Land-Grant in the U.S.A. Founded in 1871.",
+      "id": "86958943",
+      "username": "AlcornStateU"
+    },
+    {
+      "name": "Rep. Brad Schneider",
+      "description": "Proud to represent the people of Illinois\u0027s 10th Congressional District",
+      "id": "1071840474",
+      "username": "RepSchneider"
+    },
+    {
+      "name": "Colleen Hanabusa",
+      "description": "Attorney, Former Congresswoman who represented Hawaii\u0027s First Congressional District",
+      "id": "235373000",
+      "username": "RepHanabusa"
+    },
+    {
+      "name": "Nolan D. McCaskill",
+      "description": "Congressional reporter @latimes | nolan.mccaskill@latimes.com",
+      "id": "3044840091",
+      "username": "NolanDMcCaskill"
+    },
+    {
+      "name": "Congressman Raja Krishnamoorthi",
+      "description": "Official Twitter account of Congressman Raja Krishnamoorthi, serving on @HouseIntel and @OversightDems, and representing Illinois\u0027 8th Congressional District.",
+      "id": "814179031956488192",
+      "username": "CongressmanRaja"
+    },
+    {
+      "name": "Senator Thad Cochran",
+      "description": "Office of U.S. Senator Thad Cochran of Mississippi.",
+      "id": "555474658",
+      "username": "SenThadCochran"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "House Veterans\u0027 Affairs",
+      "description": "Chairman @RepMarkTakano | House Committee on Veterans’ Affairs",
+      "id": "151519500",
+      "username": "VetAffairsDems"
+    },
+    {
+      "name": "MJ Lee",
+      "description": "CNN Senior White House Correspondent. DC, NYC, Hong Kong, Seoul. Instagram: mj_cnn.",
+      "id": "139738464",
+      "username": "mj_lee"
+    },
+    {
+      "name": "Fred Anklam Jr.",
+      "description": "Journalist now teaching at #Mizzou who led @MSTODAYnews startup after 29 years @USATODAY. @clarionledger Pulitzer 1983. #OleMiss grad.",
+      "id": "1240378932",
+      "username": "anklamfred"
+    },
+    {
+      "name": "Mississippi Today",
+      "description": "Nonprofit, nonpartisan Mississippi newsroom working to create a more informed Mississippi.",
+      "id": "702153897272614912",
+      "username": "MSTODAYnews"
+    },
+    {
+      "name": "Bruce Coleridge-Taylor Wright",
+      "description": "editorial director @newsone | father of Wes \u0026 Vivi | @_HamptonU Pirate ? ???? | lifelong @nyknicks fan | holla: bwright@ionedigital.com",
+      "id": "16351382",
+      "username": "bctw"
+    },
+    {
+      "name": "Leslie A. Anderson, PhD, LMFT",
+      "description": "Jesus-loving, Mississippi-made, therapist, family scientist, and professor. #PurposeDriven #DST1913 #HBCUAlumna",
+      "id": "42832668",
+      "username": "DrLeslieA"
+    },
+    {
+      "name": "Rep. Stacey Plaskett",
+      "description": "Proudly representing the Virgin Islands of the United States",
+      "id": "2724095695",
+      "username": "StaceyPlaskett"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "Donald McEachin",
+      "description": "Honored to serve the people of #VA04 in the U.S. Congress. Father, husband, former State Senator. Alum of @AmericanU @UVALaw \u0026 @STVUatVUU",
+      "id": "459051498",
+      "username": "Donald_McEachin"
+    },
+    {
+      "name": "Val Demings",
+      "description": "Wife. Mom. Nana. Lifelong Floridian. Former Orlando Police Chief. Congresswoman. Running for U.S. Senate to make Florida better. En español @todoscondemings.",
+      "id": "3404875323",
+      "username": "valdemings"
+    },
+    {
+      "name": "Smithsonian NMAAHC",
+      "description": "Journey through the lens of the African American experience. #APeoplesJourney, #ANationsStory Legal: https://t.co/3sIRJhQet4 • @NMAAHCdirector",
+      "id": "36972997",
+      "username": "NMAAHC"
+    },
+    {
+      "name": "LaDavia Drane",
+      "description": "Matt\u0027s wife. Max and Jax\u0027s mom. David and Gwen’s Daughter. God’s Work In Progress.",
+      "id": "535932676",
+      "username": "LSD_Esq"
+    },
+    {
+      "name": "Bobby Moak",
+      "description": "Chairman of the Mississippi Democratic Party",
+      "id": "748333196685639681",
+      "username": "BobbyMoakMSDem"
+    },
+    {
+      "name": "Mayo Flynt",
+      "description": "Husband, dad, Rebel, AT\u0026T MS President. Can be found in The Grove on game days. Soli Deo Gloria.",
+      "id": "87321463",
+      "username": "mayoflynt"
+    },
+    {
+      "name": "The Noble Journalist",
+      "description": "Mom \u0026 award winning journalist obsessed with giving the voiceless a national stage.",
+      "id": "108640170",
+      "username": "BrittanyNoble_"
+    },
+    {
+      "name": "Trout Unlimited",
+      "description": "Conserving, protecting and restoring North America\u0027s #trout and #salmon fisheries and their watersheds.",
+      "id": "34424156",
+      "username": "TroutUnlimited"
+    },
+    {
+      "name": "Congressman Bob Brady",
+      "description": "@PHLDems Chairman, Leader of #WestPhilly’s 34th Ward, @America250 Commissioner, 22-Year @Penn Professor, 53-Year Carpenter, Ret. U.S. Congressman. #FlyEaglesFly",
+      "id": "148453195",
+      "username": "BobBradyPHL"
+    },
+    {
+      "name": "MS State Med Assn",
+      "description": "The Mississippi State Medical Association is an advocacy group for its 4800+ physician members, their patients and public health. Retweets aren\u0027t endorsements.",
+      "id": "34632187",
+      "username": "MSMA1"
+    },
+    {
+      "name": "Congressman Donald M. Payne, Jr.",
+      "description": "The NRA gave me an F because I want to end gun violence. Father of triplets. Son of Newark. Proudly serving New Jersey\u0027s 10th Congressional District.",
+      "id": "1155335864",
+      "username": "RepDonaldPayne"
+    },
+    {
+      "name": "Rep. Bonnie Watson Coleman",
+      "description": "Proudly serving the people of New Jersey’s 12th Congressional District. Proud #BlackWoman. @USProgressives vice-chair. Co-Chair of @CBWGCaucus. She/her.",
+      "id": "2968451607",
+      "username": "RepBonnie"
+    },
+    {
+      "name": "Elijah E. Cummings",
+      "description": "U.S. Representative from Maryland\u0027s 7th District, dedicated to serving and empowering the people I’m sworn to represent. RT\u0027s and Follows are not endorsements.",
+      "id": "787373558",
+      "username": "RepCummings"
+    },
+    {
+      "name": "NewsOne",
+      "description": "Connected: Socially. Politically. Culturally. Stay updated for the latest in Black culture??",
+      "id": "18197668",
+      "username": "newsone"
+    },
+    {
+      "name": "NAMI Mississippi",
+      "description": "We are dedicated to improving the lives of those with a mental health condition and their families, caregivers and loved ones.",
+      "id": "2540332069",
+      "username": "NAMIMississippi"
+    },
+    {
+      "name": "Jae",
+      "description": "MS??DC. howardu ‘21",
+      "id": "2329372054",
+      "username": "jaelonkennedy"
+    },
+    {
+      "name": "Patty Dunn",
+      "description": "",
+      "id": "111372570",
+      "username": "pattybdunn"
+    },
+    {
+      "name": "JRBST_Brothers",
+      "description": "Fill It, Sip it, Share it and Grow... We Follow all those who follow us and promote them to get more followers",
+      "id": "356665767",
+      "username": "JRBST_Brothers"
+    },
+    {
+      "name": "\u0027To Build A Home\u0027",
+      "description": "A documentary film about #Navajo people in the midst of a #housing crisis. Send a message to #Congress: http://t.co/65dw5Hei9N",
+      "id": "2611881211",
+      "username": "HomeDocumentary"
+    },
+    {
+      "name": "Melvin Priester, Jr.",
+      "description": "Jackson MS, native. Dedicated to People. Jackson City Councilman Ward 2.",
+      "id": "1043046169",
+      "username": "MelvinPriester"
+    },
+    {
+      "name": "Delia-Pooh -Lewis",
+      "description": "I love God, life, family, fun, together....",
+      "id": "148194386",
+      "username": "Deelew02"
+    },
+    {
+      "name": "Nick Palmer ??",
+      "description": "Yooper. Believer. Wannabe Scholar. Recovering Politician. “We rise by lifting others” #RuralAmericaMatters. @HALEatMSU @sienaheightsu graduate.",
+      "id": "2276920044",
+      "username": "npalmer27"
+    },
+    {
+      "name": "eBay Newsroom",
+      "description": "Official feed for eBay news, stories and announcements. Customer Service: @AskeBay",
+      "id": "13014082",
+      "username": "eBayNewsroom"
+    },
+    {
+      "name": "Brett Jones",
+      "description": "",
+      "id": "210177673",
+      "username": "JonesSince86"
+    },
+    {
+      "name": "The Home Depot Government Relations",
+      "description": "Building relationships with elected officials and helping Home Depot associates “make their OrangeVoice heard” by connecting them to the political process.",
+      "id": "573916220",
+      "username": "HomeDepotGR"
+    },
+    {
+      "name": "LaCoriDa",
+      "description": "Living and loving life! Surrounded by great family and friends! Blessed by God! Who could ask for more?! Wife, Mother, Librarian, Delta. HBCU grad.",
+      "id": "166438343",
+      "username": "LaCoriDa"
+    },
+    {
+      "name": "randywallace",
+      "description": "",
+      "id": "601648068",
+      "username": "attorneyrandy"
+    },
+    {
+      "name": "nichellepolston",
+      "description": "#Journalist | Weekday: Political Comms | Always: @HerNormal | Superpowers: Wife, Advocate, Board member @resolveorg",
+      "id": "845455532",
+      "username": "nichellepolston"
+    },
+    {
+      "name": "ThinkinginMiss",
+      "description": "I am concerned about our state, our country, and our planet. We need to start actually THINKING about what we are doing \u0026 turn things around.",
+      "id": "471349552",
+      "username": "ThinkinginMiss"
+    },
+    {
+      "name": "Terri",
+      "description": "#Equity",
+      "id": "249655612",
+      "username": "Supergirl_TG"
+    },
+    {
+      "name": "Cederick Ellis, Sr., Ph.D.",
+      "description": "",
+      "id": "1643878206",
+      "username": "DrCederickEllis"
+    },
+    {
+      "name": "Ambassador Dr. Jacqueline McBride-Jones, CEM NEMEA",
+      "description": "Founder of many organizations - https://t.co/sXeHmOl3gj, https://t.co/dacdqcIvUn, life-changing coach, historian, visionary, leader,educator, servant, transformer, speaker",
+      "id": "2487571825",
+      "username": "drjmcbride"
+    },
+    {
+      "name": "?????? ????????",
+      "description": "",
+      "id": "187937865",
+      "username": "itsRanada"
+    },
+    {
+      "name": "Lawmaker Dialogue",
+      "description": "Forum for a dialogue with lawmakers.\r\n\r\nSelect tweets from lawmakers.\r\n\r\nHighlighting \u0026 petitioning lawmakers with key issues that are in the American interest.",
+      "id": "1405337395",
+      "username": "LawMDF"
+    },
+    {
+      "name": "TAMMY ESTWICK",
+      "description": "#Journalist #TomboyInHeels #Strega #ColorOfTheDay creator. Arrested for DWB StoryIdea??Tammy.Estwick@newsy.com",
+      "id": "544881279",
+      "username": "TammyESTWICK"
+    },
+    {
+      "name": "Willis Thompson",
+      "description": "Mayoral Candidate for the City of Vicksburg",
+      "id": "56806631",
+      "username": "ElectWillisT"
+    },
+    {
+      "name": "Melanie Eversley",
+      "description": "Exec. ed., Black News \u0026 Views, @blacknandv, site launched by  @NABJ 8/22. Ex @USAToday. Founder, @BeyondRailroad. Marathoner. @columbiajourn @oberlincollege.",
+      "id": "26663400",
+      "username": "MelanieEversley"
+    },
+    {
+      "name": "Jimmie E. Gates",
+      "description": "Veteran journalist with a love of people, places and things that make us special.",
+      "id": "526666665",
+      "username": "jgatesnews"
+    },
+    {
+      "name": "CityOfJackson601",
+      "description": "One City, One Aim, One Destiny! Together we are on the way upward!",
+      "id": "2203393856",
+      "username": "CityOfJXN601"
+    },
+    {
+      "name": "Scott Simmons",
+      "description": "Anchor-Reporter for 16WAPT in Jackson, MS. Investigative, politics or a party. If it\u0027s news, I\u0027m there!",
+      "id": "1539560166",
+      "username": "ScottSimmonsNwz"
+    },
+    {
+      "name": "Geoffrey Pender",
+      "description": "Hunter-gatherer. Political reporter Mississippi Today. gpender@mississippitoday.org",
+      "id": "409445148",
+      "username": "GeoffPender"
+    },
+    {
+      "name": "Mississippi Braves",
+      "description": "",
+      "id": "144146713",
+      "username": "MS_Braves"
+    },
+    {
+      "name": "Sam R. Hall",
+      "description": "Christian, husband \u0026 father. @djournalnow editor. Former @clarionledger. I live in Tupelo with my wife, 3 kids, 2 dogs \u0026 2 cats. Mastodon: @samrhall@journa.host",
+      "id": "14454437",
+      "username": "samrhall"
+    },
+    {
+      "name": "The Dispatch",
+      "description": "Locally-owned newspaper and website serving Columbus and Starkville, Mississippi, and the greater Golden Triangle area",
+      "id": "30594847",
+      "username": "CDispatch"
+    },
+    {
+      "name": "MS Dept of Education",
+      "description": "This is the official Twitter feed of the Mississippi Department of Education, creating an educational system that prepares students for college and career.",
+      "id": "847607918",
+      "username": "MissDeptEd"
+    },
+    {
+      "name": "Rep. Jeramey Anderson",
+      "description": "House Democratic Leadership | House Judiciary Member | History Maker | B.A. in Homeland Security | Chairman of Caucus Operations for @mshousedems",
+      "id": "599377549",
+      "username": "jerameyanderson"
+    },
+    {
+      "name": "Hinds Community College",
+      "description": "The Official Twitter Account for Hinds Community College, your Best Decision. #HindsCC",
+      "id": "45903028",
+      "username": "HindsCC"
+    },
+    {
+      "name": "Mississippi Delta",
+      "description": "The official Twitter account of Mississippi Delta Community College.",
+      "id": "22503933",
+      "username": "MDCC"
+    },
+    {
+      "name": "Mississippi",
+      "description": "",
+      "id": "137785570",
+      "username": "msdeltabluesbar"
+    },
+    {
+      "name": "The University of Mississippi Medical Center",
+      "description": "Education | Research | Health Care - The University of Mississippi Medical Center is the state\u0027s only academic medical center. Working to create #AHealthierMS.",
+      "id": "29291785",
+      "username": "UMMCnews"
+    },
+    {
+      "name": "CASA Mississippi",
+      "description": "We support the development of local CASA programs to advocate for  abused and neglected children and improve child welfare outcomes throughout our state.",
+      "id": "235225434",
+      "username": "CASAMississippi"
+    },
+    {
+      "name": "My Mississippi Jobs",
+      "description": "Helping you find jobs in Mississippi.",
+      "id": "19787229",
+      "username": "mymissjobs"
+    },
+    {
+      "name": "The Mississippi Link",
+      "description": "The Mississippi Link is an African American owned newspaper and media company that emphasizes the concerns of the African American community and its readers.",
+      "id": "492534506",
+      "username": "MississippiLink"
+    },
+    {
+      "name": "Mississippi Press Association",
+      "description": "The trade association for over 100 Mississippi newspapers and affiliated digital media.",
+      "id": "189612715",
+      "username": "MPAnewspapers"
+    },
+    {
+      "name": "The Mississippi Bar",
+      "description": "The Mississippi Bar shall serve the public good by promoting excellence in the profession and in our system of justice.  Retweets do not imply endorsement.",
+      "id": "1638501210",
+      "username": "TheMSBar"
+    },
+    {
+      "name": "Mississippi DFA",
+      "description": "Mississippi Department of Finance and Administration",
+      "id": "2340918836",
+      "username": "MS_DFA"
+    },
+    {
+      "name": "Mississippi FCA",
+      "description": "The official Twitter account for all things Mississippi FCA.",
+      "id": "1286317800",
+      "username": "mississippifca"
+    },
+    {
+      "name": "Mississippi UMC",
+      "description": "Bishop James E. Swanson Sr. is the episcopal leader of the Mississippi Conference of The United Methodist Church.",
+      "id": "932562397",
+      "username": "Mississippi_UMC"
+    },
+    {
+      "name": "State of MS",
+      "description": "This is a parody account. Mississippi. Come visit and feel better about your state.",
+      "id": "316097973",
+      "username": "StateofMS"
+    },
+    {
+      "name": "APA Mississippi",
+      "description": "The Mississippi Chapter of the American Planning Association is comprised of planners who work to improve the quality of life in their respective communities.",
+      "id": "777120079",
+      "username": "APAMississippi"
+    },
+    {
+      "name": "Madison County Journal",
+      "description": "Community newspaper serving Madison, Ridgeland, Canton and Flora.",
+      "id": "28837048",
+      "username": "mcjournal"
+    },
+    {
+      "name": "Mississippi Institutions of Higher Learning",
+      "description": "Official Twitter account of Mississippi Institutions of Higher Learning #AdvancingMS",
+      "id": "64384434",
+      "username": "MSPublicUniv"
+    },
+    {
+      "name": "1 Mississippi",
+      "description": "Public grassroots outreach effort focused on the entire Mississippi River. Join us, link below to become a River Citizen today! A program by @MSRiverNetwork.",
+      "id": "979120292",
+      "username": "1_Mississippi"
+    },
+    {
+      "name": "Cover Mississippi",
+      "description": "Cover Mississippi is a statewide coalition to educate Mississippians about their new health insurance options.",
+      "id": "1880678006",
+      "username": "CoverMS"
+    },
+    {
+      "name": "Mississippi REALTORS",
+      "description": "The business advocate for Mississippi real estate professionals.",
+      "id": "41456670",
+      "username": "msrealtors"
+    },
+    {
+      "name": "WLOX",
+      "description": "WLOX has been serving South Mississippi since 1962 from our studios in Biloxi. \nNote: Content shared via tweets to @wlox may be republished on-air or online.",
+      "id": "19026473",
+      "username": "WLOX"
+    },
+    {
+      "name": "Mississippi Events",
+      "description": "Live music, parties, shows and more, happening right now in Mississippi!",
+      "id": "122322263",
+      "username": "MississippiNow"
+    },
+    {
+      "name": "MECA Mississippi",
+      "description": "Mississippi Educational Computing Association\n40th Anniversary\nJoin us for Mississippi\u0027s largest ed-tech conference from February 8-10, 2023!",
+      "id": "19158594",
+      "username": "msmeca"
+    },
+    {
+      "name": "Opera Mississippi",
+      "description": "Opera Mississippi is the ninth oldest, continuously producing professional opera company in America.",
+      "id": "194334693",
+      "username": "MSOpera"
+    },
+    {
+      "name": "Mississippi Baptists",
+      "description": "We equip local churches to make disciples in Mississippi and around the world.",
+      "id": "364913054",
+      "username": "MSBaptists"
+    },
+    {
+      "name": "Mississippi Places",
+      "description": "Follow us here to discover what places and events are being tweeted about right now in Mississippi!",
+      "id": "123163652",
+      "username": "PlacesMS"
+    },
+    {
+      "name": "Mississippi Jobs",
+      "description": "Mississippi Jobs",
+      "id": "26020653",
+      "username": "Mississippijobs"
+    },
+    {
+      "name": "AARP Mississippi",
+      "description": "AARP Mississippi advocates on behalf of Mississippians over 50 and helps them improve the quality of their lives in their own communities.",
+      "id": "97762004",
+      "username": "AARPMS"
+    },
+    {
+      "name": "Red Cross Mississippi",
+      "description": "Official twitter stream for American Red Cross Mississippi Region on weather, disasters, military programs, volunteering, events and donating.",
+      "id": "139795202",
+      "username": "RedCrossMiss"
+    },
+    {
+      "name": "Mississippi Main Street Association",
+      "description": "Mississippi Main Street is a catalyst for the preservation and economic revitalization of Mississippi’s historic downtowns and districts.",
+      "id": "25146272",
+      "username": "MSMainStreet"
+    },
+    {
+      "name": "Salvation Army ALM",
+      "description": "The official Twitter account for The Salvation Army serving Alabama, Louisiana and Mississippi. Help us uplift others. #DoingTheMostGood",
+      "id": "19736257",
+      "username": "salarmyalm"
+    },
+    {
+      "name": "Mississippi Jobs",
+      "description": "We cover all of #Mississippi #jobs and #careers fields. Please email me your leads, I can post them too. | Follow:   @PrintCoupons @CouponFreebie",
+      "id": "60460437",
+      "username": "job_mississippi"
+    },
+    {
+      "name": "Mississippi Census",
+      "description": "We Count, Mississippi",
+      "id": "21202894",
+      "username": "mscensus2010"
+    },
+    {
+      "name": "Mississippi Society",
+      "description": "Celebrating the Magnolia State in the nation\u0027s capital since 1892. #WelcomeYall",
+      "id": "615491216",
+      "username": "MissSocietyofDC"
+    },
+    {
+      "name": "We ARE Mississippi..",
+      "description": "We provide followers for people in Mississippi! We can also help create a viral presence for your music, events, products etc...\r\n#MS_Followers",
+      "id": "335843329",
+      "username": "MS_Followers"
+    },
+    {
+      "name": "Mississippi Weddings",
+      "description": "Mississippi Weddings Magazine offers Mississippi women and their grooms a fresh, edgy take on weddings!",
+      "id": "214948765",
+      "username": "MSWeddingsMag"
+    },
+    {
+      "name": "Mississippi State DC",
+      "description": "We are the official twitter feed for the Washington, DC chapter of the Mississippi State Alumni Association, representing DC, Maryland and Virginia.",
+      "id": "1378473049",
+      "username": "Bulldogs_DC"
+    },
+    {
+      "name": "MS Dept of Health",
+      "description": "News and updates from the Mississippi State Department of Health",
+      "id": "16100741",
+      "username": "msdh"
+    },
+    {
+      "name": "NWS Jackson MS",
+      "description": "Official Twitter account for the National Weather Service Jackson, Mississippi. Details: http://t.co/KKTK7cZlhK",
+      "id": "577537350",
+      "username": "NWSJacksonMS"
+    },
+    {
+      "name": "MS Democratic Party",
+      "description": "Official twitter account of the Mississippi Democratic Party\n\nEmail-\ninfo@mississippidemocrats.org",
+      "id": "924776768",
+      "username": "msdemocrats"
+    },
+    {
+      "name": "Mississippi First",
+      "description": "A nonprofit education policy organization championing transformative solutions ensuring educational excellence for every Mississippi child.",
+      "id": "55613704",
+      "username": "Mississippi1st"
+    },
+    {
+      "name": "SuperTalk Mississippi",
+      "description": "News. Sports. Politics. And The Good Things. | The Conversation Starts Here. | Call: 888-808-8637 | Text: 601-879-4395 | Listen/Watch: https://t.co/ZSckpK8D1D",
+      "id": "19255171",
+      "username": "supertalk"
+    },
+    {
+      "name": "The City With Soul - JXN MS",
+      "description": "A Southern town with welcoming locals, a rich history, and culinary, music \u0026 artistic excellence. We offer visitor info, powered by Visit Jxn.",
+      "id": "38207302",
+      "username": "VisitJacksonMS"
+    },
+    {
+      "name": "Mississippi Power",
+      "description": "Company, community, \u0026 industry news \u0026 info. Cust. Serv.: 800-532-1502. Customer Service available here 8am-5pm Mon-Fri.",
+      "id": "40886060",
+      "username": "MS_Power"
+    },
+    {
+      "name": "SuperTalk News",
+      "description": "SuperTalk News is a multimedia news network airing hourly reports on more than 45 radio stations around the state of Mississippi.",
+      "id": "596569548",
+      "username": "SuperTalkNews"
+    },
+    {
+      "name": "Brittany Bell",
+      "description": "Meteorologist. CBM #688. Wife. Dog parent. MSU Alum. Follow @BrittanyBABC7 weather updates.",
+      "id": "84250783",
+      "username": "BrittanyBellWX"
+    },
+    {
+      "name": "Jackson Free Press",
+      "description": "Reporting truth to power in Mississippi’s capital city since 2002. ? Now nonprofit. Follow statewide news outlet @msfreepress ?Give: https://t.co/JNcnMCDevs",
+      "id": "17052001",
+      "username": "JxnFreePress"
+    },
+    {
+      "name": "WTVA 9 News",
+      "description": "Live. Local. Late-Breaking. Send news tips to news@wtva.com.",
+      "id": "59853964",
+      "username": "wtva9news"
+    },
+    {
+      "name": "MS Arts Commission",
+      "description": "The Mississippi Arts Commission is a state agency created in 1968 to support the arts in Mississippi.",
+      "id": "45613739",
+      "username": "MSarts"
+    },
+    {
+      "name": "Innovate Mississippi",
+      "description": "Innovate Mississippi is a nonprofit organization with the mission to drive #INNOVATION \u0026 #technology-based economic development for the State of Mississippi.",
+      "id": "479735446",
+      "username": "InnovateMS"
+    },
+    {
+      "name": "Mississippi HeARTS",
+      "description": "Our annual benefit, featuring live \u0026 silent art auctions, entertainment, and great food is the largest fundraiser in Mississippi for AIDS-related issues.",
+      "id": "194731955",
+      "username": "MS_HeARTS"
+    },
+    {
+      "name": "Mississippi Edition",
+      "description": "Get the latest in news, current events, \u0026 culture from around Mississippi weekdays at 8:30 AM on #MSEdition @MPBOnline #ThinkRadio. For updates follow @MPBNews.",
+      "id": "631137861",
+      "username": "MSEditionMPB"
+    },
+    {
+      "name": "Mississippi Valley State University",
+      "description": "The Official Twitter Account of Mississippi Valley State University. Home of the Delta Devils. “One Goal. One Team. One Valley...In Motion!” #MVSU1950",
+      "id": "25345773",
+      "username": "MVSUDEVILS"
+    },
+    {
+      "name": "MS Attorney General",
+      "description": "Official Twitter account of the Office of Mississippi Attorney General Jim Hood",
+      "id": "28373130",
+      "username": "MississippiAGO"
+    },
+    {
+      "name": "Mississippi Braves",
+      "description": "Official Twitter of the Mississippi Braves, AA affiliate of the @Braves. Owned and operated by Diamond Baseball Holdings.",
+      "id": "29800650",
+      "username": "mbraves"
+    },
+    {
+      "name": "The Mississippi Mass Choir",
+      "description": "Gospel | Grammy | Stellar | The Mississippi Mass Choir.  Mission: Serving God Through Song.  BOOKING: TMWA 601.366.8863 ? mmcsingers@gmail.com",
+      "id": "302470343",
+      "username": "MassMissChoir"
+    },
+    {
+      "name": "#MightyMS",
+      "description": "Mississippi Development Authority is the state of Mississippi’s lead economic and community development agency. #MightyMS",
+      "id": "1129437402",
+      "username": "mdaworks"
+    },
+    {
+      "name": "Mississippi Delta",
+      "description": "The official Twitter account for the Mississippi Delta Tourism Association (MDTA) – the OFFICIAL marketing organization for the Mississippi Delta Region.",
+      "id": "243324556",
+      "username": "VisitTheDelta"
+    },
+    {
+      "name": "MSPublicBroadcasting",
+      "description": "Mississippi is our Mission. Mississippi Public Broadcasting shares content from MPB Television and MPB Think Radio. \n..\nFollow @MPBNews, @MPB_Education.",
+      "id": "13786762",
+      "username": "MPBOnline"
+    },
+    {
+      "name": "Mississippi Business Journal",
+      "description": "The Mississippi Business Journal is Mississippi\u0027s only state-wide business publication. Subscribe to our exclusive print content at https://t.co/BYeKXfJyZn",
+      "id": "73396936",
+      "username": "mbjournal"
+    },
+    {
+      "name": "Sun Herald",
+      "description": "",
+      "id": "12810582",
+      "username": "sunherald"
+    },
+    {
+      "name": "Entergy Mississippi",
+      "description": "This page is monitored during business hours. For customer service, please call 1-800-368-3749. To report power outages \u0026 emergencies, 1-800-968-8243.",
+      "id": "106494618",
+      "username": "EntergyMS"
+    },
+    {
+      "name": "ACLU of Mississippi",
+      "description": "The ACLU of Mississippi is a nonprofit, nonpartisan organization dedicated to promoting, defending and extending civil liberties to all Mississippians.",
+      "id": "44719544",
+      "username": "ACLU_MS"
+    },
+    {
+      "name": "Mississippi College",
+      "description": "Official #MississippiCollege Twitter account. MC seeks to be known as a university recognized for academic excellence and commitment to the cause of Christ.",
+      "id": "20084674",
+      "username": "MissCollege"
+    },
+    {
+      "name": "Visit Mississippi",
+      "description": "Your official source for Mississippi tourism. Tag your photos with #visitms to let us share them!",
+      "id": "39336441",
+      "username": "visitms"
+    },
+    {
+      "name": "Mississippi Magazine",
+      "description": "The official Twitter page of Mississippi\u0027s premier lifestyle publication! Find us on Instagram: https://t.co/9vdd0eSxcH",
+      "id": "54662687",
+      "username": "MississippiMag"
+    },
+    {
+      "name": "D.Owens WRBJ-FM",
+      "description": "All Purpose @ WRBJ-FM JACKSON,MS | Radio Programmer- APD | Musician | I\u0027m still Jack Bauer | Nupe | Hot wing junky",
+      "id": "36800397",
+      "username": "901TheDJ"
+    },
+    {
+      "name": "Mario H.",
+      "description": "Your local web guy. Highly delusional Knicks fan.",
+      "id": "19618523",
+      "username": "MarioManor"
+    },
+    {
+      "name": "? Brikachu ?",
+      "description": "she/her | etcetera \u0026 so on",
+      "id": "47801989",
+      "username": "BrianaNicoleM"
+    },
+    {
+      "name": "Keno™",
+      "description": "Stuntin like my daddy... Whoever he is...",
+      "id": "15995516",
+      "username": "StaaayScheeemin"
+    },
+    {
+      "name": "Kris",
+      "description": "Trust everyone, but cut the cards.",
+      "id": "30508158",
+      "username": "k_shari"
+    },
+    {
+      "name": "?hilary banks?",
+      "description": "",
+      "id": "32794711",
+      "username": "_b3autiful_m3ss"
+    },
+    {
+      "name": "JEHROD ROSE",
+      "description": "maybe i’m a writer. maybe i’m a poet. maybe i’m a yogi. maybe, just maybe. RYT 200. Creator of SLYOGA.",
+      "id": "22854502",
+      "username": "alainunlocke"
+    },
+    {
+      "name": "A. Shontaa",
+      "description": "",
+      "id": "50503168",
+      "username": "iDoctor08"
+    },
+    {
+      "name": "Children\u0027s Defense Fund",
+      "description": "FB: https://t.co/pyrsL1T1TD\nIG: https://t.co/UpqB1rvnNT\nLI: https://t.co/6jbyWitlso",
+      "id": "21337440",
+      "username": "ChildDefender"
+    },
+    {
+      "name": "Miss Tee",
+      "description": "",
+      "id": "30823479",
+      "username": "mystih"
+    },
+    {
+      "name": "Cattest Bruh in MS",
+      "description": "why must I feel like that?? why must I be so cat?",
+      "id": "47830714",
+      "username": "CuznSKEETher"
+    },
+    {
+      "name": "LaNee\u0027 DeJohnette",
+      "description": "Beautifully Made...Get to know me and you\u0027ll say so yourself",
+      "id": "164898802",
+      "username": "_ALLnONE_"
+    },
+    {
+      "name": "CJ Rhodes",
+      "description": "Dad | Pastor | Alcorn Chaplain | Advocate | Author | R\u0026B Enthusiast | Man of Distinction #1906",
+      "id": "182434699",
+      "username": "RevRhodes"
+    },
+    {
+      "name": "SouthernSuperNova",
+      "description": "",
+      "id": "200778955",
+      "username": "SouthernStar84"
+    },
+    {
+      "name": "Nic Lott",
+      "description": "Government Affairs \u0026 Political Consultant. Former GOP congressional/gubernatorial staff. TV/radio commentator. Appeared on CNN, MSNBC, Fox News, Sirius XM. ??",
+      "id": "24252611",
+      "username": "NicLott"
+    },
+    {
+      "name": "Alan B. Henderson",
+      "description": "Real Estate Entrepreneur. Trained in architecture. Experienced in construction.",
+      "id": "71317946",
+      "username": "AlanBHenderson"
+    },
+    {
+      "name": "The Root",
+      "description": "The Root is a digital magazine that provides thought-provoking commentary and news from a variety of black perspectives.",
+      "id": "23995748",
+      "username": "TheRoot"
+    },
+    {
+      "name": "David Johns",
+      "description": "I ???? teach? speak \u0026? write (primarily about my love for \u0026 of Black people). I lead the National Black Justice Coalition @NBJCOnTheMove",
+      "id": "41395061",
+      "username": "MrDavidJohns"
+    },
+    {
+      "name": "Jarvis Stewart",
+      "description": "Chairman \u0026 CEO - @HighlandPoe. C-Suite Advisor \u0026 Communications Strategist. More importantly, a dad of daughters.",
+      "id": "208817615",
+      "username": "jarviscstewart"
+    },
+    {
+      "name": "NAACP",
+      "description": "Founded 1909, the NAACP is the nation\u0027s first and largest grassroots–based civil rights organization. Over 2,200 volunteer-run branches nationwide.",
+      "id": "44988185",
+      "username": "NAACP"
+    },
+    {
+      "name": "Cory Booker",
+      "description": "U.S. Senator from New Jersey. Most tweets (and typos) are mine, some are my team’s. He/him.",
+      "id": "15808765",
+      "username": "CoryBooker"
+    },
+    {
+      "name": "Candice Love Jackson",
+      "description": "Author of Romance Suspense; Scholar of African American lit., popular literature/culture, southern lit., and film. Director of the JXN Film Festival",
+      "id": "400521570",
+      "username": "clovejackson"
+    },
+    {
+      "name": "Naomi ?CHURCH GIRL? Shelton",
+      "description": "@aljwilliams’ daughter | @chartercollab CEO | Fmr Interim Sec of the District, @DCPCSB + #UNCFK12 | SW DC W6 | #HBCU Educated | ?? community + liberation",
+      "id": "575498130",
+      "username": "NaomiSheltonDC"
+    },
+    {
+      "name": "Ginger Gibson",
+      "description": "Senior Washington editor at @NBCNews Digital. Proud grad of @LSU and @GeorgeMasonLaw. Fan of the @Astros. ginger.gibson@nbcuni.com",
+      "id": "242944499",
+      "username": "GingerGibson"
+    },
+    {
+      "name": "U.S. Navy",
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links ? endorsement)",
+      "id": "54885400",
+      "username": "USNavy"
+    },
+    {
+      "name": "Rep. Gregory Meeks",
+      "description": "Proudly serving the people of the 5th Congressional District of New York. For media inquiries, please contact Ayanna.Young@mail.house.gov",
+      "id": "22812754",
+      "username": "RepGregoryMeeks"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "Department of State",
+      "description": "Welcome to the U.S. Department of State Twitter account. Follow @SecBlinken for more from the Secretary. For all Department accounts: https://t.co/kzsNMIOwF9.",
+      "id": "9624742",
+      "username": "StateDept"
+    },
+    {
+      "name": "Homeland Security",
+      "description": "With honor and integrity, we will safeguard the American people, our homeland, and our values. #WeAreDHS, led by @SecMayorkas and @DepSecTien.",
+      "id": "15647676",
+      "username": "DHSgov"
+    },
+    {
+      "name": "Rep. Terri A. Sewell",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama\u0027s 7th District  https://t.co/0uBlTm34B9",
+      "id": "381152398",
+      "username": "RepTerriSewell"
+    },
+    {
+      "name": "Hope Policy Inst.",
+      "description": "Through independent analysis, Hope Policy Institute helps shape policies to facilitate an environment to ensure that all people prosper.",
+      "id": "281723606",
+      "username": "HOPE_Policy"
+    },
+    {
+      "name": "MS Political Pulse",
+      "description": "",
+      "id": "442313338",
+      "username": "MSPolPulse"
+    },
+    {
+      "name": "HOME2012",
+      "description": "Our goal is to provide timely, reliable information to Ordinary Mississippians about national, state and local matters that affect their lives.",
+      "id": "460573534",
+      "username": "HOME2012MS"
+    },
+    {
+      "name": "Rep. Marc Veasey",
+      "description": "Represent Dallas-Fort Worth | Assistant Whip | @energycommerce | @HASCDemocrats | #GunViolencePrevention Taskforce Whip | Voting Rights Caucus + @bluecollardems",
+      "id": "1074129612",
+      "username": "RepVeasey"
+    },
+    {
+      "name": "Rep. Gwen Moore",
+      "description": "Honored to represent Wisconsin’s 4th Congressional District. Proud mother, grandmother \u0026 great-grandmother. Loves poetry reading, knitting \u0026 crocheting.",
+      "id": "22669526",
+      "username": "RepGwenMoore"
+    },
+    {
+      "name": "NBC Politics",
+      "description": "Political news from the journalists across @NBCNews, @MSNBC, @TodayShow, @NBCNightlyNews, @MeetThePress, @NBCInvestigates and more.",
+      "id": "11856032",
+      "username": "NBCPolitics"
+    },
+    {
+      "name": "First Lady- Archived",
+      "description": "Office of First Lady Michelle Obama. This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA)",
+      "id": "1093090866",
+      "username": "FLOTUS44"
+    },
+    {
+      "name": "Dustin Barnes",
+      "description": "Editor at @usatoday. Formerly @tennessean, @clarionledger, @UMMCnews. @editorpublisher\u0027s Top 25 Under 35 in 2016. I stan @mariahcarey (he/him/lamb)",
+      "id": "29130652",
+      "username": "DustinLBarnes"
+    },
+    {
+      "name": "AP Politics",
+      "description": "Highlights from AP\u0027s coverage of U.S. politics and government in words, photos and video. Managed by the Washington bureau. https://t.co/lTcEv1VGoB",
+      "id": "426802833",
+      "username": "AP_Politics"
+    },
+    {
+      "name": "Emily Wagster Pettus",
+      "description": "Covering Mississippi politics for The Associated Press.",
+      "id": "156327895",
+      "username": "EWagsterPettus"
+    },
+    {
+      "name": "The Associated Press",
+      "description": "Advancing the power of facts, globally ?",
+      "id": "51241574",
+      "username": "AP"
+    },
+    {
+      "name": "Jeff Amy",
+      "description": "Covering gov\u0027t, politics \u0026 education in Georgia for @AP. Can say Shuqualak like a Mississippian, Espejo like a Mobilian \u0026 Courtableau like a Cajun. jamy@ap.org",
+      "id": "18208227",
+      "username": "jeffamy"
+    },
+    {
+      "name": "U.S. Army ERDC",
+      "description": "Welcome to the official Twitter page for the U.S. Army Engineer Research and Development Center (ERDC). Engagement does not equal endorsement.",
+      "id": "2389274473",
+      "username": "ArmyERDC"
+    },
+    {
+      "name": "WH Black Initiative",
+      "description": "Official Account of the White House Initiative on Advancing Educational Equity, Excellence, \u0026 Economic Opportunity for Black Americans @usedgov\nRT ? endorsement",
+      "id": "1307544762",
+      "username": "AfAmEducation"
+    },
+    {
+      "name": "FEMA",
+      "description": "Our story of supporting citizens \u0026 first responders before, during, and after emergencies. For emergencies, call your local fire/EMS/police or 9-1-1.",
+      "id": "16669075",
+      "username": "fema"
+    },
+    {
+      "name": "Nat\u0027l Urban League",
+      "description": "The National Urban League is the nation\u0027s largest historic civil rights + urban advocacy org., devoted to empowering communities + changing lives since 1910.",
+      "id": "21308157",
+      "username": "NatUrbanLeague"
+    },
+    {
+      "name": "NWS Southern Region",
+      "description": "Official Twitter account for the National Weather Service Southern Region (https://t.co/P28XCoGs5x). Details: https://t.co/HBCiSeM5d3",
+      "id": "305256777",
+      "username": "NWSSouthern"
+    },
+    {
+      "name": "CBCPAC",
+      "description": "The Congressional Black Caucus PAC\u0027s mission is to increase the number of African Americans in Congress and to support candidates who champion our interests.",
+      "id": "204966625",
+      "username": "CBCPAC"
+    },
+    {
+      "name": "FEMA Region 4",
+      "description": "This channel provides FEMA mission-related information. For emergencies,\ncall your local fire/EMS/police or 9-1-1. Serving: AL, FL, GA, KY, MS, NC, SC, TN.",
+      "id": "18486881",
+      "username": "femaregion4"
+    },
+    {
+      "name": "Jake Tapper",
+      "description": "Dad; husband; anchor of @TheLeadCNN \u0026 @CNNSOTU; Author of @TheOutpostbook, @TheHellfireClub, and The @Devil_May_Dance; long-suffering Philly sports fan",
+      "id": "14529929",
+      "username": "jaketapper"
+    },
+    {
+      "name": "Mission Mississippi",
+      "description": "Mission Mississippi creates opportunities and gatherings to assist the Christian community in addressing racial issues in a Godly manner.",
+      "id": "92384287",
+      "username": "MissionMS"
+    },
+    {
+      "name": "Rep. Eddie Bernice Johnson",
+      "description": "Representing Texas’s 30th Congressional District. Chairwoman of @HouseScience. Dean of the Texas Delegation. First Registered Nurse elected to Congress.",
+      "id": "168502762",
+      "username": "RepEBJ"
+    },
+    {
+      "name": "Hillary Clinton",
+      "description": "2016 Democratic Nominee, SecState, Senator, hair icon. Mom, Wife, Grandma x3, lawyer, advocate, fan of walks in the woods \u0026 standing up for our democracy.",
+      "id": "1339835893",
+      "username": "HillaryClinton"
+    },
+    {
+      "name": "Rep. Steven Horsford",
+      "description": "Official Twitter account of Congressman Steven Horsford. Proudly representing the people of Nevada\u0027s Fourth Congressional District. #NV04",
+      "id": "389840566",
+      "username": "RepHorsford"
+    },
+    {
+      "name": "USA TODAY",
+      "description": "The pulse of the nation in the palm of your hand.",
+      "id": "15754281",
+      "username": "USATODAY"
+    },
+    {
+      "name": "TIME",
+      "description": "News and current events from around the globe. Subscribe: https://t.co/yT0dueLEm0",
+      "id": "14293310",
+      "username": "TIME"
+    },
+    {
+      "name": "CNNgo",
+      "description": "CNN at your fingertips. Watch what you want, when and where you want on @CNNgo.",
+      "id": "9245812",
+      "username": "CNNgo"
+    },
+    {
+      "name": "NBC Entertainment",
+      "description": "#1 Mariska Hargitay stan account. Watch your favorite shows on NBC and stream on @Peacock. Need help? Tweet @nbcsupport.",
+      "id": "26585095",
+      "username": "nbc"
+    },
+    {
+      "name": "NBC News",
+      "description": "News updates from around the ?, all day, every day.",
+      "id": "14173315",
+      "username": "NBCNews"
+    },
+    {
+      "name": "The New York Times",
+      "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+      "id": "807095",
+      "username": "nytimes"
+    },
+    {
+      "name": "CBS News",
+      "description": "Your source for original reporting and trusted news.\n\n? CBS | Streaming on the CBS News app | @ParamountPlus",
+      "id": "15012486",
+      "username": "CBSNews"
+    },
+    {
+      "name": "CNN",
+      "description": "It’s our job to #GoThere \u0026 tell the most difficult stories. For breaking news, follow @CNNBRK and download our app https://t.co/ceNBoNi8y6",
+      "id": "759251",
+      "username": "CNN"
+    },
+    {
+      "name": "MDOT",
+      "description": "The Official MDOT Twitter Page. For the most up-to-date roadway information in your area, download the MDOT Traffic app or visit https://t.co/jB8vdnujBB.",
+      "id": "236097605",
+      "username": "MississippiDOT"
+    },
+    {
+      "name": "Deborah Berry",
+      "description": "National correspondent for USA TODAY covering civil rights, voting rights, politics. Class of 23 Nieman Fellow, @UofMaryland grad, @washpressclub vp",
+      "id": "239974061",
+      "username": "dberrygannett"
+    },
+    {
+      "name": "60 Minutes",
+      "description": "The most successful news magazine in TV history, offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news.",
+      "id": "18812572",
+      "username": "60Minutes"
+    },
+    {
+      "name": "ABC News",
+      "description": "The only official ABC News Twitter account. Download our new mobile app: https://t.co/6WupJH6wUx",
+      "id": "28785486",
+      "username": "ABC"
+    },
+    {
+      "name": "Post Politics",
+      "description": "The latest political news and analysis from The Washington Post.",
+      "id": "14345062",
+      "username": "postpolitics"
+    },
+    {
+      "name": "CBS Evening News",
+      "description": "The official account of The CBS Evening News with @NorahODonnell, the longest-running evening newscast.\n\nText Norah: (202) 217-1107",
+      "id": "42958829",
+      "username": "CBSEveningNews"
+    },
+    {
+      "name": "The Atlantic",
+      "description": "Exploring the American idea through ambitious, essential reporting and storytelling. Of no party or clique since 1857. https://t.co/uHeZCz8ahz",
+      "id": "35773039",
+      "username": "TheAtlantic"
+    },
+    {
+      "name": "Gwen S. Moore",
+      "description": "Official Twitter of Gwen Moore for Congress Campaign. For more information, please visit https://t.co/xDKz0YKPSZ",
+      "id": "784965392",
+      "username": "Gwen4Congress"
+    },
+    {
+      "name": "Senate Democrats",
+      "description": "We are the Senate Democratic Majority. It is past time for a Senate that works for everyone.",
+      "id": "73238146",
+      "username": "SenateDems"
+    },
+    {
+      "name": "CBS Mornings",
+      "description": "Impactful journalism + exquisite storytelling. Watch @CBSMornings weekdays from 7-9 a.m. with @GayleKing, @TonyDokoupil and @NateBurleson on @CBS.",
+      "id": "17134268",
+      "username": "CBSMornings"
+    },
+    {
+      "name": "HuffPost Politics",
+      "description": "The latest political news from HuffPost\u0027s politics team.\n\nNeed help with HuffPost login or membership? Tweet @HuffPostSupport",
+      "id": "15458694",
+      "username": "HuffPostPol"
+    },
+    {
+      "name": "The Nation",
+      "description": "Founded by abolitionists in 1865. Committed to progressive journalism. Subscribe: https://t.co/iJh9hpMCwv. Mastodon: https://t.co/IX6f84oqU0",
+      "id": "1947301",
+      "username": "thenation"
+    },
+    {
+      "name": "The ReidOut",
+      "description": "#TheReidOut with @JoyAnnReid airs weeknights at 7 pm ET on @MSNBC. Watch top show clips at https://t.co/8fmfDP1V27. Read our #ReidOutBlog: https://t.co/sHiNubY7Bi. #reiders",
+      "id": "205864193",
+      "username": "thereidout"
+    },
+    {
+      "name": "Rep. Debbie Wasserman Schultz",
+      "description": "U.S. Congresswoman proudly representing the people of Florida\u0027s 23rd District in our nation\u0027s capital. Text me: 954-866-9444",
+      "id": "1140648348",
+      "username": "RepDWStweets"
+    },
+    {
+      "name": "Chaka Fattah",
+      "description": "Chairman, National Brain Council \u0026 President, Fattah Neuroscience Global Advisors - Congressional leader of effort that launched the BRAIN Initiative.",
+      "id": "48086014",
+      "username": "chakafattah"
+    },
+    {
+      "name": "Rep. David Scott",
+      "description": "Representing Georgia\u0027s 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+      "id": "168673083",
+      "username": "repdavidscott"
+    },
+    {
+      "name": "Rep. Joyce Beatty",
+      "description": "Serving Ohio’s 3rd District. Chair of @TheBlackCaucus. Chair of the @FSCDems Subcommittee on Diversity and Inclusion. Proud Ohioan.",
+      "id": "1531521632",
+      "username": "RepBeatty"
+    },
+    {
+      "name": "Rep. Frederica Wilson",
+      "description": "Lifelong educator serving Florida’s 24th District in Congress. Founder @5000rolemodels. Higher Ed Subcommittee Chair working to #CancelStudentDebt",
+      "id": "234014087",
+      "username": "RepWilson"
+    },
+    {
+      "name": "Ezra Klein",
+      "description": "Columnist, @NYTOpinion\nAuthor, \"Why We\u0027re Polarized\"\nHost of \"The Ezra Klein Show\" podcast",
+      "id": "18622869",
+      "username": "ezraklein"
+    },
+    {
+      "name": "Joy-Ann (Pro-Democracy) Reid ?",
+      "description": "\"You must be bold, brave, and courageous and find a way... to get in good trouble.\" -John Lewis #TheReidOut ?? #reiders. Likes are sometimes just bookmarks.",
+      "id": "49698134",
+      "username": "JoyAnnReid"
+    },
+    {
+      "name": "Chuck Todd",
+      "description": "Moderator of @meetthepress and @nbcnews political director; Covering politics since \u002792; And, yes, I tweet about sports too.",
+      "id": "50325797",
+      "username": "chucktodd"
+    },
+    {
+      "name": "Thomas Roberts",
+      "description": "National Emmy® Winning Anchor \u0026 Reporter, https://t.co/1amxX6YnyR https://t.co/mL9XdokvDN",
+      "id": "70771229",
+      "username": "ThomasARoberts"
+    },
+    {
+      "name": "This Week",
+      "description": "The official Twitter account of @ABC News\u0027 This Week, hosted by @GStephanopoulos.",
+      "id": "450941680",
+      "username": "ThisWeekABC"
+    },
+    {
+      "name": "Tim Farley",
+      "description": "Retired Host Morning Briefing POTUS (Sirius XM Radio - channel 124)",
+      "id": "16261445",
+      "username": "MorningBriefing"
+    },
+    {
+      "name": "rolandsmartin",
+      "description": "host, #RolandMartinUnfiltered daily digital show; ; CEO, Nu Vision Media, commentator, Black Information Network, international speaker",
+      "id": "16116288",
+      "username": "rolandsmartin"
+    },
+    {
+      "name": "American Urban Radio Networks",
+      "description": "AURN is the #1 Black-owned Nielsen rated national radio network and the only Black-owned broadcaster with a bureau in the White House press room.",
+      "id": "431233028",
+      "username": "AURNOnline"
+    },
+    {
+      "name": "Melissa Harris-Perry",
+      "description": "Writing words.Parenting girls. Wife-ing @JamesHPerry. Professing @WakeForest. Hosting @TheTakeaway. Farming the backyard. #SonicNerdland",
+      "id": "18587457",
+      "username": "MHarrisPerry"
+    },
+    {
+      "name": "Former Rep. Marcia L. Fudge",
+      "description": "Former Representative for Ohio’s Eleventh Congressional District.",
+      "id": "153486399",
+      "username": "RepMarciaFudge"
+    },
+    {
+      "name": "Donna Brazile",
+      "description": "Political Strategist. Former Chairwoman Democratic National Committee (DNC) and Adjunct Lecturer since 2002 at Georgetown University. Geaux LSU Tigers!!",
+      "id": "60919240",
+      "username": "donnabrazile"
+    },
+    {
+      "name": "Meet the Press",
+      "description": "Meet the Press is the longest-running television show in history. If it\u0027s Sunday, it\u0027s Meet the Press. #IfItsSunday #MTPNOW",
+      "id": "11856892",
+      "username": "MeetThePress"
+    },
+    {
+      "name": "John Lewis",
+      "description": "Congressman, Georgia\u0027s Fifth Congressional District",
+      "id": "29450962",
+      "username": "repjohnlewis"
+    },
+    {
+      "name": "Eleanor #DCStatehood Holmes Norton",
+      "description": "Member of Congress, representing the District of Columbia.",
+      "id": "23600262",
+      "username": "EleanorNorton"
+    },
+    {
+      "name": "Tamron Hall",
+      "description": "Your Best Friend. Author of “As the Wicked Watch” available now. Executive Producer/2 Time Emmy Winning Host @tamronhallshow",
+      "id": "21228708",
+      "username": "tamronhall"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "Rep Donna F Edwards",
+      "description": "Congresswoman representing Maryland\u0027s 4th Congressional District",
+      "id": "82649553",
+      "username": "repdonnaedwards"
+    },
+    {
+      "name": "NPR Politics",
+      "description": "The latest on politics, policy, government and more from NPR. Check out the NPR Politics Podcast https://t.co/O5GCES2xXK and subscribe to our newsletter https://t.co/UDmhoic4zX",
+      "id": "5741722",
+      "username": "nprpolitics"
+    },
+    {
+      "name": "Oversight Committee",
+      "description": "Chairwoman @RepMaloney | Committee on Oversight and Reform | RT and follows do not equal endorsements.",
+      "id": "31122582",
+      "username": "OversightDems"
+    },
+    {
+      "name": "Congressmember Bass",
+      "description": "Representing California\u0027s 37th District, which includes Los Angeles, South LA, \u0026 Culver City. https://t.co/m5lE3N5mBP",
+      "id": "239949176",
+      "username": "RepKarenBass"
+    },
+    {
+      "name": "Chris Hayes",
+      "description": "Dad to Ryan, David and Anya.\nProud husband of @kateashaw1\nHost: @allinwithchris on MSNBC, weeknights 8pm. \n#WITHPod Host\nBronx boy; Cubs fan\ngram: chrislhayes",
+      "id": "4207961",
+      "username": "chrislhayes"
+    },
+    {
+      "name": "HuffPost",
+      "description": "At HuffPost, we put people first. We believe that real life is news, and news is personal.",
+      "id": "14511951",
+      "username": "HuffPost"
+    },
+    {
+      "name": "POLITICO",
+      "description": "Nobody knows politics and policy like POLITICO. \nCongress nerds ? @politicongress \nAll 2022 race calls ? @politicoelex\nGot a news tip? ? https://t.co/JBzpu5pJz6",
+      "id": "9300262",
+      "username": "politico"
+    },
+    {
+      "name": "Keith Ellison",
+      "description": "Minnesota Attorney General | Fighting to help Minnesotans afford their lives and live with dignity",
+      "id": "14135426",
+      "username": "keithellison"
+    },
+    {
+      "name": "ThinkProgress",
+      "description": "Moving news forward since 2005.",
+      "id": "55355654",
+      "username": "thinkprogress"
+    },
+    {
+      "name": "TODAY",
+      "description": "Your day starts here. ??",
+      "id": "7744592",
+      "username": "TODAYshow"
+    },
+    {
+      "name": "Rep. Hank Johnson",
+      "description": "CBC Whip, Chairman of the Courts, IP \u0026 Internet Subcommittee, Senior Whip for 117th Congress; Champion for working people.",
+      "id": "24745957",
+      "username": "RepHankJohnson"
+    },
+    {
+      "name": "André Carson",
+      "description": "The official Twitter account for Congressman André Carson of Indiana\u0027s 7th District. #Indianapolis #Indy",
+      "id": "199325935",
+      "username": "RepAndreCarson"
+    },
+    {
+      "name": "Maxine Waters",
+      "description": "Proudly serving the people of California\u0027s 43rd District in Congress. Chairwoman of the House Financial Services Committee (@FSCDems).",
+      "id": "36686040",
+      "username": "RepMaxineWaters"
+    },
+    {
+      "name": ".",
+      "description": "",
+      "id": "263815367",
+      "username": "DelegateDonna"
+    },
+    {
+      "name": "The Washington Post",
+      "description": "Democracy Dies in Darkness",
+      "id": "2467791",
+      "username": "washingtonpost"
+    },
+    {
+      "name": "The Democrats",
+      "description": "We’re fighting for a better, fairer, and brighter future for every American.",
+      "id": "14377605",
+      "username": "TheDemocrats"
+    },
+    {
+      "name": "LeMiaJenkinsThompson",
+      "description": "Chief Public Affairs \u0026 Sustainability Officer @Pinterest, former @Fortune 1 @walmart, @HillaryClinton alum. Tweets are my own.",
+      "id": "30241453",
+      "username": "SpeaktoLeMia"
+    },
+    {
+      "name": "laurie love ?",
+      "description": "colorado native, florida resident, prolific tweeter / RTer, \u0026 photobomber. and ma to 2 of the world’s most phenomenal human beings.",
+      "id": "93973087",
+      "username": "RckyMntLuv"
+    },
+    {
+      "name": "Storm Team 12",
+      "description": "Focused on Severe Weather. Your source for Central Mississippi Weather from @WJTV 12. Follow us: @KenSouthWJTV, @jdaltonwx, @Briannamedina25 \u0026 @GracieDen_wx",
+      "id": "22183486",
+      "username": "StormTeam12"
+    },
+    {
+      "name": "CNN Breaking News",
+      "description": "Breaking news from CNN Digital. Now 64M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/8bf79vV51N",
+      "id": "428333",
+      "username": "cnnbrk"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "16 WAPT News",
+      "description": "Jackson News, Weather, and Sports. 16 WAPT News is The One to Watch.",
+      "id": "26289655",
+      "username": "16WAPTNews"
+    },
+    {
+      "name": "Melissa Faith Payne",
+      "description": "Anchor/Reporter Fox40 News. I\u0027m also a mom, and an all around awesomely cool person! Let\u0027s share info: you tell me first.. and I\u0027ll tell everyone else!",
+      "id": "63693831",
+      "username": "MelissaFPayne"
+    },
+    {
+      "name": "Archive - Attorney General Becerra",
+      "description": "This is an archive of tweets from fmr California Attorney General Xavier Becerra. For new updates from the California Department of Justice, follow @AGRobBonta.",
+      "id": "133832049",
+      "username": "AGBecerra"
+    },
+    {
+      "name": "Kayleigh McEnany 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818927131883356161",
+      "username": "PressSec45"
+    },
+    {
+      "name": "Clarion Ledger",
+      "description": "Part of the USA TODAY Network. Got a news tip? Send an e-mail to online@jackson.gannett.com.",
+      "id": "13877002",
+      "username": "clarionledger"
+    },
+    {
+      "name": "WJTV 12 News",
+      "description": "We\u0027re Mississippi\u0027s Original News Team! Join us on-air and online for local news, weather, and sports from our studio in Central Mississippi.",
+      "id": "17976030",
+      "username": "WJTV"
+    },
+    {
+      "name": "The Natchez Democrat",
+      "description": "Mississippi\u0027s Best Community Daily Newspaper\r\nhttp://t.co/N5FIewufWu",
+      "id": "18462118",
+      "username": "natchezdemocrat"
+    },
+    {
+      "name": "WLBT 3 On Your Side",
+      "description": "A leading source of local news and information for over 60 years. Have a story idea? Breaking news tip? Call our newsroom at (601) 960-4426",
+      "id": "16081037",
+      "username": "WLBT"
+    },
+    {
+      "name": "Rep. Emanuel Cleaver",
+      "description": "This is the official Twitter page of Congressman Emanuel Cleaver, II, representing Missouri\u0027s Fifth District.",
+      "id": "163570705",
+      "username": "repcleaver"
+    },
+    {
+      "name": "G. K. Butterfield",
+      "description": "U.S. Representative, proudly serving North Carolina\u0027s 1st Congressional District. Follow my work in Washington and #NC01.",
+      "id": "432676344",
+      "username": "GKButterfield"
+    },
+    {
+      "name": "Steven Horsford",
+      "description": "Personal account for Congressman Steven Horsford of Nevada\u0027s Fourth Congressional District | #Nevada Native #BuildBackBetter",
+      "id": "246478393",
+      "username": "StevenHorsford"
+    },
+    {
+      "name": "The Black Caucus",
+      "description": "The conscience of the Congress since 1971??. Advocating for issues important to Black Americans. #CBC50 #OurPowerOurMessage",
+      "id": "233783568",
+      "username": "TheBlackCaucus"
+    },
+    {
+      "name": "Rachel Maddow MSNBC",
+      "description": "I see political people...\r\n(Retweets do not imply endorsement.)",
+      "id": "16129920",
+      "username": "maddow"
+    },
+    {
+      "name": "Chris Jansing",
+      "description": "@MSNBC journalist \"Chris Jansing Reports\" weekdays at 1 \u0026 Sr National Correspondent - Big @browns fan, home baker, mildly obsessed with Caravaggio and good food",
+      "id": "238259855",
+      "username": "ChrisJansing"
+    },
+    {
+      "name": "Andrea Mitchell",
+      "description": "NBC News Chief Washington Correspondent and Chief Foreign Affairs Correspondent/Anchor, Andrea Mitchell Reports, weekdays at 12pm ET on @MSNBC.",
+      "id": "89820928",
+      "username": "mitchellreports"
+    },
+    {
+      "name": "Maddow Blog",
+      "description": "Rachel Maddow and her staff have a blog. This is its voice on Twitter.",
+      "id": "91180720",
+      "username": "MaddowBlog"
+    },
+    {
+      "name": "All In with Chris Hayes",
+      "description": "@chrislhayes hosts the Emmy Award-winning “All In” weeknights at 8 p.m. ET on @MSNBC. Follow the conversation along with other #inners.",
+      "id": "1286312880",
+      "username": "allinwithchris"
+    },
+    {
+      "name": "Lawrence O\u0027Donnell",
+      "description": "",
+      "id": "158426909",
+      "username": "Lawrence"
+    },
+    {
+      "name": "The Last Word",
+      "description": "Official Twitter account for @MSNBC\u0027s The #LastWord with @Lawrence O\u0027Donnell. Join us: https://t.co/FAgrljLzFt",
+      "id": "182503471",
+      "username": "TheLastWord"
+    },
+    {
+      "name": "Chris Matthews",
+      "description": "Author, 20-Year Hardball anchor; Professor of American Politics and Media, Fulbright University Vietnam",
+      "id": "48802204",
+      "username": "HardballChris"
+    },
+    {
+      "name": "Morning Joe",
+      "description": "Live tweet during the show! Links to must-read op-eds and other features. Feed managed by MJ staff. Retweets not necessarily endorsements.",
+      "id": "254117355",
+      "username": "Morning_Joe"
+    },
+    {
+      "name": "PoliticsNation",
+      "description": "The official Twitter account for @msnbc\u0027s PoliticsNation with @TheRevAl -- You can have your own opinions, but you can\u0027t have your own facts.",
+      "id": "364423298",
+      "username": "PoliticsNation"
+    },
+    {
+      "name": "Dateline NBC",
+      "description": "Real-life mysteries. Investigative reporting. Justice. Fri 9/8c. Note: if you send us a tweet, you consent to allow us to use it in all media.",
+      "id": "11856932",
+      "username": "DatelineNBC"
+    },
+    {
+      "name": "MSNBC",
+      "description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+      "id": "2836421",
+      "username": "MSNBC"
+    },
+    {
+      "name": "U.S. House Updates",
+      "description": "A @GovTop Project. #US #HouseofRepresentatives updates. Also: @USHouseNews, @SenateFloor, @SenateNews, @USSupremeCourt, @GovTop",
+      "id": "7402662",
+      "username": "HouseFloor"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "description": "Brooklyn \u0026 Queens Congressman. Chair @HouseDemocrats. Speak truth. Do the work. Change America.",
+      "id": "467823431",
+      "username": "RepJeffries"
+    },
+    {
+      "name": "Anderson Cooper",
+      "description": "CNN/ 60Minutes. Podcast “All There Is.” Link below",
+      "id": "15224867",
+      "username": "andersoncooper"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what\u0027s happening in Washington, breaking news and retweets of our reporters.",
+      "id": "1917731",
+      "username": "thehill"
+    },
+    {
+      "name": "Roll Call Politics",
+      "description": "The original leader in Congressional campaign political coverage. More from @RollCall\u0027s @EricMGarcia, @SFPathe, @Alex_Roarty and @EYokley.",
+      "id": "15918708",
+      "username": "rollcallpols"
+    },
+    {
+      "name": "George Stephanopoulos",
+      "description": "@GMA Anchor                       @ThisWeekABC Anchor",
+      "id": "17074440",
+      "username": "GStephanopoulos"
+    },
+    {
+      "name": "Justice Department",
+      "description": "Official DOJ Twitter account. Please refer to DOJ’s privacy policy for DOJ use of third-party websites here: https://t.co/I4fby253pJ",
+      "id": "73181712",
+      "username": "TheJusticeDept"
+    },
+    {
+      "name": "JESS WE CAN, ESQ.",
+      "description": "CONGRESSIONAL POLICY DIRECTOR•Former MIAMI PROSECUTOR• PROFESSOR• REAL ESTATE DABBLER• LINK• DST• HOWARD GRAD•",
+      "id": "140886725",
+      "username": "Jsinkfield"
+    },
+    {
+      "name": "Britt_Lashelle",
+      "description": "Hello there! I’m Brittany, I’m a counselor and lifestyle blogger living in the South. I started my blog as a way to share my tips, thoughts \u0026 suggestions.",
+      "id": "333198596",
+      "username": "Britt_Lashelle1"
+    },
+    {
+      "name": "Napturistic Diva",
+      "description": "Fun-loving, caring, compassionate Diva who is ALWAYS on the grind!",
+      "id": "111641144",
+      "username": "ReenaGyrl"
+    },
+    {
+      "name": "carla",
+      "description": "",
+      "id": "87035353",
+      "username": "MsRagingFire"
+    },
+    {
+      "name": "Grand Maester Petty",
+      "description": "MS Native. Teacher, Cook, Writer, History Geek and Political Junkie..\n\nThousands of candles can be lighted from a single candle..",
+      "id": "293746240",
+      "username": "TehutiKRST"
+    },
+    {
+      "name": "Phil Griffin",
+      "description": "",
+      "id": "164800885",
+      "username": "PhilAGriffin"
+    },
+    {
+      "name": "I am Xiomara.",
+      "description": "Healer. Prophetess. Alchemist. Poet. Thinker.- off-key sangin, cake flour slangin, no-freestylin, god!",
+      "id": "127957604",
+      "username": "Tapped_In7"
+    },
+    {
+      "name": "Voting Works",
+      "description": "Firm founded by @HansGoff to increase voter turnout \u0026 educate voters on the electoral process. Worked w Questlove, Mayor Cory Booker, etc.",
+      "id": "190478706",
+      "username": "VotingWorks"
+    },
+    {
+      "name": "Samantha C Newman",
+      "description": "Native Mississippian enjoying the view",
+      "id": "33674191",
+      "username": "spc40"
+    },
+    {
+      "name": "Mindfulofdebris",
+      "description": "Southern, Progressive, Married, Stubborn.\nThoughts expressed here are mine alone and reflect no one but me.",
+      "id": "25568732",
+      "username": "mindfulofdebris"
+    },
+    {
+      "name": "MS Capital Area Bar",
+      "description": "Twitter account for the Capital Area Bar Association in Jackson, Mississippi (https://t.co/X3Pbj0nsng). Tweets/retweets are not CABA endorsements.",
+      "id": "590266697",
+      "username": "CABALaw"
+    },
+    {
+      "name": "Cong. Steven Palazzo",
+      "description": "I proudly represent the Fourth Congressional District of Mississippi. For more information on my work in Congress please visit https://t.co/0eEsTlcG0r.",
+      "id": "299883942",
+      "username": "CongPalazzo"
+    },
+    {
+      "name": "NAACP MobileAL #5044",
+      "description": "419 Lexington Avenue Moibile, AL #5044 Phone # 251-725-0779",
+      "id": "705416178",
+      "username": "NAACPMobileAL"
+    },
+    {
+      "name": "Uduak-Joe Ntuk",
+      "description": "Husband, Father, Engineer, Youth Mentor, Soccer Coach, \u0026 Professor",
+      "id": "543677898",
+      "username": "UduakJoeNtuk"
+    },
+    {
+      "name": "Jackie Speier",
+      "description": "Fighter for women’s equality, our troops, LGBTQ+ rights \u0026 the underrepresented. Proud mom of 2 kids \u0026 2 pups, wife, \u0026 Rep of CA-14 biotech \u0026 social media hub.",
+      "id": "24913074",
+      "username": "RepSpeier"
+    },
+    {
+      "name": "BikeWalkMississippi",
+      "description": "Mississippi\u0027s source for bicycle/pedestrian advocacy. Fight obesity, improve infrastructure, build a better community. Take a step. Support a revolution.",
+      "id": "96361852",
+      "username": "BikeWalkMS"
+    },
+    {
+      "name": "Mississippi Center for Public Policy",
+      "description": "Mississippi’s free market think tank  https://t.co/M6oyulIxd5",
+      "id": "54564804",
+      "username": "mspolicy"
+    },
+    {
+      "name": "Wisdom Martin",
+      "description": "FOX 5 Morning News anchor @fox5dc.4am-6am Mon-Fri \u0026 gooddaydc 9-11am. Click here to watch live: https://t.co/ul4kjIR6pt",
+      "id": "194375797",
+      "username": "WisdomFOX5"
+    },
+    {
+      "name": "Sheila Jackson Lee",
+      "description": "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas\u0027 18th Congressional District in the U.S. House of Representatives.",
+      "id": "80612021",
+      "username": "JacksonLeeTX18"
+    },
+    {
+      "name": "Sec. Anthony Foxx",
+      "description": "17th Secretary of @USDOT from 2013-2017. This account is archived and no longer updated.",
+      "id": "43920155",
+      "username": "SecretaryFoxx"
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "description": "Representing New York’s 9th Congressional District. Brooklyn bred.",
+      "id": "240812994",
+      "username": "RepYvetteClarke"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "The world’s largest business organization. We advocate, connect, inform, and fight for business growth and America’s success.",
+      "id": "85606078",
+      "username": "USChamber"
+    },
+    {
+      "name": "Rep. Nadler",
+      "description": "Representing parts of Manhattan and Brooklyn. Proud to serve as the Chair of @HouseJudiciary. Follow me at https://t.co/eAS0pRYbYu",
+      "id": "40302336",
+      "username": "RepJerryNadler"
+    },
+    {
+      "name": "Errick D. Simmons",
+      "description": "Attorney. Father. Husband. Son. Brother. Frat. Friend. Businessman. Public Servant.",
+      "id": "496347554",
+      "username": "ErrickDSimmons"
+    },
+    {
+      "name": "Fox 40 News",
+      "description": "WDBD Fox40 in Jackson, Mississippi brings you the best news, weather and sports during our 7am-9am, 5:30pm and 9pm news. Plus, visit https://t.co/8AcXMHtUUb",
+      "id": "27711599",
+      "username": "Fox40News"
+    },
+    {
+      "name": "Rep Cedric Richmond",
+      "description": "Official Twitter Account for Congressman Richmond (LA-02). House Democratic Assistant to the Majority Whip. My Instagram: https://t.co/lkfRG1j56a",
+      "id": "267854863",
+      "username": "RepRichmond"
+    },
+    {
+      "name": "CBCF Inc.",
+      "description": "CBCF is a nonprofit nonpartisan public policy, research and educational institute that seeks to advance the global Black community. #CBCF",
+      "id": "54244175",
+      "username": "CBCFInc"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "Sanford Bishop, Jr.",
+      "description": "Proudly representing Georgia\u0027s 2nd Congressional District. Chairman of House Appropriations Subcommittee on Agriculture  https://t.co/gQh6pvYihy",
+      "id": "249410485",
+      "username": "SanfordBishop"
+    },
+    {
+      "name": "James E. Clyburn",
+      "description": "Majority Whip in the U.S. House of Representatives; Representing South Carolina\u0027s 6th Congressional District.",
+      "id": "188019606",
+      "username": "WhipClyburn"
+    },
+    {
+      "name": "Sen. Derrick T. Simmons",
+      "description": "Mississippi Senate Minority Leader • Chair, Senate Municipalities Cmte • District 12 Senator in the MS Delta • Trial Attorney • Small Business Owner",
+      "id": "303266005",
+      "username": "SenDTSimmons"
+    },
+    {
+      "name": "Congressman Al Green",
+      "description": "Proud to represent TX-09 in the U.S. House of Representatives \n• https://t.co/Lcfa10jIfH • https://t.co/MXGp8OLtZm \n#First58 #Historic66 #Noble95",
+      "id": "156333623",
+      "username": "RepAlGreen"
+    },
+    {
+      "name": "Rep. Barbara Lee",
+      "description": "Progressive Democrat representing the #EastBay. Promoting justice for all, peace, \u0026 human rights. @ProChoiceCaucus Co-Chair.",
+      "id": "248735463",
+      "username": "RepBarbaraLee"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Lauren Burke",
+      "description": "wartime consigliere | @BlackPressUSA @Guardian | @IRE_NICAR | alum @ABC @USAToday @SenateDems #NABJ",
+      "id": "67194113",
+      "username": "LVBurke"
+    },
+    {
+      "name": "Congressional Black Caucus Institute",
+      "description": "The Congressional Black Caucus Institute is a non-profit, non-partisan organization offering voter education and campaign training programs.",
+      "id": "278582590",
+      "username": "CBCInstitute"
+    },
+    {
+      "name": "2020 #DemConvention ??",
+      "description": "Thanks for being part of the 2020 #DemConvention ?? Now let\u0027s send @JoeBiden and @KamalaHarris to the White House.",
+      "id": "8370082",
+      "username": "DemConvention"
+    },
+    {
+      "name": "John Conyers, Jr.",
+      "description": "Former Congressman for Michigan\u0027s 13th District. | Korean War Vet | #JobsJusticePeace ??. | Proud father of @CONYERSTHREE \u0026 @CarlConyers | RTs ? Endorsements",
+      "id": "138770045",
+      "username": "RepJohnConyers"
+    },
+    {
+      "name": "Rep. Bobby Scott",
+      "description": "Proudly representing Virginia\u0027s 3rd Congressional District. Chairman, Committee on Education and Labor @EdLaborCmte.",
+      "id": "161791703",
+      "username": "BobbyScott"
+    },
+    {
+      "name": "Steny Hoyer",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland\u0027s Fifth Congressional District.",
+      "id": "22012091",
+      "username": "LeaderHoyer"
+    },
+    {
+      "name": "DCCC",
+      "description": "DCCC • Committed to electing Democrats to the U.S. House of Representatives",
+      "id": "14676022",
+      "username": "dccc"
+    },
+    {
+      "name": "Marshall Ramsey",
+      "description": "Editor-At-Large @MSTODAYnews. Radio and TV host @MPBonline. Author of Banjo\u0027s Dream and Drawing the Line. Speaker. Pulitzer Finalist (2), SE Emmy winner.",
+      "id": "17172508",
+      "username": "MarshallRamsey"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "Cotton Mouth",
+      "description": "Come check us out at http://t.co/FbJiAtBRj4.",
+      "id": "128705601",
+      "username": "cottonmouthMS"
+    },
+    {
+      "name": "House Homeland Security Committee",
+      "description": "We oversee @DHSgov, @CBP, @USCG, @TSA, @FEMA, @CISAgov and more. Chairman @BennieGThompson (D-MS).",
+      "id": "208692908",
+      "username": "HomelandDems"
+    },
+    {
+      "name": "Barack Obama",
+      "description": "Dad, husband, President, citizen.",
+      "id": "813286",
+      "username": "BarackObama"
+    },
+    {
+      "name": "All On The Line MS",
+      "description": "All On The Line is the grassroots movement to end gerrymandering and restore fairness to our elections and democracy ahead of 2021 redistricting. Formerly OFA.",
+      "id": "76691987",
+      "username": "allontheline_ms"
+    },
+    {
+      "name": "Karis Gutter",
+      "description": "",
+      "id": "46575347",
+      "username": "KarisGutter"
+    },
+    {
+      "name": "I. Lanier Avant",
+      "description": "...just a small town kinda guy daytripping in DC",
+      "id": "42310740",
+      "username": "Jsuboomer"
+    }
+  ],
+  "id": "82453460",
+  "username": "BennieGThompson"
+}

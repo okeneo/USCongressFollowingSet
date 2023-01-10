@@ -1,0 +1,3546 @@
+{
+  "following": [
+    {
+      "name": "Ari Hawkins",
+      "description": "Now reporting for @POLITICO. @Business + @AsharqNews alum - NYU Abu Dhabi 2022 Contact: ahawkins@politico.com ????",
+      "id": "1083468618313150464",
+      "username": "_AriHawkins"
+    },
+    {
+      "name": "Rep. Mike Flood",
+      "description": "Serving Nebraska\u0027s 1st District in the U.S House of Representatives",
+      "id": "1547025742529167360",
+      "username": "USRepMikeFlood"
+    },
+    {
+      "name": "Congresswoman Mayra Flores",
+      "description": "Proudly representing Texas\u0027s 34th District in the US House of Representatives",
+      "id": "1538990997769707523",
+      "username": "repmayraflores"
+    },
+    {
+      "name": "Suzanne Clark",
+      "description": "President and CEO @USChamber, relentless believer in the power of business to change lives, former CEO \u0026 mom to aspiring entrepreneur teen daughter.",
+      "id": "1024716185064153088",
+      "username": "SuzanneUSCC"
+    },
+    {
+      "name": "Candice Bergen",
+      "description": "Member of Parliament for Portage—Lisgar. Former Leader of the Conservative Party of Canada. Keep up to date on Facebook \u0026 Instagram @candicebergenmp",
+      "id": "833988769",
+      "username": "CandiceBergenMP"
+    },
+    {
+      "name": "ClearPath Action",
+      "description": "Our mission is to develop and advance policies that accelerate breakthrough innovations that reduce emissions in the energy and industrial sectors.",
+      "id": "4925210807",
+      "username": "ClearPathAction"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "Rep. Don Young",
+      "description": "Army veteran, 5th grade teacher, Mayor, State Representative, State Senator, Congressman for ALL Alaska for the last 49 years, and Dean of the U.S. House.",
+      "id": "37007274",
+      "username": "repdonyoung"
+    },
+    {
+      "name": "Rep. Steve Womack",
+      "description": "Proud to serve the folks of Arkansas\u0027s 3rd District. Member of @HouseAppropsGOP.",
+      "id": "234469322",
+      "username": "rep_stevewomack"
+    },
+    {
+      "name": "Rep. Rob Wittman",
+      "description": "Honored to represent VA01; proud husband, father, grandfather, and conservative; avid outdoorsman; Ranking Member of Seapower \u0026 Projection Forces Subcommittee",
+      "id": "15356407",
+      "username": "RobWittman"
+    },
+    {
+      "name": "Joe Wilson",
+      "description": "Official Twitter account of U.S. Representative Joe Wilson serving #SC02.",
+      "id": "254082173",
+      "username": "RepJoeWilson"
+    },
+    {
+      "name": "Rep. Roger Williams",
+      "description": "Conservative fighting for lower taxes, less regulations and more freedom for Texans. Honored to serve TX-25. Member of @FinancialCmte and @HSBCgop",
+      "id": "1077446982",
+      "username": "RepRWilliams"
+    },
+    {
+      "name": "Daniel Webster",
+      "description": "A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.",
+      "id": "281540744",
+      "username": "RepWebster"
+    },
+    {
+      "name": "Randy Weber",
+      "description": "Representative for the 14th Congressional District of Texas | Parler: @reprandyweber | Facebook: TXRandy14 ?????",
+      "id": "1058051748",
+      "username": "TXRandy14"
+    },
+    {
+      "name": "Congressman Waltz Press",
+      "description": "Official account of Congressman Mike Waltz’s press shop",
+      "id": "1082416697380913152",
+      "username": "RepWaltzPress"
+    },
+    {
+      "name": "Rep. Tim Walberg",
+      "description": "Husband, father, grandfather, and representative of Michigan’s 7th District. Member of @HouseCommerce and @EdLaborGOP.",
+      "id": "237862972",
+      "username": "RepWalberg"
+    },
+    {
+      "name": "Ann Wagner",
+      "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+      "id": "1051446626",
+      "username": "RepAnnWagner"
+    },
+    {
+      "name": "Congresswoman Beth Van Duyne",
+      "description": "Single mother. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",
+      "id": "1339633259349745670",
+      "username": "RepBethVanDuyne"
+    },
+    {
+      "name": "Congressman Jeff Van Drew",
+      "description": "Proudly serving New Jersey\u0027s Second Congressional District. Member of @HomelandGOP \u0026 @TransportGOP",
+      "id": "1468677099594698757",
+      "username": "Congressman_JVD"
+    },
+    {
+      "name": "Rep. Fred Upton",
+      "description": "Call me Fred. Husband, Dad, Grandpa, and proud to represent Southwest Michigan. #MI06",
+      "id": "124224165",
+      "username": "RepFredUpton"
+    },
+    {
+      "name": "Rep. Tom Tiffany",
+      "description": "Official account of Congressman Tom Tiffany | 7th District of Wisconsin #WI07 Father, Former Dam Tender | @JudiciaryGOP and @NatResources",
+      "id": "1267841066335682562",
+      "username": "RepTiffany"
+    },
+    {
+      "name": "Rep. Claudia Tenney",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP \u0026 @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit https://t.co/dwIltL8lOk.",
+      "id": "797201048490430465",
+      "username": "RepTenney"
+    },
+    {
+      "name": "Rep Van Taylor",
+      "description": "Proudly Serving the Third Congressional District of Texas.",
+      "id": "1075040139351597056",
+      "username": "RepVanTaylor"
+    },
+    {
+      "name": "Rep. Chris Stewart",
+      "description": "Utah\u0027s 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence \u0026 Appropriations Committees. \n\nhttps://t.co/GUW6weAva6",
+      "id": "1072008757",
+      "username": "RepChrisStewart"
+    },
+    {
+      "name": "Congressman Greg Steube",
+      "description": "Husband, father, veteran, proudly serving Florida’s 17th District on @JudiciaryGOP and @HouseForeignGOP ?? ? ? ?",
+      "id": "1083125649609506816",
+      "username": "RepGregSteube"
+    },
+    {
+      "name": "Rep. Michelle Steel",
+      "description": "Korean-American wife, mother \u0026 tax fighter serving #CA48 in Congress. @TransportGOP \u0026 @EdLaborGOP. Living the American dream. ??",
+      "id": "1343740146630451200",
+      "username": "RepSteel"
+    },
+    {
+      "name": "Pete Stauber",
+      "description": "Proud to represent Minnesota\u0027s 8th Congressional District.",
+      "id": "1075830599007510535",
+      "username": "RepPeteStauber"
+    },
+    {
+      "name": "Rep. Victoria Spartz",
+      "description": "Representing Indiana’s 5th Congressional District",
+      "id": "1344845201479663621",
+      "username": "RepSpartz"
+    },
+    {
+      "name": "Cong. Mike Simpson",
+      "description": "Proudly representing Idaho\u0027s 2nd Congressional District",
+      "id": "76132891",
+      "username": "CongMikeSimpson"
+    },
+    {
+      "name": "Pete Sessions",
+      "description": "Proudly Representing the 17th Congressional District of Texas.",
+      "id": "24735461",
+      "username": "PeteSessions"
+    },
+    {
+      "name": "Rep. María Elvira Salazar",
+      "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP \u0026 @HSBCgop | #FL27?????",
+      "id": "1325928411689349120",
+      "username": "RepMariaSalazar"
+    },
+    {
+      "name": "Rep. John Rutherford",
+      "description": "Proudly serving NE FL District 4.  Former Sheriff focused on keeping communities safe \u0026 protecting your rights. @HouseAppropsGOP \u0026 House Ethics Committee",
+      "id": "828977216595849216",
+      "username": "RepRutherfordFL"
+    },
+    {
+      "name": "Rep. Chip Roy Press Office",
+      "description": "This is a staff account to provide updates to our constituents in Texas\u0027 21st District.",
+      "id": "1082790600292925440",
+      "username": "RepChipRoy"
+    },
+    {
+      "name": "David Rouzer",
+      "description": "Congressman from North Carolina\u0027s 7th Congressional district",
+      "id": "834069080",
+      "username": "RepDavidRouzer"
+    },
+    {
+      "name": "Matt Rosendale",
+      "description": "Representing the State of Montana. Husband, Father, Sportsman.",
+      "id": "1344751420139040783",
+      "username": "RepRosendale"
+    },
+    {
+      "name": "John Rose",
+      "description": "U.S. Representative serving Tennessee’s Sixth Congressional District. Proud husband to Chelsea and father to Guy and Sam. House @FinancialCmte Member.",
+      "id": "1081312310059253763",
+      "username": "RepJohnRose"
+    },
+    {
+      "name": "Hal Rogers",
+      "description": "Representing the people of Southern and Eastern Kentucky.",
+      "id": "550401754",
+      "username": "RepHalRogers"
+    },
+    {
+      "name": "Rep. Guy Reschenthaler",
+      "description": "Proudly representing the people of Pennsylvania’s 14th District in the U.S. House of Representatives ??",
+      "id": "4205133682",
+      "username": "GReschenthaler"
+    },
+    {
+      "name": "Rep. Aumua Amata??",
+      "description": "Congresswoman proudly representing American Samoa. Serving on the @NatResources and @HouseVetAffairs",
+      "id": "3026622545",
+      "username": "RepAmata"
+    },
+    {
+      "name": "Bill Posey",
+      "description": "Congressman from Florida\u0027s 8th district, representing the Space and Treasure Coasts",
+      "id": "25086658",
+      "username": "congbillposey"
+    },
+    {
+      "name": "Rep. August Pfluger",
+      "description": "US Air Force Colonel (Res.), F-22 Fighter Pilot, Husband, Father, and Congressman for the 11th District of Texas.",
+      "id": "1341120751399809026",
+      "username": "RepPfluger"
+    },
+    {
+      "name": "RepScottPerry",
+      "description": "Husband, Father of two young daughters, Small Businessman and Soldier. Congressman - 10th District (PA).",
+      "id": "18773159",
+      "username": "RepScottPerry"
+    },
+    {
+      "name": "Rep. Greg Pence",
+      "description": "Official twitter account of Congressman Greg Pence, representing #IN06. Proudly advocating for conservative Hoosier values as a member of @HouseCommerce.",
+      "id": "1082369392229400576",
+      "username": "RepGregPence"
+    },
+    {
+      "name": "Cong. Steven Palazzo",
+      "description": "I proudly represent the Fourth Congressional District of Mississippi. For more information on my work in Congress please visit https://t.co/0eEsTlcG0r.",
+      "id": "299883942",
+      "username": "CongPalazzo"
+    },
+    {
+      "name": "Rep. Burgess Owens",
+      "description": "Proudly serving Utah\u0027s 4th Congressional District. Member of @EdLaborGOP \u0026 @JudiciaryGOP.",
+      "id": "1344481217685692416",
+      "username": "RepBurgessOwens"
+    },
+    {
+      "name": "Rep. Jay Obernolte",
+      "description": "Proudly representing California\u0027s 8th Congressional District. Small businessman, former mayor and state assembly member. Learn more at https://t.co/wHVuW5HuCQ.",
+      "id": "272482466",
+      "username": "JayObernolte"
+    },
+    {
+      "name": "Rep. Ralph Norman",
+      "description": "Proudly serving the 5th congressional district of South Carolina ? - Chairman @House_COS",
+      "id": "880480631108644864",
+      "username": "RepRalphNorman"
+    },
+    {
+      "name": "Rep. Dan Newhouse",
+      "description": "Proud to represent Washington\u0027s 4th District in the U.S. Congress",
+      "id": "2930635215",
+      "username": "RepNewhouse"
+    },
+    {
+      "name": "Congressman Troy Nehls",
+      "description": "Proudly serving the people of Texas\u0027 22nd Congressional District in the United States House of Representatives. @freedomcaucus",
+      "id": "1347318288850825217",
+      "username": "RepTroyNehls"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "description": "Father of six. Small business owner. Honored to represent Oklahoma’s conservative values in Congress.",
+      "id": "1060370282",
+      "username": "RepMullin"
+    },
+    {
+      "name": "Congressman Blake Moore",
+      "description": "Serving Utah’s First District in Congress, coaching little league, and riding around the Capitol on a scooter. ?",
+      "id": "1337452596093587462",
+      "username": "RepBlakeMoore"
+    },
+    {
+      "name": "Rep. Barry Moore",
+      "description": "U.S. Representative for #AL02 Do justly. Love mercy. Walk humbly. Micah 6:8",
+      "id": "1339006078688825344",
+      "username": "RepBarryMoore"
+    },
+    {
+      "name": "Rep. Alex Mooney",
+      "description": "Husband, Father, Conservative Representing West Virginia\u0027s 2nd Congressional District. #wv02 #wvpol Member of @financialcmte",
+      "id": "2964526557",
+      "username": "RepAlexMooney"
+    },
+    {
+      "name": "Rep. John Moolenaar",
+      "description": "Representing Michigan\u0027s Fourth Congressional District. This is the Twitter page of the official House office.",
+      "id": "2696643955",
+      "username": "RepMoolenaar"
+    },
+    {
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa\u0027s Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "id": "1345807954604412929",
+      "username": "RepMMM"
+    },
+    {
+      "name": "Rep. Mary Miller",
+      "description": "Official account for Congresswoman Mary Miller. Proudly serving the 15th District of Illinois. @HouseAgGOP, @EdLaborGOP \u0026 @FreedomCaucus",
+      "id": "1343656635907125250",
+      "username": "RepMaryMiller"
+    },
+    {
+      "name": "Congressman Dan Meuser",
+      "description": "Proudly serving the hardworking taxpayers of Pennsylvania\u0027s 9th Congressional District.",
+      "id": "1080574793630527505",
+      "username": "RepMeuser"
+    },
+    {
+      "name": "Rep. Peter Meijer",
+      "description": "Former Afghanistan aid worker, Iraq Veteran, and subsidiarity proponent proudly representing West Michigan #MI03 in Congress. https://t.co/dOUskSS89O",
+      "id": "1334164871420796928",
+      "username": "RepMeijer"
+    },
+    {
+      "name": "David B. McKinley",
+      "description": "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account",
+      "id": "240427862",
+      "username": "RepMcKinley"
+    },
+    {
+      "name": "Tom McClintock",
+      "description": "Honored to serve the people of California’s 4th Congressional District.\nMember of @JudiciaryGOP @NatResources \u0026 @housebudgetGOP",
+      "id": "50152441",
+      "username": "RepMcClintock"
+    },
+    {
+      "name": "Representative Lisa McClain",
+      "description": "Lifelong Michigander proudly representing MI10. Member of @HASCRepublicans \u0026 @EdLaborGOP. Bringing real world business experience and commonsense to Washington.",
+      "id": "1344032292432437248",
+      "username": "RepLisaMcClain"
+    },
+    {
+      "name": "Rep. Brian Mast",
+      "description": "I love my wife, 4 rowdy kids and dog, America and my community. I would give my life for them all without regret. God bless, and thank you for letting me serve.",
+      "id": "814103950404239360",
+      "username": "RepBrianMast"
+    },
+    {
+      "name": "Thomas Massie",
+      "description": "U.S. Representative for KY4, co-Chair 2A Caucus, greenest member of congress, MIT 93 BS EE, MIT 96 Master of Science #sassywithmassie #politicalsciencedenier",
+      "id": "975200486",
+      "username": "RepThomasMassie"
+    },
+    {
+      "name": "Tracey Mann",
+      "description": "Official account for Rep. Tracey Mann |Big First, KS | Advocate for KS agriculture and conservative values | serving on @HouseAgGOP and @HouseVetAffairs #KS01",
+      "id": "1345825008887721986",
+      "username": "RepMann"
+    },
+    {
+      "name": "Office of Rep. Nicole Malliotakis",
+      "description": "Congresswoman for #NY11, former NY State Assemblymember, proud daughter of Greek \u0026 Cuban immigrants | Member of @HouseForeignGOP @TransportGOP \u0026 @SelectGOP",
+      "id": "1344750588026900481",
+      "username": "RepMalliotakis"
+    },
+    {
+      "name": "Rep. Nancy Mace",
+      "description": "@WaffleHouse to #Citadel to US House. Working hard serving the Lowcountry. Ranking Member Civil Rights Committee on Oversight. #SC01 #LowcountryFirst ?????",
+      "id": "1343597700542038017",
+      "username": "RepNancyMace"
+    },
+    {
+      "name": "Rep. Barry Loudermilk",
+      "description": "Representing Georgia\u0027s 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+      "id": "2914163523",
+      "username": "RepLoudermilk"
+    },
+    {
+      "name": "Congresswoman Julia Letlow",
+      "description": "Proudly Representing #LA05 in Congress | Mom to Jeremiah and Jacqueline | Former Educator and Lifelong Learner | Christian | Conservative",
+      "id": "1382395679700439041",
+      "username": "RepJuliaLetlow"
+    },
+    {
+      "name": "Congresswoman Debbie Lesko",
+      "description": "Proudly representing Arizona\u0027s 8th Congressional District in Congress. Member of @HouseCommerce. #AZ08",
+      "id": "996094929733652481",
+      "username": "RepDLesko"
+    },
+    {
+      "name": "Rep. Jake LaTurner",
+      "description": "U.S. Congressman for Kansas\u0027s 2nd District. Proudly serving on \n@HomelandGOP, @GOPOversight \u0026 @HouseScienceGOP. Sixth Generation Kansan.",
+      "id": "1345850704800468993",
+      "username": "RepLaTurner"
+    },
+    {
+      "name": "U.S. Rep. Bob Latta",
+      "description": "#OH5. Deputy Whip. Member of @HouseCommerce. Republican Leader of the Communications \u0026 Technology Subcommittee.\nSign up for updates: https://t.co/eZl0cNxtXW",
+      "id": "15394954",
+      "username": "boblatta"
+    },
+    {
+      "name": "Rep. Doug Lamborn",
+      "description": "Honored to represent Colorado\u0027s 5th District | Member of @HASCRepublicans and @NatResources | Twitter user policy: https://t.co/iJctUiREMe",
+      "id": "584012853",
+      "username": "RepDLamborn"
+    },
+    {
+      "name": "Rep. Doug LaMalfa",
+      "description": "Representing California\u0027s First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties",
+      "id": "1069124515",
+      "username": "RepLaMalfa"
+    },
+    {
+      "name": "Rep. David Kustoff",
+      "description": "Official news and updates from Congressman David Kustoff, Proudly serving the 8th District of Tennessee",
+      "id": "816012124505931780",
+      "username": "RepDavidKustoff"
+    },
+    {
+      "name": "Adam Kinzinger",
+      "description": "Serving #IL16 as a Member of Congress \u0026 as a pilot in the Air National Guard. Proud to stand up for democracy \u0026 truth. #CountryFirst",
+      "id": "219429281",
+      "username": "RepKinzinger"
+    },
+    {
+      "name": "Young Kim",
+      "description": "Wife, mother, immigrant, small business owner, former CA Assemblywoman. Proud to represent #CA39 \u0026 serve on @HouseForeignGOP, @HSBCGOP \u0026 @HouseScienceGOP ??",
+      "id": "1344677401465397249",
+      "username": "RepYoungKim"
+    },
+    {
+      "name": "Trent Kelly",
+      "description": "Proudly serving Mississippi\u0027s First Congressional District in the U.S. House of Representatives. \nRt\u0027s \u0026 likes ? Endorsements",
+      "id": "3317799825",
+      "username": "RepTrentKelly"
+    },
+    {
+      "name": "Congressman Fred Keller",
+      "description": "Taking the values of PA\u0027s 12th District to Congress. Member on @GOPoversight \u0026 @EdLaborGOP. Chair @BOPReformCaucus. Official House Twitter account. ??",
+      "id": "1136060761422405633",
+      "username": "RepFredKeller"
+    },
+    {
+      "name": "John Joyce, M.D.",
+      "description": "Proudly serving Pennsylvania\u0027s 13th District in the U.S. House of Representatives.",
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce"
+    },
+    {
+      "name": "Dave Joyce",
+      "description": "Father, husband, and former prosecutor proudly representing #OH14",
+      "id": "976969338",
+      "username": "RepDaveJoyce"
+    },
+    {
+      "name": "Rep. Dusty Johnson",
+      "description": "South Dakota\u0027s lone U.S. Representative - husband, father, \u0026 proud South Dakotan. Member of @HouseAgGOP \u0026 @TransportGOP.",
+      "id": "1074782372594413569",
+      "username": "RepDustyJohnson"
+    },
+    {
+      "name": "Rep. Chris Jacobs",
+      "description": "Proudly representing the great people of New York\u0027s 27th Congressional District. Official Account of Congressman Chris Jacobs",
+      "id": "1276232539510919168",
+      "username": "RepJacobs"
+    },
+    {
+      "name": "Ronny Jackson",
+      "description": "Proudly serving the people of #TX13 in Congress.",
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson"
+    },
+    {
+      "name": "Rep. Darrell Issa",
+      "description": "Official Congressional Account for Congressman Darrell Issa. Father. Tech Entrepreneur. Congressman from California.",
+      "id": "63650107",
+      "username": "repdarrellissa"
+    },
+    {
+      "name": "Rep. Bill Huizenga",
+      "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+      "id": "233949261",
+      "username": "RepHuizenga"
+    },
+    {
+      "name": "Trey Hollingsworth",
+      "description": "Proudly serving my fellow Hoosiers of Indiana\u0027s 9th District. Member of the House Financial Services Committee.",
+      "id": "811986281177772032",
+      "username": "RepTrey"
+    },
+    {
+      "name": "Ashley Hinson",
+      "description": "Proud mom and wife. Representing IA-01 in Congress and bringing a dose of Iowa common sense to Washington.\n\nFB: https://t.co/ovQqAUsFrY",
+      "id": "1340783304304410625",
+      "username": "RepAshleyHinson"
+    },
+    {
+      "name": "French Hill",
+      "description": "Official account of Rep. French Hill. 9th generation Arkansan. @FinancialCmte Subcommittee Ranking Member. Proudly representing AR-02.",
+      "id": "2953974395",
+      "username": "RepFrenchHill"
+    },
+    {
+      "name": "Rep. Clay Higgins",
+      "description": "Proudly representing #LA03 in the U.S. House of Representatives. Member of @HomelandGOP and @GOPOversight.",
+      "id": "843636970538618880",
+      "username": "RepClayHiggins"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "Jaime Herrera Beutler",
+      "description": "Proudly serving my home, Southwest Washington’s beautiful 3rd District, in the U.S. Congress.",
+      "id": "242926427",
+      "username": "HerreraBeutler"
+    },
+    {
+      "name": "Rep. Yvette Herrell",
+      "description": "U.S. Congresswoman for New Mexico\u0027s Second Congressional District. Member of @NatResources and @GOPoversight",
+      "id": "1344416719260016641",
+      "username": "RepHerrell"
+    },
+    {
+      "name": "Archive: Rep. Vicky Hartzler",
+      "description": "The archived tweets of Vicky Hartzler, fmr Representative for Missouri\u0027s 4th District. This account is inactive. You can now follow Vicky at @VickyHartzlerMO.",
+      "id": "237763317",
+      "username": "RepHartzler"
+    },
+    {
+      "name": "Rep. Diana Harshbarger",
+      "description": "Proudly representing the great people of East Tennessee. Serving on @EdLaborGOP and @HomelandGOP.",
+      "id": "1345787285179162624",
+      "username": "RepHarshbarger"
+    },
+    {
+      "name": "Rep. Andy Harris, MD",
+      "description": "Proud to serve MD-01; Member of @HouseAppropsGOP + @FreedomCaucus; Co-chair of House Pro-Life Caucus and @GOPDoctors; Physician, Navy Vet, Father and Husband",
+      "id": "960962340",
+      "username": "RepAndyHarrisMD"
+    },
+    {
+      "name": "Congressman Jim Hagedorn",
+      "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the First District of Minnesota.",
+      "id": "1083474782602125318",
+      "username": "RepHagedorn"
+    },
+    {
+      "name": "Rep. Brett Guthrie",
+      "description": "Fighting for conservative values in Washington while representing the people of Kentucky\u0027s 2nd Congressional District",
+      "id": "1908143071",
+      "username": "RepGuthrie"
+    },
+    {
+      "name": "Congressman Michael Guest",
+      "description": "Rep. for the MS Third Congressional District in the U.S. House of Representatives. Vice Ranking Member on @HomelandGOP. Christian. Father. Husband.",
+      "id": "1081243468327018496",
+      "username": "RepMichaelGuest"
+    },
+    {
+      "name": "Rep. Glenn Grothman",
+      "description": "Proudly representing #WI06. Ranking Member, Subcommittee on National Security on @GOPOversight. @EDLaborGOP. @HouseBudgetGOP.",
+      "id": "2976606250",
+      "username": "RepGrothman"
+    },
+    {
+      "name": "Morgan Griffith",
+      "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+      "id": "234057152",
+      "username": "RepMGriffith"
+    },
+    {
+      "name": "Rep. Marjorie Taylor Greene??",
+      "description": "Christian, Mother, American, Business Owner, and Congresswoman representing Georgia’s 14th District",
+      "id": "1344356576786866176",
+      "username": "RepMTG"
+    },
+    {
+      "name": "Rep. Mark Green",
+      "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee’s 7th District in Congress.",
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen"
+    },
+    {
+      "name": "Rep. Paul Gosar, DDS",
+      "description": "Representing AZ’s 4th District",
+      "id": "240760644",
+      "username": "RepGosar"
+    },
+    {
+      "name": "Congressman Bob Good",
+      "description": "Proudly serving the 5th Congressional District of Virginia. Member of @EdLaborGOP, @HouseBudgetGOP \u0026 @FreedomCaucus",
+      "id": "1345536897838436353",
+      "username": "RepBobGood"
+    },
+    {
+      "name": "Jenniffer González",
+      "description": "Proudly representing the 3.2 million U.S. citizens of Puerto Rico in Congress. Member of @NatResources, @TransportGOP and @HouseGOP.",
+      "id": "819744763020775425",
+      "username": "RepJenniffer"
+    },
+    {
+      "name": "Rep. Anthony Gonzalez",
+      "description": "Representing #OH16 in Congress. Northeast Ohio born and raised, husband, dad and Cuban-American.",
+      "id": "1054381765224210432",
+      "username": "RepAGonzalez"
+    },
+    {
+      "name": "Rep. Tony Gonzales",
+      "description": "Husband to Angel, father x 6, @USNavy Master Chief (Ret.) \u0026 former cryptologist. Proudly serving Texas’ 23rd District on @HouseAppropsGOP ??",
+      "id": "1343627416120532992",
+      "username": "RepTonyGonzales"
+    },
+    {
+      "name": "Louie Gohmert",
+      "description": "Former Capt., Asst. DA, Judge, Chief Justice \u0026 Congressman \nTruth Teller",
+      "id": "22055226",
+      "username": "replouiegohmert"
+    },
+    {
+      "name": "Rep. Carlos A. Gimenez",
+      "description": "U.S. Congressman | Firefighter and former Mayor of Miami-Dade County | Member of @TransportGOP, @HomelandGOP \u0026 @HouseScienceGOP ?? #FL26",
+      "id": "1343679195034103808",
+      "username": "RepCarlos"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Rep. Andrew Garbarino",
+      "description": "Official Twitter account of Rep. Andrew Garbarino. Proudly representing New York\u0027s 2nd Congressional District.",
+      "id": "1344349650447433729",
+      "username": "RepGarbarino"
+    },
+    {
+      "name": "Rep. Gallagher Press Office",
+      "description": "Tweets from the staff of Rep. Gallagher. For more information visit his website.",
+      "id": "815966620300480514",
+      "username": "RepGallagher"
+    },
+    {
+      "name": "Rep. Matt Gaetz",
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "id": "818948638890217473",
+      "username": "RepMattGaetz"
+    },
+    {
+      "name": "Rep. Russ Fulcher",
+      "description": "The Official Account of Idaho\u0027s First District Congressman Russ Fulcher. #ID01",
+      "id": "1078741899572240384",
+      "username": "RepRussFulcher"
+    },
+    {
+      "name": "Congressman Scott Franklin",
+      "description": "Proudly representing Florida\u0027s 15th Congressional District. \n\"Not for self, but for country.\"",
+      "id": "1343664721384398849",
+      "username": "RepFranklin"
+    },
+    {
+      "name": "Chuck Fleischmann",
+      "description": "My official House office Twitter account. I work for the people of TN-03.",
+      "id": "235190657",
+      "username": "RepChuck"
+    },
+    {
+      "name": "Rep. Brian Fitzpatrick ??",
+      "description": "A fiercely independent voice for my hometown of #PA01 | Former @FBI Special Agent \u0026 Federal Prosecutor | CPA | EMT | Proud @Penn_State Alum | #WeAre ?",
+      "id": "816303263586914304",
+      "username": "RepBrianFitz"
+    },
+    {
+      "name": "Rep. Scott Fitzgerald",
+      "description": "Official account for Congressman Scott Fitzgerald, proudly serving Wisconsin’s Fifth District. #WI05",
+      "id": "1004891731",
+      "username": "RepFitzgerald"
+    },
+    {
+      "name": "Rep. Michelle Fischbach",
+      "description": "Proudly representing Minnesota\u0027s 7th District in the U.S. House of Representatives. Serving on @HouseAgGOP, @JudiciaryGOP \u0026 @RulesReps.",
+      "id": "1344375287484723205",
+      "username": "RepFischbach"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "Rep. Pat Fallon",
+      "description": "Proudly representing the people of Texas\u0027 4th Congressional District in the United States House of Representatives.",
+      "id": "1343258042704527362",
+      "username": "RepPatFallon"
+    },
+    {
+      "name": "Rep. Jake Ellzey",
+      "description": "Official Twitter account of the office of Congressman Jake Ellzey of Texas\u0027 6th Congressional District.",
+      "id": "1366523868253458437",
+      "username": "RepEllzey"
+    },
+    {
+      "name": "Dr. Neal Dunn",
+      "description": "Official government Twitter account for Congressman Neal Dunn (FL-02).",
+      "id": "815952318487298048",
+      "username": "DrNealDunnFL2"
+    },
+    {
+      "name": "Rep. Jeff Duncan",
+      "description": "Christian, husband, father, \u0026 small business owner. Lover of football \u0026 the outdoors. Employee for the people of #SC03 ? Instagram: https://t.co/FHO3ywu4Hq",
+      "id": "240393970",
+      "username": "RepJeffDuncan"
+    },
+    {
+      "name": "Congressman Byron Donalds",
+      "description": "Proudly representing the people of #FL19 | Serving on the @housebudgetGOP, @GOPoversight, \u0026 @HSBCgop Committees | Comms Dir. @HarrisonWFields | Official Account",
+      "id": "1343968646050283522",
+      "username": "RepDonaldsPress"
+    },
+    {
+      "name": "Mario Diaz-Balart",
+      "description": "I am proud to represent Florida\u0027s 25th Congressional District and serve on @HouseAppropsGOP as Transportation, Housing + Urban Development Ranking Member",
+      "id": "37094727",
+      "username": "MarioDB"
+    },
+    {
+      "name": "Scott DesJarlais",
+      "description": "Individual Rights. Small Government. Strong Defense. Representing Tennessee\u0027s 4th District in Congress.",
+      "id": "235312723",
+      "username": "DesJarlaisTN04"
+    },
+    {
+      "name": "Warren Davidson",
+      "description": "Former Army Ranger serving Ohio\u0027s 8th District in Congress. It\u0027s not compassionate to bankrupt America--financially or morally. Good governments defend freedom.",
+      "id": "742735530287304704",
+      "username": "WarrenDavidson"
+    },
+    {
+      "name": "Rep. John Curtis",
+      "description": "Official account for United States Congressman John Curtis, self-proclaimed millennial. Proudly serving the people of Utah\u0027s 3rd district.",
+      "id": "931614483050414080",
+      "username": "RepJohnCurtis"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "Rep Rick Crawford",
+      "description": "Representing AR-01 in the U.S. House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee. Text me: 870.292.6747",
+      "id": "233693291",
+      "username": "RepRickCrawford"
+    },
+    {
+      "name": "Rep. Andrew Clyde",
+      "description": "U.S. Representative for #GA09 | @HomelandGOP \u0026 @GOPoversight | @freedomcaucus",
+      "id": "1357017361568694274",
+      "username": "Rep_Clyde"
+    },
+    {
+      "name": "Congressman Michael Cloud",
+      "description": "Honored to represent the people of the 27th Congressional District of Texas.",
+      "id": "1039879658400112640",
+      "username": "RepCloudTX"
+    },
+    {
+      "name": "Congressman Ben Cline",
+      "description": "Representing the 6th District of Virginia. Member of @housefreedomcaucus + @HouseAppropsGOP + @housebudgetGOP Committees.",
+      "id": "1072158357237174272",
+      "username": "RepBenCline"
+    },
+    {
+      "name": "Rep. Liz Cheney",
+      "description": "Official Page of Congresswoman Liz Cheney, proudly representing the people of Wyoming.",
+      "id": "816719802328715264",
+      "username": "RepLizCheney"
+    },
+    {
+      "name": "Rep. Steve Chabot",
+      "description": "Husband, Dad, Grandpa \u0026 proud Cincinnatian. Dean of Ohio GOP Delegation, Ranking Member on @HouseForeignGOP Asia Subcommittee \u0026 senior member on @JudiciaryGOP.",
+      "id": "237750442",
+      "username": "RepSteveChabot"
+    },
+    {
+      "name": "Rep. Madison Cawthorn",
+      "description": "Proudly representing the people of North Carolina\u0027s 11th Congressional District in the United States House of Representatives.",
+      "id": "1344007696555663360",
+      "username": "RepCawthorn"
+    },
+    {
+      "name": "Buddy Carter",
+      "description": "Proudly serving Georgia\u0027s 1st Congressional District  \n      \n?Sign up for my e-newsletter?",
+      "id": "2973870195",
+      "username": "RepBuddyCarter"
+    },
+    {
+      "name": "Judge Carter",
+      "description": "U.S. Congressman proudly serving #TX31 \u0026 @forthood. Former Judge. Proud @TexasTech #RedRaider.",
+      "id": "18030431",
+      "username": "JudgeCarter"
+    },
+    {
+      "name": "Rep. Jerry Carl",
+      "description": "I’m proud to represent Alabama’s 1st Congressional District in Congress. Currently serving on @HASCRepublicans and @NatResources.",
+      "id": "1341091420439015424",
+      "username": "RepJerryCarl"
+    },
+    {
+      "name": "Congressman Mike Carey",
+      "description": "Congressman Mike Carey. Proudly serving Ohio\u0027s 15th Congressional District\n\nhttps://t.co/ZaueiEr7sd",
+      "id": "1457745193197780993",
+      "username": "RepMikeCarey"
+    },
+    {
+      "name": "Congresswoman Kat Cammack",
+      "description": "Member of @HouseAgGOP, @HomelandGOP, @EconomyGOP | Youngest GOP woman in 117th Congress | Proudly representing #FL03 in the U.S. House ??",
+      "id": "1344325638983987201",
+      "username": "RepKatCammack"
+    },
+    {
+      "name": "Ken Calvert",
+      "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+      "id": "22545491",
+      "username": "KenCalvert"
+    },
+    {
+      "name": "Jim Banks",
+      "description": "Father. Husband. US Navy/Afghanistan Veteran. Indiana Congressman.",
+      "id": "816131319033950208",
+      "username": "RepJimBanks"
+    },
+    {
+      "name": "Michael Burgess, MD",
+      "description": "Congressman for Texas\u0027 26th District, M.D. (Ob/Gyn) in my former life",
+      "id": "15751083",
+      "username": "michaelcburgess"
+    },
+    {
+      "name": "Rep. Tim Burchett",
+      "description": "Congressman representing Tennessee\u0027s 2nd District. Husband to Kelly. Father to Isabel. Serve on Transportation \u0026 Infrastructure and Foreign Affairs committees.",
+      "id": "1028854804087492613",
+      "username": "RepTimBurchett"
+    },
+    {
+      "name": "Congressman Ted Budd",
+      "description": "Proudly serving the 13th district of North Carolina. Instagram: reptedbudd",
+      "id": "817138492614524928",
+      "username": "RepTedBudd"
+    },
+    {
+      "name": "Larry Bucshon, MD",
+      "description": "Congressman representing Hoosiers from #IN08. Doctor. Member of @HouseCommerce. https://t.co/4eq38gWLlg",
+      "id": "234812598",
+      "username": "RepLarryBucshon"
+    },
+    {
+      "name": "Rep. Ken Buck",
+      "description": "Congressman for Colorado’s 4th District. Ranking Member, Antitrust Subcommittee. Member, House Foreign Affairs Committee.",
+      "id": "2862577383",
+      "username": "RepKenBuck"
+    },
+    {
+      "name": "Mo Brooks",
+      "description": "Thanks for following Alabama’s 5th District Congressman. Political discourse welcome. BLOCKED: Profanity, defamation, lying. PLEASE RETWEET GOOD INFO!",
+      "id": "237299871",
+      "username": "RepMoBrooks"
+    },
+    {
+      "name": "Rep. Lauren Boebert",
+      "description": "Congresswoman (CO-03) • Co-Chair #2A Caucus • Member @NatResources, @HouseBudgetGOP, and @FreedomCaucus • Vice-Chair @WesternCaucus • ??",
+      "id": "1342989756611907584",
+      "username": "RepBoebert"
+    },
+    {
+      "name": "Rep. Dan Bishop",
+      "description": "U.S. Congressman Proudly Representing the Eighth District of North Carolina",
+      "id": "1176522535531360257",
+      "username": "RepDanBishop"
+    },
+    {
+      "name": "Gus Bilirakis",
+      "description": "#FL12. #TampaBay Most Effective/FL Most Effective @HouseGOP Legislator. @HouseCommerce. @GOP Ldr. of Consumer Protect \u0026 Comm. Subcommittee. Husband. Father. Son",
+      "id": "26051676",
+      "username": "RepGusBilirakis"
+    },
+    {
+      "name": "Rep Andy Biggs",
+      "description": "Representing Arizona\u0027s Fighting Fifth.",
+      "id": "816652616625168388",
+      "username": "RepAndyBiggsAZ"
+    },
+    {
+      "name": "Rep. Stephanie Bice",
+      "description": "Wife, Mother x 2. Serving Oklahoma’s 5th Congressional District in the United States House of Representatives. @HASCRepublicans and @HouseScienceGOP committees.",
+      "id": "1344260196227555334",
+      "username": "RepBice"
+    },
+    {
+      "name": "Rep. Jack Bergman",
+      "description": "U.S. Rep for #Mi01, Lt. General, USMC (ret), Yooper, Pilot, Proud Grandfather. Serving on VA and Armed Services Committees.",
+      "id": "815241612154417152",
+      "username": "RepJackBergman"
+    },
+    {
+      "name": "Congressman Cliff Bentz",
+      "description": "Proudly serving Oregon\u0027s 2nd Congressional District #OR02",
+      "id": "1345788865911656454",
+      "username": "RepBentz"
+    },
+    {
+      "name": "Jim Banks",
+      "description": "Congressman (IN-3). Afghanistan veteran. Husband and father of three. Committed to preserving the American dream for future generations.",
+      "id": "14836282",
+      "username": "Jim_Banks"
+    },
+    {
+      "name": "Congressman Troy Balderson",
+      "description": "Proudly serving Ohio\u0027s 12th Congressional District.",
+      "id": "1037341536592310272",
+      "username": "RepBalderson"
+    },
+    {
+      "name": "Congressman Jim Baird",
+      "description": "Lifelong Hoosier proudly representing the 4th Congressional District.",
+      "id": "1086316494450032640",
+      "username": "RepJimBaird"
+    },
+    {
+      "name": "Brian Babin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space \u0026 Aeronautics Subcmte, Border Sec co-chair \u0026 serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "id": "2929491549",
+      "username": "RepBrianBabin"
+    },
+    {
+      "name": "Congressman Kelly Armstrong",
+      "description": "Lifelong North Dakotan. U.S. House of Representatives. @housecommerce committee.",
+      "id": "1080515866255593472",
+      "username": "RepArmstrongND"
+    },
+    {
+      "name": "RepMarkAmodei",
+      "description": "Proudly representing Nevada\u0027s 2nd District",
+      "id": "402719755",
+      "username": "MarkAmodeiNV2"
+    },
+    {
+      "name": "Rick W. Allen",
+      "description": "Proudly representing Georgia\u0027s 12th Congressional District",
+      "id": "2964287128",
+      "username": "RepRickAllen"
+    },
+    {
+      "name": "Robert Aderholt",
+      "description": "Proudly serving the 4th Congressional District of Alabama in the United States House of Representatives",
+      "id": "76452765",
+      "username": "Robert_Aderholt"
+    },
+    {
+      "name": "Congressman Drew Ferguson",
+      "description": "Proudly serving the good folks of Georgia’s Third Congressional District. @WaysandMeansGOP \u0026 @GOPDoctors Caucus member. Chief Deputy Whip for @HouseGOP.",
+      "id": "806583915012046854",
+      "username": "RepDrewFerguson"
+    },
+    {
+      "name": "Rep. Ron Estes",
+      "description": "Official Twitter of Congressman Ron Estes. Proudly serving the 4th District of Kansas?#KS04",
+      "id": "854715071116849157",
+      "username": "RepRonEstes"
+    },
+    {
+      "name": "Rep. Lloyd Smucker",
+      "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband \u0026 father.",
+      "id": "41417564",
+      "username": "RepSmucker"
+    },
+    {
+      "name": "Rep. Kevin Hern",
+      "description": "Representing Oklahoma\u0027s 1st Congressional District in Congress",
+      "id": "1067818539179024386",
+      "username": "repkevinhern"
+    },
+    {
+      "name": "Rep. Brad Wenstrup",
+      "description": "US Representative for the people of Ohio\u0027s 2nd District, Physician, Army Reservist, Dad, Lifelong Ohioan",
+      "id": "518644221",
+      "username": "RepBradWenstrup"
+    },
+    {
+      "name": "Congressman Tom Rice",
+      "description": "Former CPA and tax lawyer. Proudly representing South Carolina\u0027s 7th Congressional District. Find me on FB at https://t.co/1YXogZ4l3N.",
+      "id": "1058345042",
+      "username": "RepTomRice"
+    },
+    {
+      "name": "Rep. Mike Bost",
+      "description": "Proudly representing IL-12 in Congress. Lead Republican on @HouseVetAffairs \u0026 member of @TransportGOP. Find me on FB at https://t.co/KNuvZ7dbsu",
+      "id": "2964877294",
+      "username": "RepBost"
+    },
+    {
+      "name": "Rep. Sam Graves",
+      "description": "Proudly representing Missouri\u0027s Sixth Congressional District",
+      "id": "29766367",
+      "username": "RepSamGraves"
+    },
+    {
+      "name": "Blaine Luetkemeyer",
+      "description": "Proudly serving Missouri\u0027s 3rd Congressional District. Ranking Member on @HSBCgop and @FinancialCmte Consumer Protection \u0026 Financial Institutions Subcommittee.",
+      "id": "1849261916",
+      "username": "RepBlaine"
+    },
+    {
+      "name": "Congressman William Timmons",
+      "description": "Congressman for Upstate SC. Member of @FinancialCmte and @ModernizeCmte. #SC04",
+      "id": "1079770852302958592",
+      "username": "RepTimmons"
+    },
+    {
+      "name": "Rep. Garret Graves",
+      "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+      "id": "2951574214",
+      "username": "RepGarretGraves"
+    },
+    {
+      "name": "Frank Lucas",
+      "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma’s Third Congressional District.",
+      "id": "242772524",
+      "username": "RepFrankLucas"
+    },
+    {
+      "name": "Rep. Tom Cole",
+      "description": "Proud to represent #OK04 in the U.S. House of Reps. Ranking Member of @RulesReps, Vice Ranking of @HouseAppropsGOP. Staff moderated unless signed by me. -TC",
+      "id": "23124635",
+      "username": "TomColeOK04"
+    },
+    {
+      "name": "US Rep. Mike Turner",
+      "description": "I proudly represent the 10th District of Ohio. Montgomery Co. Greene Co. \u0026 Fayette Co. #OH10 | Lead Republican of @HouseIntelGOP \u0026 Member of @HASCRepublicans",
+      "id": "51228911",
+      "username": "RepMikeTurner"
+    },
+    {
+      "name": "Rep. James Comer",
+      "description": "Republican Leader on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1",
+      "id": "1274852794206388225",
+      "username": "RepJamesComer"
+    },
+    {
+      "name": "Rep. Bruce Westerman",
+      "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+      "id": "2852998461",
+      "username": "RepWesterman"
+    },
+    {
+      "name": "Rep. Jim Jordan",
+      "description": "Proudly serving Ohio\u0027s beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "id": "18166778",
+      "username": "Jim_Jordan"
+    },
+    {
+      "name": "Rep. David Schweikert",
+      "description": "Avid hiker and coffee enthusiast who is proud to represent Arizona\u0027s 6th Congressional District in the U.S. House of Representatives.",
+      "id": "229197216",
+      "username": "RepDavid"
+    },
+    {
+      "name": "Rodney Davis",
+      "description": "",
+      "id": "993153006",
+      "username": "RodneyDavis"
+    },
+    {
+      "name": "Rep. John Katko",
+      "description": "Official Twitter account of Rep. John Katko. Proudly representing New York\u0027s 24th Congressional District.",
+      "id": "2966765501",
+      "username": "RepJohnKatko"
+    },
+    {
+      "name": "China Task Force",
+      "description": "The China Task Force, chaired by HFAC LR Michael McCaul, will develop solutions to address the CCP\u0027s malign influence.",
+      "id": "1260676032903905288",
+      "username": "China_TaskForce"
+    },
+    {
+      "name": "Michael McCaul",
+      "description": "Representing the 10th District of Texas | Lead Republican of @houseforeigngop | Chairman of the @China_TaskForce",
+      "id": "26424123",
+      "username": "RepMcCaul"
+    },
+    {
+      "name": "Jackie Walorski",
+      "description": "Representing Indiana\u0027s 2nd Congressional District",
+      "id": "1065995022",
+      "username": "RepWalorski"
+    },
+    {
+      "name": "Virginia Foxx",
+      "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina\u0027s Fifth District.",
+      "id": "16256269",
+      "username": "virginiafoxx"
+    },
+    {
+      "name": "Rep. Jason Smith",
+      "description": "@housebudgetGOP Leader | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08",
+      "id": "1623308912",
+      "username": "RepJasonSmith"
+    },
+    {
+      "name": "Mike Rogers",
+      "description": "I am proud to represent Alabama\u0027s Third Congressional District.",
+      "id": "33977070",
+      "username": "RepMikeRogersAL"
+    },
+    {
+      "name": "Rep. Kay Granger",
+      "description": "Representing the 12th District of Texas. Ranking Member of the House Appropriations Committee. #TX12",
+      "id": "161743731",
+      "username": "RepKayGranger"
+    },
+    {
+      "name": "Glenn \"GT\" Thompson",
+      "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania\u0027s 15th Congressional District. #PA15",
+      "id": "18967498",
+      "username": "CongressmanGT"
+    },
+    {
+      "name": "Gary Palmer",
+      "description": "Proudly serving the people of Alabama\u0027s 6th Congressional District. Chairman of House @GOPpolicy Committee and member on @HouseCommerce Committee.",
+      "id": "2861616083",
+      "username": "USRepGaryPalmer"
+    },
+    {
+      "name": "House GOP Policy",
+      "description": "House Republican Policy Committee, chaired by @USRepGaryPalmer (AL-06), is the principal forum for generating bold and innovative policy initiatives. Est.1949",
+      "id": "10840862",
+      "username": "GOPpolicy"
+    },
+    {
+      "name": "Rep. Mike Johnson",
+      "description": "Christian, husband, dad serving LA\u0027s 4th Congressional District since ‘17. Vice Chairman of House Republicans. Constitutional law attorney \u0026 small biz owner.",
+      "id": "827279765287559171",
+      "username": "RepMikeJohnson"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Rep. Jodey Arrington",
+      "description": "Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. @WaysandMeansGOP \u0026 @JECRepublicans.",
+      "id": "816284664658874368",
+      "username": "RepArrington"
+    },
+    {
+      "name": "Congressman Greg Murphy, M.D.",
+      "description": "Proudly representing North Carolina\u0027s Third District",
+      "id": "1173978070535024642",
+      "username": "RepGregMurphy"
+    },
+    {
+      "name": "Dr. Larry Bucshon",
+      "description": "Husband. Father of four. Doctor. Congressman representing #IN08.",
+      "id": "80956768",
+      "username": "DrLarryBucshon"
+    },
+    {
+      "name": "Bryan Steil",
+      "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin’s 1st Congressional District. #WI01",
+      "id": "1075205691621720064",
+      "username": "RepBryanSteil"
+    },
+    {
+      "name": "Rep. Carol Miller",
+      "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia\u0027s 3rd Congressional District.",
+      "id": "1081318716573470720",
+      "username": "RepCarolMiller"
+    },
+    {
+      "name": "Ben Mohorn",
+      "description": "Nebraska Based Filmmaker Video | Photo | Creative",
+      "id": "4520045113",
+      "username": "BenMohorn"
+    },
+    {
+      "name": "Nebraska Sorghum",
+      "description": "This page reflects the activities solely of the Nebraska Sorghum Producers Association in promotion, policy, and activities in support of NE Sorghum Growers",
+      "id": "2983302764",
+      "username": "NESorghum"
+    },
+    {
+      "name": "Becca Salter",
+      "description": "Hill Staffer. Delaware Native. 28.",
+      "id": "799029204",
+      "username": "saltand_BECCAr"
+    },
+    {
+      "name": "Nebraska DHHS",
+      "description": "Helping People Live Better Lives",
+      "id": "65677968",
+      "username": "NEDHHS"
+    },
+    {
+      "name": "Nebraska/SW Iowa Red Cross",
+      "description": "The Nebraska/SW Iowa Region of the Red Cross is proud to serve the state of Nebraska and 3 counties in Southwest Iowa.",
+      "id": "16316380",
+      "username": "neiaredcross"
+    },
+    {
+      "name": "Richard Rubin",
+      "description": "I cover U.S. tax policy for the @WSJ. There is ALWAYS a tax angle. Retweets are not endorsements or tax advice.",
+      "id": "227790723",
+      "username": "RichardRubinDC"
+    },
+    {
+      "name": "Christian Wagner",
+      "description": "KHGI/KFXL Assistant News Director, 6pm/10pm Producer, transplanted from PA to NE. Retweets are not endorsements. CWagner@nebraska.tv",
+      "id": "2904036094",
+      "username": "presidentwagner"
+    },
+    {
+      "name": "Central Community Co",
+      "description": "We serve some pretty amazing students in a 25 county area of Nebraska! Campuses in Columbus, Grand Island and Hastings, centers in Holdrege, Kearney \u0026 Lexington",
+      "id": "1708091694",
+      "username": "cccnebedu"
+    },
+    {
+      "name": "Senate Finance Committee",
+      "description": "News and information from the press office of Senate Finance Committee Ranking Member @MikeCrapo of Idaho",
+      "id": "701821488",
+      "username": "SenFinance"
+    },
+    {
+      "name": "National Rural Health Association",
+      "description": "NRHA is a nonprofit organization working to improve rural health and provide leadership for rural America. For advocacy updates follow @NRHA_Advocacy.",
+      "id": "20892507",
+      "username": "ruralhealth"
+    },
+    {
+      "name": "Charles V Payne",
+      "description": "Trying to make sense of this world while becoming the man my mother raised- I give a damn, love my family and country...and making people $$$$",
+      "id": "19400611",
+      "username": "cvpayne"
+    },
+    {
+      "name": "Darin LaHood",
+      "description": "Proudly representing the 18th District of Illinois. Member of @WaysandMeansGOP and the House Intelligence Committee.",
+      "id": "3686482216",
+      "username": "RepLaHood"
+    },
+    {
+      "name": "Rob Damschen",
+      "description": "Deputy Communications Director for @GovernorVA @GlennYoungkin | Fmr. spox @ShopFloorNAM, @WaysandMeansGOP | ?Golfer? | #GoPackGo",
+      "id": "18203300",
+      "username": "RobDamschen"
+    },
+    {
+      "name": "Richard Hudson",
+      "description": "Proudly representing North Carolina in the U.S. House ?? | @HouseGOP Conference Secretary \u0026 Member of @HouseCommerce",
+      "id": "935033864",
+      "username": "RepRichHudson"
+    },
+    {
+      "name": "NRHA Advocacy",
+      "description": "Advocacy side of @ruralhealth. NRHA is a nonprofit organization working to improve #ruralhealth and increase access in rural America.",
+      "id": "806297133926248448",
+      "username": "NRHA_Advocacy"
+    },
+    {
+      "name": "Nebraska Football",
+      "description": "5 National Titles. 46 Conference Championships. Most Academic All-Americans in NCAA History. Longest Sellout Streak in NCAA History. Welcome to the Good Life ?",
+      "id": "2151130166",
+      "username": "HuskerFBNation"
+    },
+    {
+      "name": "Longs Peak Council",
+      "description": "The Longs Peak Council, Boy Scouts of America provides programs to youth and adult volunteers in northern Colorado, southeast Wyoming and western Nebraska.",
+      "id": "993469742",
+      "username": "LongsPeakBSA"
+    },
+    {
+      "name": "Gering Junior High Bulldogs",
+      "description": "",
+      "id": "1032116817362395136",
+      "username": "youngbulldogs"
+    },
+    {
+      "name": "Bridgeport News-Blade",
+      "description": "\u0027Just a Good Country Newspaper\u0027, published each Thursday, serving the City of Bridgeport and Morrill County, Nebraska since 1900.",
+      "id": "52867745",
+      "username": "News_Blade"
+    },
+    {
+      "name": "Ryan Boyd",
+      "description": "Less Luke Bryan, No Walker Hayes and More Johnny Cash. Promoting good artists and good music. NE-KS",
+      "id": "1859150322",
+      "username": "HollerAtYerBoyd"
+    },
+    {
+      "name": "Aurora Cooperative",
+      "description": "The Aurora Cooperative is a premiere, multi-purpose agri-business providing service and expertise in grain, agronomy, animal nutrition and energy since 1908.",
+      "id": "462274888",
+      "username": "AuroraAgNetwork"
+    },
+    {
+      "name": "Shannon Heckt",
+      "description": "Political Reporter for @BRProudNews  | Seattle Native ? | @MurrowCollege alum | Work hard and be kind | Retweets are not endorsements",
+      "id": "809157554643222528",
+      "username": "ShannonHeckt"
+    },
+    {
+      "name": "Xpanxion",
+      "description": "IT consulting \u0026 outsourcing services firm helping clients transform their businesses through the use of innovative technologies, processes, and sourcing models.",
+      "id": "539216023",
+      "username": "Xpanxion"
+    },
+    {
+      "name": "Architect of the Capitol",
+      "description": "Serve | Preserve | Inspire —\nStewards of the iconic buildings and grounds of #USCapitol Hill. \nMore AOC: ? @aochiring, ? @usbotanicgarden, ? @visitthecapitol",
+      "id": "17539497",
+      "username": "uscapitol"
+    },
+    {
+      "name": "Lindsey Graham",
+      "description": "The official Twitter feed for United States Senator Lindsey Graham.",
+      "id": "432895323",
+      "username": "LindseyGrahamSC"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "Chuck Grassley",
+      "description": "U.S. Senator. Family farmer. Lifetime resident of New Hartford, IA. Also follow @GrassleyPress for news and information.",
+      "id": "10615232",
+      "username": "ChuckGrassley"
+    },
+    {
+      "name": "Joni Ernst",
+      "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+      "id": "2856787757",
+      "username": "SenJoniErnst"
+    },
+    {
+      "name": "David Young",
+      "description": "Official account of former U.S. Congressman David Young, who proudly represented all the people in Iowa\u0027s 3rd Congressional District from 2015-2019",
+      "id": "314205957",
+      "username": "RepDavidYoung"
+    },
+    {
+      "name": "Rod Blum",
+      "description": "Husband. Father. Grandfather. Career Businessman. Former Member of Congress.",
+      "id": "2965083477",
+      "username": "RepRodBlum"
+    },
+    {
+      "name": "Jessica Stevenson",
+      "description": "Detroiter. Back home in the D producing news for @CBSDetroit ?? Former Stations: @NTVNEWS @KFXLFoxNebraska and @wluctv6",
+      "id": "2169134256",
+      "username": "JessStevensonTV"
+    },
+    {
+      "name": "Sydney Edwards",
+      "description": "Obsessed with Cold Chain at @freightwaves ? Formerly @NewsChannelNine and @NTVNEWS ? Ohio native, blessing my own heart ?",
+      "id": "900055365068390400",
+      "username": "SydEdwardsNews"
+    },
+    {
+      "name": "WESTCO1942",
+      "description": "Western Cooperative (WESTCO), serving the WyoBraska area since 1942. Service . . . Solutions . . . Success!",
+      "id": "1024296327197413376",
+      "username": "westco1942"
+    },
+    {
+      "name": "A-FAN",
+      "description": "The Alliance for the Future of Agriculture in Nebraska provides honest info about modern food production and the way animals are cared for on Nebraska farms.",
+      "id": "581143148",
+      "username": "AFANofAG"
+    },
+    {
+      "name": "Alex Whitney",
+      "description": "Senior Reporter @3NewsNowOmaha",
+      "id": "990998090067955714",
+      "username": "AlexWhitneyTV"
+    },
+    {
+      "name": "USTR",
+      "description": "This is the official Twitter page of the Office of the U.S. Trade Representative. Tweets may be archived. Tweets from USTR Robert Lighthizer signed -ARL",
+      "id": "862405301693296640",
+      "username": "USTradeRep45"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "104.9 Max Country",
+      "description": "Playing Country\u0027s All Time Hits! Download our App (104.9 Max Country) on Google Play and AppleStore. Online @ https://t.co/RzUwWQxNQo",
+      "id": "3180017078",
+      "username": "1049maxcountry"
+    },
+    {
+      "name": "FCH",
+      "description": "Fillmore County Hospital is a licensed 20 bed Critical Access Hospital in Geneva, NE.",
+      "id": "468476611",
+      "username": "MyFCHofGeneva"
+    },
+    {
+      "name": "Shelton Bulldogs",
+      "description": "Official Shelton Public Schools twitter account.",
+      "id": "3429672014",
+      "username": "SheltonBulldog"
+    },
+    {
+      "name": "NIC",
+      "description": "Nebraska Innovation Campus (NIC): a campus designed to facilitate new \u0026 in-depth partnerships between the University of Nebraska \u0026 private sector businesses",
+      "id": "2151357680",
+      "username": "NIC_Innovates"
+    },
+    {
+      "name": "OffuttAFB",
+      "description": "Official Offutt AFB Twitter (Following, RTs \u0026 links ? endorsement) Offutt AFB is home of the 55th Wing, U.S. Strategic Command, \u0026 557th Weather Wing. #Offutt",
+      "id": "40062096",
+      "username": "Offutt_AFB"
+    },
+    {
+      "name": "James Taranto",
+      "description": "Editorial Features Editor, in charge of @WSJ op-ed pages. Best of the Web columnist 2000-17. Pu.",
+      "id": "53606937",
+      "username": "jamestaranto"
+    },
+    {
+      "name": "Husker Harvest Days",
+      "description": "The largest totally irrigated working farm show will take place Sept. 13, 14 and 15, 2022 in Grand Island, Nebraska. #HHD22",
+      "id": "164296052",
+      "username": "HHDays"
+    },
+    {
+      "name": "Susan Littlefield",
+      "description": "Farm Broadcaster for the Rural Radio Network, Firefighter/EMT. Love the ag life, telling its story \u0026 spending time in the show ring...",
+      "id": "22665545",
+      "username": "firefighter89"
+    },
+    {
+      "name": "Ron Kalkwarf",
+      "description": "Lincoln Chamber of Commerce, Director of Finance, #lnkcoc",
+      "id": "2458135298",
+      "username": "RonLincolnCoC"
+    },
+    {
+      "name": "Cozad Chamber",
+      "description": "Cozad Chamber of Commerce",
+      "id": "1173229926",
+      "username": "CozadChamber"
+    },
+    {
+      "name": "Patrick Ethridge",
+      "description": "Editor and publisher of the Beatrice Daily Sun, husband to a coal miner\u0027s daughter, father of twin boys.",
+      "id": "363840772",
+      "username": "PatrickEthridge"
+    },
+    {
+      "name": "Lauren Kummer",
+      "description": "News Anchor/Reporter for @Fox17 | Formerly @NTVNews | Canadian born ?? | @FGCU Alum | @ZTAFraternity Alum | Story idea? lauren.kummer@fox17online.com",
+      "id": "899625990896447488",
+      "username": "LaurenKummerTV"
+    },
+    {
+      "name": "Chadrad Radio",
+      "description": "Your Home For The Latest News, Most Accurate Weather, \u0026 Chadron Cardinal Sports! (Stereo AM 610 KCSR \u0026 FM 107.7 KBPY)",
+      "id": "1449856434",
+      "username": "ChadradRadio"
+    },
+    {
+      "name": "President Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215679726100480",
+      "username": "POTUS45"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "Renewable Fuels Association",
+      "description": "We are the leading trade association for America’s ethanol industry, working to drive expanded global demand for American-made renewable fuels and bio-products.",
+      "id": "20456357",
+      "username": "EthanolRFA"
+    },
+    {
+      "name": "Renewable Fuels Nebraska",
+      "description": "Renewable Fuels Nebraska strives to be the premier advocate for renewable fuels through public policy, increased market access and consumer education.",
+      "id": "732298086840590336",
+      "username": "RFNebraska"
+    },
+    {
+      "name": "Newt Gingrich",
+      "description": "Husband, father, grandfather, citizen, small businessman, author, former Speaker of the House.",
+      "id": "20713061",
+      "username": "newtgingrich"
+    },
+    {
+      "name": "Nebraska Corn Growers Association",
+      "description": "We are a grassroots organization working hard each day for the livelihood of Nebraska’s corn farmers and agriculture. Your Eyes, Your Ears, Your Voice.",
+      "id": "90467889",
+      "username": "NeCGA"
+    },
+    {
+      "name": "American Soybean Association",
+      "description": "ASA represents U.S. soybean farmers through policy advocacy \u0026 international market development.",
+      "id": "74164455",
+      "username": "ASA_Soybeans"
+    },
+    {
+      "name": "Nebraska Soybean Board",
+      "description": "Feeding, fueling and innovating for the future. Growing value for Nebraska farmers by maximizing their checkoff investments. RT ? endorse/agree",
+      "id": "150767049",
+      "username": "NESoybeanBoard"
+    },
+    {
+      "name": "Nebraska Grain \u0026 Feed Association (NEGFA)",
+      "description": "NEGFA has been representing the industry since 1896. Follow our news updates #AgricultureNews #FeedNews #GrainNews #ThinkSafetyFirst",
+      "id": "857947340493266944",
+      "username": "grain_feed"
+    },
+    {
+      "name": "KWBE 1450",
+      "description": "Bringing you some of the best classic hits for nearly 70 years over the airwaves, and now presenting the latest, breaking news and great stories on NCN21 TV.",
+      "id": "4331822177",
+      "username": "kwbe1450"
+    },
+    {
+      "name": "ACEethanol",
+      "description": "ACE is the grassroots voice of the ethanol industry, supporting ethanol through market development, public policy, and PR.",
+      "id": "48831679",
+      "username": "ACEethanol"
+    },
+    {
+      "name": "Growth Energy",
+      "description": "The leading voice for U.S. biofuel supporters.",
+      "id": "21247089",
+      "username": "GrowthEnergy"
+    },
+    {
+      "name": "Nebraska Game and Parks",
+      "description": "Time spent outdoors is time well spent.\nCheck out @NeblandMagazine to discover more of Nebraska.",
+      "id": "28133917",
+      "username": "NEGameandParks"
+    },
+    {
+      "name": "ScottsBluffNPS",
+      "description": "An integral part of the story of The Oregon Trail.  Named after fur trader/trapper Hiram Scott,",
+      "id": "359416236",
+      "username": "ScottsBluffNPS"
+    },
+    {
+      "name": "Kimberley Strassel",
+      "description": "Potomac Watch columnist for Wall Street Journal edit page. Please order my new book! Resistance (At All Costs). https://t.co/g6cVbmus81",
+      "id": "384910109",
+      "username": "KimStrassel"
+    },
+    {
+      "name": "Nebraska Association For Home Healthcare \u0026 Hospice",
+      "description": "The NAHHH advocates, educates and provides resources for members, representing the industry\u0027s interests and protecting their services provided to beneficiaries.",
+      "id": "889491368170704896",
+      "username": "CareNebraska"
+    },
+    {
+      "name": "Derek Noehren",
+      "description": "",
+      "id": "2493204150",
+      "username": "Derek_Noehren"
+    },
+    {
+      "name": "Steve Finn",
+      "description": "A Christian School and Home for boys in need of hope and healing. Partnering with their families, the Ranch pursues family restoration.",
+      "id": "814491038941319168",
+      "username": "TheRanchWV"
+    },
+    {
+      "name": "Chadron State College",
+      "description": "Founded in 1911, Chadron State College is the only four-year, regionally-accredited college in the western half of Nebraska. #WeAreCSC #ChadronStateCollege",
+      "id": "107192100",
+      "username": "chadronstate"
+    },
+    {
+      "name": "JournalStar Neb news",
+      "description": "Lincoln Journal Star headlines from around the state of Nebraska.",
+      "id": "25099464",
+      "username": "LJSNebraskaNews"
+    },
+    {
+      "name": "Secretary Pompeo",
+      "description": "This account has been archived. You can follow former U.S. Secretary of State Mike Pompeo at @mikepompeo. For U.S. State Department updates, follow @StateDept.",
+      "id": "988573326376427520",
+      "username": "SecPompeo"
+    },
+    {
+      "name": "GIHallEMA",
+      "description": "The City of Grand Island and Hall County Emergency Management Department and 911 Dispatch Center",
+      "id": "563194036",
+      "username": "GIHallEMA"
+    },
+    {
+      "name": "Hastings Police Dept",
+      "description": "Hastings, NE Police Department. This account is not monitored for emergencies or anything requiring a police response. #LESM #Police #PublicSafety #9PMRoutine",
+      "id": "701335454726037504",
+      "username": "PoliceHastings"
+    },
+    {
+      "name": "FarmHer™",
+      "description": "Shining a light on women in agriculture. \n\nImages + Events + TV + Radio + Podcast + Merchandise",
+      "id": "1582042242",
+      "username": "Farmher1"
+    },
+    {
+      "name": "RFD-TV",
+      "description": "The Official Twitter Page for RFD-TV Rural America\u0027s Most Important Network.",
+      "id": "43970862",
+      "username": "OfficialRFDTV"
+    },
+    {
+      "name": "LitchfieldPS",
+      "description": "",
+      "id": "3242664541",
+      "username": "LitchfieldPS"
+    },
+    {
+      "name": "104.3 KIMB",
+      "description": "? On top of Nebraska | ? 104.3 FM | ? https://t.co/fQ3gGopIJY | ? Free @NewsChannelNE app",
+      "id": "784477054242664449",
+      "username": "1043KIMB"
+    },
+    {
+      "name": "Alpha Gamma Rho - Nebraska",
+      "description": "Official Twitter account of Alpha Gamma Rho-Kappa Chapter at the University of Nebraska-Lincoln. Founded in 1917.",
+      "id": "948786936",
+      "username": "AGR_Nebraska"
+    },
+    {
+      "name": "Coby Mach",
+      "description": "Talk Host at 1400 KLIN and President of LIBA",
+      "id": "3306171393",
+      "username": "CobyMach"
+    },
+    {
+      "name": "U.S. Chamber/Global",
+      "description": "The @USChamber\u0027s International Affairs Division advocates for free enterprise, competitive markets, and rules-based #trade and #investment.",
+      "id": "1183621296",
+      "username": "ChamberGlobal"
+    },
+    {
+      "name": "Nebraska CropWatch",
+      "description": "Crop production and pest management information from University of Nebraska Extension agricultural specialists and educators.",
+      "id": "115402375",
+      "username": "UNL_CropWatch"
+    },
+    {
+      "name": "Nebraska State Fair",
+      "description": "The 2020 Nebraska State Fair will be August 28 - September 7 in Grand Island, NE",
+      "id": "38008920",
+      "username": "NEStateFair"
+    },
+    {
+      "name": "GrowNebraska",
+      "description": "? Founded in Nebraska\n?? Supporting over 400 Small Businesses\n? Marketechconference\n? Tag us #grownebraska\n? info@grownebraska.org\n? Shop https://t.co/SRu8p1D2B9",
+      "id": "15190291",
+      "username": "growneb"
+    },
+    {
+      "name": "City of Norfolk, NE",
+      "description": "The official Twitter of the City of Norfolk, Nebraska.  Note: we will not respond to @NorfolkNE messages.",
+      "id": "45842021",
+      "username": "NorfolkNE"
+    },
+    {
+      "name": "City of Sidney",
+      "description": "The official Twitter Account for the City of Sidney, NE USA. Small town Values....Big Time Opportunities...",
+      "id": "493507413",
+      "username": "CityofSidney"
+    },
+    {
+      "name": "SndHllsPublicSchools",
+      "description": "K-12 Public School system located in Dunning \u0026 Halsey NE.\r\n\r\nOur site is intended as an outreach to our community with up coming events and schedule changes",
+      "id": "229154063",
+      "username": "SandhillsPublic"
+    },
+    {
+      "name": "Pleasanton Schools",
+      "description": "",
+      "id": "972729204",
+      "username": "BulldogsPHS"
+    },
+    {
+      "name": "Gibbon Public School",
+      "description": "Gibbon Public Schools is a Class C school in south central Nebraska.",
+      "id": "1616538973",
+      "username": "GPSBuffs"
+    },
+    {
+      "name": "Neligh News \u0026 Leader",
+      "description": "The Neligh News \u0026 Leader is part of the Antelope County News family.",
+      "id": "589365266",
+      "username": "NelighNews"
+    },
+    {
+      "name": "Channel 8 KLKN-TV",
+      "description": "Official Twitter account for Nebraska\u0027s Trusted News Source. Keeping track of the latest in breaking news, weather and sports.",
+      "id": "34664420",
+      "username": "Channel8ABC"
+    },
+    {
+      "name": "Miss Nebraska",
+      "description": "The official Twitter of #MissNebraska 2021, @morganholen, representing Nebraska at the @MissAmericaOrg Competition!",
+      "id": "3065403522",
+      "username": "MissAmericaNE"
+    },
+    {
+      "name": "Doug Peterson",
+      "description": "Nebraska Attorney General",
+      "id": "2963960540",
+      "username": "AGDougPeterson"
+    },
+    {
+      "name": "Nebraska Natural Resources Conservation Service",
+      "description": "Nebraska NRCS is Helping People Help the Land by working with landowners to conserve natural resources on farm \u0026 ranch land. (Following/RTs don\u0027t\u003dendorsements)",
+      "id": "344143210",
+      "username": "NebraskaNRCS"
+    },
+    {
+      "name": "Nebraska WBB",
+      "description": "Official Women\u0027s Basketball account of Nebraska Athletics.",
+      "id": "64736595",
+      "username": "HuskersWBB"
+    },
+    {
+      "name": "90.3 KRNU",
+      "description": "Lincoln\u0027s New Music Alternative. On air at 90.3 FM or online at https://t.co/HserVGduNY.",
+      "id": "30377024",
+      "username": "903KRNU"
+    },
+    {
+      "name": "KNLV Radio",
+      "description": "Your Ag Empire - KNLV. News, Sports and Weather on The Greatest Hits 93.9 FM and AM1060, 103.9 FM - THE KING, where Country Rules, and https://t.co/yEjCteDoH4",
+      "id": "20717895",
+      "username": "KNLVRadio"
+    },
+    {
+      "name": "Rural Radio Storm Center",
+      "description": "Your Trusted Voice for Weather, @KNEB. Also find us @KNEBNews, @KNEBSports, @KNEBtv, @1017TheTrail",
+      "id": "632483177",
+      "username": "RRNStormCenter"
+    },
+    {
+      "name": "KNEB News",
+      "description": "Your TRUSTED Voice for News! Follow @KNEB, @KNEBStormCenter \u0026 @KNEBSports, @KNEBtv and @1017TheTrail for more!",
+      "id": "1915040533",
+      "username": "KNEBNews"
+    },
+    {
+      "name": "KNEB TV",
+      "description": "https://t.co/BkU3rdMYJX is western Nebraska and eastern Wyoming\u0027s local newscast, featuring a daily newscast--uploaded every weekday, plus LIVE high school sports",
+      "id": "3951159853",
+      "username": "KNEBtv"
+    },
+    {
+      "name": "KNEB Sports",
+      "description": "@KNEB, @KNEBtv, @1017TheTrail - your trusted voice for sports. Also find us @KNEBStormCenter and @KNEBNews",
+      "id": "824301216",
+      "username": "KNEBSports"
+    },
+    {
+      "name": "KUVR Holdrege",
+      "description": "Music From the \u002770s, \u002780s and More! Home for your @holdregedusters @chiefs @huskers @RuralRadioNet right here! Listen at 96.9 FM and 1380 AM https://t.co/IJN2bGkpIx",
+      "id": "751811475920920576",
+      "username": "kuvr1380"
+    },
+    {
+      "name": "HITS 106 KQKY",
+      "description": "The Tri-Cities #1 HIT Music Station! \n#HITS106KQKY\n@Austin2Jacobsen @Greving_23 @MelissaFreeShow @ReidoHits106 @TiagoReyRadio @alexhammeke / Liveline with Mason",
+      "id": "249656180",
+      "username": "HITS106KQKY"
+    },
+    {
+      "name": "KBRX Sports",
+      "description": "",
+      "id": "65454006",
+      "username": "KBRXSports"
+    },
+    {
+      "name": "GI Police",
+      "description": "Official Page of the Grand Island Police Department (Nebraska) || To Protect and Serve ||  Not monitored 24/7 - Dial 911 in case of emergency.",
+      "id": "2329264639",
+      "username": "GIPoliceDept"
+    },
+    {
+      "name": "2DAYFM 103.1",
+      "description": "Central Nebraska\u0027s Hit Music Station 2Day FM 103.1 https://t.co/SLL1kX2iak",
+      "id": "1729268486",
+      "username": "2DAYFM1031"
+    },
+    {
+      "name": "Country 96 (KRGI-FM)",
+      "description": "Nebraska\u0027s Best Country Grand Island\u0027s Flagship Station Follow @OnAirDerek @mattymattradio @JKeenDj @JoshSpanjer @TasteOfCountry\n @KRGINews @KRGIsports",
+      "id": "2444574830",
+      "username": "Country96KRGI"
+    },
+    {
+      "name": "NWVikings",
+      "description": "Twitter account for Northwest Public Schools in Grand Island, NE",
+      "id": "1681490520",
+      "username": "VikingsNW"
+    },
+    {
+      "name": "KRGI Sports Network",
+      "description": "Radio Coverage of Grand Island, Northwest, Central Catholic, Aurora, St Paul, Nebraska, and the Kansas City Chiefs.",
+      "id": "197611435",
+      "username": "KRGIsports"
+    },
+    {
+      "name": "Chadron High School",
+      "description": "’Chadron HS’ on Youtube \u0026 Instagram - ‘Chadron High School Official’ on Facebook - ‘Chadron Cardinal Cast’ on iTunes/Spotify/Stitcher.",
+      "id": "893486278519345152",
+      "username": "ChadronHS"
+    },
+    {
+      "name": "Jeremy J. Anderson ??",
+      "description": "Sports Director @ KCSR/KBPY Radio, Chadron, NE..Raised In Walthill, NE.... College Football Nutcase!! #GoCardsNation #Huskers #WyoPokes",
+      "id": "41852915",
+      "username": "Jeremy_J_KCSR"
+    },
+    {
+      "name": "KRVN sports",
+      "description": "Jayson Jorgensen Sports Director at KRVN radio in Lexington, Nebraska. Radio Voice of UNK Football, Volleyball and Men\u0027s and Women\u0027s Basketball.",
+      "id": "716291245",
+      "username": "JaysonJorgensen"
+    },
+    {
+      "name": "Tiffany Theater",
+      "description": "A Three Screen Theater with 7.1 Digital Sound and Dolby Digital 3D Projection located in Broken Bow, NE.",
+      "id": "59505095",
+      "username": "TiffanyTheater"
+    },
+    {
+      "name": "City of Broken Bow",
+      "description": "",
+      "id": "2984473374",
+      "username": "CityofBroken1"
+    },
+    {
+      "name": "Broken Bow Chamber",
+      "description": "Official Twitter account of the Broken Bow Chamber of Commerce. \"Rooted. But Not Standing Still.\"",
+      "id": "182389966",
+      "username": "BowChamber"
+    },
+    {
+      "name": "CusterCountyChief",
+      "description": "The Custer County Chief provides great local news and sports coverage in Broken Bow and Central Nebraska.",
+      "id": "355712702",
+      "username": "CusterCoChief"
+    },
+    {
+      "name": "KCNI/KBBN Radio",
+      "description": "KCNI 96.3 FM \u0026 1280 AM | KBBN 95.3 FM | Since 1949",
+      "id": "1531758108",
+      "username": "KCNIKBBNRadio"
+    },
+    {
+      "name": "KCNI/KBBN Sports",
+      "description": "All things sports for KCNI/KBBN radio! Tweets from Brent Apperson and sports staff. Watch our video streams here: https://t.co/zk0BWaZPew #nebpreps",
+      "id": "1434764784",
+      "username": "KBBNsports"
+    },
+    {
+      "name": "987 The Big Boy",
+      "description": "? Today’s Best Country | ? 98.7 FM | ? https://t.co/JwKY9fmdZU | ? Free @NewsChannelNE app | #AllAboard ?",
+      "id": "76945302",
+      "username": "TheBigBoy987"
+    },
+    {
+      "name": "Power 99 - Classic Hits",
+      "description": "Power 99 - Classic Hits Radio - KKPR-FM 98.9",
+      "id": "20388226",
+      "username": "KKPR989"
+    },
+    {
+      "name": "Y102",
+      "description": "The Tri-Cities Country Leader! @ScottyOShow + @Y102Lisa 6-10a | Lisa 10-2p | @melissafreeshow 2-7p | @TheBigTime 7p-12m | Take us with you! ?Y102",
+      "id": "289403028",
+      "username": "Y102krny"
+    },
+    {
+      "name": "Gering High School",
+      "description": "",
+      "id": "217563440",
+      "username": "GeringHS"
+    },
+    {
+      "name": "Gering Courier",
+      "description": "",
+      "id": "1286838300",
+      "username": "GeringCourier"
+    },
+    {
+      "name": "Gering Bulldogs",
+      "description": "Gering Public Schools.  Home of the Bulldogs! #GPSBulldogs #BeBlueandGold ?? \n?Oh we are the Gering Bulldogs?",
+      "id": "1688829115",
+      "username": "GeringBulldogs"
+    },
+    {
+      "name": "Bryce Doeschot",
+      "description": "?? Mornings on @1049maxcountry // ?? Farm Broadcaster and Video Producer for @KRVN and @RuralRadioNet  // Host of @MarketJournal //? Christmas Trees",
+      "id": "505425525",
+      "username": "BDoeschot"
+    },
+    {
+      "name": "World-Herald Opinion",
+      "description": "Omaha World-Herald Editorial Page account. Home to opinions, editorial cartoons, civil discussion. Email Public Pulse letters to pulse@owh.com.",
+      "id": "748205033775239168",
+      "username": "OWHopinion"
+    },
+    {
+      "name": "Sonny Perdue",
+      "description": "Husband to Mary, father to 4, Big Buddy to 14. 14th Chancellor of University System of GA. Formerly: 81st Gov of Georgia, 31st Sec. of Ag. Personal account.",
+      "id": "842072478834909184",
+      "username": "SonnyPerdue"
+    },
+    {
+      "name": "News Channel Nebraska",
+      "description": "Bringing people and information together on radio, television and web. Learn more at https://t.co/dPzNJXwrnK. | Sports account: @NCNSports",
+      "id": "2213361787",
+      "username": "NewsChannelNE"
+    },
+    {
+      "name": "Nebraska 511",
+      "description": "Unplanned closures in NE. Managed by Nebraska DOT Operations. We cannot respond to messages/tweets from this account. Not monitored 24/7. Official NE Gov Page.",
+      "id": "811672205436260355",
+      "username": "Nebraska511"
+    },
+    {
+      "name": "City of Grand Island",
+      "description": "Official notices, press releases and city council information for the City of Grand Island.",
+      "id": "818496260101566464",
+      "username": "CityofGI"
+    },
+    {
+      "name": "City of Grand Island",
+      "description": "The City of Grand Island...Working together for a better tomorrow. Today.",
+      "id": "2285267124",
+      "username": "GIcityinfo"
+    },
+    {
+      "name": "KBEAR COUNTRY FM92.3",
+      "description": "Today\u0027s Hot New Country",
+      "id": "2329475910",
+      "username": "kbear923"
+    },
+    {
+      "name": "Rowe Sanctuary",
+      "description": "Audubon\u0027s Rowe Sanctuary, a non-profit, conserves Platte River ecosystems for sandhill cranes and other wildlife through conservation \u0026 education.",
+      "id": "43418968",
+      "username": "rowesanctuary"
+    },
+    {
+      "name": "Nebraska Department of Veterans\u0027 Affairs",
+      "description": "Good Life. Great Sacrifice.\nOfficial Nebraska Government Page for the Nebraska Department of Veterans\u0027 Affairs.",
+      "id": "892386956897914882",
+      "username": "NEVetsAffairs"
+    },
+    {
+      "name": "Susan Ramsett",
+      "description": "Mom, Journalist, Autism Advocate, Aspiring Ally. Gray Television Regional Vice President, Local Media. She/Her/Hers. RTs are not endorsements.",
+      "id": "337144974",
+      "username": "susanramsett"
+    },
+    {
+      "name": "KTIV News Four",
+      "description": "Serving Siouxlanders since 1954, we pride ourselves on being Siouxland\u0027s NewsChannel!",
+      "id": "14789627",
+      "username": "ktivnews"
+    },
+    {
+      "name": "Rep. Don Bacon ??",
+      "description": "Serving the great people of NE-02 ??. Married to Angie, 4 kids, 7 grandkids. Brig Gen ?? USAF (Ret.) Policy questions? Visit://bacon.house.gov",
+      "id": "818975124460335106",
+      "username": "RepDonBacon"
+    },
+    {
+      "name": "City of Kearney, NE",
+      "description": "Providing news \u0026 updates on local government and the Kearney, Nebraska community! Progressive and hard working, a community that works together!",
+      "id": "3075544370",
+      "username": "CityofKearney"
+    },
+    {
+      "name": "Don Bacon ?? ? ??",
+      "description": "Congressman #NE02. Personal \u0026 political commentary. Retired USAF 1??: 16 tours, 5 commands, 4 deployments. Angie\u0027s ? Husband 38 yrs, 4 kids, 7 grandkids.",
+      "id": "3109108467",
+      "username": "DonJBacon"
+    },
+    {
+      "name": "House Budget GOP",
+      "description": "U.S. House of Representatives Committee on the Budget. Working to get our fiscal house in order. Ranking Member @RepJasonSmith. https://t.co/Wxana3p9XP",
+      "id": "778700700696010754",
+      "username": "housebudgetGOP"
+    },
+    {
+      "name": "Western Caucus",
+      "description": "Chairman @RepNewhouse | The Voice for Rural America ?",
+      "id": "144986277",
+      "username": "westerncaucus"
+    },
+    {
+      "name": "Keya Paha Co. School",
+      "description": "Official Twitter account of Keya Paha County Schools.  A rural school in north central Nebraska and home of the North Central Knights.",
+      "id": "3299628938",
+      "username": "K_P_Schools"
+    },
+    {
+      "name": "Kearney Area Chamber of Commerce",
+      "description": "Promoting the success and profitability of members through INVOLVEMENT, EDUCATION, ADVOCACY \u0026 MARKETING of the Kearney area business community.",
+      "id": "25338193",
+      "username": "KACCNebraska"
+    },
+    {
+      "name": "Potter-Dix Schools",
+      "description": "Potter-Dix Schools is a consolidated district located in the Panhandle of Nebraska.",
+      "id": "3305507371",
+      "username": "pd_schools"
+    },
+    {
+      "name": "Aurora Huskies",
+      "description": "",
+      "id": "976841172",
+      "username": "AuroraHuskies"
+    },
+    {
+      "name": "Wood River Eagles",
+      "description": "Wood River Rural Schools",
+      "id": "2147994690",
+      "username": "wreagles"
+    },
+    {
+      "name": "Boone Central Cardinals",
+      "description": "The official Twitter account of Boone Central Public Schools. https://t.co/gVJyr7oT6K",
+      "id": "2282277008",
+      "username": "BC_Cardinals"
+    },
+    {
+      "name": "Nebraska Medicine",
+      "description": "Nebraska Medicine is the most esteemed academic medical center in the region offering exceptional patient care combined with innovative research and education.",
+      "id": "59576786",
+      "username": "NebraskaMed"
+    },
+    {
+      "name": "NP Close Up",
+      "description": "",
+      "id": "702602292046860288",
+      "username": "npcloseup"
+    },
+    {
+      "name": "North Platte Chamber \u0026 Development",
+      "description": "Chamber \u0026 Economic Development Corporation",
+      "id": "47677184",
+      "username": "NPChamber"
+    },
+    {
+      "name": "NE Governor\u0027s Office",
+      "description": "Official Twitter account for the press office of @GovRicketts.",
+      "id": "4749840584",
+      "username": "NEGovOffice"
+    },
+    {
+      "name": "KRGI News",
+      "description": "Central Nebraska\u0027s News Leader For Over 50 Years!!!!",
+      "id": "1665234343",
+      "username": "KRGINews"
+    },
+    {
+      "name": "Catherine Silver",
+      "description": "Reporter at @News6WKMG",
+      "id": "3008471887",
+      "username": "CatSilverTV"
+    },
+    {
+      "name": "Ogallala Public Schools",
+      "description": "",
+      "id": "2176764332",
+      "username": "OGIndians"
+    },
+    {
+      "name": "KTCH/KCTY",
+      "description": "Our mission is to provide news, weather, sports and entertainment related to our community. KTCH - FM 104.9, KCTY - FM/AM 98.9/1590 and https://t.co/cA4MfIakz9.",
+      "id": "2788668385",
+      "username": "KTCHRadio"
+    },
+    {
+      "name": "ChadronPublicSchools",
+      "description": "Official account of Chadron Public Schools located in Chadron, NE. #GoCardsNation #ChadronCardinals",
+      "id": "312718457",
+      "username": "CPSCardinals"
+    },
+    {
+      "name": "Ronnie D. Green",
+      "description": "Chancellor",
+      "id": "974583805",
+      "username": "RonnieDGreen"
+    },
+    {
+      "name": "Kyle Hoehner",
+      "description": "",
+      "id": "44030609",
+      "username": "kylehoehner"
+    },
+    {
+      "name": "SSC Chamber \u0026 Tourism",
+      "description": "South Sioux City Area Chamber of Commerce \u0026 Tourism",
+      "id": "868184347",
+      "username": "SSCChamberCVB"
+    },
+    {
+      "name": "KSCJ AM/FM",
+      "description": "Talk Radio 1360 AM / FM 94.9 KSCJ, Sioux City, Iowa. Open Line, Rush, Hannity, Iowa Hawkeyes, Kansas City Chiefs, Sioux City Explorers and High School Sports.",
+      "id": "296601645",
+      "username": "kscj1360"
+    },
+    {
+      "name": "We Support Ag",
+      "description": "Our Mission: \nBuild a broad coalition of Nebraska individuals and organizations that will stand behind all Nebraska farmers.",
+      "id": "3182355426",
+      "username": "WSA_NE"
+    },
+    {
+      "name": "Aaron Bly",
+      "description": "President/Executive Director for Kids \u0026 Dreams Foundation \u0026 father of Trae who is 16 years old and has autism. ? Battle On!",
+      "id": "2460333560",
+      "username": "kidsanddreams"
+    },
+    {
+      "name": "ColumbusAreaChamber",
+      "description": "Our mission is to enhance the economic well-being and quality of life in the Columbus, NE area.",
+      "id": "202734302",
+      "username": "colnechamber"
+    },
+    {
+      "name": "Norfolk Area Chamber",
+      "description": "Building Community. Supporting Business.",
+      "id": "2813259080",
+      "username": "NorfolkAreaCham"
+    },
+    {
+      "name": "Institute of Agriculture and Natural Resources",
+      "description": "In the Institute of Agriculture and Natural Resources at the U. of Nebraska we focus on people, and the food, water and natural resources that sustain them.",
+      "id": "17847111",
+      "username": "UNL_IANR"
+    },
+    {
+      "name": "O\u0027Neill High School ?",
+      "description": "Live updates from an Apple Distinguished School in rural Nebraska. #OEaglePride ?",
+      "id": "23210110",
+      "username": "ONeillEagles"
+    },
+    {
+      "name": "KBRX Live",
+      "description": "",
+      "id": "200280287",
+      "username": "KBRXLIVE"
+    },
+    {
+      "name": "O\u0027Neill FFA Chapter",
+      "description": "",
+      "id": "466857196",
+      "username": "ONeill_FFA"
+    },
+    {
+      "name": "Bloomfield FFA",
+      "description": "Bloomfield-Wausa FFA",
+      "id": "3301995509",
+      "username": "bloomfieldffa"
+    },
+    {
+      "name": "Gothenburg FFA",
+      "description": "This is the official twitter account of the Gothenburg FFA! Premier Leadership, Personal Growth, Career Success.",
+      "id": "1273382197",
+      "username": "GothenburgFFA"
+    },
+    {
+      "name": "St. EdwardFCCLA",
+      "description": "",
+      "id": "2302094330",
+      "username": "StEdwardFCCLA"
+    },
+    {
+      "name": "Nebraska FCCLA",
+      "description": "The ultimate leadership experience! #NEFCCLA #FutureisYours #spreadtheredne",
+      "id": "181389837",
+      "username": "NebraskaFCCLA"
+    },
+    {
+      "name": "NACo",
+      "description": "Strengthening America’s Counties. Official Twitter page for the National Association of Counties (NACo).",
+      "id": "44916396",
+      "username": "NACoTweets"
+    },
+    {
+      "name": "Rep. Mike Kelly",
+      "description": "U.S. Representative Mike Kelly proudly serves the people of Pennsylvania\u0027s 16th District (#PA16) and is a member of the House Ways \u0026 Means Committee. ????",
+      "id": "935368364",
+      "username": "MikeKellyPA"
+    },
+    {
+      "name": "Trade For America",
+      "description": "Trade for America will highlight the economic and strategic benefits of trade in the daily lives of Americans.",
+      "id": "2984742158",
+      "username": "Trade4America"
+    },
+    {
+      "name": "KMMJ AM750 \u0026 FM104.3",
+      "description": "Keeping Minds on the Message of Jesus across Southern South Dakota, Nebraska and Kansas with Southern Gospel Music and Bible Teaching programs!",
+      "id": "3047382577",
+      "username": "KmmjAm750"
+    },
+    {
+      "name": "Philip Brasher",
+      "description": "Executive editor, @agripulse @UTAustin @AP @DMRegister @CQRollCall",
+      "id": "116877154",
+      "username": "PhilipBrasher"
+    },
+    {
+      "name": "John R Parkinson",
+      "description": "@ABC Reporter / Producer, husband to @salcary, daddy to J.J. \u0026 Graham ? #baraboo",
+      "id": "26596727",
+      "username": "jparkABC"
+    },
+    {
+      "name": "American Farm Bureau",
+      "description": "America\u0027s largest general farm organization, comprised of and directed by farm and ranch families who engage in all types of food, fuel and fiber production.",
+      "id": "20957191",
+      "username": "FarmBureau"
+    },
+    {
+      "name": "U.S. House History",
+      "description": "U.S. House History is the official Twitter account of the History, Art \u0026 Archives of the U.S. House of Representatives",
+      "id": "906782533",
+      "username": "USHouseHistory"
+    },
+    {
+      "name": "CathyMcMorrisRodgers",
+      "description": "Proudly serving Washington\u0027s beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "id": "17976923",
+      "username": "cathymcmorris"
+    },
+    {
+      "name": "GOP en Español",
+      "description": "Somos la Conferencia Republicana en la Cámara de Representantes de los Estados Unidos | @HouseGOP",
+      "id": "1138688364",
+      "username": "GOPEspanol"
+    },
+    {
+      "name": "6 News WOWT",
+      "description": "We\u0027re on your side! Get the latest breaking news, sports, and 6 First Alert Weather. News tips: sixonline@wowt.com - Pics \u0026 vids: https://t.co/wNKxSsTqYW",
+      "id": "23447418",
+      "username": "WOWT6News"
+    },
+    {
+      "name": "Nick Bergin",
+      "description": "All opinions are my own.",
+      "id": "33611223",
+      "username": "Small_Town_Nick"
+    },
+    {
+      "name": "Joe Duggan",
+      "description": "Former journalist now in corporate comms. Loving life in Nebraska but forever loyal to my alma mater. Go Hawks!",
+      "id": "431087320",
+      "username": "JoeDugganVerba"
+    },
+    {
+      "name": "Dept. of Agriculture",
+      "description": "Leadership on #food, #agriculture, natural resources, #rural development, #nutrition, \u0026 related issues based on public policy, science, \u0026 effective management.",
+      "id": "61853389",
+      "username": "USDA"
+    },
+    {
+      "name": "U.S. Capitol",
+      "description": "Official twitter account for the U.S. Capitol Visitor Center. Beginning Monday, May 30, tours are available Monday-Friday from 9am-3pm. Reserve a tour today.",
+      "id": "135931182",
+      "username": "visitthecapitol"
+    },
+    {
+      "name": "NE Rural Health",
+      "description": "Providing a unified voice to promote and enhance the quality of rural health in Nebraska.",
+      "id": "125078191",
+      "username": "NE_Rural_Health"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "Nebraska Chamber",
+      "description": "The Nebraska Chamber of Commerce \u0026 Industry has proudly served as the voice of Nebraska\u0027s business community since 1912.",
+      "id": "1967548398",
+      "username": "NebraskaChamber"
+    },
+    {
+      "name": "The NAM",
+      "description": "The National Association of Manufacturers works for the success of the people who make things in ??. We are the industry’s one-stop resource and voice.",
+      "id": "26777550",
+      "username": "ShopFloorNAM"
+    },
+    {
+      "name": "Brad Ashford",
+      "description": "Husband, father, and former business owner. Former Congressman from Nebraska\u0027s 2nd Congressional District. #NE02",
+      "id": "2964351843",
+      "username": "RepBradAshford"
+    },
+    {
+      "name": "Alexandra Stone",
+      "description": "Fan of coffee, snacks, greeting cards. Sometimes I jog and cook. Opinions are my own.",
+      "id": "595982564",
+      "username": "_AlexandraStone"
+    },
+    {
+      "name": "Siouxland Chamber",
+      "description": "Siouxland Chamber of Commerce, Serving the Tri-State Region",
+      "id": "24962849",
+      "username": "SiouxlndChamber"
+    },
+    {
+      "name": "NE National Guard",
+      "description": "Official twitter for the Nebraska Army and Air National Guard. Follows and interactions are not endorsements. #GoodLifeGreatStrength #NEGuard",
+      "id": "50326595",
+      "username": "NENationalGuard"
+    },
+    {
+      "name": "Gov. Pete Ricketts",
+      "description": "40th Governor of Nebraska",
+      "id": "2891165960",
+      "username": "GovRicketts"
+    },
+    {
+      "name": "Sidney Sun Telegraph",
+      "description": "Updates from http://t.co/qwjDQy59 and The Sidney Sun-Telegraph",
+      "id": "993964483",
+      "username": "SunTelegraph"
+    },
+    {
+      "name": "Pat Tiberi",
+      "description": "Husband, Father, Son, OSU Alum, TBDBITL, #Buckeye fan.",
+      "id": "912608010",
+      "username": "PatTiberi"
+    },
+    {
+      "name": "Howard Elementary",
+      "description": "Grand Island Public Schools: Every Student, Every Day, A Success! #WeAreGIPS #GIHuskyLearners #RiseGI",
+      "id": "1528527296",
+      "username": "HowardGI"
+    },
+    {
+      "name": "GIPS",
+      "description": "Every Student, Every Day, A Success! \nOfficial twitter account for Grand Island Public Schools in Nebraska.\n#WeAreGIPS",
+      "id": "820243627",
+      "username": "GIPublicSchools"
+    },
+    {
+      "name": "Nebraska Tourism",
+      "description": "The official page of the Nebraska Tourism Commission. Order your free 2023 Travel Guide today at https://t.co/TmulDDGmBa. #visitnebraska",
+      "id": "18951016",
+      "username": "NebraskaTourism"
+    },
+    {
+      "name": "University of Nebraska-Lincoln",
+      "description": "The University of Nebraska–Lincoln, a top tier research \u0026 Big Ten university. Home of the Huskers. For news: @NebToday #UNL #NUforNE #InOurGritOurGlory",
+      "id": "762288787",
+      "username": "UNLincoln"
+    },
+    {
+      "name": "Nebraska Huskers",
+      "description": "The official Twitter account of the Nebraska Athletic Department. Proud member of the Big Ten Conference. GO BIG RED! #GBR",
+      "id": "116871109",
+      "username": "Huskers"
+    },
+    {
+      "name": "Mike Riley",
+      "description": "",
+      "id": "121580502",
+      "username": "Coach_Riley"
+    },
+    {
+      "name": "Ethen Herrington",
+      "description": "Reporter/Anchor for @KNOPTV News 2 in North Platte, NE. Oklahoma born and proud alum of @NSURiverhawks",
+      "id": "2723691461",
+      "username": "EthenKNOP"
+    },
+    {
+      "name": "Kristyna Engdahl",
+      "description": "Director of Communications at @mecaomaha. Former news reporter, pro talker. Alter egos: @CHICenterOmaha, @CharlesSchwabFO \u0026 @OmahaRiverFront. Opinions are mine.",
+      "id": "15612314",
+      "username": "KristynaEngdahl"
+    },
+    {
+      "name": "Josh Spreiter",
+      "description": "Featuring good news \u0026 sharing smiles #InThe608 | @WISCTV_News3 This Morning (CBS Madison) | #Minnesota Native | #SMSU Alum | #BeYou????",
+      "id": "27982630",
+      "username": "JoshSpreiterTV"
+    },
+    {
+      "name": "NTV\u0027s Good Life",
+      "description": "NTV\u0027s Good Life is a morning talk show that highlights the best of Nebraska!",
+      "id": "32466482",
+      "username": "NTVsGoodLife"
+    },
+    {
+      "name": "Steve Liewer",
+      "description": "MIlitary reporter, Omaha World-Herald. Mizzou J-grad. Former combat correspondent, Stars and Stripes. 4th-generation Nebraska journalist.",
+      "id": "1872070915",
+      "username": "SteveLiewer"
+    },
+    {
+      "name": "KFXL Fox Nebraska",
+      "description": "From Lincoln to the Tri-Cities to North Platte, KFXL is Nebraska\u0027s Fox Affiliate. KFXL Nightly, Weeknights at 9.",
+      "id": "359998128",
+      "username": "KFXLFoxNebraska"
+    },
+    {
+      "name": "Jon Jankowski",
+      "description": "Former local news journalist  - Kent State Graduate. From the Philly Suburbs, living in the Orlando Suburbs - Philly sports fan, pro wrestling fan",
+      "id": "382256341",
+      "username": "JonJankowskiTV"
+    },
+    {
+      "name": "World-Herald Huskers",
+      "description": "The latest Husker sports news from the Omaha World-Herald (@OWHnews).",
+      "id": "32634863",
+      "username": "OWHhuskers"
+    },
+    {
+      "name": "David Earl",
+      "description": "Seek first to understand. A #millennial ? owner. Likes:???????????????. #MIZ. RTs ? support.",
+      "id": "140980387",
+      "username": "DavidEarlLive"
+    },
+    {
+      "name": "KETV NewsWatch 7",
+      "description": "Omaha’s favorite source for local news, weather and sports: https://t.co/T3fkJzpOcV.",
+      "id": "19098792",
+      "username": "KETV"
+    },
+    {
+      "name": "Visit North Platte",
+      "description": "The North Platte/Lincoln County Visitors Bureau, in North Platte Nebraska",
+      "id": "104941960",
+      "username": "NorthPlatteNEBR"
+    },
+    {
+      "name": "Nebraska 4-H",
+      "description": "In 4-H we believe in the power of young people. #NE4H empowers youth to be true leaders through camps, clubs, school enrichment, and afterschool programs.",
+      "id": "44924658",
+      "username": "Nebraska4H"
+    },
+    {
+      "name": "Gray Television Washington News Bureau",
+      "description": "Our Team: https://t.co/tgMpTuHCEU\nAbout our Bureau: https://t.co/glQZgWApDs\nAbout Gray TV: https://t.co/3itnO0B5po\n#WeAreLocal",
+      "id": "3305610617",
+      "username": "GrayDCnews"
+    },
+    {
+      "name": "Tyler Cavalli",
+      "description": "Program Director for @krvn ?. Join me M-F from 10AM-2PM on 880. Narrator?high school athletics ??????.",
+      "id": "1075655094",
+      "username": "RadioCavalli"
+    },
+    {
+      "name": "Bridget Fargen",
+      "description": "News Director for WSAW in Wausau, Wisconsin. Send story ideas to news@wsaw.com",
+      "id": "204450502",
+      "username": "BridgetFargen"
+    },
+    {
+      "name": "Aurora News-Register",
+      "description": "The Aurora News-Register -- Hamilton County\u0027s No. 1 news source. Our community. Your newspaper.",
+      "id": "426299281",
+      "username": "NewsregisterANR"
+    },
+    {
+      "name": "Rural Radio Network",
+      "description": "Our ag information radio network serves all of Nebraska and a large part of Kansas, Iowa, S Dakota, Wyoming and Colorado. Flagship stations are KRVN-KTIC-KNEB.",
+      "id": "3063438354",
+      "username": "RuralRadioNet"
+    },
+    {
+      "name": "Ag Net",
+      "description": "We cover Ag News \u0026 Commodities for Central Nebraska.",
+      "id": "3022753388",
+      "username": "AgNetNebraska"
+    },
+    {
+      "name": "LNK Today on KLIN",
+      "description": "Hear Jack, Mark, and Kaleb on @KLINRadio weekday mornings from 6-9!",
+      "id": "2748805644",
+      "username": "LNKToday"
+    },
+    {
+      "name": "Republican Cloakroom",
+      "description": "This feed provides live Floor and voting updates. Operated by the Republican Leader’s Office.",
+      "id": "1137600571",
+      "username": "RepCloakroom"
+    },
+    {
+      "name": "Sallie Clark",
+      "description": "Mayoral Candidate COS, Business entrepreneur, Past State Director USDA Rural Development, Commissioner, Councilmember, President-National Assn of Counties",
+      "id": "349368797",
+      "username": "SallieClark"
+    },
+    {
+      "name": "Patrick McHenry",
+      "description": "I represent the citizens of North Carolina’s 10th District in the United States Congress.",
+      "id": "27676828",
+      "username": "PatrickMcHenry"
+    },
+    {
+      "name": "Nebraska.gov",
+      "description": "The Official State Government Website for Nebraska",
+      "id": "15310749",
+      "username": "Nebraskagov"
+    },
+    {
+      "name": "Senator Ben Sasse",
+      "description": "The press office account of U.S. Sen. Sasse. His (less political/hopefully more interesting) personal account is @ BenSasse.",
+      "id": "2962923040",
+      "username": "SenSasse"
+    },
+    {
+      "name": "Jen Rae Wang",
+      "description": "Loves life, positivity \u0026 adventure. Comms pro, amateur astronomer. Proud #USMC wife. Orion, Lyra, \u0026 Caelum\u0027s mama. Opinions my own. RTs not endorsements.",
+      "id": "2882178818",
+      "username": "JenRaeWang"
+    },
+    {
+      "name": "Charlie Cook",
+      "description": "Non-partisan political analyst. Founder and Contributor to The Cook Political Report with Amy Walter, political analyst for National Journal and NBC News.",
+      "id": "2657143946",
+      "username": "CharlieCookDC"
+    },
+    {
+      "name": "Dawson Public Power",
+      "description": "Call 308-324-2386 to report an outage. FB: DawsonPublicPower. A public electric utility system serving south central #NE along the Platte River Valley.",
+      "id": "22024451",
+      "username": "DawsonPower"
+    },
+    {
+      "name": "Arapahoe Chamber",
+      "description": "Located in the heart of the Republican River Valley in southwest Nebraska, Arapahoe is a progressive, rural community with a thriving business district.",
+      "id": "536904495",
+      "username": "ArapahoeChamber"
+    },
+    {
+      "name": "NPPC",
+      "description": "The National Pork Producers Council is the global voice for the U.S. pork industry.",
+      "id": "18943752",
+      "username": "NPPC"
+    },
+    {
+      "name": "4-H",
+      "description": "Young people have limitless potential. We’re here to share it.",
+      "id": "14107459",
+      "username": "4H"
+    },
+    {
+      "name": "Fred Knapp",
+      "description": "Reporter/producer for Nebraska Public Media",
+      "id": "46562327",
+      "username": "fredmknapp"
+    },
+    {
+      "name": "Melissa Fry",
+      "description": "Morning \u0026 5pm anchor @KETV, wife, Mom, stepmom, dog mom. I\u0027m a work in progress tweeter...",
+      "id": "402123776",
+      "username": "MelissaFry7"
+    },
+    {
+      "name": "National Cattlemen\u0027s Beef Association",
+      "description": "The definitive voice of U.S. cattle \u0026 beef producers since 1898. Fighting to keep our industry profitable, sustainable, and strong for generations to come.",
+      "id": "55045856",
+      "username": "BeefUSA"
+    },
+    {
+      "name": "Josh Kellams",
+      "description": "Dir. of Subscriber Analytics - Lee Enterprises. Former @1011_News Anchor. Omaha native. @UNLincoln @NHLBlackhawks @Cubs @F1 Opinions \u003d my own.",
+      "id": "290759989",
+      "username": "JoshKellams"
+    },
+    {
+      "name": "NCBA\u0027s Beltway Beef",
+      "description": "The National Cattlemen\u0027s Beef Association\u0027s policy division in Washington, D.C. We are marching the halls of Congress fighting on behalf of cattlemen and women.",
+      "id": "26820795",
+      "username": "BeltwayBeef"
+    },
+    {
+      "name": "Natalie Krings",
+      "description": "Nebraskan in DC. #TheGoodLife",
+      "id": "72615525",
+      "username": "kringsnatalie"
+    },
+    {
+      "name": "Jeremy Maskel, APR",
+      "description": "#SchoolPR and Communications Pro. @NSPRA 35 Under 35. Former journalist. I lead an overly caffeinated life. #MizzouMade #OPSProud",
+      "id": "72391808",
+      "username": "JerMaskel"
+    },
+    {
+      "name": "George Bush",
+      "description": "A tribute site to the 41st President of the United States of America. Learn more at @BushFdn.",
+      "id": "475988505",
+      "username": "GeorgeHWBush"
+    },
+    {
+      "name": "Nebraska FFA",
+      "description": "•Learning to Do, Doing to Learn, Earning to Live, Living to Serve•",
+      "id": "528688868",
+      "username": "NebraskaFFA"
+    },
+    {
+      "name": "Scottsbluff Schools",
+      "description": "Public School District serving Scottsbluff, NE whose motto is: Every Child, Every Day #bearcatpride",
+      "id": "415139460",
+      "username": "scbpubschools"
+    },
+    {
+      "name": "NBCNeb Scottsbluff",
+      "description": "Committed to the Panhandle.",
+      "id": "2189073337",
+      "username": "NBCScottsbluff"
+    },
+    {
+      "name": "NE Jobs \u0026 Energy",
+      "description": "The Keystone XL Pipeline will result in good paying Nebraska jobs and increased energy security for America.",
+      "id": "378771113",
+      "username": "nejobsandenergy"
+    },
+    {
+      "name": "Falls City Tigers",
+      "description": "Official Twitter account for Falls City Public Schools.",
+      "id": "981310242",
+      "username": "FallsCityPS"
+    },
+    {
+      "name": "BHS- Activities/Athletics",
+      "description": "Official Twitter account for BHS. Communicating official BHS activity/athletic information to our shareholders. #gobigO #goladyO",
+      "id": "1365707910",
+      "username": "BeatriceHigh"
+    },
+    {
+      "name": "Lauren Conley",
+      "description": "",
+      "id": "310036648",
+      "username": "ConleyLauren"
+    },
+    {
+      "name": "Archive: Rep. Bradley Byrne",
+      "description": "Represented Alabama’s First Congressional District from 2014-2020.",
+      "id": "2253968388",
+      "username": "RepByrne"
+    },
+    {
+      "name": "FixOurTaxCode",
+      "description": "Tax reform has two primary goals. 1. Make the tax code simpler and fairer for families and employers. 2. Strengthen the economy",
+      "id": "2194467816",
+      "username": "FixOurTaxCode"
+    },
+    {
+      "name": "Business Roundtable",
+      "description": "BRT is an association of CEOs of leading US companies working to promote a thriving economy \u0026 expanded opportunity for all Americans through sound public policy",
+      "id": "44682276",
+      "username": "BizRoundtable"
+    },
+    {
+      "name": "Platte Institute",
+      "description": "We advance policies that remove barriers to growth and opportunity in Nebraska. A Blueprint Nebraska Alliance Partner. More at: https://t.co/QWnhTnnQcF",
+      "id": "32110862",
+      "username": "PlatteInstitute"
+    },
+    {
+      "name": "Deena Winter",
+      "description": "Cowgurl flunky; news junkie. Started at the Northwood Gleaner now I\u0027m here, 282 miles southeast. Oldest reporter at the Minnesota Reformer. DM or Signal me tips",
+      "id": "157015247",
+      "username": "deenafaywinter"
+    },
+    {
+      "name": "NPPD",
+      "description": "Nebraska Public Power District, a public power utility, operates an integrated electric utility system to serve more than 530,000 Nebraskans.",
+      "id": "55264547",
+      "username": "NPPDnews"
+    },
+    {
+      "name": "FEMA Region 7",
+      "description": "FEMA Region 7 - This channel provides FEMA mission-related information. For emergencies, call local fire/EMS/police or 9-1-1. Serving IA, KS, MO, NE. #preplist",
+      "id": "18487299",
+      "username": "femaregion7"
+    },
+    {
+      "name": "Nebraska Emergency Management Agency",
+      "description": "Nebraska Emergency Management Agency works to reduce risk to the citizens and communities of Nebraska from natural, technological and man-made disasters.",
+      "id": "314670099",
+      "username": "NEMAtweets"
+    },
+    {
+      "name": "ITA",
+      "description": "The International Trade Administration is your U.S. government resource for export promotion, industry competitiveness, trade and investment information.",
+      "id": "19112923",
+      "username": "TradeGov"
+    },
+    {
+      "name": "Keith Rothfus",
+      "description": "Thank you for visiting my Twitter account. From 1/3/2013 through 1/3/2019, I was privileged to serve PA’s 12th Congressional District.",
+      "id": "1155212191",
+      "username": "KeithRothfus"
+    },
+    {
+      "name": "Team Jack",
+      "description": "Team Jack Foundation has raised millions of dollars for impactful child brain cancer research and works to create national awareness for the disease.",
+      "id": "637342380",
+      "username": "TeamJack"
+    },
+    {
+      "name": "U.S. Rep. Billy Long",
+      "description": "Representing Missouri’s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+      "id": "1444015610",
+      "username": "USRepLong"
+    },
+    {
+      "name": "USO",
+      "description": "The USO strengthens America’s military service members by keeping them connected to family, home and country. (Retweets, likes, follows \u0026 links ? endorsements.)",
+      "id": "36681590",
+      "username": "The_USO"
+    },
+    {
+      "name": "Rep. Andy Barr",
+      "description": "KY-06 District Congressman \u0026 Member of House Foreign Affairs \u0026 Financial Services Committees.",
+      "id": "1089334250",
+      "username": "RepAndyBarr"
+    },
+    {
+      "name": "Max \u0026 Dave",
+      "description": "Chairmen Max Baucus and Dave Camp are working to simplify taxes and give the economy a boost. Want to help? Tweet at us, visit the site and get involved.",
+      "id": "1246763515",
+      "username": "simplertaxes"
+    },
+    {
+      "name": "Jeanie Kenkel",
+      "description": "",
+      "id": "82508334",
+      "username": "vamosdavid"
+    },
+    {
+      "name": "Humanities Nebraska",
+      "description": "Humanities Nebraska helps people explore what connects us and makes us human.",
+      "id": "260840899",
+      "username": "HumanitiesNe"
+    },
+    {
+      "name": "York News-Times",
+      "description": "",
+      "id": "6264712",
+      "username": "yorknewstimes"
+    },
+    {
+      "name": "American Sugar Alliance",
+      "description": "We are a coalition of sugarcane and sugarbeet producers. \n\n?: Sugarbeet cover photo provided by Todd Werbelow, grower in Wyoming.",
+      "id": "846150961",
+      "username": "SugarAlliance"
+    },
+    {
+      "name": "Nebraska State Patrol",
+      "description": "Nebraska State Patrol: Nebraska\u0027s only statewide full service law enforcement agency. Account not monitored 24/7. Report emergencies to 911. #PatrolTheGoodLife",
+      "id": "205757271",
+      "username": "NEStatePatrol"
+    },
+    {
+      "name": "Nebraska Society DC",
+      "description": "Strengthening cultural ties, binding Nebraskans living in the Washington, D.C. area, and promoting Nebraska life, its citizens and traditions.",
+      "id": "443046689",
+      "username": "NebraskaSociety"
+    },
+    {
+      "name": "Central City NE",
+      "description": "The official Twitter profile of Central City, Nebraska. Let us help your business operation be the “Center of it All!”",
+      "id": "267227355",
+      "username": "CentralCityNE"
+    },
+    {
+      "name": "NTV\u0027s Grow",
+      "description": "All things ag, from the award winning team of @ntvnews! Watch every Sunday 10:35 pm.",
+      "id": "1228362463",
+      "username": "NTVsGrow"
+    },
+    {
+      "name": "Senator Deb Fischer",
+      "description": "United States Senator for Nebraska",
+      "id": "1071402577",
+      "username": "SenatorFischer"
+    },
+    {
+      "name": "Rep. David Valadao",
+      "description": "Proudly Representing California\u0027s 21st Congressional District.",
+      "id": "1128514404",
+      "username": "RepDavidValadao"
+    },
+    {
+      "name": "Rep. John Larson",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "id": "50452197",
+      "username": "RepJohnLarson"
+    },
+    {
+      "name": "Colin Murphy",
+      "description": "Born in West Chester, PA and love my Philly Sports teams.I moved to Nebraska to become a Sports Anchor but switched to News Anchor for News 5 at Five \u0026 Six",
+      "id": "43754160",
+      "username": "cmurphykhas"
+    },
+    {
+      "name": "Armed Services GOP",
+      "description": "The House Armed Services Committee Republicans; Twitter feed of the latest committee news and updates. \n\nRanking Member: @RepMikeRogersAL",
+      "id": "20192403",
+      "username": "HASCRepublicans"
+    },
+    {
+      "name": "Nebraska Ag Economics",
+      "description": "The Department of Agricultural Economics at the University of Nebraska-Lincoln\n\n#UNL #ThisisCASNR #InOurGritOurGlory",
+      "id": "159122407",
+      "username": "UNLAgEcon"
+    },
+    {
+      "name": "NE Pork Producers",
+      "description": "Serving Nebraska’s pork industry –           Responsible people.\n           Sustainable pork.?",
+      "id": "60942342",
+      "username": "NEporkproducers"
+    },
+    {
+      "name": "Financial Services GOP",
+      "description": "U.S. House Committee on Financial Services Republicans – Ranking Member @PatrickMcHenry",
+      "id": "42924141",
+      "username": "FinancialCmte"
+    },
+    {
+      "name": "Leadership Hastings",
+      "description": "Leadership Program for the Hastings Area",
+      "id": "94412085",
+      "username": "Ldrshiphastings"
+    },
+    {
+      "name": "University of Nebraska System",
+      "description": "The 4 campuses of the University of Nebraska System are home to 50,000 students \u0026 16,000 employees who serve the state through teaching, research \u0026 outreach.",
+      "id": "243366276",
+      "username": "u_nebraska"
+    },
+    {
+      "name": "Megan Johnson",
+      "description": "Former news reporter, Nebraska native, @HastingsCollege \u002709 - #BroncosEverywhere, Hufflepuff.",
+      "id": "231498633",
+      "username": "MeganJohnsonTV"
+    },
+    {
+      "name": "Sara Kirkley",
+      "description": "Anchor \u0026 Ex. Producer of Good Morning Nebraska \u0026 @NTVNews at Noon | KHGI \u0026 @KFXLFoxNebraska | srkirkley@sbgtv.com | My tweets are mine. Retweets are not.",
+      "id": "46546940",
+      "username": "NTVsSaraKirkley"
+    },
+    {
+      "name": "Eric Olson",
+      "description": "Associated Press sports writer covering Nebraska, Big Ten and national college sports issues. eolson@ap.org",
+      "id": "20176827",
+      "username": "ericolson64"
+    },
+    {
+      "name": "Robynn Tysver",
+      "description": "Coffee nut. Lover of the sun. And, any day spent near water.",
+      "id": "361377083",
+      "username": "RobynnTysver"
+    },
+    {
+      "name": "Connecting Young Nebraskans",
+      "description": "Connecting Young Nebraskans (CYN) empowers young Nebraskans to connect, lead and shape the future of our communities and state",
+      "id": "182844995",
+      "username": "YoungNebraskans"
+    },
+    {
+      "name": "Bill Johnson",
+      "description": "Proudly representing #Ohio\u0027s 6th Congressional District. Energy Enthusiast. Veteran. Husband. Father. Grandfather.",
+      "id": "211530910",
+      "username": "RepBillJohnson"
+    },
+    {
+      "name": "NTV Weather",
+      "description": "When severe weather threatens Central Nebraska and Northern Kansas, count on NTV\u0027s First Alert Weather Team for updates. We take credit for nice days too!",
+      "id": "301696528",
+      "username": "NTVWeather"
+    },
+    {
+      "name": "DowntownHastings",
+      "description": "Downtown Hastings, NE is a great place to live, work, shop and play.  Follow us and we will keep you in the know about what\u0027s going on in Downtown Hastings!",
+      "id": "35626746",
+      "username": "DowntownHTown"
+    },
+    {
+      "name": "? Tyson Havranek",
+      "description": "News Director for KRGI News, Rock DJ, sideline reporter for Northwest ? PXP guy for GICC ? ? ? \u0026 Part time model for all things “dad bod”",
+      "id": "177794402",
+      "username": "Tyson_Havranek"
+    },
+    {
+      "name": "Paul Hammel @paulhammelNE",
+      "description": "Senior reporter, https://t.co/dpXFiL6OHH\nFormerly of Omaha World-Herald\ncovering state government, politics and all things Nebraska",
+      "id": "425305285",
+      "username": "PaulHammelNE"
+    },
+    {
+      "name": "Rep. Austin Scott",
+      "description": "I am proud to represent the 8th Congressional District of Georgia. Committees: @HASCRepublicans and @HouseAgGOP",
+      "id": "234797704",
+      "username": "AustinScottGA08"
+    },
+    {
+      "name": "Nebraska Public Media News",
+      "description": "Trusted media for curious minds. Nebraska Public Media News provides in-depth reporting on issues and stories that are important to Nebraskans.",
+      "id": "217112314",
+      "username": "NebPubMediaNews"
+    },
+    {
+      "name": "Tom Coburn Remembered",
+      "description": "Keeping alive the legacy and courage of former Senator Tom Coburn, M.D.",
+      "id": "18216752",
+      "username": "TomCoburnMD"
+    },
+    {
+      "name": "Senator Todd Young",
+      "description": "I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.",
+      "id": "234128524",
+      "username": "SenToddYoung"
+    },
+    {
+      "name": "House Ed \u0026 Labor Republicans",
+      "description": "Fostering the best opportunities for students to learn, workers to succeed, and job creators to thrive. Republican Leader Rep. @VirginiaFoxx.",
+      "id": "16424044",
+      "username": "EdLaborGOP"
+    },
+    {
+      "name": "Colleen Williams",
+      "description": "News Anchor @NTVNews Likes, retweets, follows ? endorsements cwilliams@nebraska.tv",
+      "id": "297142640",
+      "username": "NTVNewsColleen"
+    },
+    {
+      "name": "House Judiciary GOP",
+      "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+      "id": "1131917492",
+      "username": "JudiciaryGOP"
+    },
+    {
+      "name": "House Rules Republicans",
+      "description": "The official account for Republicans of the House Rules Committee. Ranking Republican @TomColeOK04.",
+      "id": "78369108",
+      "username": "RulesReps"
+    },
+    {
+      "name": "Nebraska DOT",
+      "description": "Official Twitter account of the Nebraska Department of Transportation (NDOT)\n\nPage not monitored 24/7\nFor road conditions, visit: https://t.co/8utghQYvLC",
+      "id": "18942760",
+      "username": "NebraskaDOT"
+    },
+    {
+      "name": "Holdrege Chamber",
+      "description": "A resource for businesses, a partner for growth, and a leader in serving and developing our community--Holdrege, Nebraska!",
+      "id": "322112153",
+      "username": "HoldregeChamber"
+    },
+    {
+      "name": "Wayne State College",
+      "description": "A leading four-year college in Northeast Nebraska, with 130+ programs of study.",
+      "id": "15111096",
+      "username": "waynestcollege"
+    },
+    {
+      "name": "Wayne State College Admissions",
+      "description": "A leading 4yr public state college in Wayne, Nebraska offering 130+ options and one outstanding student experience!",
+      "id": "106782587",
+      "username": "wscadmissions"
+    },
+    {
+      "name": "Nebraska Legislature",
+      "description": "The Unicameral Update is the official news publication of the Nebraska Legislature.",
+      "id": "23473054",
+      "username": "UnicamUpdate"
+    },
+    {
+      "name": "Sam Johnson",
+      "description": "Faithfully serving the Third Congressional District of Texas.",
+      "id": "249288197",
+      "username": "SamsPressShop"
+    },
+    {
+      "name": "CCAI",
+      "description": "Bipartisan, bicameral nonprofit on Capitol Hill raising awareness of the needs of children without families by convening policymakers + amplifying youth voice.",
+      "id": "82649797",
+      "username": "CCAInstitute"
+    },
+    {
+      "name": "NewsRadio 1110 KFAB",
+      "description": "Nebraska\u0027s News, Weather, and Traffic Station",
+      "id": "16405564",
+      "username": "kfabnews"
+    },
+    {
+      "name": "Rep. Kevin Brady",
+      "description": "Dad. Husband. Top Republican @WaysandMeansGOP. Loves: Baseball, Texas, and Tax Reform.",
+      "id": "19926675",
+      "username": "RepKevinBrady"
+    },
+    {
+      "name": "Dennis Ross",
+      "description": "Husband, Father, former Representative for Florida\u0027s 15th Congressional District. https://t.co/IXwSnVOJw5",
+      "id": "33655490",
+      "username": "DennisRossSEU"
+    },
+    {
+      "name": "Emily Stephenson",
+      "description": "Deputy politics editor @wsj. @politico, @Reuters alum. Tar Heel. Make your free throws.",
+      "id": "18881645",
+      "username": "ewstephe"
+    },
+    {
+      "name": "Catherine Crane",
+      "description": "I\u0027m a video journalist for KOLN/KGIN TV Channel 10/11 News.",
+      "id": "200247485",
+      "username": "CatherineCrane"
+    },
+    {
+      "name": "Amber Little",
+      "description": "Digital Director | Follow @1011_News and download our 1011 News app.",
+      "id": "121818397",
+      "username": "AmberLittle1011"
+    },
+    {
+      "name": "NEDeptAg",
+      "description": "",
+      "id": "79267291",
+      "username": "NeDeptAg"
+    },
+    {
+      "name": "Josh Funk",
+      "description": "Loving husband and father. AP reporter covering Warren Buffett\u0027s Berkshire Hathaway, UP, BNSF, CSX, NSC, CP and CN railroads, ag and other Neb. news.",
+      "id": "236536820",
+      "username": "Funkwrite"
+    },
+    {
+      "name": "Nebraska Public Media",
+      "description": "Nebraska Public Media has been dedicated to connecting Nebraskans through news, sports, education and entertainment for nearly 70 years.",
+      "id": "16598217",
+      "username": "NebPublicMedia"
+    },
+    {
+      "name": "NebraskaRighttoLife",
+      "description": "State Affiliate to National Right to Life, working to restore protection to innocent human life.",
+      "id": "61235449",
+      "username": "NERightToLife"
+    },
+    {
+      "name": "Rachel Lake",
+      "description": "I work for KHAS-TV in Hastings, NE as an anchor/weekend reporter. \r\nI graduated from Manchester College in 2007 with a degree in communications.",
+      "id": "119146990",
+      "username": "RachelJeanLake"
+    },
+    {
+      "name": "South Sioux City, NE",
+      "description": "Check out all the events happening in South Sioux City, NE and for Businesses looking to build or relocate their operations at http://t.co/XP4EZjAB5r",
+      "id": "32420373",
+      "username": "SouthSiouxCity"
+    },
+    {
+      "name": "Deb Fischer",
+      "description": "I’m a cattle rancher proudly representing Nebraska in the U.S. Senate.",
+      "id": "323490669",
+      "username": "DebforNebraska"
+    },
+    {
+      "name": "Governor Kristi Noem",
+      "description": "South Dakotan. Wife. Mom. Grandma! Honored to serve as South Dakota\u0027s Governor.",
+      "id": "235251868",
+      "username": "govkristinoem"
+    },
+    {
+      "name": "Darrell Issa",
+      "description": "Entrepreneur, Former CEO, Congressman from California.\n\nVisit my website: https://t.co/cPz4eptLEf",
+      "id": "22509548",
+      "username": "DarrellIssa"
+    },
+    {
+      "name": "James Pethokoukis",
+      "description": "Substack: https://t.co/uCRWhJEUKZ @AEI Fellow. @CNBC Contributor. @Jeopardy! champ. @NorthwesternU. ?? ?? ?????",
+      "id": "16491569",
+      "username": "JimPethokoukis"
+    },
+    {
+      "name": "Mike Allen",
+      "description": "? We wrote a book ... \"Smart Brevity: The Power of Saying More with Less.\"\n\nHow YOU can punch through the noise, be heard.\n\n? Link below to preorder ...",
+      "id": "14246001",
+      "username": "mikeallen"
+    },
+    {
+      "name": "U.S. Chamber",
+      "description": "The world’s largest business organization. We advocate, connect, inform, and fight for business growth and America’s success.",
+      "id": "85606078",
+      "username": "USChamber"
+    },
+    {
+      "name": "Jack Mitchell",
+      "description": "Lincoln attorney turned radio guy. Personal acct to overreact to Husker sports stuff \u0026 tell same jokes over \u0026 over. Unreasonable during games. AKA John Liesveld",
+      "id": "28340001",
+      "username": "JackMitchellLNK"
+    },
+    {
+      "name": "NTV News",
+      "description": "Your most trusted news, covering Nebraska \u0026 Northern Kansas. Tell us what matters to you and join us in the conversation.",
+      "id": "4500691",
+      "username": "NTVNEWS"
+    },
+    {
+      "name": "John M. Bishop",
+      "description": "Radio voice of Creighton Bluejays baseball/basketball. Host of @USC1620 on @1620TheZone 2-6pm. Husband, dad \u0026 walker of Gio \u0026 Wrigley. #FlyTheW #RamsHouse",
+      "id": "39484438",
+      "username": "JohnBishop71"
+    },
+    {
+      "name": "Beatrice Daily Sun",
+      "description": "The Beatrice Daily Sun covers news, sports and entertainment in a five county area in southeast Nebraska. Visit http://t.co/sYbRlwpVAy for more.",
+      "id": "305075576",
+      "username": "BeaDailySunNews"
+    },
+    {
+      "name": "Michael C. Short",
+      "description": "Managing Director @PentaGrp. Past credits: @CFTC, @ShopfloorNAM, @WhiteHouse, @GOP, @RepAdrianSmith, @NRSC, @TeamCornyn.",
+      "id": "98719359",
+      "username": "michaelcshort"
+    },
+    {
+      "name": "Norfolk Daily News",
+      "description": "Look to us for the latest on what\u0027s happening in Norfolk, Northeast and North Central Nebraska.\n\nSubscription services: https://t.co/vjH1yQfQks",
+      "id": "15598152",
+      "username": "NorfolkNews"
+    },
+    {
+      "name": "Star-Herald",
+      "description": "The Star-Herald is western Nebraska\u0027s only daily newspaper. We have served the Panhandle and eastern Wyoming since 1912.",
+      "id": "33619524",
+      "username": "sbstarherald"
+    },
+    {
+      "name": "KNOP-TV",
+      "description": "Official twitter account for @KNOPTV News 2. Be sure to download our KNOP News app.",
+      "id": "390167719",
+      "username": "KNOPTV"
+    },
+    {
+      "name": "Ken Rahjes",
+      "description": "This is a personal account. Small Business Owner, Agriculture Broadcaster, Kansas State representative 110th District (Retweets do not imply endorsement.)",
+      "id": "21839575",
+      "username": "kenrahjes"
+    },
+    {
+      "name": "Bret Hayworth",
+      "description": "Former Sioux City Journal pol reporter 2002-2021. You also get my pop culture faves. Regarding RT\u0027s, \u0027Forever in debt to your priceless advice,\u0027 as Kurt sang.",
+      "id": "36473880",
+      "username": "SCJBretH"
+    },
+    {
+      "name": "Andrew Bottrell",
+      "description": "News editor of the Telegraph, and proud alum of The Chadron State College",
+      "id": "487903934",
+      "username": "NPT_Andrew"
+    },
+    {
+      "name": "KNEB",
+      "description": "KNEB 960 AM/100.3 FM - 94.1 The Brand, Neb Rural Radio Assn. stations. Follow @RRNStormCenter, @KNEBNews, @KNEBSports for more",
+      "id": "14149639",
+      "username": "KNEB"
+    },
+    {
+      "name": "Beef Checkoff",
+      "description": "The Cattlemen\u0027s Beef Promotion And Research Board consists of 101 members, including domestic producers and as well as importers of beef and beef products.",
+      "id": "43334753",
+      "username": "BeefCheckoff"
+    },
+    {
+      "name": "Nebraska Farm Bureau",
+      "description": "Nebraska Farm Bureau supports farm \u0026 ranch families \u0026 works for the benefit of all Nebraskans through a wide variety of educational, service \u0026 advocacy efforts",
+      "id": "21231796",
+      "username": "NEFarmBureau"
+    },
+    {
+      "name": "Nebraska Corn Board",
+      "description": "The mission of the Nebraska Corn Board is to promote the value of corn by creating opportunities. Enhancing demand. Adding Value. Ensuring Sustainability.",
+      "id": "87227715",
+      "username": "NECornBoard"
+    },
+    {
+      "name": "KSNB Local4",
+      "description": "Official Twitter Page of KSNB Local4. Covering Grand Island, Hastings and Kearney.",
+      "id": "15014353",
+      "username": "KSNBLocal4"
+    },
+    {
+      "name": "KHAS Radio",
+      "description": "1230AM and 104.1FM. Hastings Link to Local News, Weather, Markets, and Sports news@khasradio.com",
+      "id": "19524647",
+      "username": "khasradio"
+    },
+    {
+      "name": "KOGA/KMCX-NEWS",
+      "description": "KOGA and KMCX are radio stations that broadcast in southwest Nebraska and northeast Colorado.",
+      "id": "23397717",
+      "username": "KOGAKMCX"
+    },
+    {
+      "name": "Omaha World-Herald",
+      "description": "News tips? Call 402-444-1304 Customer service: 800-234-6942 More OWH accounts: https://t.co/4ytJdDHHOy\n\n\nSupport great journalism: https://t.co/PEz2qasLcQ",
+      "id": "15163577",
+      "username": "OWHnews"
+    },
+    {
+      "name": "Marylyn Barnett",
+      "description": "Farm girl to News Anchor -- now Mom and making each day better and sharing love and laughter every step along the way.",
+      "id": "351671632",
+      "username": "MarylynNews"
+    },
+    {
+      "name": "Steve White",
+      "description": "Chief Reporter for @NTVNews and @KFXLFoxNebraska and host of @NTVsGrow ag program. Journalist telling stories that matter. smwhite@sbgtv.com",
+      "id": "15025049",
+      "username": "NTVsSteveWhite"
+    },
+    {
+      "name": "Seth Denney",
+      "description": "painter, father, lover of Melissa, Christ follower, man of leisure",
+      "id": "353307831",
+      "username": "SethDenneyNews"
+    },
+    {
+      "name": "Robert Pore",
+      "description": "Covering Ag news for The Independent since 2003.",
+      "id": "15837633",
+      "username": "robertpore"
+    },
+    {
+      "name": "KOTA Territory News",
+      "description": "Coverage You Can Count On. KOTA Territory News has been the West River news leader for more than 50 years.",
+      "id": "111385858",
+      "username": "kotatweets"
+    },
+    {
+      "name": "1011 NOW",
+      "description": "Official Twitter account for KOLN/KGIN 10/11 News. We cover what\u0027s happening now live in #LNK. Also follow @1011NOWweather. Download our 1011 NOW app.",
+      "id": "18650417",
+      "username": "1011_News"
+    },
+    {
+      "name": "1340 KGFW",
+      "description": "Legendary News Talk Sports Radio: Breakfast Flakes, Talk of the Town. Also follow @Austin2Jacobsen @Reido78. Retweets ? endorsements.",
+      "id": "475987201",
+      "username": "1340KGFW"
+    },
+    {
+      "name": "GregAwtry",
+      "description": "Retired Publisher Scottsbluff Star-Herald and York News-Times. Columnist for Alpena News.",
+      "id": "487033450",
+      "username": "GregAwtry"
+    },
+    {
+      "name": "Don Walton",
+      "description": "Writes politics and stuff for @JournalStarNews. Yankees! Huskers!",
+      "id": "234568030",
+      "username": "LJSdon"
+    },
+    {
+      "name": "Nebraska Today",
+      "description": "Official news, happenings and other information from #Nebraska U. Be sure to follow @UNLincoln, too. #Huskers #highered",
+      "id": "17075388",
+      "username": "NebToday"
+    },
+    {
+      "name": "Cody",
+      "description": "",
+      "id": "482356124",
+      "username": "CodyLNK"
+    },
+    {
+      "name": "Wall Street Journal Opinion",
+      "description": "Opinion \u0026 Commentary from The Wall Street Journal.",
+      "id": "7228682",
+      "username": "WSJopinion"
+    },
+    {
+      "name": "Peter Roskam",
+      "description": "Husband, father, and former U.S. Representative for the 6th District of Illinois.",
+      "id": "20015903",
+      "username": "PeterRoskam"
+    },
+    {
+      "name": "Tom Reed",
+      "description": "Owner of 3 dogs, lover of coffee, day job in Washington trying to help people.",
+      "id": "252819323",
+      "username": "TomReedNY23"
+    },
+    {
+      "name": "Diane Black",
+      "description": "Wife to Dave, mom of three, and proud \"Mimi\" to 6 grandchildren. Registered nurse, former #TN06 Congressman, and @HouseBudgetGOP Chair.",
+      "id": "110545675",
+      "username": "RepDianeBlack"
+    },
+    {
+      "name": "Rep. Vern Buchanan",
+      "description": "Serving Florida\u0027s 16th Congressional District",
+      "id": "20467163",
+      "username": "VernBuchanan"
+    },
+    {
+      "name": "KFOR Radio",
+      "description": "Stay Connected to FM 103.3/1240 AM. Schmidt, Carol, Dale \u0026 Jeff Mornings bring you award-winning breaking news, topical talk, KC Chiefs, Royals \u0026 local sports!",
+      "id": "46372446",
+      "username": "KFORRADIO"
+    },
+    {
+      "name": "John Kline",
+      "description": "Served in Congress from 2003-2017. Married to wife, Vicky. Served 25 years in U.S. Marine Corps, retiring at rank of Colonel.",
+      "id": "76350004",
+      "username": "repjohnkline"
+    },
+    {
+      "name": "Former Rep. Kenny Marchant",
+      "description": "Former Rep. Kenny Marchant proudly represented the 24th Congressional District of Texas from Jan. 2005 - Jan. 2021.",
+      "id": "23976316",
+      "username": "RepKenMarchant"
+    },
+    {
+      "name": "Agri-Pulse Communications",
+      "description": "The nation\u0027s leading source of agriculture, food \u0026 energy policy news. Try Agri-Pulse or @agripulsewest free for one month: https://t.co/a0Pwt6Qe08",
+      "id": "106816456",
+      "username": "agripulse"
+    },
+    {
+      "name": "Geoff Davis",
+      "description": "Representing the people of Kentucky\u0027s Fourth Congressional District.",
+      "id": "239561508",
+      "username": "RepGeoffDavis"
+    },
+    {
+      "name": "Nebraska Cattlemen",
+      "description": "Working for Nebraska beef producers- Pasture to Plate.\n\nhttps://t.co/tKezoSNh0M…",
+      "id": "18675067",
+      "username": "NeCattlemen"
+    },
+    {
+      "name": "FarmPolicy",
+      "description": "Keith Good is the Farm Policy News Editor for the farmdoc project at @UofIllinois. @PurdueAgEcon \u0026 @SIUSchoolofLaw alum; grandson of #Illinois family #farmers.",
+      "id": "38833974",
+      "username": "FarmPolicy"
+    },
+    {
+      "name": "John Boehner",
+      "description": "Official Twitter account for former U.S. House Speaker John Boehner (R-OH)",
+      "id": "7713202",
+      "username": "SpeakerBoehner"
+    },
+    {
+      "name": "Paul Ryan",
+      "description": "Office of the 54th Speaker of the House, Paul Ryan.",
+      "id": "18916432",
+      "username": "SpeakerRyan"
+    },
+    {
+      "name": "Lincoln Journal Star",
+      "description": "Lincoln\u0027s longest-standing news source.\nSubscribe: https://t.co/OagPfKbuIP",
+      "id": "23987282",
+      "username": "JournalStarNews"
+    },
+    {
+      "name": "Hastings Tribune",
+      "description": "We\u0027re a 6-day a week daily newspaper in south central Nebraska, serving residents in a 10-county area for more than 100 years.",
+      "id": "182914728",
+      "username": "HastingsTribune"
+    },
+    {
+      "name": "Leavenworth St.",
+      "description": "Leavenworth Street -- the talk of Nebraska politics",
+      "id": "22685766",
+      "username": "LeavenworthSt"
+    },
+    {
+      "name": "Tom Price",
+      "description": "Former U.S. Representative for Georgia\u0027s 6th Congressional District \u0026 served as the 23rd U.S. Secretary of @HHSGov. This and @SecPriceMD are archived accounts.",
+      "id": "6577802",
+      "username": "RepTomPrice"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "The North Platte Telegraph",
+      "description": "North Platte Telegraph: The most reliable news source, in print and online, in west central Nebraska. RT not endorsements",
+      "id": "146558810",
+      "username": "NPTelegraph"
+    },
+    {
+      "name": "Kearney Hub",
+      "description": "Founded in 1888, the Kearney Hub provides award-winning local news reporting on the south-central Nebraska region.  \n\n308-237-2152 or 800-950-6113",
+      "id": "54951024",
+      "username": "KearneyHub"
+    },
+    {
+      "name": "Margery",
+      "description": "Writer for The Associated Press covering courts and politics in Nebraska.",
+      "id": "313467509",
+      "username": "Margery3"
+    },
+    {
+      "name": "Eric Cantor",
+      "description": "Vice Chair and Managing Director, @Moelis; former House Majority Leader. Working to build #AnAmericaThatWorks, #AnAmericaThatLeads. Tweets are my own.",
+      "id": "18891923",
+      "username": "EricCantor"
+    },
+    {
+      "name": "McCook Gazette",
+      "description": "The Official McCook Gazette Twitter Site",
+      "id": "31435635",
+      "username": "mccookgazette2"
+    },
+    {
+      "name": "KRVN Radio",
+      "description": "Official twitter for KRVN ? . Look to us for the latest market numbers, news, weather, ag news, sports, etc. Listen on 106.9 in Kearney \u0026 98.5 in Grand Island",
+      "id": "14149625",
+      "username": "krvn"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Archive: Rep. Jeb Hensarling",
+      "description": "Former Representative for the 5th Congressional District of Texas (2003-2018) and Chairman of the House Financial Services Committee (2013-2018).",
+      "id": "18566912",
+      "username": "RepHensarling"
+    },
+    {
+      "name": "Gov. Dave Heineman",
+      "description": "Former Governor of Nebraska",
+      "id": "19396002",
+      "username": "DaveEHeineman"
+    },
+    {
+      "name": "Jeff Fortenberry",
+      "description": "U.S. Representative for the First Congressional District of Nebraska",
+      "id": "18805303",
+      "username": "JeffFortenberry"
+    },
+    {
+      "name": "Lee Terry",
+      "description": "Proudly served #NE02 in the U.S. House of Representatives 1999 to 2015.   Omaha City Council 1991-1998.   Lawyer.   #Husker Fan #GBR",
+      "id": "18317325",
+      "username": "LEETERRYNE"
+    },
+    {
+      "name": "1400 \u0026 99.3 KLIN",
+      "description": "Lincoln\u0027s #1 News, Talk, and @Huskers station at 1400 AM and 99.3 FM. Home of @LNKToday, Drive Time Lincoln, @HuskersRadio, and more!",
+      "id": "135218663",
+      "username": "KLINRadio"
+    },
+    {
+      "name": "The Grand Island Independent",
+      "description": "The Grand Island, Nebraska Independent. Central Nebraska\u0027s longest-running local news source. Business Hours: 8-5, M-F; 308-382-1000",
+      "id": "10191572",
+      "username": "theindependent"
+    },
+    {
+      "name": "Ways and Means GOP",
+      "description": "Official account of the Senior Committee, with jurisdiction over tax, trade, health care, welfare, and Social Security. ||  Republican Leader, @RepKevinBrady.",
+      "id": "12788332",
+      "username": "WaysandMeansGOP"
+    }
+  ],
+  "id": "296245061",
+  "username": "RepAdrianSmith"
+}

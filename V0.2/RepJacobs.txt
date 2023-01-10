@@ -1,0 +1,756 @@
+{
+  "following": [
+    {
+      "name": "Rep. Adrian Smith",
+      "description": "Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives",
+      "id": "296245061",
+      "username": "RepAdrianSmith"
+    },
+    {
+      "name": "Washington Free Beacon",
+      "description": "In-depth investigative reporting on stories that those in power hope will never see the light of day.",
+      "id": "455764741",
+      "username": "FreeBeacon"
+    },
+    {
+      "name": "Matt Rosendale",
+      "description": "Representing the State of Montana. Husband, Father, Sportsman.",
+      "id": "1344751420139040783",
+      "username": "RepRosendale"
+    },
+    {
+      "name": "Rep. Don Bacon ??",
+      "description": "Serving the great people of NE-02 ??. Married to Angie, 4 kids, 7 grandkids. Brig Gen ?? USAF (Ret.) Policy questions? Visit://bacon.house.gov",
+      "id": "818975124460335106",
+      "username": "RepDonBacon"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "Rep. Dusty Johnson",
+      "description": "South Dakota\u0027s lone U.S. Representative - husband, father, \u0026 proud South Dakotan. Member of @HouseAgGOP \u0026 @TransportGOP.",
+      "id": "1074782372594413569",
+      "username": "RepDustyJohnson"
+    },
+    {
+      "name": "Young Kim",
+      "description": "Wife, mother, immigrant, small business owner, former CA Assemblywoman. Proud to represent #CA39 \u0026 serve on @HouseForeignGOP, @HSBCGOP \u0026 @HouseScienceGOP ??",
+      "id": "1344677401465397249",
+      "username": "RepYoungKim"
+    },
+    {
+      "name": "Ronny Jackson",
+      "description": "Congressman for #TX13 | Former White House Physician \u0026 Retired Navy Rear Admiral | Texan, Veteran, Physician, Leader",
+      "id": "1201953403099893760",
+      "username": "RonnyJacksonTX"
+    },
+    {
+      "name": "Congresswoman Kat Cammack",
+      "description": "Member of @HouseAgGOP, @HomelandGOP, @EconomyGOP | Youngest GOP woman in 117th Congress | Proudly representing #FL03 in the U.S. House ??",
+      "id": "1344325638983987201",
+      "username": "RepKatCammack"
+    },
+    {
+      "name": "Mike Lee",
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "id": "88784440",
+      "username": "SenMikeLee"
+    },
+    {
+      "name": "Rep. Diana Harshbarger",
+      "description": "Proudly representing the great people of East Tennessee. Serving on @EdLaborGOP and @HomelandGOP.",
+      "id": "1345787285179162624",
+      "username": "RepHarshbarger"
+    },
+    {
+      "name": "Tracey Mann",
+      "description": "Official account for Rep. Tracey Mann |Big First, KS | Advocate for KS agriculture and conservative values | serving on @HouseAgGOP and @HouseVetAffairs #KS01",
+      "id": "1345825008887721986",
+      "username": "RepMann"
+    },
+    {
+      "name": "Griff Jenkins",
+      "description": "National Correspondent @foxnews ~ Proud Father of Two Daughters... Surfer... Go Surfing! ????",
+      "id": "346781925",
+      "username": "GriffJenkins"
+    },
+    {
+      "name": "Rep. Tony Gonzales",
+      "description": "Husband to Angel, father x 6, @USNavy Master Chief (Ret.) \u0026 former cryptologist. Proudly serving Texas’ 23rd District on @HouseAppropsGOP ??",
+      "id": "1343627416120532992",
+      "username": "RepTonyGonzales"
+    },
+    {
+      "name": "Office of Rep. Nicole Malliotakis",
+      "description": "Congresswoman for #NY11, former NY State Assemblymember, proud daughter of Greek \u0026 Cuban immigrants | Member of @HouseForeignGOP @TransportGOP \u0026 @SelectGOP",
+      "id": "1344750588026900481",
+      "username": "RepMalliotakis"
+    },
+    {
+      "name": "Darin LaHood",
+      "description": "Proudly representing the 18th District of Illinois. Member of @WaysandMeansGOP and the House Intelligence Committee.",
+      "id": "3686482216",
+      "username": "RepLaHood"
+    },
+    {
+      "name": "Rep. Andrew Garbarino",
+      "description": "Official Twitter account of Rep. Andrew Garbarino. Proudly representing New York\u0027s 2nd Congressional District.",
+      "id": "1344349650447433729",
+      "username": "RepGarbarino"
+    },
+    {
+      "name": "Rep. Michelle Steel",
+      "description": "Korean-American wife, mother \u0026 tax fighter serving #CA48 in Congress. @TransportGOP \u0026 @EdLaborGOP. Living the American dream. ??",
+      "id": "1343740146630451200",
+      "username": "RepSteel"
+    },
+    {
+      "name": "RD_NewYork",
+      "description": "USDA Rural Development provides loans and grants to help expand economic opportunities and create jobs in rural areas. Together, America prospers.",
+      "id": "1311038921279770624",
+      "username": "RD_NewYork"
+    },
+    {
+      "name": "Select Committee Republicans",
+      "description": "Select Subcommittee on the Coronavirus Crisis, Republicans | Est. 2020 | Ranking Member, @SteveScalise",
+      "id": "1261286876142604288",
+      "username": "SelectGOP"
+    },
+    {
+      "name": "New York State School Boards Association",
+      "description": "Better School Boards Lead to Better Student Performance",
+      "id": "171984708",
+      "username": "nyschoolboards"
+    },
+    {
+      "name": "Ron DeSantis",
+      "description": "46th Governor of the great state of Florida.",
+      "id": "1058807868",
+      "username": "GovRonDeSantis"
+    },
+    {
+      "name": "Rep. Matt Gaetz",
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "id": "818948638890217473",
+      "username": "RepMattGaetz"
+    },
+    {
+      "name": "Doug Collins",
+      "description": "Husband, Father, Air Force Chaplain, Iraq Veteran, attorney. Fighting for conservative values. The Doug Collins Podcast: https://t.co/oJeycuxfln",
+      "id": "1060487274",
+      "username": "RepDougCollins"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "WXXI News",
+      "description": "Rochester\u0027s public media news source. \n? AM 1370/FM 107.5/FM 88.5 \n? channel 21.1, cable channel 11 or 1221.\n?Download the WXXI app.",
+      "id": "14354042",
+      "username": "WXXINews"
+    },
+    {
+      "name": "Mark Walker",
+      "description": "Former Member of Congress and Pastor. President, Advancing Hope, USA",
+      "id": "2966205003",
+      "username": "RepMarkWalker"
+    },
+    {
+      "name": "Department of State",
+      "description": "Welcome to the U.S. Department of State Twitter account. Follow @SecBlinken for more from the Secretary. For all Department accounts: https://t.co/kzsNMIOwF9.",
+      "id": "9624742",
+      "username": "StateDept"
+    },
+    {
+      "name": "Department of Defense ??",
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes ? endorsement.",
+      "id": "66369181",
+      "username": "DeptofDefense"
+    },
+    {
+      "name": "Homeland Security",
+      "description": "With honor and integrity, we will safeguard the American people, our homeland, and our values. #WeAreDHS, led by @SecMayorkas and @DepSecTien.",
+      "id": "15647676",
+      "username": "DHSgov"
+    },
+    {
+      "name": "Justice Department",
+      "description": "Official DOJ Twitter account. Please refer to DOJ’s privacy policy for DOJ use of third-party websites here: https://t.co/I4fby253pJ",
+      "id": "73181712",
+      "username": "TheJusticeDept"
+    },
+    {
+      "name": "Treasury Department",
+      "description": "Executive agency responsible for promoting economic prosperity \u0026 ensuring financial security of the United States | Follow @SecYellen \u0026 @TreasuryDepSec for more",
+      "id": "120176950",
+      "username": "USTreasury"
+    },
+    {
+      "name": "U.S. Department of Labor",
+      "description": "Led by @SecMartyWalsh, the Department of Labor serves America\u0027s workers, job seekers and retirees.",
+      "id": "20179628",
+      "username": "USDOL"
+    },
+    {
+      "name": "U.S. Department of Energy",
+      "description": "Building the new energy economy. Reducing environmental risks. Expanding the frontiers of knowledge via innovative scientific research.",
+      "id": "166252256",
+      "username": "ENERGY"
+    },
+    {
+      "name": "U.S. Commerce Dept.",
+      "description": "Welcome to the official Twitter feed of the U.S. Department of Commerce! Follow @SecRaimondo and @DepSecGraves. Newsletter sign-up at https://t.co/R9CVDwAWPs",
+      "id": "110541296",
+      "username": "CommerceGov"
+    },
+    {
+      "name": "SBA",
+      "description": "Empowering small businesses to start, grow, expand or recover. Administrator @SBAIsabel Policies: https://t.co/OvCLpk5sjA Retweets or @ mentions ? endorsements",
+      "id": "153149305",
+      "username": "SBAgov"
+    },
+    {
+      "name": "New York Farm Bureau",
+      "description": "New York Farm Bureau is a non-governmental, volunteer organization that seeks to solve the economic and public policy issues challenging agriculture.",
+      "id": "216016310",
+      "username": "NYFarmBureau"
+    },
+    {
+      "name": "Mark Meadows",
+      "description": "Senior Partner: @CPInst | Board: @America1stLegal | Former WHCOS for @POTUS45 and Former Congressman for NC-11",
+      "id": "963480595",
+      "username": "MarkMeadows"
+    },
+    {
+      "name": "Mike Conaway",
+      "description": "Proud to serve the 11th Congressional District of Texas. Ranking Member of @HouseAgGOP, member of @HASCRepublicans \u0026 #HPSCI.",
+      "id": "295685416",
+      "username": "ConawayTX11"
+    },
+    {
+      "name": "Rep. Roger Williams",
+      "description": "Conservative fighting for lower taxes, less regulations and more freedom for Texans. Honored to serve TX-25. Member of @FinancialCmte and @HSBCgop",
+      "id": "1077446982",
+      "username": "RepRWilliams"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "WBEN NewsRadio 930AM",
+      "description": "The news that matters to you from local experts and trusted sources. Always live on the free @Audacy app.",
+      "id": "23808281",
+      "username": "WBEN"
+    },
+    {
+      "name": "Tom Puckett",
+      "description": "Radio news anchor, Annie\u0027s husband, uncle to Arianna, Vivian \u0026 Quinn. Fan of Sabres, Bills, poker, game shows. Opinions mine. RT NOT endorsement.",
+      "id": "707059891",
+      "username": "TomPuckettWBEN"
+    },
+    {
+      "name": "Tim Wenger",
+      "description": "Operations Manager/Brand Manager WBEN/WGR/WWKB, News/Talk Format VP Audacy Radio. Tim.Wenger@audacy.com",
+      "id": "23806509",
+      "username": "TimWBEN"
+    },
+    {
+      "name": "Rep. Lloyd Smucker",
+      "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband \u0026 father.",
+      "id": "41417564",
+      "username": "RepSmucker"
+    },
+    {
+      "name": "Nick Langworthy",
+      "description": "Congressman-Elect, #NY23 New York State Republican Committee Chairman | Husband, #GirlDad, #BillsMafia",
+      "id": "18785472",
+      "username": "NickLangworthy"
+    },
+    {
+      "name": "The Hill",
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what\u0027s happening in Washington, breaking news and retweets of our reporters.",
+      "id": "1917731",
+      "username": "thehill"
+    },
+    {
+      "name": "Rep. John Katko",
+      "description": "Official Twitter account of Rep. John Katko. Proudly representing New York\u0027s 24th Congressional District.",
+      "id": "2966765501",
+      "username": "RepJohnKatko"
+    },
+    {
+      "name": "Rep. Steve Chabot",
+      "description": "Husband, Dad, Grandpa \u0026 proud Cincinnatian. Dean of Ohio GOP Delegation, Ranking Member on @HouseForeignGOP Asia Subcommittee \u0026 senior member on @JudiciaryGOP.",
+      "id": "237750442",
+      "username": "RepSteveChabot"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Agri-Pulse Communications",
+      "description": "The nation\u0027s leading source of agriculture, food \u0026 energy policy news. Try Agri-Pulse or @agripulsewest free for one month: https://t.co/a0Pwt6Qe08",
+      "id": "106816456",
+      "username": "agripulse"
+    },
+    {
+      "name": "Glenn \"GT\" Thompson",
+      "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania\u0027s 15th Congressional District. #PA15",
+      "id": "18967498",
+      "username": "CongressmanGT"
+    },
+    {
+      "name": "House Ag GOP",
+      "description": "The reliable voice for #RuralAmerica. News and updates from House Agriculture Committee Republicans led by @CongressmanGT.",
+      "id": "234573331",
+      "username": "HouseAgGOP"
+    },
+    {
+      "name": "Buffalo Business First",
+      "description": "The No. 1 source for business news in the #Buffalo area.",
+      "id": "25549003",
+      "username": "BfloBizFirst"
+    },
+    {
+      "name": "The Buffalo News",
+      "description": "News alerts, headlines \u0026 more from WNY’s largest newsroom.",
+      "id": "43805270",
+      "username": "TheBuffaloNews"
+    },
+    {
+      "name": "Spectrum News 1 BUF",
+      "description": "Spectrum News 1 offers the best 24-hour local news coverage in Buffalo plus weather, sports and your favorite features.",
+      "id": "26332143",
+      "username": "SPECNews1BUF"
+    },
+    {
+      "name": "7 News WKBW",
+      "description": "7 News WKBW is Buffalo and Western New York\u0027s source for news, sports, and weather. #seeiton7",
+      "id": "23686162",
+      "username": "WKBW"
+    },
+    {
+      "name": "George Richert",
+      "description": "Husband, father, brother, outdoorsman, former story teller",
+      "id": "305831124",
+      "username": "GeorgeRichert4"
+    },
+    {
+      "name": "Shannon Smith",
+      "description": "Morning Anchor @cleveland19news. #Chicago born \u0026 bred. @illinois_Alma grad. #AKA ?? Opinions are my OWN. Story idea? shannon.smith@woio.com",
+      "id": "47839287",
+      "username": "SmithTVNews"
+    },
+    {
+      "name": "13WHAM",
+      "description": "No. 1 for Breaking News \u0026 Weather Authority in the Rochester, N.Y. area. https://t.co/CNrxXXj8po | Twitter: @13wham | IG: @13whamtv",
+      "id": "16329426",
+      "username": "13WHAM"
+    },
+    {
+      "name": "news10nbc",
+      "description": "This page is your official source for breaking news, weather and much more from WHEC-TV. Use our news and weather apps when you\u0027re on the go.",
+      "id": "16469116",
+      "username": "news10nbc"
+    },
+    {
+      "name": "Berkeley Brean",
+      "description": "Reporter for News 10NBC in Rochester, NY",
+      "id": "43385043",
+      "username": "whec_bbrean"
+    },
+    {
+      "name": "Brett Davidsen",
+      "description": "News Anchor and Investigative Reporter for News10NBC in Rochester, NY",
+      "id": "43387836",
+      "username": "whec_bdavidsen"
+    },
+    {
+      "name": "Joseph Spector",
+      "description": "New York Editor for POLITICO. #Nets #Jets #Mets Reach me at: Jspector@politico.com",
+      "id": "159147860",
+      "username": "JoeSpectorNY"
+    },
+    {
+      "name": "Jon Campbell",
+      "description": "Reporter, @WNYC / @Gothamist. Covering all things NY state government and politics. jcampbell@wnyc.org",
+      "id": "19367849",
+      "username": "JonCampbellNY"
+    },
+    {
+      "name": "Lockport Journal",
+      "description": "The Lockport Union-Sun \u0026 Journal is the daily community newspaper serving eastern Niagara County since 1821.",
+      "id": "44200674",
+      "username": "LockportJournal"
+    },
+    {
+      "name": "Batavia Daily News",
+      "description": "Serving Genesee, Orleans, and Wyoming Counties in Western New York since 1878.\nhttps://t.co/6TUKH4O0Dd",
+      "id": "322838550",
+      "username": "Batavia_Daily"
+    },
+    {
+      "name": "thebatavian",
+      "description": "Online News. Community Views. For Genesee County.",
+      "id": "14479940",
+      "username": "thebatavian"
+    },
+    {
+      "name": "Genesee Sun",
+      "description": "Online news source for the Livingston County region",
+      "id": "2328026232",
+      "username": "Genesee_Sun"
+    },
+    {
+      "name": "Livingston County News",
+      "description": "Weekly newspaper and community web service for Geneseo and Livingston County, NY.",
+      "id": "69509845",
+      "username": "TheLCN"
+    },
+    {
+      "name": "Livingston County Sheriff’s Office",
+      "description": "Official Twitter of the Livingston County Sheriff\u0027s Office in NY;Jail-Court-Civil-Patrol-Investigations-Communications. Need a Deputy Sheriff? Call 585-243-7100",
+      "id": "2290581852",
+      "username": "LivCoSheriffs"
+    },
+    {
+      "name": "Monroe County Sheriff’s Office",
+      "description": "Monroe County, NY - This page is maintained by the Monroe County Sheriff\u0027s Office: 585-753-4178 #monroesheriffny",
+      "id": "1069059476",
+      "username": "monroesheriffny"
+    },
+    {
+      "name": "Sheriff Thomas J. Dougherty",
+      "description": "50th Livingston County Sheriff (NY) | R, C | President of the New York State Sheriffs\u0027 Association | Need a Deputy Sheriff? Call 585.243.7100",
+      "id": "904536181",
+      "username": "theLivCoSheriff"
+    },
+    {
+      "name": "Niagara Gazette",
+      "description": "From inception in 1854, the Niagara Falls Gazette has been the record of local news and events in and around Niagara Falls.",
+      "id": "102556875",
+      "username": "NiagaraGazette"
+    },
+    {
+      "name": "WBBZ-TV",
+      "description": "WNYs Hometown MeTV Station! Ch. 67.1 on-air; Cable 5 (HD 1230); FiOS 5 (HD 505); Dish 5; DirecTV 67 Like us on Facebook: https://t.co/JggReLFF1D",
+      "id": "224262394",
+      "username": "WBBZ"
+    },
+    {
+      "name": "Adam Chodak",
+      "description": "@News_8 evening anchor and managing editor. Born in pinstripes, raised in Rochester and taught how to tell a story by the best.",
+      "id": "139478841",
+      "username": "AdamChodak"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "Erie County Sheriff",
+      "description": "The official Twitter page of the Erie County Sheriff\u0027s Office. Located in Buffalo, New York. \n\nDuty. Honor. Service.",
+      "id": "1407656906",
+      "username": "ECSONY1"
+    },
+    {
+      "name": "New York State Sheriffs\u0027 Association",
+      "description": "The New York State Sheriffs\u0027 Association is a not-for-profit corporation formed in 1934 to assist Sheriffs in the delivery of services to the public.",
+      "id": "353257367",
+      "username": "NYSheriffs"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "President Trump 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215679726100480",
+      "username": "POTUS45"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Rep. Jim Jordan",
+      "description": "Proudly serving Ohio\u0027s beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "id": "18166778",
+      "username": "Jim_Jordan"
+    },
+    {
+      "name": "Tom Reed",
+      "description": "Owner of 3 dogs, lover of coffee, day job in Washington trying to help people.",
+      "id": "252819323",
+      "username": "TomReedNY23"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "Kayleigh McEnany 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818927131883356161",
+      "username": "PressSec45"
+    },
+    {
+      "name": "Erie County, NY",
+      "description": "Official account of Erie County, NY government. Providing important information to the community about our great region.",
+      "id": "2776817201",
+      "username": "ErieCountyNY"
+    },
+    {
+      "name": "Jimmy Vielkind",
+      "description": "WSJ reporter covering New York, New Jersey and Connecticut. Papa to the RVs and husband to KN. Upstate American. Views my own. jimmy dot vielkind at wsj dot com",
+      "id": "112047591",
+      "username": "JimmyVielkind"
+    },
+    {
+      "name": "Zack Fink",
+      "description": "@NY1 State House Reporter. Host of “Off Topic/On Politics” Podcast - NYC \u0026 Albany",
+      "id": "21782597",
+      "username": "ZackFinkNews"
+    },
+    {
+      "name": "Bob McCarthy",
+      "description": "Political reporter for The Buffalo News",
+      "id": "2396551668",
+      "username": "bobmccarthybn"
+    },
+    {
+      "name": "News 4 Buffalo",
+      "description": "WIVB-TV is Buffalo\u0027s first television station and Your Local News Leader.\n? newsroom@wivb.com\n? (716) 876-7333\n?? DMs are open for news tips",
+      "id": "15520253",
+      "username": "news4buffalo"
+    },
+    {
+      "name": "Will Cleveland",
+      "description": "public safety researcher • beer writer • husband • dad • public art evangelist • ex-@dandc investigative reporter",
+      "id": "1176527791",
+      "username": "WillCleveland13"
+    },
+    {
+      "name": "Kelly Dudzik",
+      "description": "Journalist @WGRZ | Nutmegger \u0026 ? @newhouseSU grad | Previously  @wbrewyou, @FOX19, @KFBB \u0026 @FOX16News | ? mom @buffaloblanche",
+      "id": "1242225343",
+      "username": "kellydudzikWGRZ"
+    },
+    {
+      "name": "Nick Reisman",
+      "description": "New York state politics reporter for Spectrum News. Candy corn enthusiast. Send tips and complaints to nick dot reisman at charter dot com.",
+      "id": "22662550",
+      "username": "NickReisman"
+    },
+    {
+      "name": "David Andreatta",
+      "description": "Husband, dad, writer, editor/storyteller for @roccitynews. Send me scoops at dandreatta@rochester-citynews.com. Formerly @DandC @globeandmail @nypost.",
+      "id": "353883569",
+      "username": "david_andreatta"
+    },
+    {
+      "name": "Tim O\u0027Shei",
+      "description": "NFL biz + culture/social issues for @TheBuffaloNews. Words: @NYTimes @Scholastic @bizjournals @dance_spiritmag @SportingNews USC @ReportingHealth fellow ‘20",
+      "id": "157315577",
+      "username": "timoshei"
+    },
+    {
+      "name": "WGRZ",
+      "description": "2 On Your Side is WGRZ-TV in Buffalo, NY; the news station that holds people in power accountable!",
+      "id": "15308015",
+      "username": "WGRZ"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Spectrum News 1 ROC",
+      "description": "Spectrum News 1 offers the best 24-hour local news coverage in Rochester plus weather, sports and your favorite features.",
+      "id": "16990802",
+      "username": "SPECNews1ROC"
+    },
+    {
+      "name": "Democrat \u0026 Chronicle",
+      "description": "Breaking news, watchdog and in-depth reporting from the Democrat and Chronicle in Rochester, New York. Part of USA TODAY Network. #ROC",
+      "id": "17022537",
+      "username": "DandC"
+    },
+    {
+      "name": "Mark Mulville",
+      "description": "Staff Photographer for the Buffalo News.",
+      "id": "156489699",
+      "username": "MQMulville"
+    },
+    {
+      "name": "Niagara Sheriff",
+      "description": "Proudly serving Niagara County since 1808. This site is not monitored 24/7. Call 911 for emergencies. Sheriff Michael J. Filicetti",
+      "id": "65616535",
+      "username": "NiagaraSheriff"
+    },
+    {
+      "name": "News 8 WROC",
+      "description": "The official Twitter account of News 8 WROC — a CBS affiliate in Rochester, New York. \n\nLocal news. Local people. The team you can trust.",
+      "id": "16453340",
+      "username": "News_8"
+    },
+    {
+      "name": "New York Post",
+      "description": "Breaking news \u0026 features from The New York Post. Follow your favorite sections: @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion",
+      "id": "17469289",
+      "username": "nypost"
+    },
+    {
+      "name": "Jacquie Walker",
+      "description": "Evening news anchor, WIVB-TV, CBS in Buffalo, NY. Longest tenured TV news anchor in Buffalo broadcast history...really! Life is shorter than you think, be kind.",
+      "id": "17963783",
+      "username": "jacquiewalker4"
+    },
+    {
+      "name": "Matthew Spina",
+      "description": "Staff reporter for The Buffalo News",
+      "id": "1586174905",
+      "username": "MatthewSpina1"
+    },
+    {
+      "name": "Mike Connelly",
+      "description": "Editor, The Buffalo News",
+      "id": "41896896",
+      "username": "MikeConnellyBN"
+    },
+    {
+      "name": "Orchard Park Bee",
+      "description": "Send news tips to cgraham@beenews.com",
+      "id": "3191836763",
+      "username": "OrchardParkBee"
+    },
+    {
+      "name": "Michael Kilian",
+      "description": "Executive Editor of @DandC -- my hometown newspaper. New York state editor for @USATODAY Network.",
+      "id": "236252296",
+      "username": "kilian_roc"
+    },
+    {
+      "name": "Connor Hoffman",
+      "description": "Recovering former reporter and @MSU Law J.D candidate of 2023",
+      "id": "836448327466123265",
+      "username": "_hoffingtonpost"
+    },
+    {
+      "name": "Jeff Preval",
+      "description": "Weekend Anchor/Reporter @news4buffalo MA/NYC/PA/WNY \n#NABJ",
+      "id": "828184566",
+      "username": "JeffPrevalTV"
+    },
+    {
+      "name": "Michael Mroziak",
+      "description": "Sr. Communications Specialist, @buffalodiocese. Audio\u0027s my specialty. Husband. Dad. Fan of Bills, Sabres, Lincoln City FC, British comedy. RTs ? endorsements.",
+      "id": "1265336629",
+      "username": "MichaelJMroziak"
+    },
+    {
+      "name": "Ali Touhey",
+      "description": "@SUNYGeneseo alumna. Formerly @WICZTV, @News_8, @wkbw. I ??NY, politics, \u0026 my family, but not in that order. Cure ALS.",
+      "id": "74116896",
+      "username": "Ali2e"
+    },
+    {
+      "name": "Hannah Buehler",
+      "description": "@WKBW 7 News weekday anchor at 5:30, 7:00, 11:00 p.m. | Buffalo born and raised | #Bills fan forever | *Opinions are my own* |hannah.buehler@wkbw.com",
+      "id": "494409208",
+      "username": "HannahBuehler"
+    },
+    {
+      "name": "Michael Wooten",
+      "description": "Anchor \u0026 Reporter at WGRZ, 2 On Your Side, NBC in Buffalo https://t.co/LHHggJHbMd",
+      "id": "489992191",
+      "username": "wgrzMichael"
+    },
+    {
+      "name": "WBFO",
+      "description": "Part of the Buffalo Toronto Public Media family \u0026 the NPR Network, we provide unbiased and in-depth local and global news, along with entertaining programming.",
+      "id": "20612109",
+      "username": "WBFO"
+    },
+    {
+      "name": "Chris Horvatits",
+      "description": "Reporter at WIVB-TV in Buffalo... I’ve been built to win in cold weather.",
+      "id": "2870749090",
+      "username": "ChrisHorvatits4"
+    },
+    {
+      "name": "Mike Baggerman",
+      "description": "Blabbered on the radio for a decade in MiLB and Buffalo radio. Currently @YMCABuffNiag",
+      "id": "71360474",
+      "username": "MikeBaggerman"
+    },
+    {
+      "name": "Dave McKinley",
+      "description": "Husband,father,tiller of soils, flapper of ears #49erFaithful RTs/links not endorsements I block abusive name callers \u0026 obnoxious trolls Dave.McKinley@wgrz.com",
+      "id": "254277011",
+      "username": "DaveMcKinley2"
+    },
+    {
+      "name": "Jesse McKinley",
+      "description": "Upstate scribbler for NYT, after Albany + SF buro chief, culture, features, clerkdom. KC native. Tips, comments, complaints: Jemcki@nytimes.com. 212-556-4181.",
+      "id": "16046443",
+      "username": "jessemckinley"
+    },
+    {
+      "name": "Ryan Whalen",
+      "description": "WNY political reporter for Capital Tonight, Bills fan, karaoke enthusiast, in no specific order. Retweets are not endorsements.",
+      "id": "16561659",
+      "username": "RyanWhalenCT"
+    },
+    {
+      "name": "Jerry Zremski",
+      "description": "Lecturer @MerrillCollege @UofMaryland, where lead the new Local News Network. Washington enterprise reporter @TheBuffaloNews.",
+      "id": "68482261",
+      "username": "JerryZremski"
+    }
+  ],
+  "id": "1276232539510919168",
+  "username": "RepJacobs"
+}

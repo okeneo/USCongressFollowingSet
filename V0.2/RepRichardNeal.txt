@@ -1,0 +1,612 @@
+{
+  "following": [
+    {
+      "name": "House DPCC",
+      "description": "The House Democratic Policy \u0026 Communications Committee is Co-Chaired by @RepCartwright, @RepDebDingell, @RepTedLieu, \u0026 @RepJoeNeguse #PeopleOverPolitics",
+      "id": "3027286779",
+      "username": "HouseDPCC"
+    },
+    {
+      "name": "WAMC News",
+      "description": "News from our region and the world. Northeast Public Radio. News bureaus in Albany, Pittsfield, Springfield, Plattsburgh, Saratoga Springs and Poughkeepsie.",
+      "id": "9634812",
+      "username": "WAMCNews"
+    },
+    {
+      "name": "WAMC Northeast Public Radio",
+      "description": "WAMC is a public radio station broadcasting across the Northeast. For news follow @WAMCNews. For programming @WAMCProgramming, @WAMCRoundtable, and @WAMCVoxPop.",
+      "id": "22635728",
+      "username": "WAMCRadio"
+    },
+    {
+      "name": "Boston Herald",
+      "description": "Starting the conversation every day with passionate journalism, watchdog special reports and the best in NE sports, business and features.",
+      "id": "2488541",
+      "username": "bostonherald"
+    },
+    {
+      "name": "Greenfield Recorder",
+      "description": "The Greenfield Recorder, founded in 1792, is among the oldest newspapers in the United States. The paper was originally called the Impartial Intelligencer.",
+      "id": "274153743",
+      "username": "TheRecorderNews"
+    },
+    {
+      "name": "Daily Hampshire Gazette",
+      "description": "The Daily Hampshire Gazette is the Pioneer Valley\u0027s #1 source for local news. Follow our journalists: https://t.co/UM1RkfLeQx…",
+      "id": "15361185",
+      "username": "DailyHampGaz"
+    },
+    {
+      "name": "iBerkshires",
+      "description": "News Happening Now in Berkshire County, Massachusetts",
+      "id": "18701779",
+      "username": "iberkshires"
+    },
+    {
+      "name": "Berkshire Eagle",
+      "description": "The Berkshire Eagle — Berkshire County\u0027s leading and most trusted digital and print news source. Published in Pittsfield, Mass.",
+      "id": "24745038",
+      "username": "BerkshireEagle"
+    },
+    {
+      "name": "Western Mass News",
+      "description": "Western Mass News brings you news, First Warning Weather, Sports on-air, online, and on the go.",
+      "id": "111116382",
+      "username": "WMassNews"
+    },
+    {
+      "name": "Reminder Publishing",
+      "description": "Community newspaper and media company serving Western Massachusetts. We are hometown news.",
+      "id": "375124368",
+      "username": "TheReminderMA"
+    },
+    {
+      "name": "WWLP-22News",
+      "description": "Since our first broadcast in 1953, #22news has been the most trusted local news source by viewers throughout western Massachusetts.",
+      "id": "15365401",
+      "username": "WWLP22News"
+    },
+    {
+      "name": "masslivenews",
+      "description": "Your destination for everything news, sports and entertainment across Massachusetts.",
+      "id": "14408989",
+      "username": "masslivenews"
+    },
+    {
+      "name": "CityofSpringfield,MA",
+      "description": "The urban, cultural and economic center of Western MA. Home to 153,000 people and the Naismith Memorial Baketball Hall of Fame.",
+      "id": "1897390435",
+      "username": "SpfldMACityHall"
+    },
+    {
+      "name": "Ambassador Katherine Tai",
+      "description": "Official account for @USTradeRep Ambassador Katherine Tai. Press: @USTRSpox",
+      "id": "1358117090268446721",
+      "username": "AmbassadorTai"
+    },
+    {
+      "name": "Adam Hodge",
+      "description": "The official account of @USTradeRep\u0027s Spokesperson, Adam Hodge, serving @AmbassadorTai in the Biden-Harris administration. Subscribe ? https://t.co/jM4F5rHhEc",
+      "id": "1357202502454804481",
+      "username": "USTRSpox"
+    },
+    {
+      "name": "United States Trade Representative",
+      "description": "The official account for the Office of the U.S. Trade Representative. Follow @AmbassadorTai and @USTRSpox",
+      "id": "1354219017721032709",
+      "username": "USTradeRep"
+    },
+    {
+      "name": "Mayor Marty Walsh",
+      "description": "This is an archived account for former Mayor Martin J. Walsh, 54th Mayor of the City of Boston. Follow @USDOL for updates.",
+      "id": "77764733",
+      "username": "marty_walsh"
+    },
+    {
+      "name": "Karine Jean-Pierre",
+      "description": "35th White House Press Secretary",
+      "id": "1349170292564905988",
+      "username": "PressSec"
+    },
+    {
+      "name": "Jill Biden",
+      "description": "First Lady of the United States Jill Biden. Community college educator. Military mother. Grandmother. Wife of @POTUS.",
+      "id": "1349154719386775552",
+      "username": "FLOTUS"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "Dr. Jill Biden",
+      "description": "Lifelong educator. Military mother. Grandmother. Sister. Wife to @JoeBiden.",
+      "id": "821784477076750338",
+      "username": "DrBiden"
+    },
+    {
+      "name": "Douglas Emhoff",
+      "description": "Second Gentleman of the United States. Devoted dad. Proud husband to @VP Kamala Harris.",
+      "id": "1349175483989188608",
+      "username": "SecondGentleman"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "MA Army National Guard",
+      "description": "Official Twitter of MA Army National Guard Recruiting \u0026 Retention. “The Nation’s First”, protecting freedom at home and abroad since 1636!",
+      "id": "123942236",
+      "username": "MANationalGuard"
+    },
+    {
+      "name": "Rep. Stacey Plaskett",
+      "description": "Proudly representing the Virgin Islands of the United States",
+      "id": "2724095695",
+      "username": "StaceyPlaskett"
+    },
+    {
+      "name": "Rep Cedric Richmond",
+      "description": "Official Twitter Account for Congressman Richmond (LA-02). House Democratic Assistant to the Majority Whip. My Instagram: https://t.co/lkfRG1j56a",
+      "id": "267854863",
+      "username": "RepRichmond"
+    },
+    {
+      "name": "Rep. Jake Auchincloss",
+      "description": "Dad. Marine. Former Newton City Councilor. Congressman representing MA-04. Vice-Chair of @FSCDems and member of @TransportDems.",
+      "id": "1330278736554582016",
+      "username": "RepAuchincloss"
+    },
+    {
+      "name": "Mass211",
+      "description": "Provides info \u0026 referrals to local resources in all MA communities. 24/7. Free. Confidential. Multilingual. Dial 2-1-1 or https://t.co/mWFOybBbxF. Home of #Call2Talk.",
+      "id": "174860368",
+      "username": "Mass_211"
+    },
+    {
+      "name": "MassLWD",
+      "description": "Official Twitter account of the Massachusetts Executive Office of Labor and Workforce Development. For assistance visit https://t.co/ebPhKQdFAe or https://t.co/wAB1WEvnEk.",
+      "id": "270415544",
+      "username": "MassLWD"
+    },
+    {
+      "name": "MA EOHED",
+      "description": "The official twitter account of the Massachusetts Executive Office of Housing and Economic Development.",
+      "id": "342177592",
+      "username": "MassEOHED"
+    },
+    {
+      "name": "Massachusetts Health Connector",
+      "description": "We\u0027re an independent state agency that helps Massachusetts residents find health \u0026 dental plans from leading insurers. Call 1-877-623-6765 (TTY 1-877-623-7773)",
+      "id": "34720054",
+      "username": "HealthConnector"
+    },
+    {
+      "name": "MassHealth",
+      "description": "Official Twitter account for the MassHealth program. Providing access to quality, integrated health care services for the people of Massachusetts.",
+      "id": "1655611202",
+      "username": "MassHealth"
+    },
+    {
+      "name": "Mass. Department of Transitional Assistance (DTA)",
+      "description": "Official DTA Twitter. We administer food (SNAP) \u0026 economic assistance (TAFDC/EAEDC), as well as provide workforce training. Tweets from Commissioner signed MS.",
+      "id": "1252524000",
+      "username": "DTA_Listens"
+    },
+    {
+      "name": "Charlie Baker",
+      "description": "Official account of Governor Charlie Baker of Massachusetts.",
+      "id": "18023868",
+      "username": "MassGovernor"
+    },
+    {
+      "name": "Mass. Transportation",
+      "description": "Official Twitter Account for the Massachusetts Department of Transportation (MassDOT).",
+      "id": "23595586",
+      "username": "MassDOT"
+    },
+    {
+      "name": "MA Health and Human Services",
+      "description": "Official Twitter of the Massachusetts Executive Office of Health and Human Services (EOHHS)",
+      "id": "132186769",
+      "username": "MassHHS"
+    },
+    {
+      "name": "Mass. Public Health",
+      "description": "Tweeting from the Massachusetts Department of Public Health",
+      "id": "23711785",
+      "username": "MassDPH"
+    },
+    {
+      "name": "MEMA",
+      "description": "Official Twitter account of the Massachusetts Emergency Management Agency. Account is not monitored 24/7. For emergencies call 9-1-1.",
+      "id": "93673775",
+      "username": "MassEMA"
+    },
+    {
+      "name": "Mass.gov",
+      "description": "Official Twitter of https://t.co/sdQhylQXIP, the Commonwealth’s website. For Gov. Baker @MassGovernor \n\nFor COVID-19 and vaccine information, visit https://t.co/HuBxORecNW",
+      "id": "16264003",
+      "username": "MassGov"
+    },
+    {
+      "name": "Jake Auchincloss",
+      "description": "Bringing new, innovative leadership to Washington to lower costs for working families. Dad. Marine. Congressman for MA-04.",
+      "id": "4870048156",
+      "username": "JakeAuch"
+    },
+    {
+      "name": "Kamala Harris",
+      "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+      "id": "30354991",
+      "username": "KamalaHarris"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "Congresswoman Ayanna Pressley",
+      "description": "Proudly serving the Massachusetts 7th. Vice Chair, @FSCDems \u0026 Member, @OversightDems She/Her.",
+      "id": "1080584229510172678",
+      "username": "RepPressley"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "Rep. Steven Horsford",
+      "description": "Official Twitter account of Congressman Steven Horsford. Proudly representing the people of Nevada\u0027s Fourth Congressional District. #NV04",
+      "id": "389840566",
+      "username": "RepHorsford"
+    },
+    {
+      "name": "Rep. Brad Schneider",
+      "description": "Proud to represent the people of Illinois\u0027s 10th Congressional District",
+      "id": "1071840474",
+      "username": "RepSchneider"
+    },
+    {
+      "name": "U.S. Rep. Stephanie Murphy",
+      "description": "Fighting for progress and proudly representing Seminole \u0026 Orange Counties in the U.S. House of Representatives.",
+      "id": "796183515998068736",
+      "username": "RepStephMurphy"
+    },
+    {
+      "name": "Rep. Jimmy Panetta",
+      "description": "I am honored to represent California\u0027s new 19th congressional district in the U.S. House of Representatives.",
+      "id": "796736612554117120",
+      "username": "RepJimmyPanetta"
+    },
+    {
+      "name": "Tom Suozzi",
+      "description": "Representing New York\u0027s 3rd Congressional District including parts of Queens, Nassau and Suffolk counties. https://t.co/mRTIFPnjy2",
+      "id": "816705409486618624",
+      "username": "RepTomSuozzi"
+    },
+    {
+      "name": "Congressman Dwight Evans",
+      "description": "Representing the 3rd Congressional District in PA. Making Ideas Matter since 1980. Connect on Facebook: https://t.co/xMYIke63lr",
+      "id": "90639372",
+      "username": "RepDwightEvans"
+    },
+    {
+      "name": "Rep. Don Beyer",
+      "description": "Represent Northern Virginia’s #VA08 in the U.S. House. Chairman of @JECDems, also serve on @WaysMeansCmte @HouseScience. Co-Chair @CaucusOnClimate. He/Him/His",
+      "id": "2962868158",
+      "username": "RepDonBeyer"
+    },
+    {
+      "name": "Rep. Brendan Boyle",
+      "description": "Official Leg. account of Rep. Brendan Boyle. Co-Chair @BlueCollarDems, Proud Father, Loyal Philly sports fan and Fighter for the PA-02 Congressional District",
+      "id": "4304448314",
+      "username": "CongBoyle"
+    },
+    {
+      "name": "Rep. Dan Kildee",
+      "description": "Honored to represent mid-Michigan in Congress. Born \u0026 raised in Flint. @HouseDemocrats Chief Deputy Whip. Proud husband, father \u0026 grandfather.",
+      "id": "1045110018",
+      "username": "RepDanKildee"
+    },
+    {
+      "name": "Rep. Gwen Moore",
+      "description": "Honored to represent Wisconsin’s 4th Congressional District. Proud mother, grandmother \u0026 great-grandmother. Loves poetry reading, knitting \u0026 crocheting.",
+      "id": "22669526",
+      "username": "RepGwenMoore"
+    },
+    {
+      "name": "Rep. Jimmy Gomez",
+      "description": "Official account for U.S. Congressman Jimmy Gomez (CA-34, Los Angeles). Committees: @WaysMeansCmte and @OversightDems",
+      "id": "2371339658",
+      "username": "RepJimmyGomez"
+    },
+    {
+      "name": "Lori Trahan",
+      "description": "Congresswoman proudly representing Massachusetts\u0027 Third District. @EnergyCommerce member. She/Hers. ? (978) 459-0101",
+      "id": "1079802482640019456",
+      "username": "RepLoriTrahan"
+    },
+    {
+      "name": "Ayanna Pressley",
+      "description": "Your Congresswoman. Proudly representing the MA 7th. Here to break concrete ceilings \u0026 shake the table. Personal account. She/hers. #ChangeCantWait",
+      "id": "31013444",
+      "username": "AyannaPressley"
+    },
+    {
+      "name": "Lori Trahan",
+      "description": "Mom, Lowell native, and Congresswoman for Massachusetts 3rd District.",
+      "id": "915975047545749504",
+      "username": "LoriTrahanMA"
+    },
+    {
+      "name": "Judy Chu",
+      "description": "Proudly representing California\u0027s 27th District in the U.S. House of Representatives. Ways and Means. Small Business. Chair of @CAPAC.",
+      "id": "193732179",
+      "username": "RepJudyChu"
+    },
+    {
+      "name": "Rep. Suzan DelBene",
+      "description": "U.S. Congresswoman representing Washington\u0027s 1st Congressional District (#WA01) \n\nChair of @NewDemCoalition | Vice Chair of @WaysMeansCmte",
+      "id": "995193054",
+      "username": "RepDelBene"
+    },
+    {
+      "name": "Rep. Terri A. Sewell",
+      "description": "Selma native, U.S. Congresswoman working #ForThePeople of Alabama\u0027s 7th District  https://t.co/0uBlTm34B9",
+      "id": "381152398",
+      "username": "RepTerriSewell"
+    },
+    {
+      "name": "Brian Higgins",
+      "description": "Official account for the Office of Congressman Brian Higgins (NY-26) representing portions of Erie and Niagara counties. http://t.co/Cpl0TlH2JW",
+      "id": "33576489",
+      "username": "RepBrianHiggins"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "Rep. Danny K. Davis",
+      "description": "“The People’s Congressman” US House Representative for Illinois\u0027 7th District. Serving on the 117th Congress Committee on Ways and Means.",
+      "id": "789244177",
+      "username": "RepDannyDavis"
+    },
+    {
+      "name": "Joe Crowley",
+      "description": "A boy from Queens. Father, husband, former Congressman, and Springsteen fan.",
+      "id": "111635980",
+      "username": "JoeCrowleyNY"
+    },
+    {
+      "name": "Bill Pascrell, Jr. ????",
+      "description": "?? New Jersey’s Congressman, representing the Ninth District???? Chairman, Ways \u0026 Means Oversight Subcommittee",
+      "id": "74508260",
+      "username": "BillPascrell"
+    },
+    {
+      "name": "Archive: Rep. Ron Kind",
+      "description": "Archived Account: Proud Wisconsinite. ????? I work for the people of Wisconsin’s Third Congressional District. Go Badgers! Go Brewers! Go Pack!",
+      "id": "112740986",
+      "username": "RepRonKind"
+    },
+    {
+      "name": "Earl Blumenauer",
+      "description": "Progressive Democrat proudly representing Oregon’s 3rd Congressional District. He/Him/His ?",
+      "id": "15954997",
+      "username": "repblumenauer"
+    },
+    {
+      "name": "Rep. John Larson",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "id": "50452197",
+      "username": "RepJohnLarson"
+    },
+    {
+      "name": "Rep. Mike Thompson",
+      "description": "Rep. Mike Thompson represents California\u0027s 5th Congressional District and chairs the House Gun Violence Prevention Task Force.",
+      "id": "303861808",
+      "username": "RepThompson"
+    },
+    {
+      "name": "Lloyd Doggett",
+      "description": "Representing communities from San Antonio to Austin. Chairman of the Health Subcommittee on the House Ways \u0026 Means Committee.",
+      "id": "153944899",
+      "username": "RepLloydDoggett"
+    },
+    {
+      "name": "John Lewis",
+      "description": "Congressman, Georgia\u0027s Fifth Congressional District",
+      "id": "29450962",
+      "username": "repjohnlewis"
+    },
+    {
+      "name": "Rep. Sandy Levin",
+      "description": "Former Member of Congress from Michigan. Now at the U of M Ford School of Public Policy. Family, writing and politics keep me busy. Fan of opera and hockey",
+      "id": "25781141",
+      "username": "repsandylevin"
+    },
+    {
+      "name": "Adam Hinds",
+      "description": "CEO Edward M. Kennedy Institute. Former Massachusetts State Senator. Former United Nations Middle East person. Proud father \u0026 husband.",
+      "id": "392077251",
+      "username": "adamghinds"
+    },
+    {
+      "name": "Stan Rosenberg",
+      "description": "Massachusetts State Senator from Amherst, representing Hampshire, Franklin, \u0026 Worcester District. Working for shared prosperity, believing in shared leadership.",
+      "id": "1304930094",
+      "username": "SenStan"
+    },
+    {
+      "name": "James Welch",
+      "description": "Welch Government and Public Relations | Former Massachusetts State Senator | Here to help people and businesses navigate government | Husband, Dad, Dog Guy",
+      "id": "414344543",
+      "username": "JimWelchConsult"
+    },
+    {
+      "name": "Anne Gobi",
+      "description": "Massachusetts State Senator proudly serving 28 beautiful towns",
+      "id": "496349300",
+      "username": "AnneGobi"
+    },
+    {
+      "name": "Senator John Velis",
+      "description": "Father, Husband, and proud State Senator for the Second Hampden \u0026 Hampshire District in the @ma_senate. Chairman of Veterans \u0026 Federal Affairs. @usarmy Major.",
+      "id": "2953158934",
+      "username": "SenJohnVelis"
+    },
+    {
+      "name": "Aaron Vega",
+      "description": "Aaron Vega - State Representative for the Fifth Hampden",
+      "id": "158814186",
+      "username": "AaronMVega"
+    },
+    {
+      "name": "Angelo Puppolo, Jr.",
+      "description": "State Representative from the 12th Hampden District. Representing Wilbraham and parts of Springfield and East Longmeadow in Massachusetts.",
+      "id": "873499573",
+      "username": "apuppolo"
+    },
+    {
+      "name": "Stephen Kulik",
+      "description": "Former state representative, proud resident of western Massachusetts, fan of small towns and rural communities",
+      "id": "2463665965",
+      "username": "repstevekulik"
+    },
+    {
+      "name": "Michael Finn",
+      "description": "State Representative 6th Hampden District",
+      "id": "2699864529",
+      "username": "RepMichaeljfinn"
+    },
+    {
+      "name": "Brian Ashe",
+      "description": "Elected MA State Rep 2008 Wife Sonja son Tiernan daughter Kyra Dog-Penny Cat-Pucky Love family B\u0027s Sox, music, sports \u0026 my job",
+      "id": "265642432",
+      "username": "repashe"
+    },
+    {
+      "name": "Representative Tricia Farley-Bouvier",
+      "description": "Official State House account for State Representative Tricia Farley-Bouvier of the 3rd Berkshire District. Proudly representing my hometown of Pittsfield.",
+      "id": "1581640994",
+      "username": "RepTricia"
+    },
+    {
+      "name": "Smitty Pignatelli",
+      "description": "Proudly Serving the 3rd Berkshire District in the Massachusetts of House of Representatives",
+      "id": "479093108",
+      "username": "repsmitty34"
+    },
+    {
+      "name": "Katherine Clark",
+      "description": "Assistant Speaker of the U.S. House. Proudly representing the people of #MA5. Defender of women, kids \u0026 justice. She/Her",
+      "id": "2293131060",
+      "username": "RepKClark"
+    },
+    {
+      "name": "Seth Moulton",
+      "description": "Father, husband, Marine, Congressman. It\u0027s time for a new generation of leadership: @serve_america ??",
+      "id": "248495200",
+      "username": "sethmoulton"
+    },
+    {
+      "name": "Joe Kennedy III",
+      "description": "Former Congressman from MA. Tired \u0026 lucky dad. Founder @GroundworkProj. Managing Director @CitizensEnergyC. Advising @EmCollective + @WoodwellClimate + more.",
+      "id": "1055907624",
+      "username": "joekennedy"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "description": "U.S. Senator, Massachusetts. She/her/hers. Official Senate account.",
+      "id": "970207298",
+      "username": "SenWarren"
+    },
+    {
+      "name": "John Kerry",
+      "description": "Teresa\u0027s husband, 28 years representing Massachusetts in the U.S. Senate, 68th U.S. Secretary of State, now fighting the climate crisis.",
+      "id": "15007149",
+      "username": "JohnKerry"
+    },
+    {
+      "name": "Ways \u0026 Means Committee",
+      "description": "Official twitter account for Ways \u0026 Means – senior committee with jurisdiction over health care, trade, taxes, and Social Security. Chaired by @RepRichardNeal.",
+      "id": "31128529",
+      "username": "WaysMeansCmte"
+    },
+    {
+      "name": "Ed Markey",
+      "description": "US Senator for Massachusetts. Chair of Subcommittees on Clean Air, Climate \u0026 Nuclear Safety and on East Asia \u0026 the Pacific. Fighting for a Green New Deal.",
+      "id": "21406834",
+      "username": "SenMarkey"
+    },
+    {
+      "name": "Steny Hoyer",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland\u0027s Fifth Congressional District.",
+      "id": "22012091",
+      "username": "LeaderHoyer"
+    },
+    {
+      "name": "Rep. Jim McGovern",
+      "description": "Lisa\u0027s husband. Patrick \u0026 Molly\u0027s dad. Proudly serving #MA02 \u0026 working to #EndHungerNow. Chair of @RulesDemocrats. Co-Chair of @TLhumanrights \u0026 @CECCgov. he/him",
+      "id": "242426145",
+      "username": "RepMcGovern"
+    },
+    {
+      "name": "Congressman Bill Keating",
+      "description": "Official Twitter page. Chairman of Europe, Energy, the Environment \u0026 Cyber Subcommittee \u0026 senior Member of Armed Services Committee.",
+      "id": "232992031",
+      "username": "USRepKeating"
+    },
+    {
+      "name": "Rep. Stephen Lynch",
+      "description": "The official Twitter account of Congressman Stephen F. Lynch. Proudly serving the 8th Congressional District of Massachusetts.",
+      "id": "310310133",
+      "username": "RepStephenLynch"
+    },
+    {
+      "name": "MA Democratic Party",
+      "description": "This is the official Twitter for the Massachusetts Democratic Party. Follow us for updates on Democratic leaders and #mapoli! #Org2Win",
+      "id": "15662282",
+      "username": "massdems"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "Ben Downing",
+      "description": "Mac \u0026 Eamon’s Dad. @mbmorrill’s adventure partner. East Boston now, Pittsfield forever. Stronger at the Broken Places. @enginexyz  #ActOnClimate",
+      "id": "73003844",
+      "username": "BenDowningMA"
+    }
+  ],
+  "id": "442824717",
+  "username": "RepRichardNeal"
+}

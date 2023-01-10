@@ -1,0 +1,24 @@
+{
+  "following": [
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Rachel Knapp",
+      "description": "Congressional Correspondent-Lilly Broadcasting. International Reporting. Master\u0027s degree in International Relations, Africa. Retweets/likes are not endorsements",
+      "id": "173709249",
+      "username": "RachelKnappNews"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    }
+  ],
+  "id": "1569863297633058818",
+  "username": "RepSempolinski"
+}

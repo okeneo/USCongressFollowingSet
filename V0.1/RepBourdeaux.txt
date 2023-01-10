@@ -1,0 +1,726 @@
+{
+  "following": [
+    {
+      "name": "Black Maternal Health Caucus",
+      "description": "Congressional Caucus established by @RepUnderwood and @RepAdams to elevate the Black maternal health crisis and advance policy solutions to save lives.",
+      "id": "1171500532420075520",
+      "username": "BMHCaucus"
+    },
+    {
+      "name": "Yves Binazon",
+      "description": "Hero of Hyrule in my spare time.\n\n#esports #botw #cybersecurity #dfir #soc #osint | AET ??",
+      "id": "1218256578291425286",
+      "username": "binyv19"
+    },
+    {
+      "name": "Problem Solvers Caucus",
+      "description": "The Problem Solvers Caucus is a bipartisan group in Congress comprised of 58 members – equally divided between Democrats and Republicans.",
+      "id": "1129472178041364480",
+      "username": "ProbSolveCaucus"
+    },
+    {
+      "name": "U.S. Rep. Al Lawson, Jr.",
+      "description": "Serving #Florida\u0027s Fifth District #ForThePeople l Member of @FSCDems and @HouseAgDems l Husband. Father. Grandfather l #FSU Seminole \u0026 #FAMU Rattler ?",
+      "id": "818472418620608512",
+      "username": "RepAlLawsonJr"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "description": "Speaker of the House, focused on strengthening America\u0027s middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+      "id": "15764644",
+      "username": "SpeakerPelosi"
+    },
+    {
+      "name": "Rep. Susie Lee",
+      "description": "Congresswoman proudly serving the folks in Nevada\u0027s 3rd District. Bipartisan Leader. Education Advocate. Mom to two great kids.",
+      "id": "1079061579973439488",
+      "username": "RepSusieLee"
+    },
+    {
+      "name": "Rep. Ted Lieu",
+      "description": "Official Twitter account for the Office of Rep @TedLieu, serving #CA33 in the U.S. House of Representatives • https://t.co/8esik1vtix • https://t.co/bEP2qWfwBG",
+      "id": "3044993235",
+      "username": "RepTedLieu"
+    },
+    {
+      "name": "Rep. Abigail Spanberger",
+      "description": "Proudly serving Virginia’s 7th District in the U.S. House of Representatives. Former CIA officer. Former federal law enforcement officer. Mom of 3.",
+      "id": "1078771401497161728",
+      "username": "RepSpanberger"
+    },
+    {
+      "name": "Rep. Debbie Wasserman Schultz",
+      "description": "U.S. Congresswoman proudly representing the people of Florida\u0027s 23rd District in our nation\u0027s capital.",
+      "id": "1140648348",
+      "username": "RepDWStweets"
+    },
+    {
+      "name": "Rep. Melanie Stansbury",
+      "description": "Representing New Mexico’s 1st Congressional District. Fighting for our future. Working every day to build a more just, equitable and resilient world.",
+      "id": "1404519992582942724",
+      "username": "Rep_Stansbury"
+    },
+    {
+      "name": "Congressman Troy A. Carter",
+      "description": "Proudly representing Louisiana’s 2nd Congressional District.                                Member, @TransportDems \u0026 @HouseSmallBiz #TheVoiceOfThePeople",
+      "id": "1352760304271241218",
+      "username": "RepTroyCarter"
+    },
+    {
+      "name": "Congressman Kaiali‘i Kahele",
+      "description": "From Ni?ihau to Miloli?i, mauka to makai, proudly representing #HI02 with aloha | Member of @TransportDems \u0026 @HASCDemocrats",
+      "id": "1351966874377056257",
+      "username": "RepKahele"
+    },
+    {
+      "name": "Congresswoman Deborah Ross",
+      "description": "Proudly serving North Carolina’s 2nd District. Former civil rights attorney and NC state legislator.\nCommittees: @HouseJudiciary, @RulesDemocrats, @HouseScience",
+      "id": "1348683154815655940",
+      "username": "RepDeborahRoss"
+    },
+    {
+      "name": "Rep. Mondaire Jones",
+      "description": "Congressman, NY-17. Member, @HouseJudiciary, @EdLaborCmte, \u0026 @CongressEthics. Deputy Whip, @USProgressives. Co-Chair, @LGBTEqCaucus. He/Him. Official account.",
+      "id": "1345883634046279681",
+      "username": "RepMondaire"
+    },
+    {
+      "name": "Rep. Frank J. Mrvan",
+      "description": "Congressman Frank J. Mrvan represents Indiana\u0027s First Congressional District in the U.S. House of Representatives.",
+      "id": "1346205046036377601",
+      "username": "RepMrvan"
+    },
+    {
+      "name": "Rep. Teresa Leger Fernández",
+      "description": "Working to protect what we love. Mom of 3. Proudly serving New Mexico’s 3rd Congressional District. She/her/ella.",
+      "id": "1345147845926670337",
+      "username": "RepTeresaLF"
+    },
+    {
+      "name": "Congresswoman Sara Jacobs",
+      "description": "Representing #CA53 and a new generation of leaders. She/Her. Member of House Dem Steering and Policy Committee, @HouseForeign, @HASCDemocrats \u0026 @FairGrowthCmte.",
+      "id": "1345103905869455361",
+      "username": "RepSaraJacobs"
+    },
+    {
+      "name": "Congressman Jamaal Bowman",
+      "description": "Humbled to serve New York\u0027s 16th Congressional District. Vice Chair, @EdLaborCmte \u0026 Member, @HouseScience. Providing updates on services and legislation.",
+      "id": "1344389506963808264",
+      "username": "RepBowman"
+    },
+    {
+      "name": "Congresswoman Marie Newman",
+      "description": "Mother, Congresswoman. Fighter for stronger infrastructure and an economy that works for everyone. Representing #IL03. Member of @TransportDems \u0026 @HouseSmallBiz",
+      "id": "1343578440977494018",
+      "username": "RepMarieNewman"
+    },
+    {
+      "name": "Congresswoman Cori Bush",
+      "description": "Doing the most for MO-01 (STL)—starting with those with the greatest need. Politician + Activist \u003d Politivist. Member, @HouseJudiciary, @OversightDems. She/her.",
+      "id": "1002630999052865536",
+      "username": "RepCori"
+    },
+    {
+      "name": "Rep. Jake Auchincloss",
+      "description": "Dad. Marine. Former Newton City Councilor. Congressman representing MA-04. Vice-Chair of @FSCDems and member of @TransportDems.",
+      "id": "1330278736554582016",
+      "username": "RepAuchincloss"
+    },
+    {
+      "name": "Rep. Joyce Beatty",
+      "description": "Serving Ohio’s 3rd District. Chair of @TheBlackCaucus. Chair of the @FSCDems Subcommittee on Diversity and Inclusion. Proud Ohioan.",
+      "id": "1531521632",
+      "username": "RepBeatty"
+    },
+    {
+      "name": "Rep. Eric Swalwell",
+      "description": "Husband | Dad to Nelson, Cricket \u0026 Hank | Congressman | @HouseJudiciary @HouseIntel @HomelandDems | social media policy: https://t.co/47CTxGMvRW | #EndGunViolence",
+      "id": "942156122",
+      "username": "RepSwalwell"
+    },
+    {
+      "name": "Ann McLane Kuster",
+      "description": "Honored to serve the people of New Hampshire’s Second District in Congress.",
+      "id": "1058717720",
+      "username": "RepAnnieKuster"
+    },
+    {
+      "name": "Senator Jacky Rosen",
+      "description": "Working across the aisle to deliver for hardworking Nevada families in the U.S. Senate. Proud mom and wife. Former computer programmer and synagogue president.",
+      "id": "818554054309715969",
+      "username": "SenJackyRosen"
+    },
+    {
+      "name": "Kweisi Mfume",
+      "description": "Proudly Representing Maryland\u0027s 7th District. Vice-Chair of @HouseSmallBiz and Member of @OversightDems and @EdLaborCmte.",
+      "id": "1276209702322438148",
+      "username": "RepKweisiMfume"
+    },
+    {
+      "name": "Rep. Linda Sánchez",
+      "description": "I work for #CA38 in Congress. ?? Serve on the @WaysMeansCmte. Proud mom, dog lover, \u0026 @Dodgers fan. ??",
+      "id": "312134473",
+      "username": "RepLindaSanchez"
+    },
+    {
+      "name": "Rep. Tony Cárdenas",
+      "description": "Husband, father and grandfather. Proud to represent #CA29 - the San Fernando Valley - in The People’s House. Member of @EnergyCommerce @HispanicCaucus",
+      "id": "1222257180",
+      "username": "RepCardenas"
+    },
+    {
+      "name": "Congressman Chuy García",
+      "description": "Progressive Chicagoan. Congressman for #IL04?. Vice Chair of @USProgressives and ? @NRDems. Member of ? @TransportDems and ? @FSCDems?. FB/IG: @RepChuyGarcia",
+      "id": "1082427779583541248",
+      "username": "RepChuyGarcia"
+    },
+    {
+      "name": "Kai Kahele",
+      "description": "https://t.co/lqIvb22ioW",
+      "id": "4863545294",
+      "username": "kaikahele"
+    },
+    {
+      "name": "Rep. Lauren Underwood",
+      "description": "Representing #IL14. Nurse, health enthusiast, advocate for the working families of Illinois. Member of @AppropsDems and @VetAffairsDems.",
+      "id": "1080539438508400642",
+      "username": "RepUnderwood"
+    },
+    {
+      "name": "Ossoff\u0027s Office",
+      "description": "Updates from Georgia U.S. Senator Jon @Ossoff\u0027s office.",
+      "id": "1356714265894408196",
+      "username": "SenOssoff"
+    },
+    {
+      "name": "Chris Meagher",
+      "description": "White House Deputy Press Secretary",
+      "id": "1367240341808680971",
+      "username": "chrismeagher46"
+    },
+    {
+      "name": "Senate Judiciary Committee",
+      "description": "News from the Senate Judiciary Committee, chaired by @SenatorDurbin, author of the Dream Act and the Fair Sentencing Act, fighter for equal justice under law.",
+      "id": "818513652814843906",
+      "username": "JudiciaryDems"
+    },
+    {
+      "name": "Energy and Commerce Committee",
+      "description": "Official Twitter of the House Committee on Energy and Commerce. Chaired by @FrankPallone.",
+      "id": "30929600",
+      "username": "EnergyCommerce"
+    },
+    {
+      "name": "Jim Burress",
+      "description": "Afternoon Host/ Reporter for WABE (NPR). Living, working, \u0026 loving both in ATL. I obsess over cars, planes \u0026 sneakers ????????",
+      "id": "35714318",
+      "username": "jimburress"
+    },
+    {
+      "name": "Blue Dog Coalition",
+      "description": "Official Twitter Page for the Democratic Blue Dog Coalition, an official caucus in the U.S. House of Representatives.",
+      "id": "224685124",
+      "username": "HouseBlueDogs"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "Build Together",
+      "description": "Growing bipartisan support for bold federal action to rebuild and renew America’s infrastructure. We can do big things when we #BuildTogether.",
+      "id": "1171800512263610368",
+      "username": "BuildTogether_"
+    },
+    {
+      "name": "Congressman Donald Norcross ????",
+      "description": "Honored to serve NJ-01\nElectrician • Husband, Dad, Granddad\nCo-chair: @Labor_Caucus\nMember: @EdLaborCmte, @HASCDemocrats TAL Chair, @HouseScience",
+      "id": "3122099613",
+      "username": "DonaldNorcross"
+    },
+    {
+      "name": "Rep. Jamie Raskin",
+      "description": "Proudly serving MD’s 8th on @rulesdemocrats, @housejudiciary, @oversightdems \u0026 @houseadm_dems. Confronting violent extremism on the @January6thCmte.",
+      "id": "806906355214852096",
+      "username": "RepRaskin"
+    },
+    {
+      "name": "Rep. Diana DeGette",
+      "description": "Proudly representing Denver in the U.S. House. Fighting for our environment, public lands \u0026 reproductive rights. Rockies/Broncos/Avs fan. Wife. Mom. Dog lover.",
+      "id": "28599820",
+      "username": "RepDianaDeGette"
+    },
+    {
+      "name": "Congresswoman Marilyn Strickland",
+      "description": "Proudly representing #WA10. Fighting for a nation that is safe, just and secure for all. @TheBlackCaucus @CAPAC @NewDemCoalition @TransportDems @HASCDemocrats",
+      "id": "1343646545955213312",
+      "username": "RepStricklandWA"
+    },
+    {
+      "name": "Rep. Jim Costa",
+      "description": "Proudly representing California’s 16th Congressional District. This account is for official use only.",
+      "id": "245451804",
+      "username": "RepJimCosta"
+    },
+    {
+      "name": "Rep. Ed Perlmutter",
+      "description": "Member of Congress, proudly representing the 7th District of Colorado https://t.co/wLRJaGd9rX",
+      "id": "20552026",
+      "username": "RepPerlmutter"
+    },
+    {
+      "name": "Congressman Blake Moore",
+      "description": "Serving Utah’s First District in Congress, coaching little league, and riding around the Capitol on a scooter. ?",
+      "id": "1337452596093587462",
+      "username": "RepBlakeMoore"
+    },
+    {
+      "name": "Congressman Bill Foster",
+      "description": "Congressman Bill Foster is a scientist and businessman representing the 11th Congressional District of Illinois",
+      "id": "1080509366",
+      "username": "RepBillFoster"
+    },
+    {
+      "name": "stephen fowler",
+      "description": "covers Georgia politics + voting/election admin + 2022 campaigns + investigations | ?? @gpbnews + @npr + etc. | hosts \"battleground: ballot box\" podcast",
+      "id": "438843965",
+      "username": "stphnfwlr"
+    },
+    {
+      "name": "Rep. Ritchie Torres",
+      "description": "Congressman for #NY15 (South Bronx). Bronx native, product of public housing. Fighting every day for the essential borough. He/him. Official House account.",
+      "id": "1276403757224546304",
+      "username": "RepRitchie"
+    },
+    {
+      "name": "Senator Reverend Raphael Warnock",
+      "description": "United States Senator for Georgia. Pastor of Ebenezer Baptist Church.",
+      "id": "1352287997853622273",
+      "username": "SenatorWarnock"
+    },
+    {
+      "name": "Jen Jordan",
+      "description": "Lover of Georgia law \u0026 politics. Trial attorney. Proud Mama of two. Wife of one. Former Ga Senator \u0026 Dem Nominee for Attorney General. Jordan pronounced Jer-Dun",
+      "id": "1403424932",
+      "username": "senatorjen"
+    },
+    {
+      "name": "Rebecca Mitchell, DVM, PhD",
+      "description": "Progressive. Dem who knows some agriculture.\n#epidemiologist #PhD #DVM  #VaccineAdvocate Not an official acct. State Rep.\n\nWoke by the DeSantis definition",
+      "id": "1162787750149591042",
+      "username": "Rebecca4Georgia"
+    },
+    {
+      "name": "Committee on Transportation and Infrastructure",
+      "description": "Chair @RepPeterDeFazio | House Committee on Transportation and Infrastructure",
+      "id": "21684013",
+      "username": "TransportDems"
+    },
+    {
+      "name": "House Committee on Small Business",
+      "description": "Official Twitter Feed of the House Committee on Small Business, Chairwoman Nydia M. Velázquez (@NydiaVelazquez)",
+      "id": "861611548250394624",
+      "username": "HouseSmallBiz"
+    },
+    {
+      "name": "Steny Hoyer",
+      "description": "The Majority Leader of the U.S. House of Representatives, representing Maryland\u0027s Fifth Congressional District.",
+      "id": "22012091",
+      "username": "LeaderHoyer"
+    },
+    {
+      "name": "James E. Clyburn",
+      "description": "Majority Whip in the U.S. House of Representatives; Representing South Carolina\u0027s 6th Congressional District.",
+      "id": "188019606",
+      "username": "WhipClyburn"
+    },
+    {
+      "name": "Sanford Bishop, Jr.",
+      "description": "Proudly representing Georgia\u0027s 2nd Congressional District. Chairman of House Appropriations Subcommittee on Agriculture  https://t.co/gQh6pvYihy",
+      "id": "249410485",
+      "username": "SanfordBishop"
+    },
+    {
+      "name": "Rep. David Scott",
+      "description": "Representing Georgia\u0027s 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+      "id": "168673083",
+      "username": "repdavidscott"
+    },
+    {
+      "name": "Reverend Raphael Warnock",
+      "description": "Pastor. Advocate. Savannah born \u0026 raised. @Morehouse alum. Senator from Georgia. | Join us @TeamWarnock",
+      "id": "1221242033530195970",
+      "username": "ReverendWarnock"
+    },
+    {
+      "name": "Jon Ossoff",
+      "description": "U.S. Senator from Georgia.",
+      "id": "521747968",
+      "username": "ossoff"
+    },
+    {
+      "name": "The Last Word",
+      "description": "Official Twitter account for @MSNBC\u0027s The #LastWord with @Lawrence O\u0027Donnell. Join us: https://t.co/FAgrljLzFt",
+      "id": "182503471",
+      "username": "TheLastWord"
+    },
+    {
+      "name": "The Black Caucus",
+      "description": "The conscience of the Congress since 1971??. Advocating for issues important to Black Americans. #CBC50 #OurPowerOurMessage",
+      "id": "233783568",
+      "username": "TheBlackCaucus"
+    },
+    {
+      "name": "NAACP",
+      "description": "Founded 1909, the NAACP is the nation\u0027s first and largest grassroots–based civil rights organization. Over 2,200 volunteer-run branches nationwide.",
+      "id": "44988185",
+      "username": "NAACP"
+    },
+    {
+      "name": "David Cicilline",
+      "description": "Congressman for Rhode Island’s 1st District. Antitrust Subcommittee Chairman. #ForThePeople",
+      "id": "23593446",
+      "username": "davidcicilline"
+    },
+    {
+      "name": "Congresswoman Nikema Williams",
+      "description": "Working for the people #OutLoudOnPurpose. Proudly representing #GA05?. Member of @FSCDems and @TransportDems. 117th Congress Freshman Class President. She/Her",
+      "id": "1345461797361504259",
+      "username": "RepNikema"
+    },
+    {
+      "name": "Congresswoman Kathy Manning",
+      "description": "Congresswoman representing #NC06. Member of @EdLaborCmte \u0026 @HouseForeign\n#ncpol",
+      "id": "1337115670161608712",
+      "username": "RepKManning"
+    },
+    {
+      "name": "GA Insurance \u0026 Safety Fire Commissioner\u0027s Office",
+      "description": "John F. King, Office of the Insurance and Safety Fire Commissioner for the State of Georgia #gapol",
+      "id": "355539135",
+      "username": "GA_DOI"
+    },
+    {
+      "name": "Georgia Chamber",
+      "description": "Georgia’s largest and most powerful business advocate working to ensure a more resilient economy for the future.",
+      "id": "25517146",
+      "username": "GAChamber"
+    },
+    {
+      "name": "Ashley Hinson",
+      "description": "Proud mom and wife. Representing IA-01 in Congress and bringing a dose of Iowa common sense to Washington.\n\nFB: https://t.co/ovQqAUsFrY",
+      "id": "1340783304304410625",
+      "username": "RepAshleyHinson"
+    },
+    {
+      "name": "Claire Simms",
+      "description": "Journalist @FOX5Atlanta covering news, politics \u0026 sports  \nATL Native/UGA Grad\nMommy who loves working out, baking and baby giggles\nViews expressed are my own",
+      "id": "104410500",
+      "username": "Claire_FOX5"
+    },
+    {
+      "name": "Melanie Thompson",
+      "description": "HIV doc, researcher, policy wonk, Choco’s mom, Amy’s wife, past PI AIDS Research Consortium of ATL, past chair, HIV Medicine Assn (@HIVMA) #HIVTwitter",
+      "id": "17145161",
+      "username": "drmt"
+    },
+    {
+      "name": "Jill Nolin",
+      "description": "Covering state government for the @GeorgiaRecorder. Former: CNHI, the Virginian-Pilot and the Montgomery Advertiser. Holla: jnolin@georgiarecorder.com",
+      "id": "472410588",
+      "username": "jillnolin"
+    },
+    {
+      "name": "Gwinnett Democrats",
+      "description": "Official twitter account of the Gwinnett County Democratic Party.",
+      "id": "240303484",
+      "username": "GwinnettDems"
+    },
+    {
+      "name": "Gwinnett County",
+      "description": "The official Twitter account for Gwinnett County Government.",
+      "id": "71594047",
+      "username": "GwinnettGov"
+    },
+    {
+      "name": "Forsyth County Georgia Democrats",
+      "description": "Official account of the Democratic Committee in Forsyth County, GA. Learn more \u0026 get involved https://t.co/8YRGh520zj. #yourvotematters",
+      "id": "724436479649320961",
+      "username": "ForsythDemGA"
+    },
+    {
+      "name": "Forsyth County Schools",
+      "description": "OFFICIAL ACCOUNT: Forsyth County Schools (GA) is home to 54,180 students in 42 schools. FCS is recognized across the state \u0026 nation as a leader in education",
+      "id": "22982114",
+      "username": "FCSchoolsGA"
+    },
+    {
+      "name": "Forsyth County News",
+      "description": "Your #1 News Source in Forsyth County, Georgia",
+      "id": "138450130",
+      "username": "forsythnews"
+    },
+    {
+      "name": "Gwinnett Co. Schools",
+      "description": "Official Twitter account for Gwinnett County Public Schools. Recognized as a top district, GCPS is committed to becoming a system of world-class schools.",
+      "id": "119766595",
+      "username": "GwinnettSchools"
+    },
+    {
+      "name": "The Democrats",
+      "description": "We’re fighting for a better, fairer, and brighter future for every American.",
+      "id": "14377605",
+      "username": "TheDemocrats"
+    },
+    {
+      "name": "Kamala Harris",
+      "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+      "id": "30354991",
+      "username": "KamalaHarris"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "Andrew Young School",
+      "description": "Our unique entrepreneurial approach to #policy scholarship \u0026 research @GeorgiaStateU helps prepare our grads to help shape policy around the world. #TheStateWay",
+      "id": "166622963",
+      "username": "aysps"
+    },
+    {
+      "name": "Richard Carbo",
+      "description": "Politics | @JohnBelEdwards, Mary Landrieu, John Barrow alum | Forever @LSU",
+      "id": "41422524",
+      "username": "richardacarbo"
+    },
+    {
+      "name": "Georgia House Democrats",
+      "description": "The official Twitter account of the Georgia House Democratic Caucus.",
+      "id": "93742250",
+      "username": "GAHouseDems"
+    },
+    {
+      "name": "Rep. Sharice Davids",
+      "description": "Proud to represent #KS03 in the United States Congress.",
+      "id": "1080516116395499522",
+      "username": "RepDavids"
+    },
+    {
+      "name": "Staci Fox (she/her/y\u0027all)",
+      "description": "CEO at @GaBudget My opinions are my own!",
+      "id": "397686106",
+      "username": "StaciFox"
+    },
+    {
+      "name": "Nick Masino",
+      "description": "Husband, Parent, Chamber Executive, Community \u0026 Economic Developer, Travel Aficionado, Go Buckeyes!",
+      "id": "26845976",
+      "username": "NickMasino"
+    },
+    {
+      "name": "@GA_Black_Caucus",
+      "description": "The Georgia Legislative Black Caucus (GLBC) was founded in 1973 to enable black legislators to form strategies for dealing with specific legislative issues.",
+      "id": "1275106192071819266",
+      "username": "ga_black_caucus"
+    },
+    {
+      "name": "Justin Gray",
+      "description": "Investigative Reporter/Consumer Investigator, @wsbtv. Shining a little light, raising a little hell.",
+      "id": "29077161",
+      "username": "JustinGrayWSB"
+    },
+    {
+      "name": "Ami Bera, M.D.",
+      "description": "Doctor and Member of Congress. Proudly representing #CA07 and #SacramentoCounty in the House of Representatives.\n\nChair of @HouseForeign Subcommittee on Asia.",
+      "id": "950783972",
+      "username": "RepBera"
+    },
+    {
+      "name": "Georgia State University",
+      "description": "This is the official twitter account for Georgia State University. Follow us for the latest news and information about #TheStateWay. Go Panthers!?#GeorgiaState",
+      "id": "26524127",
+      "username": "GeorgiaStateU"
+    },
+    {
+      "name": "John Lewis",
+      "description": "Congressman, Georgia\u0027s Fifth Congressional District",
+      "id": "29450962",
+      "username": "repjohnlewis"
+    },
+    {
+      "name": "Sam Park",
+      "description": "Georgia State Representative, House District 101. Chair, Gwinnett State House Delegation. Deputy Whip, Democratic Caucus. Brother. Guncle. Cat Dad.",
+      "id": "720737029743509504",
+      "username": "SamforGeorgia"
+    },
+    {
+      "name": "Stacey Abrams",
+      "description": "Bestselling Author: Stacey’s Remarkable Books (Available 12/13/22). Small Business Owner. Nonprofit Founder.",
+      "id": "216065430",
+      "username": "staceyabrams"
+    },
+    {
+      "name": "Nikema Williams",
+      "description": "Congresswoman #GA05. Mommy to Carter. Wifey to @Smalls58. Chairwoman @GeorgiaDemocrat. #HBCUmade @talladegacolleg. Soror of #AKA1908 She/Her/Congresswoman",
+      "id": "36424664",
+      "username": "NikemaWilliams"
+    },
+    {
+      "name": "Greg Bluestein",
+      "description": "Husband, father, aspiring mensch. @AJC politics ? @nbcnews contrib ? @politicallyga pod ? @wsbradio+@gpbnews ? Author of FLIPPED? Jolt Newsletter ?",
+      "id": "16563015",
+      "username": "bluestein"
+    },
+    {
+      "name": "Tia \"Very Calm Sis\" Mitchell",
+      "description": "@ajc Washington correspondent. Also find me at @ajconwashington. @cspanwj newest host. Chair @NABJ @NABJPolitical Task Force. #FAMU #DST1913 IG:tiamitch_ig",
+      "id": "402797279",
+      "username": "TIAreports"
+    },
+    {
+      "name": "Carolyn Bourdeaux",
+      "description": "Congresswoman from #GA07. Fighting to lower the cost of health care and get our economy back on track. Former Georgia Senate Budget Director. #FinishedTheJob.",
+      "id": "881222783170228224",
+      "username": "Carolyn4GA7"
+    },
+    {
+      "name": "Georgia Democrats",
+      "description": "Official Twitter account for the Democratic Party of Georgia.  Voter Protection Hotline: 888-730-5816. Text VOTE to 60150 to join our campaign.",
+      "id": "74568060",
+      "username": "GeorgiaDemocrat"
+    },
+    {
+      "name": "CSPAN",
+      "description": "Capitol Hill. The White House. National Politics. Powered by Cable.",
+      "id": "15675138",
+      "username": "cspan"
+    },
+    {
+      "name": "PBS NewsHour",
+      "description": "PBS NewsHour is one of the most trusted news programs on TV and online.",
+      "id": "14437914",
+      "username": "NewsHour"
+    },
+    {
+      "name": "Lawrence O\u0027Donnell",
+      "description": "",
+      "id": "158426909",
+      "username": "Lawrence"
+    },
+    {
+      "name": "Rep. Katie Porter",
+      "description": "Minivan-driving single mom, law professor, consumer advocate ????? Usually carrying a whiteboard, always bringing the receipts ?",
+      "id": "1081222837459996672",
+      "username": "RepKatiePorter"
+    },
+    {
+      "name": "Rep. Pete Aguilar",
+      "description": "Dad, husband, former mayor. Proud to be the Inland Empire’s voice in Congress representing #CA31. Vice Chair of @HouseDemocrats.",
+      "id": "3018670151",
+      "username": "RepPeteAguilar"
+    },
+    {
+      "name": "Sean Patrick Maloney",
+      "description": "Representing NY’s 18th Cong’l Dist. Husband \u0026 dad w/ 3 amazing kids. Goal is to remain adult in Washington. Working on Intel to keep USA safe \u0026 free. ??????",
+      "id": "1072467470",
+      "username": "RepSeanMaloney"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "WSB-TV",
+      "description": "Metro Atlanta\u0027s #1 source for breaking news, weather, and traffic coverage you can count on. https://t.co/D6eBfmKKQ5 Newsletter Sign-up: https://t.co/924NJOmSnz",
+      "id": "21094888",
+      "username": "wsbtv"
+    },
+    {
+      "name": "11Alive News",
+      "description": "Welcome to 11Alive: Where Atlanta Speaks. Here, you\u0027ll find the top stories and news from 11Alive in Atlanta. Follow us on Facebook: https://t.co/0mK58EWBhr",
+      "id": "14268564",
+      "username": "11AliveNews"
+    },
+    {
+      "name": "FOX 5 Atlanta",
+      "description": "More local news than any other station in the Atlanta area. Home to @GoodDayAtlanta @FOX5StormTeam @FOX5Sports @SKYFOXTraffic and more! #fox5atl",
+      "id": "17836882",
+      "username": "FOX5Atlanta"
+    },
+    {
+      "name": "Atlanta News First",
+      "description": "The news team that puts YOU first. Atlanta’s only locally-owned station.\n? Tag your photos, videos, or news tips #ATLnewsfirst",
+      "id": "93059585",
+      "username": "ATLNewsFirst"
+    },
+    {
+      "name": "CDC",
+      "description": "CDC\u0027s official Twitter source for daily credible health \u0026 safety updates from Centers for Disease Control \u0026 Prevention. Privacy policy: https://t.co/9LbZmE3Wzg",
+      "id": "146569971",
+      "username": "CDCgov"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "Gwinnett Daily Post",
+      "description": "The Gwinnett Daily Post is the online news and sports information source for metro Atlanta, Gwinnett and surrounding counties in Georgia.",
+      "id": "31123165",
+      "username": "GwinnettDaily"
+    },
+    {
+      "name": "Atlanta Journal-Constitution",
+      "description": "Our journalists can keep you informed with real, fact-based news because of subscribers.?Learn more: https://t.co/VnIn1RLW28 \n\nFor News tips and FAQs: https://t.co/syAWi1x4IM",
+      "id": "4170491",
+      "username": "ajc"
+    },
+    {
+      "name": "GPB",
+      "description": "The 3rd largest @PBS station in the nation and an @NPR affiliate. Follow us for updates, contests and community.",
+      "id": "69327809",
+      "username": "mygpb"
+    },
+    {
+      "name": "New Democrat Coalition (NDC)",
+      "description": "The NDC is made up of 98 forward-thinking Dems who are committed to pro-economic growth, pro-innovation \u0026 fiscally responsible policies. Chaired by @RepDelBene.",
+      "id": "761783018",
+      "username": "NewDemCoalition"
+    },
+    {
+      "name": "Rep. Lucy McBath",
+      "description": "Mother. Fighter. Congresswoman. #GA06\n\nIf you need help with a federal agency, please call my office at (470) 773-6330 or visit https://t.co/z9i7IG2RFZ.",
+      "id": "1082380458976051202",
+      "username": "RepLucyMcBath"
+    },
+    {
+      "name": "Rep. Hank Johnson",
+      "description": "CBC Whip, Chairman of the Courts, IP \u0026 Internet Subcommittee, Senior Whip for 117th Congress; Champion for working people.",
+      "id": "24745957",
+      "username": "RepHankJohnson"
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "description": "Brooklyn \u0026 Queens Congressman. Chair @HouseDemocrats. Speak truth. Do the work. Change America.",
+      "id": "467823431",
+      "username": "RepJeffries"
+    }
+  ],
+  "id": "1343620645452595200",
+  "username": "RepBourdeaux"
+}

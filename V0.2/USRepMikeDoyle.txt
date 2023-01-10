@@ -1,0 +1,696 @@
+{
+  "following": [
+    {
+      "name": "Mike Wereschagin",
+      "description": "Investigations \u0026 data @PittsburghPG. Co-author of Gone at 3:17, the story of America\u0027s deadliest school disaster (https://t.co/YL3mOHSG6K). Underwater whenever possible",
+      "id": "23434114",
+      "username": "Wrschgn"
+    },
+    {
+      "name": "CDC",
+      "description": "CDC\u0027s official Twitter source for daily credible health \u0026 safety updates from Centers for Disease Control \u0026 Prevention. Privacy policy: https://t.co/9LbZmE3Wzg",
+      "id": "146569971",
+      "username": "CDCgov"
+    },
+    {
+      "name": "CBO Cost Estimates",
+      "description": "Congressional Budget Office cost estimates\nNonpartisan analysis for the U.S. Congress.\nFor reports and more, visit @USCBO.",
+      "id": "1543830679",
+      "username": "USCBOcostest"
+    },
+    {
+      "name": "Pittsburgh Union Progress ?",
+      "description": "The publication of the striking Pittsburgh Post-Gazette workers. Continuing a storied tradition. Instagram: pghunionprogress. Tips: contact@unionprogress.com.",
+      "id": "1300444447033954304",
+      "username": "ThePUPNews"
+    },
+    {
+      "name": "Summer Lee",
+      "description": "Democrat repping #PA12 in Congress, organizing, politicizing, \u0026 mobilizing around racial, econ, \u0026 enviro justice.\n\nShe/her\n\n#AllPowerToThePeople",
+      "id": "917389190328877056",
+      "username": "SummerForPA"
+    },
+    {
+      "name": "Ed Gainey",
+      "description": "Mayor of the City of @Pittsburgh. Building CommUnity Every Day. Enjoying what I have been given. He/Him",
+      "id": "2943241042",
+      "username": "gainey_ed"
+    },
+    {
+      "name": "City \u0026 State PA",
+      "description": "Specializing in PA government, politics \u0026 policy news, get our First Read newsletter - going out every weekday morning at 7AM - here: https://t.co/fEFkT7Yk1W",
+      "id": "710193268173185025",
+      "username": "CityAndStatePA"
+    },
+    {
+      "name": "Mayor Ed Gainey",
+      "description": "Ed Gainey is the Mayor of @Pittsburgh! Building a Better City by Empowering Every CommUnity! Official Account #PittsburghTogether",
+      "id": "1355330846765568003",
+      "username": "MayorEdGainey"
+    },
+    {
+      "name": "Jon Delano KDKA",
+      "description": "KDKA-TV Money \u0026 Politics Editor, attorney, professor, writer. October 2019 marks 25 years as KDKA\u0027s political analyst. Have a political story? jdelano@kdka.com",
+      "id": "829779252480442368",
+      "username": "JonDelano"
+    },
+    {
+      "name": "Pennsylvania Capital-Star",
+      "description": "Honest, aggressive coverage of Pennsylvania government, politics, and policy. \n\nContact us at info@penncapital-star.com.",
+      "id": "1083842869713137664",
+      "username": "PennCapitalStar"
+    },
+    {
+      "name": "Ashley Murray",
+      "description": "Senior DC reporter for @statesnewsroom. Member of 2019 Pulitzer Prize-winning team. Nebby. Pittsburgh born. DM me for Signal info. RTs not endorsements.",
+      "id": "754251967",
+      "username": "Ashley__Murray"
+    },
+    {
+      "name": "Energy and Commerce Committee",
+      "description": "Official Twitter of the House Committee on Energy and Commerce. Chaired by @FrankPallone.",
+      "id": "30929600",
+      "username": "EnergyCommerce"
+    },
+    {
+      "name": "Spotlight PA",
+      "description": "A collaborative newsroom producing nonpartisan investigative journalism for Pennsylvania. Support: https://t.co/MPJIq7Npv5 | Tips: https://t.co/JMKQ9MOiFG",
+      "id": "1047155363873734656",
+      "username": "SpotlightPA"
+    },
+    {
+      "name": "PublicSource",
+      "description": "We tell stories rooted in voices, facts \u0026 transparency for Pittsburgh-area residents. Nonprofit. Member supported. Newsletters: https://t.co/MxTHhc6OEz",
+      "id": "310983849",
+      "username": "PublicSourcePA"
+    },
+    {
+      "name": "Chris Potter",
+      "description": "Politics/government editor for WESA-FM. Post-Post-Gazette, recovering City Paper editor. Too young to die, too old to pray. @cpotterpgh@mastodon.world",
+      "id": "456958080",
+      "username": "CPotterPgh"
+    },
+    {
+      "name": "PA Department of Health",
+      "description": "Official Twitter account for the Pennsylvania Department of Health. DOH is Pennsylvania’s primary source for public health information and services.",
+      "id": "3218464527",
+      "username": "PAHealthDept"
+    },
+    {
+      "name": "The White House",
+      "description": "Welcome to the Biden-Harris White House! Tweets may be archived: https://t.co/UbZQo0sWVf",
+      "id": "1323730225067339784",
+      "username": "WhiteHouse"
+    },
+    {
+      "name": "John Cole",
+      "description": "PCN Assistant Producer | Previously: Managing Editor of @PoliticsPA, Reporter for @NETimesOfficial | Carpe Diem | Invite Mane | Archbishop Ryan \u002713 | Temple \u002717",
+      "id": "339476134",
+      "username": "John__Cole"
+    },
+    {
+      "name": "President Biden",
+      "description": "46th President of the United States, husband to @FLOTUS, proud dad \u0026 pop. Tweets may be archived: https://t.co/HDhBZBkKpU\nText me: (302) 404-0880",
+      "id": "1349149096909668363",
+      "username": "POTUS"
+    },
+    {
+      "name": "The FCC",
+      "description": "The official Twitter page of the US Federal Communications Commission. RT \u0026 Follow does not imply endorsement.",
+      "id": "66369206",
+      "username": "FCC"
+    },
+    {
+      "name": "Vice President Kamala Harris",
+      "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.",
+      "id": "803694179079458816",
+      "username": "VP"
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Husband to @DrBiden, proud father and grandfather. Ready to build back better for all Americans. Official account is @POTUS.",
+      "id": "939091",
+      "username": "JoeBiden"
+    },
+    {
+      "name": "The Pitt News",
+      "description": "The award-winning daily student newspaper at the University of Pittsburgh since 1910. Pick up our print edition every Wednesday at stands around campus!",
+      "id": "16641565",
+      "username": "ThePittNews"
+    },
+    {
+      "name": "House Appropriations",
+      "description": "Chair @rosadelauro and the House Appropriations Committee are investing in America’s working families. Updates from staff.",
+      "id": "30912937",
+      "username": "AppropsDems"
+    },
+    {
+      "name": "An-Li Herring",
+      "description": "Reporter at Pittsburgh\u0027s @NPR news station, @905wesa",
+      "id": "817152204649930753",
+      "username": "anliherring"
+    },
+    {
+      "name": "Office of the Governor",
+      "description": "Official account for @GovernorTomWolf\u0027s Office. Follow for breaking news, press releases, and photos from the Pennsylvania governor.",
+      "id": "857705067532648448",
+      "username": "GovernorsOffice"
+    },
+    {
+      "name": "LWV of Greater Pittsburgh",
+      "description": "League of Women Voters of Greater Pittsburgh, a nonpartisan political organization encourages informed and active participation by citizens in government.",
+      "id": "813320156",
+      "username": "LWVPGH"
+    },
+    {
+      "name": "League of Women Voters of Pennsylvania",
+      "description": "Empowering Voters. Defending Democracy.",
+      "id": "522406067",
+      "username": "LWVPA"
+    },
+    {
+      "name": "Matt Cartwright",
+      "description": "Proudly representing PA\u0027s 8th Congressional District. House Appropriator. Serving in leadership as co-chair of the House Democratic Policy/Comms Committee.",
+      "id": "776664410",
+      "username": "RepCartwright"
+    },
+    {
+      "name": "Robert Daniel Lavelle",
+      "description": "Councilman for the City of Pittsburgh\u0027s District 6",
+      "id": "466855066",
+      "username": "RDLavelle"
+    },
+    {
+      "name": "Rev. Ricky Burgess",
+      "description": "Pittsburgh City Councilman, District 9, Senior Pastor, Nazarene Baptist Church, Professor, CCAC",
+      "id": "2376390632",
+      "username": "RevBurgessPgh"
+    },
+    {
+      "name": "Bethany",
+      "description": "Pro-human rights. ?. Workaholic. Has a deep fear of icicles. ???????????Kobe PR Ambassador",
+      "id": "74326368",
+      "username": "mightydefsensei"
+    },
+    {
+      "name": "Black Maternal Health Caucus",
+      "description": "Congressional Caucus established by @RepUnderwood and @RepAdams to elevate the Black maternal health crisis and advance policy solutions to save lives.",
+      "id": "1171500532420075520",
+      "username": "BMHCaucus"
+    },
+    {
+      "name": "Senator Pam Iovino (Archived)",
+      "description": "Proudly served as PA State Senator for the 37th District from April 2019 - Nov 2020. For information on the current Sen. for the 37th District, visit https://t.co/OQOLbxlP1Z",
+      "id": "1113451860323647489",
+      "username": "SenatorIovino"
+    },
+    {
+      "name": "Bess Levin",
+      "description": "@vanityfair Bess_Levin@condenast.com",
+      "id": "27592415",
+      "username": "besslevin"
+    },
+    {
+      "name": "U.S. Women\u0027s National Soccer Team",
+      "description": "4 x ? @FIFAWWC | 4 x?Olympics | #USWNT",
+      "id": "133448051",
+      "username": "USWNT"
+    },
+    {
+      "name": "Rosa DeLauro",
+      "description": "Proud to represent CT-03 in Congress. Chair of @AppropsDems. Italian-American, New Haven native, fierce advocate for a strong middle class \u0026 those in need.",
+      "id": "140519774",
+      "username": "rosadelauro"
+    },
+    {
+      "name": "John Dingell",
+      "description": "Former Congressman. @RepDebDingell\u0027s husband. Fan of @umich and all things Detroit. Pre-order my new book THE DEAN here: https://t.co/lU06atB3BQ",
+      "id": "109025212",
+      "username": "JohnDingell"
+    },
+    {
+      "name": "Rep. Guy Reschenthaler",
+      "description": "Proudly representing the people of Pennsylvania’s 14th District in the U.S. House of Representatives ??",
+      "id": "4205133682",
+      "username": "GReschenthaler"
+    },
+    {
+      "name": "Rep. Frank Pallone",
+      "description": "The official Twitter account of Congressman Frank Pallone, Jr. (D) of New Jersey\u0027s 6th district, Chairman of @EnergyCommerce Committee.",
+      "id": "31801993",
+      "username": "FrankPallone"
+    },
+    {
+      "name": "Pittsburgh Institute for Nonprofit Journalism",
+      "description": "Pittsburgh Institute for Nonprofit Journalism exists to provide coverage of the issues that directly affect our local communities.",
+      "id": "1003960538026729472",
+      "username": "PINJNews"
+    },
+    {
+      "name": "Rep. Susan Wild",
+      "description": "Proud to represent Pennsylvania\u0027s 7th Congressional District",
+      "id": "1069636653353000962",
+      "username": "RepSusanWild"
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "description": "Air Force veteran, engineer, entrepreneur, educator and the first woman ever to represent Pennsylvania\u0027s 6th District in Congress.",
+      "id": "1052896620797460481",
+      "username": "RepHoulahan"
+    },
+    {
+      "name": "Congresswoman Mary Gay Scanlon",
+      "description": "Representing Pennsylvania\u0027s 5th Congressional District. Vice Chair of @HouseAdm_Dems. Member of @HouseJudiciary @RulesDemocrats.",
+      "id": "1067541214671577093",
+      "username": "RepMGS"
+    },
+    {
+      "name": "WQED Pittsburgh",
+      "description": "America\u0027s First Community Sponsored Television Station. Celebrating 68 years in Mister Rogers\u0027 Neighborhood! (Digital + TV + Radio + Education) #ExploreOn",
+      "id": "17194346",
+      "username": "wqed"
+    },
+    {
+      "name": "Pittsburgh Magazine",
+      "description": "Always telling the stories of Pittsburgh.\nRetweets are not endorsements.",
+      "id": "17543584",
+      "username": "PittsburghMag"
+    },
+    {
+      "name": "Pittsburgh Cultural Trust",
+      "description": "Creating a scene in downtown Pittsburgh since 1984.",
+      "id": "50717159",
+      "username": "CulturalTrust"
+    },
+    {
+      "name": "NEXTpittsburgh",
+      "description": "The go-to publication about the people driving change and the innovative and cool things happening in Pgh. Get it free! https://t.co/xMQ61mmOL4",
+      "id": "2250997562",
+      "username": "NEXTpittsburgh"
+    },
+    {
+      "name": "Sue Kerr ??????",
+      "description": "She/Her MSW \nQueer Blogger\nCat Folx\n2022 Advocate Magazine People of the Year \n2019, 2022 #GLAADawards Outstanding Blog\nOpinions \u003d mine @Pghlesbian@mastodon.lol",
+      "id": "14720577",
+      "username": "PghLesbian24"
+    },
+    {
+      "name": "Ryan Deto",
+      "description": "Bay Area native, proud PGH transplant. Reporter @TribLive. Former Managing Editor at Pittsburgh City Paper. Tips rdeto@triblive.com",
+      "id": "355823359",
+      "username": "RyanDeto"
+    },
+    {
+      "name": "UPMC Policy Matters",
+      "description": "UPMC Policy Matters delivers topical information related to patient \u0026 community advocacy to advance initiatives in the #healthcare industry.",
+      "id": "869562480787427328",
+      "username": "UPMCpolicy"
+    },
+    {
+      "name": "The Incline",
+      "description": "News for Pittsburghers who want to #livelikeyoulivehere. \nTips ? hello@theincline.com \nSign up for our newsletter ? https://t.co/KCL4pz85dL",
+      "id": "722795684496158720",
+      "username": "theinclinepgh"
+    },
+    {
+      "name": "Green Building Alliance",
+      "description": "Green Building Alliance strives to make every building \u0026 community sustainable so every person can thrive.",
+      "id": "41911813",
+      "username": "GBA_pgh"
+    },
+    {
+      "name": "URA Pittsburgh",
+      "description": "Official page for the Urban Redevelopment Authority of Pittsburgh | Sign up: https://t.co/BTHdgIIdS1 | https://t.co/VzEsUAO4oO | https://t.co/pRrFgxupkU",
+      "id": "2709436183",
+      "username": "urapgh"
+    },
+    {
+      "name": "Just Harvest",
+      "description": "Addressing the root causes of hunger in Allegheny County and PA. Sign up for action alerts at https://t.co/clobZD9SKp  Also on FB and IG.",
+      "id": "118784702",
+      "username": "JustHarvest"
+    },
+    {
+      "name": "NPR Politics",
+      "description": "The latest on politics, policy, government and more from NPR. Check out the NPR Politics Podcast https://t.co/O5GCES2xXK and subscribe to our newsletter https://t.co/UDmhoic4zX",
+      "id": "5741722",
+      "username": "nprpolitics"
+    },
+    {
+      "name": "Riverlife",
+      "description": "Pittsburgh nonprofit working to create, activate, and celebrate the city\u0027s riverfronts, including Downtown\u0027s 15-mile, 1,050-acre riverfront park loop.",
+      "id": "123942717",
+      "username": "RiverlifePgh"
+    },
+    {
+      "name": "CMU Scott Institute for Energy Innovation",
+      "description": "We address the world’s pressing energy challenges by enabling collaborative research, strategic partnerships, policy outreach, entrepreneurship, and education.",
+      "id": "3059427263",
+      "username": "CMUenergy"
+    },
+    {
+      "name": "The Confluence",
+      "description": "Engaging stories and important interviews about how Pittsburgh lives—and how it’s evolving. Listen weekdays at 9AM on @905wesa, Pittsburgh\u0027s @NPR station.",
+      "id": "463158389",
+      "username": "WESAconfluence"
+    },
+    {
+      "name": "Senator Bob Casey",
+      "description": "Official twitter profile for U.S. Senator Bob Casey. Husband, dad, grandpa, history buff, Chairman @SenateAging. Fighting for PA’s children and families.",
+      "id": "171598736",
+      "username": "SenBobCasey"
+    },
+    {
+      "name": "Robotics Caucus",
+      "description": "",
+      "id": "332462827",
+      "username": "roboticscaucus"
+    },
+    {
+      "name": "Petra Mitchell",
+      "description": "President \u0026 CEO @MadeinSWPA, Honorary Consul for the Republic of Slovenia, advocate for #mfg in PA and beyond, grad from @univofdayton \u0026 @uofcincy",
+      "id": "4589372314",
+      "username": "petra_catalyst"
+    },
+    {
+      "name": "New Pgh Courier",
+      "description": "The New Pittsburgh Courier is one of the oldest and most prestigious Black newspapers in the U.S., with a rich and storied history. Established in 1907.",
+      "id": "28568173",
+      "username": "NewPghCourier"
+    },
+    {
+      "name": "Pittsburgh Public Safety",
+      "description": "@Pittsburgh Public Safety includes Police, Fire, EMS, Emergency Mgmt, Animal Care, Park Rangers, Special Events. Not monitored 24/7. For emergencies, call 911.",
+      "id": "2426942065",
+      "username": "PghPublicSafety"
+    },
+    {
+      "name": "Pittsburgh Water \u0026 Sewer Authority",
+      "description": "Actively monitored M-F, 8AM-6PM. Report water emergencies 24/7 at 412-255-2423 | ? info@pgh2o.com | ? https://t.co/8BYLwnTjWg | ? https://t.co/vatOhu3Gvi",
+      "id": "131344121",
+      "username": "pgh2o"
+    },
+    {
+      "name": "Pittsburgh City Planning",
+      "description": "Working with partners to develop policies \u0026 plans for a @Pittsburgh that is vibrant, innovative, inclusive \u0026 sustainable. Account not monitored 24/7. #PlanPGH",
+      "id": "124642757",
+      "username": "PLANPGH"
+    },
+    {
+      "name": "Office of the Mayor",
+      "description": "Official account of the Office of the Mayor. Ed Gainey (@gainey_ed) is the 61st Mayor of @Pittsburgh. Together we can build a city for all!",
+      "id": "2273368027",
+      "username": "TheNextPGH"
+    },
+    {
+      "name": "PG Business Staff",
+      "description": "Pittsburgh Post-Gazette Business News",
+      "id": "88716195",
+      "username": "businessPG"
+    },
+    {
+      "name": "Allegheny County",
+      "description": "Allegheny County was created on September 24, 1788, and is home to world-renowned educational, cultural, research \u0026 health-care institutions.",
+      "id": "537463383",
+      "username": "Allegheny_Co"
+    },
+    {
+      "name": "City of Pittsburgh",
+      "description": "The official Twitter account for Pittsburgh, Pennsylvania. Founded - 1758, Incorporated - 1816. Account not monitored 24/7. Tag @Pgh311 for service requests.",
+      "id": "168774634",
+      "username": "Pittsburgh"
+    },
+    {
+      "name": "Pittsburgh Parks Conservancy",
+      "description": "Your partners in Pittsburgh’s parks! Restoring • Caring • Maintaining #PittsburghParksConservancy #PittsburghParks",
+      "id": "18028538",
+      "username": "pittsburghparks"
+    },
+    {
+      "name": "The White House 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "822215673812119553",
+      "username": "WhiteHouse45"
+    },
+    {
+      "name": "White House Archived",
+      "description": "This is an archive of an Obama Administration account maintained by the National Archives and Records Administration (NARA).",
+      "id": "30313925",
+      "username": "ObamaWhiteHouse"
+    },
+    {
+      "name": "Pittsburgh Regional Transit",
+      "description": "Pittsburgh Regional Transit\u0027s official Twitter. Not monitored 24/7. Customer Service @pghtransitcare or 412-442-2000 Alerts: @pghtransitalert",
+      "id": "48695894",
+      "username": "PGHtransit"
+    },
+    {
+      "name": "House Gun Task Force",
+      "description": "House Gun Violence Prevention Task Force",
+      "id": "747853673917747200",
+      "username": "HouseGVP"
+    },
+    {
+      "name": "Allegheny County DHS",
+      "description": "Agency responsible for publicly funded child welfare, aging, homeless, drug and alcohol, mental health, intellectual disability services in Allegheny County, PA",
+      "id": "39626196",
+      "username": "ACDHS"
+    },
+    {
+      "name": "The Heinz Endowments",
+      "description": "The Heinz Endowments seeks to help our region thrive as a whole \u0026 just community, \u0026 through that work, model solutions to major nat\u0027l \u0026 global challenges.",
+      "id": "1603459808",
+      "username": "HeinzEndow"
+    },
+    {
+      "name": "TomWaseleski",
+      "description": "Former editorial page editor of the Pittsburgh Post-Gazette, restless traveler and music lover (if it\u0027s pre-1980)",
+      "id": "292333095",
+      "username": "PG_TomWas"
+    },
+    {
+      "name": "90.5 WESA",
+      "description": "Pittsburgh\u0027s @NPR News Station. Donate to 90.5 WESA today: https://t.co/NwiAXT39xE",
+      "id": "240302165",
+      "username": "905wesa"
+    },
+    {
+      "name": "WPXI",
+      "description": "LEGALESE: If you send us a tweet, you consent to letting WPXI use and showcase it in any media, including TV.",
+      "id": "14085146",
+      "username": "WPXI"
+    },
+    {
+      "name": "Cook Political Report",
+      "description": "Nobody follows politics like we do. Subscribe to get the insiders\u0027 choice for election analysis w/ @amyewalter, @redistrict, @jessicataylor \u0026 @charliecookDC.",
+      "id": "191477653",
+      "username": "CookPolitical"
+    },
+    {
+      "name": "Allegheny Co. Exec.",
+      "description": "Rich Fitzgerald was sworn in as County Executive on January 3, 2012.  He previously held the District 11 County Council seat, serving as President for 8 years.",
+      "id": "24891679",
+      "username": "ACE_Fitzgerald"
+    },
+    {
+      "name": "WTAE-TV Pittsburgh",
+      "description": "Pittsburgh\u0027s news, weather \u0026 sports! #WTAE",
+      "id": "15168829",
+      "username": "WTAE"
+    },
+    {
+      "name": "House DPCC",
+      "description": "The House Democratic Policy \u0026 Communications Committee is Co-Chaired by @RepCartwright, @RepDebDingell, @RepTedLieu, \u0026 @RepJoeNeguse #PeopleOverPolitics",
+      "id": "3027286779",
+      "username": "HouseDPCC"
+    },
+    {
+      "name": "CRS4Congress",
+      "description": "Information for Congress from the Congressional Research Service in the Library of Congress",
+      "id": "389028352",
+      "username": "CRS4Congress"
+    },
+    {
+      "name": "Bruce A. Kraus",
+      "description": "Pittsburgh City Councilman Proudly Representing District 3. Please call 412-255-2130 or email district3feedback@pittsburghpa.gov for questions and/or concerns.",
+      "id": "240785083",
+      "username": "BruceKraus"
+    },
+    {
+      "name": "Corey O\u0027Connor",
+      "description": "Proudly representing Allegheny County and its residents as Controller.",
+      "id": "555284569",
+      "username": "CoreyOConnorPGH"
+    },
+    {
+      "name": "Keystone Report",
+      "description": "Latest PA state news, with links to Pennsylvania news sources, political reports, and columnists. http://t.co/QB3rqLsLNv",
+      "id": "20861949",
+      "username": "KeystoneReport"
+    },
+    {
+      "name": "Rich Lord",
+      "description": "Managing editor @PublicSourcePA. Collecting and rearranging facts since 1996. Prefer encrypted? RichELord is my protonmail address.",
+      "id": "537432402",
+      "username": "richelord"
+    },
+    {
+      "name": "Sy Snyder",
+      "description": "The latest breaking Pennsylvania political news from Harrisburg to DC. Governor, US Senate, Congress, state Senate \u0026 House, and more. Tips: steve@politicspa.com",
+      "id": "222574347",
+      "username": "PoliticsPA"
+    },
+    {
+      "name": "Rep. John Larson",
+      "description": "Member of Congress representing the First District of Connecticut.",
+      "id": "50452197",
+      "username": "RepJohnLarson"
+    },
+    {
+      "name": "HuffPost Politics",
+      "description": "The latest political news from HuffPost\u0027s politics team.\n\nNeed help with HuffPost login or membership? Tweet @HuffPostSupport",
+      "id": "15458694",
+      "username": "HuffPostPol"
+    },
+    {
+      "name": "91.3 WYEP",
+      "description": "Pittsburgh\u0027s Independent Public Radio | Where the Music Matters | Est. 1974",
+      "id": "30051588",
+      "username": "WYEP"
+    },
+    {
+      "name": "Rick Earle",
+      "description": "Watch Target 11 Investigations on Channel 11. WPXI Pittsburgh Rick Earle",
+      "id": "18650835",
+      "username": "WPXIRickEarle"
+    },
+    {
+      "name": "PGH Tech Council",
+      "description": "We help Pittsburgh area tech companies succeed. \nInstagram: @pghtechcouncil\nTech Careers: https://t.co/W2CQNzxUWo",
+      "id": "15279622",
+      "username": "pghtech"
+    },
+    {
+      "name": "Pittsburgh City Paper",
+      "description": "Pittsburgh\u0027s free alternative news and arts publication since 1991. Support our newsroom by becoming a member: https://t.co/XgjQUQ1UG8",
+      "id": "17371435",
+      "username": "PGHCityPaper"
+    },
+    {
+      "name": "Sewickley Herald",
+      "description": "A community institution. Covering the #Sewickley Valley since 1903. An account of @TribLIVE.",
+      "id": "17171443",
+      "username": "SewickleyHerald"
+    },
+    {
+      "name": "PG politics coverage",
+      "description": "Politics and perspective from the Pittsburgh Post-Gazette",
+      "id": "133577673",
+      "username": "politicsPG"
+    },
+    {
+      "name": "NetworkPittsburgh",
+      "description": "Networking Site for Pittsburgh Professionals - to Network with others, find Jobs, check out local Events and meet Professionals.   Burgh Verified",
+      "id": "24734700",
+      "username": "NetwkPittsburgh"
+    },
+    {
+      "name": "House Democrats",
+      "description": "We are THE Democratic Caucus of the United States House of Representatives ?? Chair: @RepJeffries \u0026 Vice Chair: @RepPeteAguilar. #ForThePeople",
+      "id": "43963249",
+      "username": "HouseDemocrats"
+    },
+    {
+      "name": "Power Breakfast",
+      "description": "Brought to you by the reporters of Capitol News Connection.",
+      "id": "32475674",
+      "username": "PowerBreakfast"
+    },
+    {
+      "name": "Tracie Mauriello",
+      "description": "State education policy reporter for Chalkbeat Detroit \u0026 Bridge Michigan. tmauriello@chalkbeat.org Before: Pittsburgh Post-Gazette",
+      "id": "16098007",
+      "username": "TracieMaurie"
+    },
+    {
+      "name": "Alex Roarty",
+      "description": "Not from Pennsylvania. @mcclatchydc White House correspondent. @cumberlink alum.",
+      "id": "26133429",
+      "username": "Alex_Roarty"
+    },
+    {
+      "name": "Burgh Blogs",
+      "description": "Gathering up news and blogs from Pittsburgh",
+      "id": "19819370",
+      "username": "burghblogs"
+    },
+    {
+      "name": "swen_QUDW",
+      "description": "",
+      "id": "16613149",
+      "username": "swen_QUDW"
+    },
+    {
+      "name": "unavailable",
+      "description": "",
+      "id": "24624195",
+      "username": "unavailable1010"
+    },
+    {
+      "name": "100.1 FM and AM 1020 KDKA",
+      "description": "The news that matters to you from local experts and trusted sources. Always live on the free @Audacy app.",
+      "id": "22013225",
+      "username": "KDKARadio"
+    },
+    {
+      "name": "KDKA",
+      "description": "Breaking News, Weather, Sports, from KDKA - CBSN Pittsburgh. If you send us a tweet, you consent to letting #KDKA/sister stations showcase them on air \u0026 digital",
+      "id": "14085099",
+      "username": "KDKA"
+    },
+    {
+      "name": "Brian O\u0027Neill",
+      "description": "Retired newspaper columnist, father of two daughters, reader of printed matter",
+      "id": "26561810",
+      "username": "brotheroneill"
+    },
+    {
+      "name": "Ron Morris",
+      "description": "The American Entrepreneur radio is LIVE weekdays 3p-6p EST, Saturdays 9a-12p EST \u0026 Sundays 10a-12:30p EST.  Listen live and hear past episodes at TAEradio.com.",
+      "id": "27046808",
+      "username": "TAEradio"
+    },
+    {
+      "name": "Port of Pittsburgh Commission",
+      "description": "Our mission is to  promote the commercial use and development of the inland waterway-intermodal transportation system.",
+      "id": "26777437",
+      "username": "portpitt"
+    },
+    {
+      "name": "Pittsburgh Post-Gazette",
+      "description": "Pittsburgh and Western Pennsylvania\u0027s leading source for news and analysis. Support local journalism by subscribing at https://t.co/s46Op9tJe1",
+      "id": "21780652",
+      "username": "PittsburghPG"
+    },
+    {
+      "name": "Pittsburgh Business Times",
+      "description": "Bringing you the best business news, research and events in the region | Newsletters: https://t.co/RevPQnKTBv | Subscriptions: https://t.co/b9QnmgWT9Z",
+      "id": "24247996",
+      "username": "PghBizTimes"
+    },
+    {
+      "name": "TribLIVE.com",
+      "description": "https://t.co/7gE5lRhfQu covers Pittsburgh and Western Pennsylvania news, sports, politics, entertainment and more. Facebook: https://t.co/wO2npoepHe",
+      "id": "20269833",
+      "username": "TribLIVE"
+    },
+    {
+      "name": "bill peduto",
+      "description": "President, Sabean Innovation, Inc, Distinguished Executive in Residence, Carnegie Mellon University, Heinz College, Former Mayor of Pittsburgh.",
+      "id": "23541684",
+      "username": "billpeduto"
+    }
+  ],
+  "id": "39249305",
+  "username": "USRepMikeDoyle"
+}

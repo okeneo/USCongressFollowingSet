@@ -1,0 +1,2424 @@
+{
+  "following": [
+    {
+      "name": "New Bern High School",
+      "description": "Bears ?????",
+      "id": "710826856698609664",
+      "username": "nbhsbears"
+    },
+    {
+      "name": "American Council of Trustees and Alumni (ACTA)",
+      "description": "ACTA is a nonpartisan national nonprofit committed to academic freedom, academic excellence, and accountability in higher education. RT?endorsement",
+      "id": "321007441",
+      "username": "goACTA"
+    },
+    {
+      "name": "John Solomon",
+      "description": "John Solomon is an award-winning investigative journalist and founder of Just the News. He has worked at AP, WaPo, TWT, and The Hill.",
+      "id": "523248016",
+      "username": "jsolomonReports"
+    },
+    {
+      "name": "Mike Pompeo",
+      "description": "Fmr U.S. SecState \u0026 CIA Director | Christian, husband, father, Army vet, Kansan | @CAV_PAC Chair | Never Give An Inch ? available for pre-order: https://t.co/X7MOvwTp4n",
+      "id": "1163992520252153857",
+      "username": "mikepompeo"
+    },
+    {
+      "name": "Conservative Climate Caucus",
+      "description": "We believe the climate is changing, and decades of a global industrial era that has brought prosperity to the world has also contributed to that change.",
+      "id": "1407009577095385090",
+      "username": "climate_caucus"
+    },
+    {
+      "name": "Climate GOP",
+      "description": "House Select Climate Committee Republicans | Ranking Member: @RepGarretGraves",
+      "id": "1153382621952577536",
+      "username": "ClimateGOP"
+    },
+    {
+      "name": "Rep. Rob Wittman",
+      "description": "Honored to represent VA01; proud husband, father, grandfather, and conservative; avid outdoorsman; Ranking Member of Seapower \u0026 Projection Forces Subcommittee",
+      "id": "15356407",
+      "username": "RobWittman"
+    },
+    {
+      "name": "NCDA\u0026CS",
+      "description": "Bringing you news and info from the N.C. Department of Agriculture and Consumer Services. #GottobeNC #NCGrown #NCRaised #NCCaught #NCMade",
+      "id": "102168331",
+      "username": "NCAgriculture"
+    },
+    {
+      "name": "Speaker Tim Moore",
+      "description": "North Carolina House Speaker Tim Moore",
+      "id": "282219422",
+      "username": "NCHouseSpeaker"
+    },
+    {
+      "name": "ASA",
+      "description": "The American Sportfishing Association (ASA) is the sportfishing industry’s trade association.",
+      "id": "44362094",
+      "username": "ASAFishing"
+    },
+    {
+      "name": "Rep. Andrew Clyde",
+      "description": "U.S. Representative for #GA09 | @HomelandGOP \u0026 @GOPoversight | @freedomcaucus",
+      "id": "1357017361568694274",
+      "username": "Rep_Clyde"
+    },
+    {
+      "name": "The Evening Edit",
+      "description": "Join The Evening Edit w/ Elizabeth MacDonald weeknights at 6pm ET/3pm PT, only on @FoxBusiness",
+      "id": "2375568110",
+      "username": "EveningEdit"
+    },
+    {
+      "name": "Hal Rogers",
+      "description": "Representing the people of Southern and Eastern Kentucky.",
+      "id": "550401754",
+      "username": "RepHalRogers"
+    },
+    {
+      "name": "Congressman Cliff Bentz",
+      "description": "Proudly serving Oregon\u0027s 2nd Congressional District #OR02",
+      "id": "1345788865911656454",
+      "username": "RepBentz"
+    },
+    {
+      "name": "U.S. Rep. Bob Latta",
+      "description": "#OH5. Deputy Whip. Member of @HouseCommerce. Republican Leader of the Communications \u0026 Technology Subcommittee.\nSign up for updates: https://t.co/eZl0cNxtXW",
+      "id": "15394954",
+      "username": "boblatta"
+    },
+    {
+      "name": "Josh Hammer",
+      "description": "Opinion editor @Newsweek, host \"The Josh Hammer Show,\" syndicated columnist, host/fellow @NatConTalk, counsel @The_IAP, boards @AmMomentOrg @NYYRC. #GoDuke ?",
+      "id": "38813274",
+      "username": "josh_hammer"
+    },
+    {
+      "name": "Kate Cooksey Noyes",
+      "description": "@senategop communications director, chairman @senjohnbarrasso | tweets are my own",
+      "id": "3101599050",
+      "username": "Cooksey__"
+    },
+    {
+      "name": "Heritage Foundation",
+      "description": "Devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+      "id": "10168082",
+      "username": "Heritage"
+    },
+    {
+      "name": "Jim DeMint",
+      "description": "Chairman, Conservative Partnership Institute (@CPInst) https://t.co/npt2OqHnJ2. Father of 4. Author: \"Satan\u0027s Dare\" - A novel",
+      "id": "9508922",
+      "username": "JimDeMint"
+    },
+    {
+      "name": "Kyra Phillips",
+      "description": "@ABC Correspondent @ABCNewsLive Anchor/Author:The Whole Life Fertility Plan/Proud MOM of TWINS/WIFE of @johnrobertsfox ??????? @ABCGMA3 @GMA @Nightline",
+      "id": "31779156",
+      "username": "KyraPhillips"
+    },
+    {
+      "name": "Jay Caruso",
+      "description": "Senior Editor, Fox Business Digital | Writer, editor, aspiring author (43K words in) | Amateur cook | @andreanruth is my better half",
+      "id": "11616202",
+      "username": "JayCaruso"
+    },
+    {
+      "name": "Congresswoman Mayra Flores",
+      "description": "Proudly representing Texas\u0027s 34th District in the US House of Representatives",
+      "id": "1538990997769707523",
+      "username": "repmayraflores"
+    },
+    {
+      "name": "Mark Bloomfield",
+      "description": "Mark is often referred to by the media as Mr. Capital Gains for what the WSJ called his 25-year quest for lower taxes on saving and investment",
+      "id": "250766147",
+      "username": "MrCapitalGains"
+    },
+    {
+      "name": "SCOTUSblog",
+      "description": "Independent news and analysis on the U.S. Supreme Court since 2002. Follow us on TikTok! ?: SCOTUStalk. ?: scotus_blog. DMs are open.",
+      "id": "16228479",
+      "username": "SCOTUSblog"
+    },
+    {
+      "name": "Jacqui Heinrich",
+      "description": "White House Correspondent, occasional anchor @FoxNews • @WHCA board • Capitol Hill \u0026 2020 campaign trail alum • 3x Emmy Award-winning reporter • podcast host",
+      "id": "322217657",
+      "username": "JacquiHeinrich"
+    },
+    {
+      "name": "Phelim Kine “? ?“",
+      "description": "D.C.-based China corro @Politico; Past\n@hrw @DowJones @phnompenhpost; DMs open;Tips to pkine@politico.com; Subscribe to my newsletter: https://t.co/wfyjwmetDV",
+      "id": "374386176",
+      "username": "PhelimKine"
+    },
+    {
+      "name": "David Asman",
+      "description": "I\u0027m a writer who got pulled into the TV world 20 years ago and never left!",
+      "id": "1472931361",
+      "username": "DavidAsmanfox"
+    },
+    {
+      "name": "AP Politics",
+      "description": "Highlights from AP\u0027s coverage of U.S. politics and government in words, photos and video. Managed by the Washington bureau. https://t.co/lTcEv1VGoB",
+      "id": "426802833",
+      "username": "AP_Politics"
+    },
+    {
+      "name": "Lucas Tomlinson",
+      "description": "Fox News correspondent",
+      "id": "1176004076",
+      "username": "LucasFoxNews"
+    },
+    {
+      "name": "Dan Bongino",
+      "description": "Public Enemy #1",
+      "id": "232901331",
+      "username": "dbongino"
+    },
+    {
+      "name": "Mary Margaret Olohan",
+      "description": "Senior Reporter @DailySignal. Irish. Catholic. Send tips: marymargaret.olohan@dailysignal.com",
+      "id": "955955001876254720",
+      "username": "MaryMargOlohan"
+    },
+    {
+      "name": "House GOP Policy",
+      "description": "House Republican Policy Committee, chaired by @USRepGaryPalmer (AL-06), is the principal forum for generating bold and innovative policy initiatives. Est.1949",
+      "id": "10840862",
+      "username": "GOPpolicy"
+    },
+    {
+      "name": "John McCormack",
+      "description": "Washington correspondent at National Review and fellow at National Review Institute.",
+      "id": "27689907",
+      "username": "McCormackJohn"
+    },
+    {
+      "name": "Kelly Laco",
+      "description": "Politics editor @FoxNews Digital.",
+      "id": "1296035989",
+      "username": "kelly_laco"
+    },
+    {
+      "name": "Wilmington District",
+      "description": "The U.S. Army Corps of Engineers Wilmington District helps defend our nation by enhancing our military and economic capabilities in NC \u0026 southern VA.",
+      "id": "905044483896684544",
+      "username": "USACEWilmington"
+    },
+    {
+      "name": "Adam Kredo",
+      "description": "Senior Writer, Foreign Policy \u0026 National Security for @FreeBeacon. I\u0027m that guy you don\u0027t like. Perpetually enraged. (E-mail: AKReporter@protonmail.com)",
+      "id": "131538331",
+      "username": "Kredo0"
+    },
+    {
+      "name": "Julia E. Musto",
+      "description": "29. Science and Tech reporter for Fox News and Fox Business Digital. California native. NYC local.",
+      "id": "1230690153821331457",
+      "username": "JuliaElenaMusto"
+    },
+    {
+      "name": "Gregg Re",
+      "description": "lawyer \u0026 producer @foxnews tucker carlson tonight",
+      "id": "926054168753709056",
+      "username": "gregg_re"
+    },
+    {
+      "name": "Maria Bartiromo",
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness \u0026 @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "id": "208155240",
+      "username": "MariaBartiromo"
+    },
+    {
+      "name": "Joe Concha",
+      "description": "Media and Politics columnist for The Hill. FNC. Likes dogs. Author of the Wall Street Journal bestseller “Come On, Man!” on the life \u0026 presidency of Joe Biden.",
+      "id": "245441097",
+      "username": "JoeConchaTV"
+    },
+    {
+      "name": "Caity McDuffee",
+      "description": "Washed up division I lax player turned professional cfb tailgater @outkick ?? | Fmr. Booking Producer @Unfilteredonfox, Fmr. Video Journalist @dailycaller",
+      "id": "406394048",
+      "username": "CaitMcDuffee"
+    },
+    {
+      "name": "Steven Nelson",
+      "description": "DC reporter @NYPost. snelson@nypost.com",
+      "id": "47893782",
+      "username": "stevennelson10"
+    },
+    {
+      "name": "Shannon Bream",
+      "description": "Sinner saved by His Grace",
+      "id": "18983793",
+      "username": "ShannonBream"
+    },
+    {
+      "name": "John Roberts",
+      "description": "@FoxNews Co-Anchor \"America Reports\". Former WH Correspondent (Trump, Bush, Clinton) Husband to the amazing @KyraPhillips ????????ABC News anchor. ??",
+      "id": "20975060",
+      "username": "johnrobertsFox"
+    },
+    {
+      "name": "Kyle Martinsen",
+      "description": "@RNCResearch Rapid Response | “nihilist teenage shitposter” | Formerly @TeamTrump | Go Bills",
+      "id": "1075172850062057472",
+      "username": "KyleMartinsen_"
+    },
+    {
+      "name": "Anders Hagstrom",
+      "description": "Reporter @foxnews | Minnesota Loyal | Never seen Fargo | Christian | @Hillsdale | Views my own | Contact: Anders.Hagstrom@fox.com",
+      "id": "289119511",
+      "username": "Hagstrom_Anders"
+    },
+    {
+      "name": "LifeNews.com",
+      "description": "https://t.co/0D2kd9rG5j is a pro-life news outlet fighting abortion. Follow us at https://t.co/epcTdZRUKw and https://t.co/XHRmEPKIzM and https://t.co/SqwQowOIjI",
+      "id": "50434933",
+      "username": "LifeNewsHQ"
+    },
+    {
+      "name": "Mercedes Schlapp",
+      "description": "Faith, family, country, freedom. Reject Socialism. Host of @CPAC Now: America Uncanceled. CPAC Senior Fellow, Former WH strategic Senior Advisor",
+      "id": "42670638",
+      "username": "mercedesschlapp"
+    },
+    {
+      "name": "Tammy Bruce",
+      "description": "@FoxNews, Host @FoxNation, Columnist https://t.co/AITVqGvNcu “If you want the girl next door, go next door” ~ Joan Crawford. ???? Join me: https://t.co/7pfd0wQezb",
+      "id": "22956220",
+      "username": "HeyTammyBruce"
+    },
+    {
+      "name": "Sarah Ferris",
+      "description": "Congressional reporter for @POLITICO, covering the House. Fifth-generation farm girl. @UconnWbb",
+      "id": "191469176",
+      "username": "sarahnferris"
+    },
+    {
+      "name": "Samantha Aschieris (Renck)",
+      "description": "Senior News Producer @dailysignal | Co-host of The Daily Signal Podcast | Send scoops: samantha.renck@heritage.org",
+      "id": "768677827",
+      "username": "samantharenck"
+    },
+    {
+      "name": "Sam",
+      "description": "Thoughts are my own. Producer @FoxNews, music lover.",
+      "id": "321128387",
+      "username": "SamSullivan"
+    },
+    {
+      "name": "Spectrum News DC",
+      "description": "Provides localized coverage of breaking news, politics, and key issues from DC for Spectrum Networks in NY, NC, FL, TX, OH, KY, WI, MA, ME, HI and CA.",
+      "id": "976528480635629568",
+      "username": "SpectrumNewsDC"
+    },
+    {
+      "name": "Matt Finn",
+      "description": "@Foxnews National Correspondent",
+      "id": "1901916354",
+      "username": "MattFinnFNC"
+    },
+    {
+      "name": "Gus Bilirakis",
+      "description": "#FL12. #TampaBay Most Effective/FL Most Effective @HouseGOP Legislator. @HouseCommerce. @GOP Ldr. of Consumer Protect \u0026 Comm. Subcommittee. Husband. Father. Son",
+      "id": "26051676",
+      "username": "RepGusBilirakis"
+    },
+    {
+      "name": "Rep. Adrian Smith",
+      "description": "Proudly serving the 3rd District of Nebraska in the U.S. House of Representatives",
+      "id": "296245061",
+      "username": "RepAdrianSmith"
+    },
+    {
+      "name": "Frank Thorp V",
+      "description": "Producer \u0026 Off-Air Reporter covering Congress at @NBCNews. Instagram: (frankthorpv) Also served as Chairman of the RTCA Exec. Committee.",
+      "id": "14007532",
+      "username": "frankthorp"
+    },
+    {
+      "name": "Matthew Foldi",
+      "description": "Republican Activist | Former Investigative Reporter @FreeBeacon, Congressional Candidate | Volunteer @RockvilleVFD. Board @Speech_First. Catch me on @Newsmax",
+      "id": "1644734071",
+      "username": "MatthewFoldi"
+    },
+    {
+      "name": "RepMarkAmodei",
+      "description": "Proudly representing Nevada\u0027s 2nd District",
+      "id": "402719755",
+      "username": "MarkAmodeiNV2"
+    },
+    {
+      "name": "Bi-khim Hsiao ???",
+      "description": "Personal account for Taiwan Ambassador, Representative, and Cat Warrior in the US",
+      "id": "27590168",
+      "username": "bikhim"
+    },
+    {
+      "name": "North State Journal",
+      "description": "North Carolina\u0027s only statewide newspaper. Elevate the conversation. Subscribe at https://t.co/MLV6psUxvV #TheWholeState #TheWholeStory #EsseQuamVideri",
+      "id": "2841160223",
+      "username": "nsjnews"
+    },
+    {
+      "name": "Manu Raju",
+      "description": "Chief Congressional Correspondent, @CNN. Roaming the Capitol halls, covering the Hill and politics. Die-hard Chicago sports fan. Wisconsin Badger for life.",
+      "id": "39155029",
+      "username": "mkraju"
+    },
+    {
+      "name": "Jessica Henrichs",
+      "description": "@NFIB Senior Media Manager, Southwest (AZ, NM, TX, AR, OK, MO, KS, \u0026 NE). Former Hill Hack. Ephesians 2:8-9. Tweets are my own.",
+      "id": "1169693622096343040",
+      "username": "JessicaLSkaggs"
+    },
+    {
+      "name": "J.P. Freire",
+      "description": "Comms Dir @WaysandMeansGOP. I don’t always whoop, but when I do, there it is. Opinions mine \u0026 can be yours for a cup of coffee \u0026 5 mins of your time.",
+      "id": "14803522",
+      "username": "JPFreire"
+    },
+    {
+      "name": "Andrew Desiderio",
+      "description": "Senior congressional reporter @PunchbowlNews, covering the Senate. Proud Italian-American ?? \u0026 Philly native. andrew@punchbowl.news",
+      "id": "427630477",
+      "username": "AndrewDesiderio"
+    },
+    {
+      "name": "Rep. Austin Scott",
+      "description": "I am proud to represent the 8th Congressional District of Georgia. Committees: @HASCRepublicans and @HouseAgGOP",
+      "id": "234797704",
+      "username": "AustinScottGA08"
+    },
+    {
+      "name": "Tim Scott",
+      "description": "Just a South Carolinian living his mama’s American Dream.",
+      "id": "217543151",
+      "username": "SenatorTimScott"
+    },
+    {
+      "name": "Senator Mike Crapo",
+      "description": "United States Senator for the great state of Idaho.",
+      "id": "600463589",
+      "username": "MikeCrapo"
+    },
+    {
+      "name": "Rep. Gallagher Press Office",
+      "description": "Tweets from the staff of Rep. Gallagher. For more information visit his website.",
+      "id": "815966620300480514",
+      "username": "RepGallagher"
+    },
+    {
+      "name": "Jackie Walorski",
+      "description": "Representing Indiana\u0027s 2nd Congressional District",
+      "id": "1065995022",
+      "username": "RepWalorski"
+    },
+    {
+      "name": "Danielle Wallace",
+      "description": "Digital News Reporter | Find My Bylines On @foxnews.com and @foxbusiness.com | Retweets Are Not Endorsements.",
+      "id": "1362842632188289028",
+      "username": "danimwallace"
+    },
+    {
+      "name": "Eric Shawn",
+      "description": "Fox News Anchor/ Senior Correspondent. Anchor: Saturdays 2 \u0026 4 pm EST, Sundays 12 \u0026 4 pm \u0026 weekdays. Watch \"RIDDLE: The Search for James R. Hoffa\" on FoxNation!",
+      "id": "167122787",
+      "username": "EricShawnTV"
+    },
+    {
+      "name": "Mike Emanuel ??",
+      "description": "New Jersey guy - from Westfield, Exit 135; Greek Orthodox Christian and loyal Rutgers alum; honorary Texan after my years there. Fox News since July 1997.",
+      "id": "129879105",
+      "username": "MikeEmanuelFox"
+    },
+    {
+      "name": "Rep. Tim Walberg",
+      "description": "Husband, father, grandfather, and representative of Michigan’s 7th District. Member of @HouseCommerce and @EdLaborGOP.",
+      "id": "237862972",
+      "username": "RepWalberg"
+    },
+    {
+      "name": "Congressman Jeff Van Drew",
+      "description": "Proudly serving New Jersey\u0027s Second Congressional District. Member of @HomelandGOP \u0026 @TransportGOP",
+      "id": "1468677099594698757",
+      "username": "Congressman_JVD"
+    },
+    {
+      "name": "Jessica Anderson",
+      "description": "Executive Director, @Heritage_Action. President, The Sentinel Action Fund. 45 OMB alum. @DailySignal Contributor. Tweets are my own.",
+      "id": "123655810",
+      "username": "JessAnderson2"
+    },
+    {
+      "name": "Adam Shaw",
+      "description": "Politics reporter at @FoxNews, writing a lot about immigration. Former @BreitbartNews. Supporter of @StockportCounty. ???? Adam.Shaw2@Fox.com",
+      "id": "1564967204",
+      "username": "AdamShawNY"
+    },
+    {
+      "name": "Liz Claman",
+      "description": "#1 Business News anchorwoman in America, passionate journo. Claman Countdown 3pm ET onFoxBiz. Mom, triathlete, CalBerkeley, chocoholic redhead, Tony Award voter",
+      "id": "20707966",
+      "username": "LizClaman"
+    },
+    {
+      "name": "Todd Piro",
+      "description": "Host, anchor, and correspondent at the Fox News Channel (FNC) since June 2017.  For public speaking engagements, please contact @themontaggroup.",
+      "id": "33125742",
+      "username": "ToddPiro"
+    },
+    {
+      "name": "Karalee",
+      "description": "real housewife of @yaf. #netneutrality repeal survivor. views reflect those of my father, the inventor of toaster strudels. mountaineer, yinzer, \u0026 hill ?",
+      "id": "1941551774",
+      "username": "realkaraleegeis"
+    },
+    {
+      "name": "Jenn Pellegrino",
+      "description": "Host, Prime News on Newsmax @ 9pm ET || Fmr. WH Correspondent || Distance runner: 26.2 x 75 \u0026 counting || IG: @ jenn_pellegrino",
+      "id": "19218053",
+      "username": "JennPellegrino"
+    },
+    {
+      "name": "Congressman Troy Balderson",
+      "description": "Proudly serving Ohio\u0027s 12th Congressional District.",
+      "id": "1037341536592310272",
+      "username": "RepBalderson"
+    },
+    {
+      "name": "Rep. Bob Gibbs",
+      "description": "R-OH https://t.co/2BckMkGpZV",
+      "id": "234822928",
+      "username": "RepBobGibbs"
+    },
+    {
+      "name": "Rep. Bill Huizenga",
+      "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+      "id": "233949261",
+      "username": "RepHuizenga"
+    },
+    {
+      "name": "CathyMcMorrisRodgers",
+      "description": "Proudly serving Washington\u0027s beautiful 5th District in Congress. Pioneer. Trailblazer. Leader. Working Mom of Three. Wife. Ability Advocate. Trustbuilder.",
+      "id": "17976923",
+      "username": "cathymcmorris"
+    },
+    {
+      "name": "Coach Tommy Tuberville",
+      "description": "United States Senator for the great state of Alabama.",
+      "id": "1345739193721487362",
+      "username": "SenTuberville"
+    },
+    {
+      "name": "Bernie Ritter",
+      "description": "News Director, WNCT-TV Greenville, NC, former News 12 NJ Exec. Producer, ESPN Coordinating Producer \u0026 Sr Sports Producer Aljazeera Amer -MLB, NFL\u0026 sooccer fan",
+      "id": "28692843",
+      "username": "bernieritter"
+    },
+    {
+      "name": "Chrissy Clark",
+      "description": "words @dailycaller • @newsmax @iwn contrib • the underreported stories girl (opinions are my dad\u0027s bc I\u0027m a conservative woman?) chrissy@dailycaller.com",
+      "id": "263987952",
+      "username": "chrissyclark_"
+    },
+    {
+      "name": "Pat Gruner",
+      "description": "Daily Reflector Reporter. ENC native. It\u0027s all good.",
+      "id": "786000536650731520",
+      "username": "pdgruner"
+    },
+    {
+      "name": "American Flood Coalition",
+      "description": "A nonpartisan group of political, military, business, and local leaders advancing solutions to flooding and sea level rise???",
+      "id": "952909212325236736",
+      "username": "floodcoalition"
+    },
+    {
+      "name": "Charles V Payne",
+      "description": "Trying to make sense of this world while becoming the man my mother raised- I give a damn, love my family and country...and making people $$$$",
+      "id": "19400611",
+      "username": "cvpayne"
+    },
+    {
+      "name": "Joey Jones",
+      "description": "@FoxNews, @foxnation Outdoors, Patriots Playlist. @foxnewsradio “Proud American” Pod. Ret: brick mason, forklift operator, Marine. @bootcampaign   Hee/Haw",
+      "id": "381678556",
+      "username": "Johnny_Joey"
+    },
+    {
+      "name": "Carson Steelman",
+      "description": "@Heritage_Action Press Secretary | Formerly: ATHOS, @RepGregSteube, @RepMarkWalker and @elonuniversity | Carolina born, Jersey raised\n\nViews my own",
+      "id": "874729242310868997",
+      "username": "carson_steelman"
+    },
+    {
+      "name": "Harrison Fields",
+      "description": "Psalm 23:4 • Senior Advisor- Comms for @byrondonalds • Former WH Press •FSU BS?MS•??• Personal Account • Instagram: Harrisonwf",
+      "id": "822509856385093632",
+      "username": "HarrisonWFields"
+    },
+    {
+      "name": "Daniel Chaitin",
+      "description": "Now: Freelancer. Past: Editor @dcexaminer and FIND/Washington Daybook. Casual runner/weight lifter. Star Wars, LOTR enthusiast. Will talk politics if provoked.",
+      "id": "1651225333",
+      "username": "danielchaitin7"
+    },
+    {
+      "name": "Kerry Picket",
+      "description": "Senior Congressional Reporter for @WashTimes, @SiriusXMPatriot host / RT\u0027s mean I find a tweet interesting / \n\nsend tips to : kpicket@washingtontimes.com",
+      "id": "15537855",
+      "username": "KerryPicket"
+    },
+    {
+      "name": "Kelly Phares",
+      "description": "Capitol Hill Producer @FoxNews | Chicago sports (+@colts) fan | RTs + likes not endorsements |",
+      "id": "383848666",
+      "username": "kellyfphares"
+    },
+    {
+      "name": "Peter Vicenzi",
+      "description": "Director of Communications @FreedomWorks ?? l St. Mary\u0027s College of MD \u002717 l Go Irish ?? I “I think, therefore I am a tank.” - Immanuel Kant, probably.",
+      "id": "999767215036616704",
+      "username": "PeterVicenzi"
+    },
+    {
+      "name": "Ryan Saavedra",
+      "description": "Senior Writer at @realDailyWire. Retweets ? endorsement.",
+      "id": "812135885328236551",
+      "username": "RealSaavedra"
+    },
+    {
+      "name": "Olivia Beavers",
+      "description": "@Politico Congress reporter. Uva Wahoo. Paid to pry. Almost funny sources say...Tips? Leak it to Beavers: obeavers@politico(dot)com. RTs?endorsements",
+      "id": "3565248672",
+      "username": "Olivia_Beavers"
+    },
+    {
+      "name": "Ena Sellers",
+      "description": "Editor for the Duplin Times, Southeastern North Carolina Magazine, and Farming Matters. News tip? Text 919-867-1946",
+      "id": "1442901049581326337",
+      "username": "EnaDuplinTimes"
+    },
+    {
+      "name": "Emma Rechenberg",
+      "description": "Co-host of \u0027National Report\u0027 on @newsmax ?? Watch weekday mornings, 9-12 EST on Newsmax TV or download the Newsmax App",
+      "id": "2770151426",
+      "username": "EmmaRechenberg"
+    },
+    {
+      "name": "Shaun Kraisman",
+      "description": "News Anchor on \u0027National Report\u0027 weekdays 9-12pm ET on @Newsmax. For appearances/bookings, contact Seth Mayeri at Napoli Management Group; smayeri@tvtalent.com",
+      "id": "24038596",
+      "username": "ShaunKraisman"
+    },
+    {
+      "name": "Bob Sellers",
+      "description": "Media Consultant for Message2Media, with Political and Business Expertise; ex-CNBC \u0026 Fox News anchor; Forbes Author; Emmy winner; UVA grad; Girl dad",
+      "id": "410142075",
+      "username": "BobSellersTV"
+    },
+    {
+      "name": "Ryan Tillman",
+      "description": "@FoxNews @AmericaNewsroom | Opinions are my own | Retweets ? endorsements",
+      "id": "377606373",
+      "username": "Tillman14"
+    },
+    {
+      "name": "Carley Shimkus",
+      "description": "Cohost of Fox \u0026 Friends First • Instagram: @CarleyShimkus",
+      "id": "486907980",
+      "username": "CarleyShimkus"
+    },
+    {
+      "name": "Elizabeth MacDonald",
+      "description": "Fox Business Evening Edit anchor, author book \u0026 play Skirting Heresy: The Life \u0026 Times of Margery Kempe debuted England 9/18, children’s book Tideon: A New Myth",
+      "id": "2229044521",
+      "username": "LizMacDonaldFOX"
+    },
+    {
+      "name": "Flatland Ag, Inc. ??",
+      "description": "3rd and 4th generation Christian farmers growing NC onions; NCSU Grads Hort. Soils. AgBus.",
+      "id": "527983565",
+      "username": "Flatlandag"
+    },
+    {
+      "name": "House Rules Republicans",
+      "description": "The official account for Republicans of the House Rules Committee. Ranking Republican @TomColeOK04.",
+      "id": "78369108",
+      "username": "RulesReps"
+    },
+    {
+      "name": "Bill Melugin",
+      "description": "National correspondent for @foxnews based in L.A. 4x EMMY winner, 3x Edward R. Murrow winner, 4x RTNA Golden Mike winner. @Cronkite_ASU grad \u0026 SoCal native.",
+      "id": "1071585991",
+      "username": "BillFOXLA"
+    },
+    {
+      "name": "Brooke Singman",
+      "description": "Politics Reporter, Fox News Digital  https://t.co/37H8xR7dgT",
+      "id": "1098615836",
+      "username": "BrookeSingman"
+    },
+    {
+      "name": "Angela Morabito",
+      "description": "@dfipolicy spox • @IWF visiting fellow • former @usedgov press sec • GTWN grad • public school alum • I like school choice, Trader Joe\u0027s, \u0026 other people\u0027s dogs",
+      "id": "118262893",
+      "username": "AngelaLMorabito"
+    },
+    {
+      "name": "Reuben Jones",
+      "description": "Spectrum News Washington Reporter covering North Carolina and national politics l VA-NYC-IL-NC-DC (NYU, GMU alum) l Story ideas: reuben.jones@charter.com",
+      "id": "256603152",
+      "username": "ReubenJones1"
+    },
+    {
+      "name": "Jake Sherman",
+      "description": "Founder of @punchbowlnews. @nbcnews/@msnbc. Phish/Dead fan. Author of NYT best seller, “The Hill To Die On”.",
+      "id": "21252618",
+      "username": "JakeSherman"
+    },
+    {
+      "name": "CBP",
+      "description": "U.S. Customs and Border Protection (CBP) is charged with securing our nation\u0027s borders \u0026 facilitating lawful international travel \u0026 trade.",
+      "id": "16613128",
+      "username": "CBP"
+    },
+    {
+      "name": "Jimmy Failla",
+      "description": "Host “Fox Across America” with Jimmy Failla - - - Fox News Radio / Fox Nation Weekdays 12-3 - - - Listen Live @ https://t.co/UfjOSofLLb",
+      "id": "261430373",
+      "username": "jimmyfailla"
+    },
+    {
+      "name": "Philip Melanchthon Wegmann",
+      "description": "White House reporter @RealClearNews | I come across better on paper | Email: pwegmann@realclearpolitics.com | DM for Signal/Fax #.",
+      "id": "591973307",
+      "username": "PhilipWegmann"
+    },
+    {
+      "name": "Brent Scher",
+      "description": "Executive editor @Freebeacon. New Yorker. Wahoo. Email me: scher@freebeacon.com",
+      "id": "34771939",
+      "username": "BrentScher"
+    },
+    {
+      "name": "Cameron Cawthorne",
+      "description": "@FoxNews Politics Editor | Alum of @gop and @freebeacon | UVA ‘13 grad | Lynchburg native |",
+      "id": "757544465775099904",
+      "username": "Cam_Cawthorne"
+    },
+    {
+      "name": "Jackie DeAngelis",
+      "description": "Correspondent @foxbusiness - formerly all things energy @CNBC. Journalist by way of Wall St. Business runs in my veins.",
+      "id": "147409568",
+      "username": "JackieDeAngelis"
+    },
+    {
+      "name": "Stacy Washington",
+      "description": "CEO, Share Net https://t.co/fpM4iso0N9\nAuthor - #EternallyCancelProof \nHost @SIRIUSXMPatriot USAF Vet \nComms - https://t.co/tfC67OfYhz Ambassador -@a1Policy",
+      "id": "231815020",
+      "username": "StacyOnTheRight"
+    },
+    {
+      "name": "Alexandra Zuccaro",
+      "description": "Booking Producer @ffweekend | Former Executive Producer @OANN ??",
+      "id": "3656042543",
+      "username": "alexandrazucc"
+    },
+    {
+      "name": "Bridget Gleason",
+      "description": "Fox \u0026 Friends Senior Booking Producer Bridget.Gleason@fox.com",
+      "id": "25419796",
+      "username": "BridgeGleason"
+    },
+    {
+      "name": "Mark Halperin",
+      "description": "If you see a turtle on a fence post....",
+      "id": "184136149",
+      "username": "MarkHalperin"
+    },
+    {
+      "name": "Doug Andres",
+      "description": "Press Secretary for @LeaderMcConnell",
+      "id": "62407876",
+      "username": "DougAndres"
+    },
+    {
+      "name": "Jessica Chasmar",
+      "description": "Covering politics for @FoxNews and @FoxBusiness | Formerly @WashTimes | M.A. in Mass Communications @UF @FloridaGators | Tweets are mine only",
+      "id": "89005882",
+      "username": "JessicaChasmar"
+    },
+    {
+      "name": "David Rutz",
+      "description": "Senior editor for @FoxNews. Formerly @FreeBeacon. Pensky material. Ideas/tips: david.rutz@fox.com",
+      "id": "56701775",
+      "username": "DavidRutz"
+    },
+    {
+      "name": "Peter J. Hasson",
+      "description": "Senior editor, Fox News Digital. Author, The Manipulators https://t.co/6aeTtgbTmT Catholic. Husband. Dad. Personal acct. Rts \u003d/\u003d endorsements Peter.Hasson@Fox.com",
+      "id": "2935489123",
+      "username": "peterjhasson"
+    },
+    {
+      "name": "Charyssa Parent",
+      "description": "Comms @HouseGOP  | Team @EliseStefanik",
+      "id": "1237734096312455170",
+      "username": "CharyssaParent"
+    },
+    {
+      "name": "Houston Keene",
+      "description": "Texan. @FoxNews Digital reporter by day, Dungeon Master by night. Former Capitol Hill staffer. Retweets \u0026 likes ? endorsements. Send tips: Houston.Keene@fox.com",
+      "id": "190484934",
+      "username": "HoustonKeene"
+    },
+    {
+      "name": "Rep. Jack Bergman",
+      "description": "U.S. Rep for #Mi01, Lt. General, USMC (ret), Yooper, Pilot, Proud Grandfather. Serving on VA and Armed Services Committees.",
+      "id": "815241612154417152",
+      "username": "RepJackBergman"
+    },
+    {
+      "name": "Michele Perez Exner",
+      "description": "Mom, Marine veteran, runner. The rest of the time I help coordinate comms for @GOPLeader. @SenatorTimScott alum. USNA Grad #GoNavy. Living the #AmericanDream.",
+      "id": "412622652",
+      "username": "michelepexner"
+    },
+    {
+      "name": "John Schaeffer Wilson",
+      "description": "Wilson Strategies LLC - Hoosier through and through ?? Opinions are my own",
+      "id": "3873964768",
+      "username": "John_Sch_Wilson"
+    },
+    {
+      "name": "Henry Hinton",
+      "description": "CEO Inner Banks Media, Host Talk of the Town 103.7 WTIB/94.1 WNBU- originally from Dog Bottom- now proud daddy and Pop Pop of the best family in the universe",
+      "id": "521377028",
+      "username": "HenryHinton1"
+    },
+    {
+      "name": "Peter Doocy",
+      "description": "White House Correspondent, FOX News Channel @foxnews",
+      "id": "56749157",
+      "username": "pdoocy"
+    },
+    {
+      "name": "Heather Childers",
+      "description": "Proud American, Journalist, Catch me filling in here \u0026 there, @FoxNews Anchor for 10 years, Launched \u0026 Anchored Two #1 Rated Shows for @FoxNews, Carolina Girl",
+      "id": "220081296",
+      "username": "HeatherChilders"
+    },
+    {
+      "name": "MARSOC",
+      "description": "Official Twitter account of the Marine Forces Special Operations Command (MARSOC). The appearance of links or follows does not constitute endorsement.",
+      "id": "906182803",
+      "username": "MARSOCofficial"
+    },
+    {
+      "name": "Audrey Conklin",
+      "description": "Covering U.S. news Fox News \u0026 Fox Business. Occassionally sharing my paintings to prove I am a real human. Send me your story: audrey.conklin@fox.com",
+      "id": "984485793321439238",
+      "username": "audpants"
+    },
+    {
+      "name": "The U.S. Capitol Police",
+      "description": "Defending Congress, the U.S. Capitol, and democracy since 1828.",
+      "id": "16503916",
+      "username": "CapitolPolice"
+    },
+    {
+      "name": "Elizabeth City State University",
+      "description": "The official Twitter account for Elizabeth City State University. Come to Discover. Leave to Conquer. #ECSU #VikingPride",
+      "id": "19235494",
+      "username": "ECSU"
+    },
+    {
+      "name": "Emily Brooks",
+      "description": "Reporter @thehill covering politics in the House of Representatives, mostly Republicans — and sometimes other GOP stuff. ?? ebrooks@thehill.com, DM cell/signal",
+      "id": "98002087",
+      "username": "emilybrooksnews"
+    },
+    {
+      "name": "Jason Chaffetz",
+      "description": "Fox News Contributor. Author of They Never Let A Crisis Go To Waste, Power Grab \u0026 The Deep State. Fmr. Chairman, Oversight \u0026 Gov\u0027t Reform U.S. House of Reps",
+      "id": "17800215",
+      "username": "jasoninthehouse"
+    },
+    {
+      "name": "Stephanie Hamill",
+      "description": "News/Politics- Contributing writer @theMRC, @tpusa ambassador \n(Fmr- Talk show host, Fox5 DC, Daily Caller, Advisor for @ndctrump) ????",
+      "id": "376453771",
+      "username": "STEPHMHAMILL"
+    },
+    {
+      "name": "Chuck Ross",
+      "description": "Investigative reporter at The Washington Free Beacon. Previously: The Daily Caller. Email tips to Ross (@)https://t.co/veYCnru8oE",
+      "id": "119837703",
+      "username": "ChuckRossDC"
+    },
+    {
+      "name": "Benny Johnson",
+      "description": "?? God, Family, America ? Pod - The Benny Show ? Host - The Benny Report on Newsmax ? The Left Can’t Meme on Parler ? TPUSA ? Journalist",
+      "id": "15212187",
+      "username": "bennyjohnson"
+    },
+    {
+      "name": "Caleb Smith",
+      "description": "Digital Communications Director for @GOPLeader. \nPreviously for @SpeakerRyan \u0026 @SpeakerBoehner",
+      "id": "24484212",
+      "username": "CalebJSmith"
+    },
+    {
+      "name": "David Popp",
+      "description": "Living and working in our nation\u0027s capital with my wife and dogs. Communications Director for @LeaderMcConnell. Tilghman Island Weekender. Golf. Bourbon. Nats.",
+      "id": "10691752",
+      "username": "davidpopp"
+    },
+    {
+      "name": "Mark Bednar",
+      "description": "@GOPLeader comms. Fantasy baseball league champion \u002714, Runner Up \u002717 \u0026 \u002718. Tweets my own. @UWMadison \u0026 @JohnsHopkins alum. #GoPackGo",
+      "id": "327567853",
+      "username": "MarkBednar"
+    },
+    {
+      "name": "Kyle Morris",
+      "description": "Political reporter for @FoxNews.  Roll Tide! Retweets ? endorsements.",
+      "id": "129571843",
+      "username": "RealKyleMorris"
+    },
+    {
+      "name": "Congresswoman Julia Letlow",
+      "description": "Proudly Representing #LA05 in Congress | Mom to Jeremiah and Jacqueline | Former Educator and Lifelong Learner | Christian | Conservative",
+      "id": "1382395679700439041",
+      "username": "RepJuliaLetlow"
+    },
+    {
+      "name": "Chad Gilmartin",
+      "description": "Deputy Spox @GOPLeader Kevin McCarthy | Fmr Principal Assistant Press Sec and Special Assistant to President Trump | Fmr @TeamTrump | Personal Account ??",
+      "id": "938758536938557440",
+      "username": "ChadGilmartinCA"
+    },
+    {
+      "name": "Rep. Mike Waltz",
+      "description": "Congressman from Florida. Colonel, U.S. Army Green Beret. Author “Warrior Diplomat.”Former entrepreneur \u0026 CEO. Florida Native, Proud Husband \u0026 Father ??",
+      "id": "833673914",
+      "username": "michaelgwaltz"
+    },
+    {
+      "name": "Ali (Pardo) Black",
+      "description": "Communications Director for @HouseGOP. Team @EliseStefanik. #FloridaMan. Amateur Mom \u0026 Northerner. Professional Dog Lover. @GW_Softball Alum.",
+      "id": "25339271",
+      "username": "aliblack"
+    },
+    {
+      "name": "Chris Krepich",
+      "description": "@housecommerce health \u0026 oversight press | ????????",
+      "id": "3005654393",
+      "username": "chris_krepich"
+    },
+    {
+      "name": "Alex Marlow",
+      "description": "Editor-in-Chief of @BreitbartNews",
+      "id": "19742034",
+      "username": "AlexMarlow"
+    },
+    {
+      "name": "Rep. Brian Mast",
+      "description": "I love my wife, 4 rowdy kids and dog, America and my community. I would give my life for them all without regret. God bless, and thank you for letting me serve.",
+      "id": "814103950404239360",
+      "username": "RepBrianMast"
+    },
+    {
+      "name": "Bill Johnson",
+      "description": "Proudly representing #Ohio\u0027s 6th Congressional District. Energy Enthusiast. Veteran. Husband. Father. Grandfather.",
+      "id": "211530910",
+      "username": "RepBillJohnson"
+    },
+    {
+      "name": "Rep. Claudia Tenney",
+      "description": "Official Twitter. Honored to represent #NY22. Member @HouseForeignGOP \u0026 @HSBCgop. Co-Chair #ElectionIntegrityCaucus. For updates visit https://t.co/dwIltL8lOk.",
+      "id": "797201048490430465",
+      "username": "RepTenney"
+    },
+    {
+      "name": "Dr. Neal Dunn",
+      "description": "Official government Twitter account for Congressman Neal Dunn (FL-02).",
+      "id": "815952318487298048",
+      "username": "DrNealDunnFL2"
+    },
+    {
+      "name": "Rep Rick Crawford",
+      "description": "Representing AR-01 in the U.S. House of Representatives. Serve on @HouseAgGOP, @TransportGOP, and House Intelligence Committee. Text me: 870.292.6747",
+      "id": "233693291",
+      "username": "RepRickCrawford"
+    },
+    {
+      "name": "Rick W. Allen",
+      "description": "Proudly representing Georgia\u0027s 12th Congressional District",
+      "id": "2964287128",
+      "username": "RepRickAllen"
+    },
+    {
+      "name": "Rep. Brett Guthrie",
+      "description": "Fighting for conservative values in Washington while representing the people of Kentucky\u0027s 2nd Congressional District",
+      "id": "1908143071",
+      "username": "RepGuthrie"
+    },
+    {
+      "name": "Cong. Steven Palazzo",
+      "description": "I proudly represent the Fourth Congressional District of Mississippi. For more information on my work in Congress please visit https://t.co/0eEsTlcG0r.",
+      "id": "299883942",
+      "username": "CongPalazzo"
+    },
+    {
+      "name": "US Rep. Mike Turner",
+      "description": "I proudly represent the 10th District of Ohio. Montgomery Co. Greene Co. \u0026 Fayette Co. #OH10 | Lead Republican of @HouseIntelGOP \u0026 Member of @HASCRepublicans",
+      "id": "51228911",
+      "username": "RepMikeTurner"
+    },
+    {
+      "name": "Joni Ernst",
+      "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+      "id": "2856787757",
+      "username": "SenJoniErnst"
+    },
+    {
+      "name": "Daily Caller",
+      "description": "#RealNewsStartsHere",
+      "id": "39308549",
+      "username": "DailyCaller"
+    },
+    {
+      "name": "Rep. Darrell Issa",
+      "description": "Official Congressional Account for Congressman Darrell Issa. Father. Tech Entrepreneur. Congressman from California.",
+      "id": "63650107",
+      "username": "repdarrellissa"
+    },
+    {
+      "name": "Congressman Troy Nehls",
+      "description": "Proudly serving the people of Texas\u0027 22nd Congressional District in the United States House of Representatives. @freedomcaucus",
+      "id": "1347318288850825217",
+      "username": "RepTroyNehls"
+    },
+    {
+      "name": "Rep. John Rutherford",
+      "description": "Proudly serving NE FL District 4.  Former Sheriff focused on keeping communities safe \u0026 protecting your rights. @HouseAppropsGOP \u0026 House Ethics Committee",
+      "id": "828977216595849216",
+      "username": "RepRutherfordFL"
+    },
+    {
+      "name": "Dave Joyce",
+      "description": "Father, husband, and former prosecutor proudly representing #OH14",
+      "id": "976969338",
+      "username": "RepDaveJoyce"
+    },
+    {
+      "name": "Rep. Chris Stewart",
+      "description": "Utah\u0027s 2nd District Congressman. Former Air Force B-1 pilot, author, House Intelligence \u0026 Appropriations Committees. \n\nhttps://t.co/GUW6weAva6",
+      "id": "1072008757",
+      "username": "RepChrisStewart"
+    },
+    {
+      "name": "Congressman Michael Guest",
+      "description": "Rep. for the MS Third Congressional District in the U.S. House of Representatives. Vice Ranking Member on @HomelandGOP. Christian. Father. Husband.",
+      "id": "1081243468327018496",
+      "username": "RepMichaelGuest"
+    },
+    {
+      "name": "Senate Republican Communications Center",
+      "description": "Senate Republican Communications Center\nOffice of the Republican Leader Mitch McConnell",
+      "id": "19029580",
+      "username": "SRCC"
+    },
+    {
+      "name": "Congressman Bob Good",
+      "description": "Proudly serving the 5th Congressional District of Virginia. Member of @EdLaborGOP, @HouseBudgetGOP \u0026 @FreedomCaucus",
+      "id": "1345536897838436353",
+      "username": "RepBobGood"
+    },
+    {
+      "name": "Congresswoman Beth Van Duyne",
+      "description": "Single mother. Former mayor. Proudly representing North Texas. American by birth, Texan by the Grace of God.",
+      "id": "1339633259349745670",
+      "username": "RepBethVanDuyne"
+    },
+    {
+      "name": "Rep. Randy Feenstra",
+      "description": "Husband. Father. Fiscal Conservative. Delivering results for the people of Iowa\u0027s 4th Congressional District.",
+      "id": "1345135363761852416",
+      "username": "RepFeenstra"
+    },
+    {
+      "name": "Darin LaHood",
+      "description": "Proudly representing the 18th District of Illinois. Member of @WaysandMeansGOP and the House Intelligence Committee.",
+      "id": "3686482216",
+      "username": "RepLaHood"
+    },
+    {
+      "name": "Rep. Andy Barr",
+      "description": "KY-06 District Congressman \u0026 Member of House Foreign Affairs \u0026 Financial Services Committees.",
+      "id": "1089334250",
+      "username": "RepAndyBarr"
+    },
+    {
+      "name": "Rep. Mary Miller",
+      "description": "Official account for Congresswoman Mary Miller. Proudly serving the 15th District of Illinois. @HouseAgGOP, @EdLaborGOP \u0026 @FreedomCaucus",
+      "id": "1343656635907125250",
+      "username": "RepMaryMiller"
+    },
+    {
+      "name": "Bryan Steil",
+      "description": "Official Twitter account for Bryan Steil, proudly serving the people of Wisconsin’s 1st Congressional District. #WI01",
+      "id": "1075205691621720064",
+      "username": "RepBryanSteil"
+    },
+    {
+      "name": "Rep. Don Bacon ??",
+      "description": "Serving the great people of NE-02 ??. Married to Angie, 4 kids, 7 grandkids. Brig Gen ?? USAF (Ret.) Policy questions? Visit://bacon.house.gov",
+      "id": "818975124460335106",
+      "username": "RepDonBacon"
+    },
+    {
+      "name": "Glenn \"GT\" Thompson",
+      "description": "I have the distinct honor and privilege to represent and serve the citizens of Pennsylvania\u0027s 15th Congressional District. #PA15",
+      "id": "18967498",
+      "username": "CongressmanGT"
+    },
+    {
+      "name": "Rep. Mike Kelly",
+      "description": "U.S. Representative Mike Kelly proudly serves the people of Pennsylvania\u0027s 16th District (#PA16) and is a member of the House Ways \u0026 Means Committee. ????",
+      "id": "935368364",
+      "username": "MikeKellyPA"
+    },
+    {
+      "name": "Cong. Mike Simpson",
+      "description": "Proudly representing Idaho\u0027s 2nd Congressional District",
+      "id": "76132891",
+      "username": "CongMikeSimpson"
+    },
+    {
+      "name": "Rep. Roger Williams",
+      "description": "Conservative fighting for lower taxes, less regulations and more freedom for Texans. Honored to serve TX-25. Member of @FinancialCmte and @HSBCgop",
+      "id": "1077446982",
+      "username": "RepRWilliams"
+    },
+    {
+      "name": "US Rep Rodney Davis",
+      "description": "Proudly representing #IL13 and marginalized Nickelback fans everywhere. Leader of @HouseAdmnGOP and member of @TransportGOP and @HouseAgGOP.",
+      "id": "993153006",
+      "username": "RodneyDavis"
+    },
+    {
+      "name": "Congressman Jim Baird",
+      "description": "Lifelong Hoosier proudly representing the 4th Congressional District.",
+      "id": "1086316494450032640",
+      "username": "RepJimBaird"
+    },
+    {
+      "name": "Rep. Jerry Carl",
+      "description": "I’m proud to represent Alabama’s 1st Congressional District in Congress. Currently serving on @HASCRepublicans and @NatResources.",
+      "id": "1341091420439015424",
+      "username": "RepJerryCarl"
+    },
+    {
+      "name": "Tracey Mann",
+      "description": "Official account for Rep. Tracey Mann |Big First, KS | Advocate for KS agriculture and conservative values | serving on @HouseAgGOP and @HouseVetAffairs #KS01",
+      "id": "1345825008887721986",
+      "username": "RepMann"
+    },
+    {
+      "name": "Judge Carter",
+      "description": "U.S. Congressman proudly serving #TX31 \u0026 @forthood. Former Judge. Proud @TexasTech #RedRaider.",
+      "id": "18030431",
+      "username": "JudgeCarter"
+    },
+    {
+      "name": "Rep. Alex Mooney",
+      "description": "Husband, Father, Conservative Representing West Virginia\u0027s 2nd Congressional District. #wv02 #wvpol Member of @financialcmte",
+      "id": "2964526557",
+      "username": "RepAlexMooney"
+    },
+    {
+      "name": "Rep. Tom Cole",
+      "description": "Proud to represent #OK04 in the U.S. House of Reps. Ranking Member of @RulesReps, Vice Ranking of @HouseAppropsGOP. Staff moderated unless signed by me. -TC",
+      "id": "23124635",
+      "username": "TomColeOK04"
+    },
+    {
+      "name": "Rep. Peter Meijer",
+      "description": "Former Afghanistan aid worker, Iraq Veteran, and subsidiarity proponent proudly representing West Michigan #MI03 in Congress. https://t.co/dOUskSS89O",
+      "id": "1334164871420796928",
+      "username": "RepMeijer"
+    },
+    {
+      "name": "Rep. Don Young",
+      "description": "Army veteran, 5th grade teacher, Mayor, State Representative, State Senator, Congressman for ALL Alaska for the last 49 years, and Dean of the U.S. House.",
+      "id": "37007274",
+      "username": "repdonyoung"
+    },
+    {
+      "name": "Appropriations Republicans",
+      "description": "Members committed to reviewing the federal budget, conducting oversight, and making funding decisions, line-by-line. Ranking Member @RepKayGranger (TX)",
+      "id": "301549400",
+      "username": "HouseAppropsGOP"
+    },
+    {
+      "name": "Morgan Griffith",
+      "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+      "id": "234057152",
+      "username": "RepMGriffith"
+    },
+    {
+      "name": "Rep. Jake LaTurner",
+      "description": "U.S. Congressman for Kansas\u0027s 2nd District. Proudly serving on \n@HomelandGOP, @GOPOversight \u0026 @HouseScienceGOP. Sixth Generation Kansan.",
+      "id": "1345850704800468993",
+      "username": "RepLaTurner"
+    },
+    {
+      "name": "Congressman Dan Meuser",
+      "description": "Proudly serving the hardworking taxpayers of Pennsylvania\u0027s 9th Congressional District.",
+      "id": "1080574793630527505",
+      "username": "RepMeuser"
+    },
+    {
+      "name": "Rep. Jason Smith",
+      "description": "@housebudgetGOP Leader | Farmer | 7th generation Missourian | Conservative fighting for Missouri’s working class and small businesses | Serving Missouri 08",
+      "id": "1623308912",
+      "username": "RepJasonSmith"
+    },
+    {
+      "name": "Rep. Steve Womack",
+      "description": "Proud to serve the folks of Arkansas\u0027s 3rd District. Member of @HouseAppropsGOP.",
+      "id": "234469322",
+      "username": "rep_stevewomack"
+    },
+    {
+      "name": "Congressman Fred Keller",
+      "description": "Taking the values of PA\u0027s 12th District to Congress. Member on @GOPoversight \u0026 @EdLaborGOP. Chair @BOPReformCaucus. Official House Twitter account. ??",
+      "id": "1136060761422405633",
+      "username": "RepFredKeller"
+    },
+    {
+      "name": "Rep. Mike Garcia",
+      "description": "Representing California\u0027s 25th Congressional District. Husband. Father. Former Navy Fighter Pilot. Businessman. @HouseAppropsGOP \u0026 @Housesciencegop.",
+      "id": "1262531473057423361",
+      "username": "RepMikeGarcia"
+    },
+    {
+      "name": "Rep. Burgess Owens",
+      "description": "Proudly serving Utah\u0027s 4th Congressional District. Member of @EdLaborGOP \u0026 @JudiciaryGOP.",
+      "id": "1344481217685692416",
+      "username": "RepBurgessOwens"
+    },
+    {
+      "name": "Rep. Michelle Fischbach",
+      "description": "Proudly representing Minnesota\u0027s 7th District in the U.S. House of Representatives. Serving on @HouseAgGOP, @JudiciaryGOP \u0026 @RulesReps.",
+      "id": "1344375287484723205",
+      "username": "RepFischbach"
+    },
+    {
+      "name": "Rep. Elise Stefanik",
+      "description": "Proud Representative for New York\u0027s 21st Congressional District. House Republican Conference Chair. ? Instagram: @repstefanik",
+      "id": "2962813893",
+      "username": "RepStefanik"
+    },
+    {
+      "name": "Rep. María Elvira Salazar",
+      "description": "U.S. Congresswoman | Daughter of Exiles | Emmy Award-Winning Journalist | Serving on @HouseForeignGOP \u0026 @HSBCgop | #FL27?????",
+      "id": "1325928411689349120",
+      "username": "RepMariaSalazar"
+    },
+    {
+      "name": "Rep. Stephanie Bice",
+      "description": "Wife, Mother x 2. Serving Oklahoma’s 5th Congressional District in the United States House of Representatives. @HASCRepublicans and @HouseScienceGOP committees.",
+      "id": "1344260196227555334",
+      "username": "RepBice"
+    },
+    {
+      "name": "Rep. Carlos A. Gimenez",
+      "description": "U.S. Congressman | Firefighter and former Mayor of Miami-Dade County | Member of @TransportGOP, @HomelandGOP \u0026 @HouseScienceGOP ?? #FL26",
+      "id": "1343679195034103808",
+      "username": "RepCarlos"
+    },
+    {
+      "name": "Rep. Michelle Steel",
+      "description": "Korean-American wife, mother \u0026 tax fighter serving #CA48 in Congress. @TransportGOP \u0026 @EdLaborGOP. Living the American dream. ??",
+      "id": "1343740146630451200",
+      "username": "RepSteel"
+    },
+    {
+      "name": "Rep. Tony Gonzales",
+      "description": "Husband to Angel, father x 6, @USNavy Master Chief (Ret.) \u0026 former cryptologist. Proudly serving Texas’ 23rd District on @HouseAppropsGOP ??",
+      "id": "1343627416120532992",
+      "username": "RepTonyGonzales"
+    },
+    {
+      "name": "Young Kim",
+      "description": "Wife, mother, immigrant, small business owner, former CA Assemblywoman. Proud to represent #CA39 \u0026 serve on @HouseForeignGOP, @HSBCGOP \u0026 @HouseScienceGOP ??",
+      "id": "1344677401465397249",
+      "username": "RepYoungKim"
+    },
+    {
+      "name": "Rep. August Pfluger",
+      "description": "US Air Force Colonel (Res.), F-22 Fighter Pilot, Husband, Father, and Congressman for the 11th District of Texas.",
+      "id": "1341120751399809026",
+      "username": "RepPfluger"
+    },
+    {
+      "name": "Congressman Scott Franklin",
+      "description": "Proudly representing Florida\u0027s 15th Congressional District. \n\"Not for self, but for country.\"",
+      "id": "1343664721384398849",
+      "username": "RepFranklin"
+    },
+    {
+      "name": "Dr. Miller-Meeks",
+      "description": "Doctor. Veteran. Public Health Official. #FightForIowa. #NeverQuit #ia01",
+      "id": "18131106",
+      "username": "millermeeks"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "description": "Father of six. Small business owner. Honored to represent Oklahoma’s conservative values in Congress.",
+      "id": "1060370282",
+      "username": "RepMullin"
+    },
+    {
+      "name": "AIPAC",
+      "description": "Strengthening bipartisan support for the U.S.-Israel relationship.",
+      "id": "15987296",
+      "username": "AIPAC"
+    },
+    {
+      "name": "Congressman Blake Moore",
+      "description": "Serving Utah’s First District in Congress, coaching little league, and riding around the Capitol on a scooter. ?",
+      "id": "1337452596093587462",
+      "username": "RepBlakeMoore"
+    },
+    {
+      "name": "Representative Lisa McClain",
+      "description": "Lifelong Michigander proudly representing MI10. Member of @HASCRepublicans \u0026 @EdLaborGOP. Bringing real world business experience and commonsense to Washington.",
+      "id": "1344032292432437248",
+      "username": "RepLisaMcClain"
+    },
+    {
+      "name": "Brian Babin",
+      "description": "Proudly serving #TX36 residents in Congress. Ranking Member of Space \u0026 Aeronautics Subcmte, Border Sec co-chair \u0026 serve on @HouseScienceGOP/@TransportGOP Cmte.",
+      "id": "2929491549",
+      "username": "RepBrianBabin"
+    },
+    {
+      "name": "Scott DesJarlais",
+      "description": "Individual Rights. Small Government. Strong Defense. Representing Tennessee\u0027s 4th District in Congress.",
+      "id": "235312723",
+      "username": "DesJarlaisTN04"
+    },
+    {
+      "name": "Ronny Jackson",
+      "description": "Proudly serving the people of #TX13 in Congress.",
+      "id": "1341903465610686464",
+      "username": "RepRonnyJackson"
+    },
+    {
+      "name": "Larry Bucshon, MD",
+      "description": "Congressman representing Hoosiers from #IN08. Doctor. Member of @HouseCommerce. https://t.co/4eq38gWLlg",
+      "id": "234812598",
+      "username": "RepLarryBucshon"
+    },
+    {
+      "name": "Rep. Mark Green",
+      "description": "Mark Green is a physician, businessman, and combat veteran representing Tennessee’s 7th District in Congress.",
+      "id": "1080477288955826176",
+      "username": "RepMarkGreen"
+    },
+    {
+      "name": "Congressman Drew Ferguson",
+      "description": "Proudly serving the good folks of Georgia’s Third Congressional District. @WaysandMeansGOP \u0026 @GOPDoctors Caucus member. Chief Deputy Whip for @HouseGOP.",
+      "id": "806583915012046854",
+      "username": "RepDrewFerguson"
+    },
+    {
+      "name": "Rep. Mariannette Miller-Meeks, M.D.",
+      "description": "Mom, Doctor, Veteran, and Congresswoman proudly serving Iowa\u0027s Second District | Member of @HouseVetAffairs @EdLaborGOP @HomelandGOP @SelectGOP | #FightForIowa",
+      "id": "1345807954604412929",
+      "username": "RepMMM"
+    },
+    {
+      "name": "Henry Rodgers",
+      "description": "Chief National Correspondent. @DailyCaller. Retweets Are Not Endorsements. DM For Signal. Happiest In A Duck Blind ?.",
+      "id": "4808402532",
+      "username": "henryrodgersdc"
+    },
+    {
+      "name": "Rep. Diana Harshbarger",
+      "description": "Proudly representing the great people of East Tennessee. Serving on @EdLaborGOP and @HomelandGOP.",
+      "id": "1345787285179162624",
+      "username": "RepHarshbarger"
+    },
+    {
+      "name": "Congressman Jim Hagedorn",
+      "description": "This is the official Twitter account for Congressman Jim Hagedorn, proudly representing the First District of Minnesota.",
+      "id": "1083474782602125318",
+      "username": "RepHagedorn"
+    },
+    {
+      "name": "Rep. Brad Wenstrup",
+      "description": "US Representative for the people of Ohio\u0027s 2nd District, Physician, Army Reservist, Dad, Lifelong Ohioan",
+      "id": "518644221",
+      "username": "RepBradWenstrup"
+    },
+    {
+      "name": "Joel Pollak",
+      "description": "Senior Ed-at-Large, host @BreitbartNews @SiriusXMPatriot 125, Sun 7 ET. Opinions my own. Subscribe on Locals: https://t.co/qVM9SVxQuF",
+      "id": "10292132",
+      "username": "joelpollak"
+    },
+    {
+      "name": "John Rose",
+      "description": "U.S. Representative serving Tennessee’s Sixth Congressional District. Proud husband to Chelsea and father to Guy and Sam. House @FinancialCmte Member.",
+      "id": "1081312310059253763",
+      "username": "RepJohnRose"
+    },
+    {
+      "name": "Michael Burgess, MD",
+      "description": "Congressman for Texas\u0027 26th District, M.D. (Ob/Gyn) in my former life",
+      "id": "15751083",
+      "username": "michaelcburgess"
+    },
+    {
+      "name": "GOP Doctors Caucus",
+      "description": "18 Health Care Providers Serving in Congress to Protect Patients’ Access to Care",
+      "id": "1358501532090703874",
+      "username": "GOPDoctors"
+    },
+    {
+      "name": "Rep. Ron Estes",
+      "description": "Official Twitter of Congressman Ron Estes. Proudly serving the 4th District of Kansas?#KS04",
+      "id": "854715071116849157",
+      "username": "RepRonEstes"
+    },
+    {
+      "name": "Tom Emmer",
+      "description": "Husband, father, hockey fan, and Congressman for Minnesota\u0027s 6th District.",
+      "id": "2914515430",
+      "username": "RepTomEmmer"
+    },
+    {
+      "name": "Rep. Mike Bost",
+      "description": "Proudly representing IL-12 in Congress. Lead Republican on @HouseVetAffairs \u0026 member of @TransportGOP. Find me on FB at https://t.co/KNuvZ7dbsu",
+      "id": "2964877294",
+      "username": "RepBost"
+    },
+    {
+      "name": "Frank Lucas",
+      "description": "Husband, Dad, 5th Generation Oklahoman. Ranking Member @housesciencegop. Proudly representing Oklahoma’s Third Congressional District.",
+      "id": "242772524",
+      "username": "RepFrankLucas"
+    },
+    {
+      "name": "Kayla M Schmidt",
+      "description": "@abc27news Weekend AM Anchor | AM Reporter | RTDNAC nominated |KSchmidt@abc27.com | “Life begins at the end of your comfort zone.” -Walsch Opinions are my own.",
+      "id": "1130489159137800193",
+      "username": "kaylamarie_tv"
+    },
+    {
+      "name": "Republican Cloakroom",
+      "description": "This feed provides live Floor and voting updates. Operated by the Republican Leader’s Office.",
+      "id": "1137600571",
+      "username": "RepCloakroom"
+    },
+    {
+      "name": "Office of Rep. Nicole Malliotakis",
+      "description": "Congresswoman for #NY11, former NY State Assemblymember, proud daughter of Greek \u0026 Cuban immigrants | Member of @HouseForeignGOP @TransportGOP \u0026 @SelectGOP",
+      "id": "1344750588026900481",
+      "username": "RepMalliotakis"
+    },
+    {
+      "name": "Rep. Andrew Garbarino",
+      "description": "Official Twitter account of Rep. Andrew Garbarino. Proudly representing New York\u0027s 2nd Congressional District.",
+      "id": "1344349650447433729",
+      "username": "RepGarbarino"
+    },
+    {
+      "name": "Rep. Russ Fulcher",
+      "description": "The Official Account of Idaho\u0027s First District Congressman Russ Fulcher. #ID01",
+      "id": "1078741899572240384",
+      "username": "RepRussFulcher"
+    },
+    {
+      "name": "Rep. Yvette Herrell",
+      "description": "U.S. Congresswoman for New Mexico\u0027s Second Congressional District. Member of @NatResources and @GOPoversight",
+      "id": "1344416719260016641",
+      "username": "RepHerrell"
+    },
+    {
+      "name": "Rep. Lloyd Smucker",
+      "description": "Representing the people of #PA11 in the U.S. House of Representatives. Husband \u0026 father.",
+      "id": "41417564",
+      "username": "RepSmucker"
+    },
+    {
+      "name": "Matt Rosendale",
+      "description": "Representing the State of Montana. Husband, Father, Sportsman.",
+      "id": "1344751420139040783",
+      "username": "RepRosendale"
+    },
+    {
+      "name": "RSC",
+      "description": "The Republican Study Committee (RSC) is the largest conservative caucus in the House of Representatives. Chaired by @RepJimBanks (IN-03).",
+      "id": "22528309",
+      "username": "RepublicanStudy"
+    },
+    {
+      "name": "House Committee on Veterans\u0027 Affairs GOP",
+      "description": "U.S. House of Representatives Committee on Veterans’ Affairs, Republicans | Proudly serving America\u0027s veterans and their families | Ranking Member @RepBost",
+      "id": "282093902",
+      "username": "HouseVetAffairs"
+    },
+    {
+      "name": "Rep. Victoria Spartz",
+      "description": "Representing Indiana’s 5th Congressional District",
+      "id": "1344845201479663621",
+      "username": "RepSpartz"
+    },
+    {
+      "name": "Rep. Barry Moore",
+      "description": "U.S. Representative for #AL02 Do justly. Love mercy. Walk humbly. Micah 6:8",
+      "id": "1339006078688825344",
+      "username": "RepBarryMoore"
+    },
+    {
+      "name": "Rep. Pat Fallon",
+      "description": "Proudly representing the people of Texas\u0027 4th Congressional District in the United States House of Representatives.",
+      "id": "1343258042704527362",
+      "username": "RepPatFallon"
+    },
+    {
+      "name": "Rep. Garret Graves",
+      "description": "Official Twitter Page of Congressman Garret Graves (LA06)",
+      "id": "2951574214",
+      "username": "RepGarretGraves"
+    },
+    {
+      "name": "Congresswoman Kat Cammack",
+      "description": "Member of @HouseAgGOP, @HomelandGOP, @EconomyGOP | Youngest GOP woman in 117th Congress | Proudly representing #FL03 in the U.S. House ??",
+      "id": "1344325638983987201",
+      "username": "RepKatCammack"
+    },
+    {
+      "name": "Rep. Lauren Boebert",
+      "description": "Congresswoman (CO-03) • Co-Chair #2A Caucus • Member @NatResources, @HouseBudgetGOP, and @FreedomCaucus • Vice-Chair @WesternCaucus • ??",
+      "id": "1342989756611907584",
+      "username": "RepBoebert"
+    },
+    {
+      "name": "Rep. Marjorie Taylor Greene??",
+      "description": "Christian, Mother, American, Business Owner, and Congresswoman representing Georgia’s 14th District",
+      "id": "1344356576786866176",
+      "username": "RepMTG"
+    },
+    {
+      "name": "Congressman Byron Donalds",
+      "description": "Proudly representing the people of #FL19 | Serving on the @housebudgetGOP, @GOPoversight, \u0026 @HSBCgop Committees | Comms Dir. @HarrisonWFields | Official Account",
+      "id": "1343968646050283522",
+      "username": "RepDonaldsPress"
+    },
+    {
+      "name": "Punchbowl News",
+      "description": "Subscribe at https://t.co/7flNRPLqGA Power. People. Politics. #punchbowlnews",
+      "id": "1322868572113297410",
+      "username": "PunchbowlNews"
+    },
+    {
+      "name": "Rep. Nancy Mace",
+      "description": "@WaffleHouse to #Citadel to US House. Working hard serving the Lowcountry. Ranking Member Civil Rights Committee on Oversight. #SC01 #LowcountryFirst ?????",
+      "id": "1343597700542038017",
+      "username": "RepNancyMace"
+    },
+    {
+      "name": "Ashley Hinson",
+      "description": "Proud mom and wife. Representing IA-01 in Congress and bringing a dose of Iowa common sense to Washington.\n\nFB: https://t.co/ovQqAUsFrY",
+      "id": "1340783304304410625",
+      "username": "RepAshleyHinson"
+    },
+    {
+      "name": "Erik Rosales",
+      "description": "Follower of Christ, Multiple Emmy Awards, Capitol Hill Correspondent for EWTN News Nightly - My favorite scripture - PHI 4:13 - Please follow me!",
+      "id": "854382056473800709",
+      "username": "ErikRosalesNews"
+    },
+    {
+      "name": "Rep. Ken Buck",
+      "description": "Congressman for Colorado’s 4th District. Ranking Member, Antitrust Subcommittee. Member, House Foreign Affairs Committee.",
+      "id": "2862577383",
+      "username": "RepKenBuck"
+    },
+    {
+      "name": "Jim Banks",
+      "description": "Father. Husband. US Navy/Afghanistan Veteran. Indiana Congressman.",
+      "id": "816131319033950208",
+      "username": "RepJimBanks"
+    },
+    {
+      "name": "Trump War Room",
+      "description": "This account punches back 10x harder.",
+      "id": "1108472017144201216",
+      "username": "TrumpWarRoom"
+    },
+    {
+      "name": "Laura Ingraham",
+      "description": "Mom, author, host, The Ingraham Angle, 10p ET @FoxNews. Retweets do not \u003d Endorsements",
+      "id": "50769180",
+      "username": "IngrahamAngle"
+    },
+    {
+      "name": "House Admin. Committee GOP",
+      "description": "Committee on House Administration, Republican Office - Ranking Member @RodneyDavis (R-IL) Oversight of Federal Elections \u0026 House of Representatives Operations",
+      "id": "224391627",
+      "username": "HouseAdmnGOP"
+    },
+    {
+      "name": "Rep. Tom Tiffany",
+      "description": "Official account of Congressman Tom Tiffany | 7th District of Wisconsin #WI07 Father, Former Dam Tender | @JudiciaryGOP and @NatResources",
+      "id": "1267841066335682562",
+      "username": "RepTiffany"
+    },
+    {
+      "name": "Mollie",
+      "description": "Editor-in-chief, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor. Online Safety Expert. \"Be lovers of freedom, and anxious for the fray!\"",
+      "id": "18005085",
+      "username": "MZHemingway"
+    },
+    {
+      "name": "Sean Davis",
+      "description": "CEO and Co-Founder of @FDRLST",
+      "id": "36529101",
+      "username": "seanmdav"
+    },
+    {
+      "name": "Congressman Waltz Press",
+      "description": "Official account of Congressman Mike Waltz’s press shop",
+      "id": "1082416697380913152",
+      "username": "RepWaltzPress"
+    },
+    {
+      "name": "Rep. Kevin Hern",
+      "description": "Representing Oklahoma\u0027s 1st Congressional District in Congress",
+      "id": "1067818539179024386",
+      "username": "repkevinhern"
+    },
+    {
+      "name": "Rep. Guy Reschenthaler",
+      "description": "Proudly representing the people of Pennsylvania’s 14th District in the U.S. House of Representatives ??",
+      "id": "4205133682",
+      "username": "GReschenthaler"
+    },
+    {
+      "name": "Rep. Jodey Arrington",
+      "description": "Proudly representing the good people of West Texas. Husband. Father of 3. Wreck ‘em Tech. @WaysandMeansGOP \u0026 @JECRepublicans.",
+      "id": "816284664658874368",
+      "username": "RepArrington"
+    },
+    {
+      "name": "Congressman William Timmons",
+      "description": "Congressman for Upstate SC. Member of @FinancialCmte and @ModernizeCmte. #SC04",
+      "id": "1079770852302958592",
+      "username": "RepTimmons"
+    },
+    {
+      "name": "Rep. Tim Burchett",
+      "description": "Congressman representing Tennessee\u0027s 2nd District. Husband to Kelly. Father to Isabel. Serve on Transportation \u0026 Infrastructure and Foreign Affairs committees.",
+      "id": "1028854804087492613",
+      "username": "RepTimBurchett"
+    },
+    {
+      "name": "Rep. Greg Pence",
+      "description": "Official twitter account of Congressman Greg Pence, representing #IN06. Proudly advocating for conservative Hoosier values as a member of @HouseCommerce.",
+      "id": "1082369392229400576",
+      "username": "RepGregPence"
+    },
+    {
+      "name": "Rep. Carol Miller",
+      "description": "Wife, mother, grandmother, small business owner, and bison farmer. Proudly serving West Virginia\u0027s 3rd Congressional District.",
+      "id": "1081318716573470720",
+      "username": "RepCarolMiller"
+    },
+    {
+      "name": "Congressman Greg Steube",
+      "description": "Husband, father, veteran, proudly serving Florida’s 17th District on @JudiciaryGOP and @HouseForeignGOP ?? ? ? ?",
+      "id": "1083125649609506816",
+      "username": "RepGregSteube"
+    },
+    {
+      "name": "Congressman Kelly Armstrong",
+      "description": "Lifelong North Dakotan. U.S. House of Representatives. @housecommerce committee.",
+      "id": "1080515866255593472",
+      "username": "RepArmstrongND"
+    },
+    {
+      "name": "Rep. Dan Crenshaw",
+      "description": "Proudly representing Texas\u0027s Second Congressional District",
+      "id": "1080894931311431682",
+      "username": "RepDanCrenshaw"
+    },
+    {
+      "name": "Doug Collins",
+      "description": "Husband, Father, Air Force Chaplain, Iraq Veteran, attorney. Fighting for conservative values. The Doug Collins Podcast: https://t.co/oJeycuxfln",
+      "id": "1060487274",
+      "username": "RepDougCollins"
+    },
+    {
+      "name": "sarah",
+      "description": "ncsu alumni | nc republican fundraiser | @ncgop | tweets are my own | I overshare about goldens \u0026 farm animals",
+      "id": "1156782621088780289",
+      "username": "sarahfnewby"
+    },
+    {
+      "name": "Senator John Cornyn",
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs \u003d/\u003d endorsements",
+      "id": "13218102",
+      "username": "JohnCornyn"
+    },
+    {
+      "name": "Mike Lee",
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "id": "88784440",
+      "username": "SenMikeLee"
+    },
+    {
+      "name": "John Kennedy",
+      "description": "Official account of U.S. Senator John Kennedy of Louisiana.\nFacebook: https://t.co/X7wYyW9pnx",
+      "id": "816683274076614656",
+      "username": "SenJohnKennedy"
+    },
+    {
+      "name": "Tom Cotton",
+      "description": "U.S. Senator proudly serving the state of Arkansas.",
+      "id": "968650362",
+      "username": "SenTomCotton"
+    },
+    {
+      "name": "Senator Ted Cruz",
+      "description": "Representing the State of Texas in the United States Senate.",
+      "id": "1074480192",
+      "username": "SenTedCruz"
+    },
+    {
+      "name": "Rep. Dusty Johnson",
+      "description": "South Dakota\u0027s lone U.S. Representative - husband, father, \u0026 proud South Dakotan. Member of @HouseAgGOP \u0026 @TransportGOP.",
+      "id": "1074782372594413569",
+      "username": "RepDustyJohnson"
+    },
+    {
+      "name": "Mike Pence",
+      "description": "Husband, father, 48th Vice President of the United States ??",
+      "id": "22203756",
+      "username": "Mike_Pence"
+    },
+    {
+      "name": "Chuck Fleischmann",
+      "description": "My official House office Twitter account. I work for the people of TN-03.",
+      "id": "235190657",
+      "username": "RepChuck"
+    },
+    {
+      "name": "Michael McCaul",
+      "description": "Representing the 10th District of Texas | Lead Republican of @houseforeigngop | Chairman of the @China_TaskForce",
+      "id": "26424123",
+      "username": "RepMcCaul"
+    },
+    {
+      "name": "Oversight Committee Republicans",
+      "description": "House Oversight Committee Republicans | Est. 1814 \nRanking Member @RepJamesComer",
+      "id": "22508473",
+      "username": "GOPoversight"
+    },
+    {
+      "name": "Rep. Kevin Brady",
+      "description": "Dad. Husband. Top Republican @WaysandMeansGOP. Loves: Baseball, Texas, and Tax Reform.",
+      "id": "19926675",
+      "username": "RepKevinBrady"
+    },
+    {
+      "name": "Catherine Whiteford ??",
+      "description": "??Chairwoman @NCYoungGOP\n\nInstagram: @catherineewhiteford",
+      "id": "372501912",
+      "username": "CEWhiteford"
+    },
+    {
+      "name": "NC Young Republicans",
+      "description": "Official Twitter for the NCFYR! Are you 18-40? Are you a registered Republican? Follow us \u0026 learn how you can get involved. #LeadRight Chairwoman: @CEWhiteford",
+      "id": "854363117354176512",
+      "username": "NCYoungGOP"
+    },
+    {
+      "name": "Michael Whatley",
+      "description": "Chairman of the North Carolina Republican Party",
+      "id": "1138080841618329600",
+      "username": "WhatleyNCGOP"
+    },
+    {
+      "name": "John Bresnahan",
+      "description": "Co-Founder of Punchbowl News. Yankees fan forever. john @ https://t.co/yV4Kr3yM96",
+      "id": "217550862",
+      "username": "bresreports"
+    },
+    {
+      "name": "Ann Wagner",
+      "description": "Official Twitter account for Congresswoman Ann Wagner-- proudly Representing the 2nd Congressional District of Missouri https://t.co/6TKCrqRcSw",
+      "id": "1051446626",
+      "username": "RepAnnWagner"
+    },
+    {
+      "name": "French Hill",
+      "description": "Official account of Rep. French Hill. 9th generation Arkansan. @FinancialCmte Subcommittee Ranking Member. Proudly representing AR-02.",
+      "id": "2953974395",
+      "username": "RepFrenchHill"
+    },
+    {
+      "name": "Blaine Luetkemeyer",
+      "description": "Proudly serving Missouri\u0027s 3rd Congressional District. Ranking Member on @HSBCgop and @FinancialCmte Consumer Protection \u0026 Financial Institutions Subcommittee.",
+      "id": "1849261916",
+      "username": "RepBlaine"
+    },
+    {
+      "name": "Archive: Rep. Vicky Hartzler",
+      "description": "The archived tweets of Vicky Hartzler, fmr Representative for Missouri\u0027s 4th District. This account is inactive. You can now follow Vicky at @VickyHartzlerMO.",
+      "id": "237763317",
+      "username": "RepHartzler"
+    },
+    {
+      "name": "U.S. Rep. Billy Long",
+      "description": "Representing Missouri’s 7th District in the United States Congress - Member of the House Energy and Commerce Committee",
+      "id": "1444015610",
+      "username": "USRepLong"
+    },
+    {
+      "name": "Rep. Glenn Grothman",
+      "description": "Proudly representing #WI06. Ranking Member, Subcommittee on National Security on @GOPOversight. @EDLaborGOP. @HouseBudgetGOP.",
+      "id": "2976606250",
+      "username": "RepGrothman"
+    },
+    {
+      "name": "Rep. Dan Newhouse",
+      "description": "Proud to represent Washington\u0027s 4th District in the U.S. Congress",
+      "id": "2930635215",
+      "username": "RepNewhouse"
+    },
+    {
+      "name": "Rep. Bruce Westerman",
+      "description": "Representing the 4th District of Arkansas. Husband. Father of 4. Hot Springs native. Engineer. Forester.",
+      "id": "2852998461",
+      "username": "RepWesterman"
+    },
+    {
+      "name": "Ted Yoho",
+      "description": "Representing Florida\u0027s 3rd Congressional District; large animal veterinarian; conservative business owner; Member of @HouseForeignGOP  \u0026 @HouseAgGOP Committees",
+      "id": "1071900114",
+      "username": "RepTedYoho"
+    },
+    {
+      "name": "Rep. Doug Lamborn",
+      "description": "Honored to represent Colorado\u0027s 5th District | Member of @HASCRepublicans and @NatResources | Twitter user policy: https://t.co/iJctUiREMe",
+      "id": "584012853",
+      "username": "RepDLamborn"
+    },
+    {
+      "name": "Rep. Barry Loudermilk",
+      "description": "Representing Georgia\u0027s 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+      "id": "2914163523",
+      "username": "RepLoudermilk"
+    },
+    {
+      "name": "Rep. David Schweikert",
+      "description": "Avid hiker and coffee enthusiast who is proud to represent Arizona\u0027s 6th Congressional District in the U.S. House of Representatives.",
+      "id": "229197216",
+      "username": "RepDavid"
+    },
+    {
+      "name": "Rep. Andy Harris, MD",
+      "description": "Proud to serve MD-01; Member of @HouseAppropsGOP + @FreedomCaucus; Co-chair of House Pro-Life Caucus and @GOPDoctors; Physician, Navy Vet, Father and Husband",
+      "id": "960962340",
+      "username": "RepAndyHarrisMD"
+    },
+    {
+      "name": "Buddy Carter",
+      "description": "Proudly serving Georgia\u0027s 1st Congressional District  \n      \n?Sign up for my e-newsletter?",
+      "id": "2973870195",
+      "username": "RepBuddyCarter"
+    },
+    {
+      "name": "Lee Zeldin",
+      "description": "Proudly representing New York’s 1st Congressional District. Member of House Financial Services \u0026 Foreign Affairs Committees. Lieutenant Colonel in Army Reserve.",
+      "id": "2750127259",
+      "username": "RepLeeZeldin"
+    },
+    {
+      "name": "MCAS Cherry Point",
+      "description": "Official MCAS Cherry Point page. Follow, favorite, or RT doesn\u0027t constitute endorsement.",
+      "id": "73382990",
+      "username": "MCASCPPA"
+    },
+    {
+      "name": "Camp Lejeune",
+      "description": "Home of Marine Expeditionary Forces in Readiness, Camp Lejeune is the largest Marine Corps Base on the East Coast.",
+      "id": "74503703",
+      "username": "camp_lejeune"
+    },
+    {
+      "name": "Naval Medical Center Camp Lejeune",
+      "description": "Naval Medical Center Camp Lejeune\u0027s award-winning heath care team is committed to being the medical center of the Marine Corps! Following \u0026 RTs ? endorsement.",
+      "id": "343338412",
+      "username": "NMCCLejeune"
+    },
+    {
+      "name": "Denver Riggleman",
+      "description": "Former VA Rep, USAF Intel, NSA, Data hawk, Whiskey Distiller. NY Times bestselling Author of THE BREACH and Bigfoot…It’s Complicated https://t.co/5uGLgX1lJY",
+      "id": "1080504024695222273",
+      "username": "RepRiggleman"
+    },
+    {
+      "name": "Camila Barco",
+      "description": "FSU ? Miami | CA | Reporter for KRON4",
+      "id": "449316214",
+      "username": "cbarcotv"
+    },
+    {
+      "name": "Thom Tillis",
+      "description": "Husband to Susan. Father to Lindsay and Ryan. Papa to Sawyer and Willow Rae. Senator to North Carolina.",
+      "id": "22195441",
+      "username": "ThomTillis"
+    },
+    {
+      "name": "Rep. James Comer",
+      "description": "Republican Leader on House @GOPoversight. Proudly representing Kentucky in Congress. #KY1",
+      "id": "1274852794206388225",
+      "username": "RepJamesComer"
+    },
+    {
+      "name": "Lindsey Graham",
+      "description": "The official Twitter feed for United States Senator Lindsey Graham.",
+      "id": "432895323",
+      "username": "LindseyGrahamSC"
+    },
+    {
+      "name": "Leader McConnell",
+      "description": "U.S. Senate Republican Leader Mitch McConnell\nFollow @McConnellPress \u0026 @SRCC",
+      "id": "1249982359",
+      "username": "LeaderMcConnell"
+    },
+    {
+      "name": "Senate Republicans",
+      "description": "Breaking news + behind-the-scenes updates from United States Senate Republicans and their staff.",
+      "id": "14344823",
+      "username": "SenateGOP"
+    },
+    {
+      "name": "Mark Walker",
+      "description": "Former Member of Congress and Pastor. President, Advancing Hope, USA",
+      "id": "2966205003",
+      "username": "RepMarkWalker"
+    },
+    {
+      "name": "Former Rep. George Holding",
+      "description": "This account has been archived. Rep. Holding represented NC\u0027s 13th Congressional District from Jan. 2013 - Jan. 2017 and NC\u0027s 2nd District Jan. 2017 - Jan. 2021",
+      "id": "1058460818",
+      "username": "RepHolding"
+    },
+    {
+      "name": "David Rouzer",
+      "description": "Congressman from North Carolina\u0027s 7th Congressional district",
+      "id": "834069080",
+      "username": "RepDavidRouzer"
+    },
+    {
+      "name": "Pete Kaliner",
+      "description": "WBT Radio host  |  FB: The Pete Kaliner Show  |   \nShow prep links \u0026 exclusive content: https://t.co/smWCMWCayI\nFor Booking: Pete@ThePeteKalinerShow.com",
+      "id": "69475311",
+      "username": "PeteKaliner"
+    },
+    {
+      "name": "Emily Finn",
+      "description": "@newsnation | (tune in: https://t.co/Aix3xXuRjd)",
+      "id": "1187652746",
+      "username": "EmilyRoseFinn"
+    },
+    {
+      "name": "Stephanie Myers",
+      "description": "Anchor/Reporter | A mix of political news and humor | ? | Aztec for Life",
+      "id": "2643570679",
+      "username": "_StephanieMyers"
+    },
+    {
+      "name": "GOP Doctors Caucus",
+      "description": "The caucus is comprised of 16 medical providers in Congress and led by @DrPhilRoe",
+      "id": "119899270",
+      "username": "gopdoccaucus"
+    },
+    {
+      "name": "Alice Stewart",
+      "description": "@CNN Commentator ~ @HarvardIOP Fellow Alum ~ Podcaster ~Marathoner ~ Dog mom to Sam ~ Go Dawgs! ATL??SAV??LIT??DCA Insta: @alicestewartdc",
+      "id": "27973524",
+      "username": "alicetweet"
+    },
+    {
+      "name": "John Joyce, M.D.",
+      "description": "Proudly serving Pennsylvania\u0027s 13th District in the U.S. House of Representatives.",
+      "id": "1082311988926124036",
+      "username": "RepJohnJoyce"
+    },
+    {
+      "name": "Kevin McCarthy",
+      "description": "Republican Leader and Representative of California\u0027s 23rd District in the House of Representatives.",
+      "id": "19739126",
+      "username": "GOPLeader"
+    },
+    {
+      "name": "Ways and Means GOP",
+      "description": "Official account of the Senior Committee, with jurisdiction over tax, trade, health care, welfare, and Social Security. ||  Republican Leader, @RepKevinBrady.",
+      "id": "12788332",
+      "username": "WaysandMeansGOP"
+    },
+    {
+      "name": "U.S. Marines",
+      "description": "The official Twitter account of the United States Marine Corps. \n\nThe appearance of links does not constitute endorsement.",
+      "id": "10126672",
+      "username": "USMC"
+    },
+    {
+      "name": "Dan Bishop",
+      "description": "Proud Representative of North Carolina’s 9th congressional district fighting for America, freedom \u0026 the America First agenda. ??",
+      "id": "1912799826",
+      "username": "jdanbishop"
+    },
+    {
+      "name": "Secretary Pompeo",
+      "description": "This account has been archived. You can follow former U.S. Secretary of State Mike Pompeo at @mikepompeo. For U.S. State Department updates, follow @StateDept.",
+      "id": "988573326376427520",
+      "username": "SecPompeo"
+    },
+    {
+      "name": "Virginia Foxx",
+      "description": "Congresswoman Virginia Foxx. Conservative representing North Carolina\u0027s Fifth District.",
+      "id": "16256269",
+      "username": "virginiafoxx"
+    },
+    {
+      "name": "Heidi Brock",
+      "description": "President and CEO at @forestandpaper. Passionate advocate for #sustainability #recycling. Wife. Mom. #Foodie.",
+      "id": "325534528",
+      "username": "HeidiBrockAFPA"
+    },
+    {
+      "name": "AF\u0026PA",
+      "description": "The American Forest \u0026 Paper Association (AF\u0026PA) serves to advance a sustainable U.S. pulp, paper, packaging, tissue and wood products manufacturing industry.",
+      "id": "74504563",
+      "username": "ForestandPaper"
+    },
+    {
+      "name": "Kayleigh McEnany 45 Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818927131883356161",
+      "username": "PressSec45"
+    },
+    {
+      "name": "Patrick McHenry",
+      "description": "I represent the citizens of North Carolina’s 10th District in the United States Congress.",
+      "id": "27676828",
+      "username": "PatrickMcHenry"
+    },
+    {
+      "name": "Congressman Michael Cloud",
+      "description": "Honored to represent the people of the 27th Congressional District of Texas.",
+      "id": "1039879658400112640",
+      "username": "RepCloudTX"
+    },
+    {
+      "name": "Congressman Ben Cline",
+      "description": "Representing the 6th District of Virginia. Member of @housefreedomcaucus + @HouseAppropsGOP + @housebudgetGOP Committees.",
+      "id": "1072158357237174272",
+      "username": "RepBenCline"
+    },
+    {
+      "name": "Rep. Mike Johnson",
+      "description": "Christian, husband, dad serving LA\u0027s 4th Congressional District since ‘17. Vice Chairman of House Republicans. Constitutional law attorney \u0026 small biz owner.",
+      "id": "827279765287559171",
+      "username": "RepMikeJohnson"
+    },
+    {
+      "name": "Richard Hudson",
+      "description": "Proudly representing North Carolina in the U.S. House ?? | @HouseGOP Conference Secretary \u0026 Member of @HouseCommerce",
+      "id": "935033864",
+      "username": "RepRichHudson"
+    },
+    {
+      "name": "chughes",
+      "description": "Craven County Sheriff",
+      "id": "1271040992",
+      "username": "SheriffCHughes"
+    },
+    {
+      "name": "Lt. Gov. Dan Forest",
+      "description": "The official page for Lt. Governor Dan Forest.",
+      "id": "1872523242",
+      "username": "LtGovDanForest"
+    },
+    {
+      "name": "Matt Schlapp",
+      "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on the screen, Kansas, Chair of @cpac, Co-Author The Desecrators, Go Irish, life is better on Victory Farm",
+      "id": "138809881",
+      "username": "mschlapp"
+    },
+    {
+      "name": "Amber Joseph",
+      "description": "Marketing Specialist • Journalist • Former News Anchor \u0026 Reporter • TX • GA",
+      "id": "53115955",
+      "username": "AmberJosephTV"
+    },
+    {
+      "name": "Marc Rotterman",
+      "description": "REAGAN ALUMNI, 8 YEARS HOST OF FRONT ROW...FOR  BOOKINGS CONTACT: 202-277-5309",
+      "id": "701886695025876994",
+      "username": "FrontRowmarc"
+    },
+    {
+      "name": "Daniel Stefanski",
+      "description": "Born-again Believer. Husband. Dad. Conservative. Strategic Communications for @GeneralBrnovich. Former @RepAndyBiggsAZ DCOS. @ASU grad. Tweets my own.",
+      "id": "4263722186",
+      "username": "DStefanskiAZ"
+    },
+    {
+      "name": "liberals Suck !!!",
+      "description": "",
+      "id": "727874392454238208",
+      "username": "ohwellpeople"
+    },
+    {
+      "name": "Stacia Strong",
+      "description": "Communications Director, Former News Anchor/Reporter and Proud UCF alum! Go Knights!!",
+      "id": "772642304",
+      "username": "Stacia_Strong"
+    },
+    {
+      "name": "Dr. Phil Roe",
+      "description": "Official Account of former Congressman Phil Roe, MD.",
+      "id": "52503751",
+      "username": "DrPhilRoe"
+    },
+    {
+      "name": "Katie Augustine",
+      "description": "WCBD - Charleston, SC!??? Story ideas? Send me a tip: kaugustine@wcbd.com Go Gamecocks!",
+      "id": "1087383435042267136",
+      "username": "KaugustineTV"
+    },
+    {
+      "name": "Juliegrace Brufke",
+      "description": "Capitol Hill Reporter | Belieber | RTs not endorsements.?? jbrufke@washingtonexaminer.com",
+      "id": "104797238",
+      "username": "juliegraceb"
+    },
+    {
+      "name": "Kimberly Guilfoyle",
+      "description": "Mother, Sister, Patriot, Proud American MAGA ??",
+      "id": "25101996",
+      "username": "kimguilfoyle"
+    },
+    {
+      "name": "Jim Morrill",
+      "description": "Retired political reporter for the Charlotte Observer. Proud dad of two boys. Francophile. Peace Corps-Togo. Ex-runner. #Cubs fan.",
+      "id": "23492011",
+      "username": "jimmorrill"
+    },
+    {
+      "name": "ECSU Chancellor",
+      "description": "Chief Executive Officer \u0026 Chancellor of Elizabeth City State University #VikingPride #ECSU",
+      "id": "916310357433569281",
+      "username": "DrDixonECSU"
+    },
+    {
+      "name": "Tim Burchett",
+      "description": "Married to Kelly. Father to Isabel. Congressman representing #TN02 Former @KnoxGov Mayor. Former state legislator. Fiscally conservative Republican.",
+      "id": "353890966",
+      "username": "timburchett"
+    },
+    {
+      "name": "Josh Dobson",
+      "description": "Commissioner of Labor",
+      "id": "1070043426656317440",
+      "username": "JoshDobsonNC"
+    },
+    {
+      "name": "J Mac Daughety",
+      "description": "Lenoir County, NC Commissioner - Retired Owner Executive Search Firm to the Pulp and Paper Industry and the major players in it.",
+      "id": "95254521",
+      "username": "PaperJobs"
+    },
+    {
+      "name": "Rep. Chris Humphrey",
+      "description": "NC House of Representatives. Insurance Cmte Chair. UNC \u002792. Christian. Father. Husband. Small biz owner. Eagle Scout. Master Mason. Shriner. Troll magnet.",
+      "id": "1064621478312927232",
+      "username": "RepHumphrey"
+    },
+    {
+      "name": "House Ed \u0026 Labor Republicans",
+      "description": "Fostering the best opportunities for students to learn, workers to succeed, and job creators to thrive. Republican Leader Rep. @VirginiaFoxx.",
+      "id": "16424044",
+      "username": "EdLaborGOP"
+    },
+    {
+      "name": "Sci, Space, \u0026 Tech GOP",
+      "description": "Official Twitter page of the Committee on Science, Space, and Technology Republicans. @RepFrankLucas, Ranking Member",
+      "id": "23103488",
+      "username": "housesciencegop"
+    },
+    {
+      "name": "Talk of the Town",
+      "description": "Eastern North Carolina’s source for News, Talk \u0026 Information.",
+      "id": "362529054",
+      "username": "1037WTIB"
+    },
+    {
+      "name": "Brian Murphy",
+      "description": "Sports investigative reporter @wral | Also @murphsturph | Ex @newsobserver @mcclatchydc @idahostatesman | Tips: bmurphy@wral.com",
+      "id": "2798492049",
+      "username": "MurphinNC"
+    },
+    {
+      "name": "Rep. Dan Bishop",
+      "description": "U.S. Congressman Proudly Representing the Eighth District of North Carolina",
+      "id": "1176522535531360257",
+      "username": "RepDanBishop"
+    },
+    {
+      "name": "Patrick Johnson",
+      "description": "As seen on @espnplus, @wearesinclair, @accnetworkextra \u0026 @hgtv\u0027s #BeachfrontBargainHunt. As heard on @1037wtib (7-9 am M-F), @943TheGame (5-6 pm M-F).",
+      "id": "20133322",
+      "username": "pmanonair"
+    },
+    {
+      "name": "Dave Jordan",
+      "description": "5:30, 6:00 \u0026 11:00 pm weekday anchor.",
+      "id": "258118514",
+      "username": "DaveJordanWITN"
+    },
+    {
+      "name": "Rep. Ralph Norman",
+      "description": "Proudly serving the 5th congressional district of South Carolina ? - Chairman @House_COS",
+      "id": "880480631108644864",
+      "username": "RepRalphNorman"
+    },
+    {
+      "name": "House Freedom Caucus",
+      "description": "We support open, accountable \u0026 limited govt, the Constitution \u0026 the rule of law, and policies that promote the liberty, safety \u0026 prosperity of all Americans.",
+      "id": "2990729241",
+      "username": "freedomcaucus"
+    },
+    {
+      "name": "Rep. Jeff Duncan",
+      "description": "Christian, husband, father, \u0026 small business owner. Lover of football \u0026 the outdoors. Employee for the people of #SC03 ? Instagram: https://t.co/FHO3ywu4Hq",
+      "id": "240393970",
+      "username": "RepJeffDuncan"
+    },
+    {
+      "name": "toddstarnes",
+      "description": "Host of The Todd Starnes Show - weekdays at noon. Owner of https://t.co/ky9TupPI2l - a trusted source for conservative news.",
+      "id": "15515169",
+      "username": "toddstarnes"
+    },
+    {
+      "name": "Congresswoman Debbie Lesko",
+      "description": "Proudly representing Arizona\u0027s 8th Congressional District in Congress. Member of @HouseCommerce. #AZ08",
+      "id": "996094929733652481",
+      "username": "RepDLesko"
+    },
+    {
+      "name": "Chad Pergram",
+      "description": "Chad Pergram is the Senior Congressional Correspondent for Fox News. He\u0027s won an Edward R. Murrow Award \u0026 is a two-time recipient of the Joan Barone Award.",
+      "id": "16187637",
+      "username": "ChadPergram"
+    },
+    {
+      "name": "Rep. Matt Gaetz",
+      "description": "Official Twitter for Congressman Matt Gaetz. Proud conservative who is honored to serve the First District of Florida.",
+      "id": "818948638890217473",
+      "username": "RepMattGaetz"
+    },
+    {
+      "name": "Congressman Ted Budd",
+      "description": "Proudly serving the 13th district of North Carolina. Instagram: reptedbudd",
+      "id": "817138492614524928",
+      "username": "RepTedBudd"
+    },
+    {
+      "name": "NC Farm Bureau",
+      "description": "North Carolina\u0027s largest general farm organization. N.C. Farm Bureau is a grassroots organization, serving as a legislative advocate for our members.",
+      "id": "257041027",
+      "username": "NCFarmBureau"
+    },
+    {
+      "name": "UNC Federal Affairs",
+      "description": "The Office of Federal Affairs represents the interests of the University of North Carolina at Chapel Hill in Washington, DC. Follow us for Hill to Hill tweets!",
+      "id": "833936678",
+      "username": "UNCFedAffairs"
+    },
+    {
+      "name": "WNCT",
+      "description": "9 On Your Side is ENC’s source for local news, Storm Team 9 weather, politics, ECU \u0026 local sports, social media and more.",
+      "id": "61275243",
+      "username": "wnct9"
+    },
+    {
+      "name": "NewsChannel 12",
+      "description": "Headlines for WCTI NewsChannel 12.",
+      "id": "154228309",
+      "username": "wcti12"
+    },
+    {
+      "name": "Nick Sinopoli",
+      "description": "NCSU 19",
+      "id": "2431179300",
+      "username": "Sinopoli_Nick"
+    },
+    {
+      "name": "Steve Scalise",
+      "description": "House Republican Whip. Dad. LSU \u0026 Saints fan. Proudly representing Louisiana’s First District.",
+      "id": "1209417007",
+      "username": "SteveScalise"
+    },
+    {
+      "name": "Dillon Huffman",
+      "description": "Public Information Officer, Anxious Millennial Cowboy. Philippians 4:13. @LSU student. Former #TVNews anchor. Western NC native. ?? Views are my own.",
+      "id": "1232592044",
+      "username": "DillonHuffmanTV"
+    },
+    {
+      "name": "Alana Austin",
+      "description": "Washington Correspondent for @GrayDCnews covering the White House \u0026 Congress for 91 TV markets",
+      "id": "132254964",
+      "username": "alana_austin"
+    },
+    {
+      "name": "Heritage Action",
+      "description": "The grassroots conservatives working for better policies in Congress \u0026 across the states.\nAffiliated with @heritage. RTs ? endorsements. Text ACTION to 51776.",
+      "id": "130600206",
+      "username": "Heritage_Action"
+    },
+    {
+      "name": "Rep. John Bell",
+      "description": "The House Majority Leader in the North Carolina House of Representatives. Proudly serving the people of NC House District 10. #ncga #ncgop #nchouse10",
+      "id": "53118819",
+      "username": "JohnBellNC"
+    },
+    {
+      "name": "Senator Thom Tillis",
+      "description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+      "id": "2964174789",
+      "username": "SenThomTillis"
+    },
+    {
+      "name": "Vice President Mike Pence Archived",
+      "description": "This is an archive of a Trump Administration account, maintained by the National Archives and Records Administration.",
+      "id": "818910970567344128",
+      "username": "VP45"
+    },
+    {
+      "name": "Tim Boyum",
+      "description": "3x Emmy Award-Winning Journalist on Spectrum News 1 in NC. Nightly: @nccaptonight #ncpol Weekly: Tying It Together #podcast Monthly: Front Porch Politics",
+      "id": "18089641",
+      "username": "TimBoyumTV"
+    },
+    {
+      "name": "Kevin Frey",
+      "description": "Washington Correspondent, @NY1 + Spectrum News | Covering NY\u0027s leaders in DC | @SMPAGWU alum | Part-time chorister | Kevin.Frey@charter.com",
+      "id": "232250242",
+      "username": "KevinFreyTV"
+    },
+    {
+      "name": "RepScottPerry",
+      "description": "Husband, Father of two young daughters, Small Businessman and Soldier. Congressman - 10th District (PA).",
+      "id": "18773159",
+      "username": "RepScottPerry"
+    },
+    {
+      "name": "Rep Andy Biggs",
+      "description": "Representing Arizona\u0027s Fighting Fifth.",
+      "id": "816652616625168388",
+      "username": "RepAndyBiggsAZ"
+    },
+    {
+      "name": "Rep. Jody Hice",
+      "description": "Proudly serving Georgia\u0027s 10th District. @GOPOversight Government Operations Subcommittee Ranking Member. @freedomcaucus always.",
+      "id": "2975091705",
+      "username": "CongressmanHice"
+    },
+    {
+      "name": "Rep. Chip Roy Press Office",
+      "description": "This is a staff account to provide updates to our constituents in Texas\u0027 21st District.",
+      "id": "1082790600292925440",
+      "username": "RepChipRoy"
+    },
+    {
+      "name": "Mike Joyce",
+      "description": "Opinions are mine, RT’s are yours.",
+      "id": "921024421128736774",
+      "username": "mjoyce317"
+    },
+    {
+      "name": "Rep. Paul Gosar, DDS",
+      "description": "Representing AZ’s 4th District",
+      "id": "240760644",
+      "username": "RepGosar"
+    },
+    {
+      "name": "Jonah Kaplan",
+      "description": "Dad, husband, rabbis’ son (yes, plural), @wcco investigative journalist. Big fan of Philly sports, soft pretzels \u0026 kosher restaurants.",
+      "id": "1904139295",
+      "username": "JonahPKaplan"
+    },
+    {
+      "name": "House Republicans",
+      "description": "We are the Republican Conference in the United States House of Representatives ??",
+      "id": "15207668",
+      "username": "HouseGOP"
+    },
+    {
+      "name": "Rep. Jim Jordan",
+      "description": "Proudly serving Ohio\u0027s beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "id": "18166778",
+      "username": "Jim_Jordan"
+    },
+    {
+      "name": "Mark Meadows",
+      "description": "Senior Partner: @CPInst | Board: @America1stLegal | Former WHCOS for @POTUS45 and Former Congressman for NC-11",
+      "id": "963480595",
+      "username": "MarkMeadows"
+    },
+    {
+      "name": "Donald J. Trump",
+      "description": "45th President of the United States of America??",
+      "id": "25073877",
+      "username": "realDonaldTrump"
+    },
+    {
+      "name": "NCGOP",
+      "description": "The official Twitter account of the North Carolina Republican Party. #ncgop",
+      "id": "14335435",
+      "username": "NCGOP"
+    },
+    {
+      "name": "Wayne King",
+      "description": "Government Relations • Alum @MarkMeadows \u0026 @RepGregMurphy • Former Vice-Chairman @NCGOP • Views \u003d my own",
+      "id": "248820306",
+      "username": "TheWayneKing"
+    }
+  ],
+  "id": "1173978070535024642",
+  "username": "RepGregMurphy"
+}
