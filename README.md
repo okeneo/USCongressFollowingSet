@@ -1,6 +1,6 @@
 # Description
 
-**This project is used by Dr. Akcora for Graph Neural Network research**.\
+**This project is used by [Dr. Akcora](https://cakcora.github.io/) for Graph Neural Network research**.\
 \
 V0.1 and V0.2 store information (in a JSON string) on all the Twitter accounts followed by each US Congress member. "handles_party.txt" stores
 the official Twitter handles of all US Congress memebers and their associated parties.
